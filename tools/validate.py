@@ -30,7 +30,7 @@ DISCIPLINES = {d[0] for d in TAX.get("disciplines", [])}
 KINDS = {k[0] for k in TAX["kinds"]}
 COLLECTIONS = {c["id"] for c in TAX.get("collections", [])} | {
     c["id"] for f in (ROOT / "data" / "collections" / "defs").glob("*.json") for c in json.loads(f.read_text())}
-LEGACY = {("robot", "object"): ("chair", "object")}  # moved categories: (old field, old sub) -> (new field, new sub)
+LEGACY = {("robot", "object"): ("chair", "object"), ("robot", "machine-senses"): ("ai", "model-perception")}  # moved categories: (old field, old sub) -> (new field, new sub)
 CJK = re.compile(r"[㐀-鿿]")
 
 WORK_EN = ("title", "description", "idea_en", "method")

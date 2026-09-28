@@ -383,11 +383,43 @@
     ]
    },
    {
+    "id": "ai",
+    "en": "Becoming AI",
+    "zh": "成为 AI",
+    "short_en": "AI",
+    "short_zh": "AI",
+    "desc_en": "Machinic minds: perceiving as a neural network, acting as an AI agent, dissolving into data and networks — without pretending a model has a human inner life.",
+    "desc_zh": "机器的心智：像神经网络那样感知、作为 AI 代理行动、融入数据与网络——但不假装模型拥有人类的内在体验。",
+    "subs": [
+     {
+      "id": "model-perception",
+      "en": "Seeing as a model",
+      "zh": "像模型一样感知",
+      "desc_en": "Perceiving the world through classification, point clouds, latent spaces and machine vision.",
+      "desc_zh": "通过分类、点云、潜在空间与机器视觉感知世界。"
+     },
+     {
+      "id": "agent",
+      "en": "Being an AI agent",
+      "zh": "成为 AI 代理",
+      "desc_en": "Taking the position of an assistant, chatbot, recommender or autonomous agent.",
+      "desc_zh": "处在助手、聊天机器人、推荐系统或自主代理的位置上。"
+     },
+     {
+      "id": "data-network",
+      "en": "Data & networks",
+      "zh": "数据与网络",
+      "desc_en": "Becoming data, a signal, a network or an infrastructure.",
+      "desc_zh": "成为数据、信号、网络或基础设施。"
+     }
+    ]
+   },
+   {
     "id": "robot",
     "en": "Becoming Robot",
     "zh": "成为机器人",
-    "desc_en": "Machinic worlds: robot and drone bodies, AI and machine perception, and cyborg senses.",
-    "desc_zh": "机器的世界：机器人与无人机的身体、AI 与机器感知，以及赛博格感官。",
+    "desc_en": "Robotic worlds: robot, drone and vehicle bodies, telepresence, and cyborg senses.",
+    "desc_zh": "机器人的世界：机器人、无人机与载具的身体、远程临场，以及赛博格感官。",
     "subs": [
      {
       "id": "robot-body",
@@ -395,13 +427,6 @@
       "zh": "机器人与无人机身体",
       "desc_en": "Embodying a robot, a drone or a vehicle from the inside.",
       "desc_zh": "从内部成为一个机器人、一架无人机或一辆载具。"
-     },
-     {
-      "id": "machine-senses",
-      "en": "AI & machine perception",
-      "zh": "AI 与机器感知",
-      "desc_en": "Seeing and hearing as neural networks, sensors and algorithms do.",
-      "desc_zh": "像神经网络、传感器与算法那样看和听。"
      },
      {
       "id": "cyborg",
@@ -7490,8 +7515,8 @@
    ],
    "title": "City of Sparkles",
    "year": 2019,
-   "field": "robot",
-   "sub": "machine-senses",
+   "field": "ai",
+   "sub": "model-perception",
    "senses": [
     "vision",
     "time-scale"
@@ -8612,8 +8637,8 @@
    ],
    "title": "Hallucination Machine",
    "year": 2017,
-   "field": "robot",
-   "sub": "machine-senses",
+   "field": "ai",
+   "sub": "model-perception",
    "senses": [
     "vision"
    ],
@@ -10353,8 +10378,8 @@
    ],
    "title": "Floating Eye",
    "year": 2000,
-   "field": "robot",
-   "sub": "machine-senses",
+   "field": "ai",
+   "sub": "model-perception",
    "also": [
     "bird"
    ],

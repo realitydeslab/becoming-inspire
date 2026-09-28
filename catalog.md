@@ -1197,9 +1197,43 @@ Being a chair, a table, a bed: bearing weight, waiting, being sat on.
 - Images: https://ars.electronica.art/who-owns-the-truth/files/2023/08/53171000244_5d3ded64c4_k-1499x1000.jpg https://ars.electronica.art/who-owns-the-truth/files/2023/08/unconventional-selfwerner-van-der-zwan_charl-linssen-1.jpg https://freight.cargo.site/w/1100/i/V2167003497395615679433510820540/WhatsApp-Image-2024-10-02-at-12.30.52.jpeg
 - Project page: https://ververwant.nl/Unconventional-Self
 
+## Becoming AI
+
+Machinic minds: perceiving as a neural network, acting as an AI agent, dissolving into data and networks — without pretending a model has a human inner life.
+
+### Seeing as a model
+
+Perceiving the world through classification, point clouds, latent spaces and machine vision.
+
+#### City of Sparkles — Botao 'Amber' Hu, Reality Design Lab (2019)
+- Type: Artwork · Senses: Altered vision, Time & scale · Medium: VR headset
+- Shown at: SIGGRAPH 2019 Immersive Pavilion; New Media Film Festival 2019; DTLA Film Festival 2019; IEEE VR 2025 XR Gallery; ISEA 2025 Seoul
+- Idea: Embodying an AI means perceiving a city as sampled, clustered traces of people rather than as streets and buildings.
+- What it is: A VR flight through New York rebuilt from four years of geotagged tweets, seen from the perspective of an AI that lives in a sea of human memory fragments; later rebuilt for Apple Vision Pro with bare-hand flying.
+- How it works: Unity point-cloud city built from photogrammetry and geotagged Twitter data with sentiment-mapped colour and motion; first HTC Vive, later Apple Vision Pro hand tracking, with adaptive music.
+- Paper: https://doi.org/10.1145/3757369.3767604 (SIGGRAPH Asia 2025 Art Papers)
+- Video: https://vimeo.com/777136892
+- Images: https://reality.design/media/_resources/City%20Of%20Sparkles/project-city-of-sparkles-cover-01.jpg https://reality.design/media/_resources/City%20Of%20Sparkles/project-city-of-sparkles-figure-01.jpg https://arxiv.org/html/2511.12533v3/images/cityofsparkles.jpg
+- Project page: https://reality.design/project/city-of-sparkles
+
+#### Hallucination Machine — Keisuke Suzuki, Anil Seth (2017)
+- Type: Paper · Senses: Altered vision · Medium: VR headset, 360° / immersive film
+- Idea: Seeing through a neural network's learned features feels like a psychedelic trip: machine perception made embodied.
+- What it is: A VR platform that plays 360° video of a university campus processed by Deep Dream, letting people walk through the world as a neural network hallucinates it.
+- How it works: Panoramic video was processed frame by frame with Deep Dream and shown in a head-mounted display; participants rated altered experience against psilocybin reports.
+- Paper: https://doi.org/10.1038/s41598-017-16316-2 (Scientific Reports 2017)
+- Video: https://www.youtube.com/watch?v=Clk4rAj6YuY
+
+#### Floating Eye — Hiroo Iwata (2000)
+- Type: Artwork · Senses: Altered vision, Body schema & movement · Medium: Wearable & sensory device, Multisensory installation
+- Idea: Vision is handed to a floating machine: you steer your body from a bird's- or drone's-eye position outside it.
+- What it is: A camera hangs from a small blimp floating above the participant, who wears a dome-shaped display and walks while seeing only the blimp's wide-angle view, looking down on their own body.
+- How it works: Helium blimp tethered to the participant carries a wide-angle camera whose video is shown in a head-worn hemispherical screen.
+- Video: https://www.youtube.com/watch?v=In-M1eVAnYc
+
 ## Becoming Robot
 
-Machinic worlds: robot and drone bodies, AI and machine perception, and cyborg senses.
+Robotic worlds: robot, drone and vehicle bodies, telepresence, and cyborg senses.
 
 ### Robot & drone bodies
 
@@ -1307,36 +1341,6 @@ Embodying a robot, a drone or a vehicle from the inside.
 - How it works: Stereo cameras in the robot macaw's eyes were slaved to the visitor's head movements in a VR headset; the stream and a microphone channel were shared online.
 - Images: https://www.ekac.org/rara.avis.jpg
 - Project page: https://www.ekac.org/raraavis.html
-
-### AI & machine perception
-
-Seeing and hearing as neural networks, sensors and algorithms do.
-
-#### City of Sparkles — Botao 'Amber' Hu, Reality Design Lab (2019)
-- Type: Artwork · Senses: Altered vision, Time & scale · Medium: VR headset
-- Shown at: SIGGRAPH 2019 Immersive Pavilion; New Media Film Festival 2019; DTLA Film Festival 2019; IEEE VR 2025 XR Gallery; ISEA 2025 Seoul
-- Idea: Embodying an AI means perceiving a city as sampled, clustered traces of people rather than as streets and buildings.
-- What it is: A VR flight through New York rebuilt from four years of geotagged tweets, seen from the perspective of an AI that lives in a sea of human memory fragments; later rebuilt for Apple Vision Pro with bare-hand flying.
-- How it works: Unity point-cloud city built from photogrammetry and geotagged Twitter data with sentiment-mapped colour and motion; first HTC Vive, later Apple Vision Pro hand tracking, with adaptive music.
-- Paper: https://doi.org/10.1145/3757369.3767604 (SIGGRAPH Asia 2025 Art Papers)
-- Video: https://vimeo.com/777136892
-- Images: https://reality.design/media/_resources/City%20Of%20Sparkles/project-city-of-sparkles-cover-01.jpg https://reality.design/media/_resources/City%20Of%20Sparkles/project-city-of-sparkles-figure-01.jpg https://arxiv.org/html/2511.12533v3/images/cityofsparkles.jpg
-- Project page: https://reality.design/project/city-of-sparkles
-
-#### Hallucination Machine — Keisuke Suzuki, Anil Seth (2017)
-- Type: Paper · Senses: Altered vision · Medium: VR headset, 360° / immersive film
-- Idea: Seeing through a neural network's learned features feels like a psychedelic trip: machine perception made embodied.
-- What it is: A VR platform that plays 360° video of a university campus processed by Deep Dream, letting people walk through the world as a neural network hallucinates it.
-- How it works: Panoramic video was processed frame by frame with Deep Dream and shown in a head-mounted display; participants rated altered experience against psilocybin reports.
-- Paper: https://doi.org/10.1038/s41598-017-16316-2 (Scientific Reports 2017)
-- Video: https://www.youtube.com/watch?v=Clk4rAj6YuY
-
-#### Floating Eye — Hiroo Iwata (2000)
-- Type: Artwork · Senses: Altered vision, Body schema & movement · Medium: Wearable & sensory device, Multisensory installation
-- Idea: Vision is handed to a floating machine: you steer your body from a bird's- or drone's-eye position outside it.
-- What it is: A camera hangs from a small blimp floating above the participant, who wears a dome-shaped display and walks while seeing only the blimp's wide-angle view, looking down on their own body.
-- How it works: Helium blimp tethered to the participant carries a wide-angle camera whose video is shown in a head-worn hemispherical screen.
-- Video: https://www.youtube.com/watch?v=In-M1eVAnYc
 
 ## Creators
 

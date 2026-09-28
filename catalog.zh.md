@@ -1197,9 +1197,43 @@ https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作�
 - 图片: https://ars.electronica.art/who-owns-the-truth/files/2023/08/53171000244_5d3ded64c4_k-1499x1000.jpg https://ars.electronica.art/who-owns-the-truth/files/2023/08/unconventional-selfwerner-van-der-zwan_charl-linssen-1.jpg https://freight.cargo.site/w/1100/i/V2167003497395615679433510820540/WhatsApp-Image-2024-10-02-at-12.30.52.jpeg
 - 项目主页: https://ververwant.nl/Unconventional-Self
 
+## 成为 AI
+
+机器的心智：像神经网络那样感知、作为 AI 代理行动、融入数据与网络——但不假装模型拥有人类的内在体验。
+
+### 像模型一样感知
+
+通过分类、点云、潜在空间与机器视觉感知世界。
+
+#### City of Sparkles — Botao 'Amber' Hu, Reality Design Lab (2019)
+- 类型: 艺术作品 · 感官: 改变的视觉, 时间与尺度 · 媒介: VR 头显
+- 展出于: SIGGRAPH 2019 Immersive Pavilion; New Media Film Festival 2019; DTLA Film Festival 2019; IEEE VR 2025 XR Gallery; ISEA 2025 Seoul
+- 核心想法: 化身 AI，就是把城市感知为被采样、聚类的人的痕迹，而非街道与建筑。
+- 作品内容: 一次穿越纽约的 VR 飞行：城市由四年的带地理标记推文重建，从一个栖居于人类记忆碎片之海的 AI 的视角观看；后以 Apple Vision Pro 与徒手飞行交互重制。
+- 实现方式: Unity 点云城市由摄影测量与带地理标记的 Twitter 数据构建，颜色与运动映射情绪；最初用 HTC Vive，后用 Apple Vision Pro 手势追踪，配以自适应音乐。
+- 论文: https://doi.org/10.1145/3757369.3767604 (SIGGRAPH Asia 2025 Art Papers)
+- 视频: https://vimeo.com/777136892
+- 图片: https://reality.design/media/_resources/City%20Of%20Sparkles/project-city-of-sparkles-cover-01.jpg https://reality.design/media/_resources/City%20Of%20Sparkles/project-city-of-sparkles-figure-01.jpg https://arxiv.org/html/2511.12533v3/images/cityofsparkles.jpg
+- 项目主页: https://reality.design/project/city-of-sparkles
+
+#### Hallucination Machine — Keisuke Suzuki, Anil Seth (2017)
+- 类型: 论文 · 感官: 改变的视觉 · 媒介: VR 头显, 360°/沉浸式影片
+- 核心想法: 透过神经网络学到的特征去看，感觉就像迷幻体验：机器感知被身体化。
+- 作品内容: 一个 VR 平台，播放经 Deep Dream 处理的大学校园 360° 影像，让人在神经网络“幻觉”出的世界中漫步。
+- 实现方式: 全景视频逐帧经 Deep Dream 处理后在头显中播放；参与者对改变的体验进行评分，并与裸盖菇素体验报告比较。
+- 论文: https://doi.org/10.1038/s41598-017-16316-2 (Scientific Reports 2017)
+- 视频: https://www.youtube.com/watch?v=Clk4rAj6YuY
+
+#### Floating Eye — Hiroo Iwata (2000)
+- 类型: 艺术作品 · 感官: 改变的视觉, 身体图式与运动 · 媒介: 可穿戴与感官装置, 多感官装置
+- 核心想法: 视觉交给一台漂浮的机器：你从身体之外、鸟或无人机的位置操控自己的身体。
+- 作品内容: 一台摄像机挂在参与者头顶上方漂浮的小飞艇上，参与者戴着穹顶形显示器行走，只能看到飞艇的广角画面，从上方俯视自己的身体。
+- 实现方式: 拴在参与者身上的氦气飞艇携带广角摄像机，画面显示在头戴式半球屏上。
+- 视频: https://www.youtube.com/watch?v=In-M1eVAnYc
+
 ## 成为机器人
 
-机器的世界：机器人与无人机的身体、AI 与机器感知，以及赛博格感官。
+机器人的世界：机器人、无人机与载具的身体、远程临场，以及赛博格感官。
 
 ### 机器人与无人机身体
 
@@ -1307,36 +1341,6 @@ https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作�
 - 实现方式: 机器鹦鹉眼中的立体摄像头跟随观众在 VR 头显中的头部运动；画面和麦克风通道同时在网上共享。
 - 图片: https://www.ekac.org/rara.avis.jpg
 - 项目主页: https://www.ekac.org/raraavis.html
-
-### AI 与机器感知
-
-像神经网络、传感器与算法那样看和听。
-
-#### City of Sparkles — Botao 'Amber' Hu, Reality Design Lab (2019)
-- 类型: 艺术作品 · 感官: 改变的视觉, 时间与尺度 · 媒介: VR 头显
-- 展出于: SIGGRAPH 2019 Immersive Pavilion; New Media Film Festival 2019; DTLA Film Festival 2019; IEEE VR 2025 XR Gallery; ISEA 2025 Seoul
-- 核心想法: 化身 AI，就是把城市感知为被采样、聚类的人的痕迹，而非街道与建筑。
-- 作品内容: 一次穿越纽约的 VR 飞行：城市由四年的带地理标记推文重建，从一个栖居于人类记忆碎片之海的 AI 的视角观看；后以 Apple Vision Pro 与徒手飞行交互重制。
-- 实现方式: Unity 点云城市由摄影测量与带地理标记的 Twitter 数据构建，颜色与运动映射情绪；最初用 HTC Vive，后用 Apple Vision Pro 手势追踪，配以自适应音乐。
-- 论文: https://doi.org/10.1145/3757369.3767604 (SIGGRAPH Asia 2025 Art Papers)
-- 视频: https://vimeo.com/777136892
-- 图片: https://reality.design/media/_resources/City%20Of%20Sparkles/project-city-of-sparkles-cover-01.jpg https://reality.design/media/_resources/City%20Of%20Sparkles/project-city-of-sparkles-figure-01.jpg https://arxiv.org/html/2511.12533v3/images/cityofsparkles.jpg
-- 项目主页: https://reality.design/project/city-of-sparkles
-
-#### Hallucination Machine — Keisuke Suzuki, Anil Seth (2017)
-- 类型: 论文 · 感官: 改变的视觉 · 媒介: VR 头显, 360°/沉浸式影片
-- 核心想法: 透过神经网络学到的特征去看，感觉就像迷幻体验：机器感知被身体化。
-- 作品内容: 一个 VR 平台，播放经 Deep Dream 处理的大学校园 360° 影像，让人在神经网络“幻觉”出的世界中漫步。
-- 实现方式: 全景视频逐帧经 Deep Dream 处理后在头显中播放；参与者对改变的体验进行评分，并与裸盖菇素体验报告比较。
-- 论文: https://doi.org/10.1038/s41598-017-16316-2 (Scientific Reports 2017)
-- 视频: https://www.youtube.com/watch?v=Clk4rAj6YuY
-
-#### Floating Eye — Hiroo Iwata (2000)
-- 类型: 艺术作品 · 感官: 改变的视觉, 身体图式与运动 · 媒介: 可穿戴与感官装置, 多感官装置
-- 核心想法: 视觉交给一台漂浮的机器：你从身体之外、鸟或无人机的位置操控自己的身体。
-- 作品内容: 一台摄像机挂在参与者头顶上方漂浮的小飞艇上，参与者戴着穹顶形显示器行走，只能看到飞艇的广角画面，从上方俯视自己的身体。
-- 实现方式: 拴在参与者身上的氦气飞艇携带广角摄像机，画面显示在头戴式半球屏上。
-- 视频: https://www.youtube.com/watch?v=In-M1eVAnYc
 
 ## 创作者
 

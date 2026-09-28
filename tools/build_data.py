@@ -38,7 +38,7 @@ SCOPE = ROOT / "data" / "scope"            # curation: { work_id: "core" | "out"
 RELATION = ROOT / "data" / "relation"      # curation: { work_id: "becoming" | "encounter" | "counterpoint" }
 DISCIPLINE = ROOT / "data" / "discipline"  # optional curation: { creator_id: [discipline ids] }, wins over batch values
 # categories that moved: old (field, sub) -> new; overrides.patch_works refines the sub
-LEGACY = {("robot", "object"): ("chair", "object")}  # moved categories: (old field, old sub) -> (new field, new sub)
+LEGACY = {("robot", "object"): ("chair", "object"), ("robot", "machine-senses"): ("ai", "model-perception")}  # moved categories: (old field, old sub) -> (new field, new sub)
 
 
 def _check_mp4(url: str) -> dict:

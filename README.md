@@ -8,7 +8,7 @@ Built by [Reality Design Lab](https://reality.design) as research material for t
 
 ## What's inside
 
-- **Atlas**: twelve becomings, following the book's chapters.
+- **Atlas**: the becomings, following the book's chapters.
   - Becoming Mole: touch-first worlds, underground life, reduced sight.
   - Becoming Bat: echolocation, sonic umwelten.
   - Becoming Fish: fish, whales and dolphins, reefs and plankton.
@@ -19,7 +19,9 @@ Built by [Reality Design Lab](https://reality.design) as research material for t
   - Becoming Fungi: mycelium, slime mould, microbes, symbiosis.
   - Becoming Tree: trees, plants, forests.
   - Becoming River: water, air and breath, rock and deep time, planets.
-  - Becoming Robot: robot and drone bodies, machine perception, objects, cyborg senses.
+  - Becoming Chair: furniture, objects and things.
+  - Becoming AI: seeing as a model, being an AI agent, data and networks.
+  - Becoming Robot: robot, drone and vehicle bodies, telepresence, cyborg senses.
   - Foundations: theory, embodiment science, surveys, critique, methods.
 - **All works**: filter by becoming, sense (echolocation, touch, magnetic sense, time and scale, …), medium (VR, AR, MR, dome, installation, wearable, spatial audio, game, performance), type, collection and era. Includes full-text search.
 - **Collections**: the book's portfolio and its named counterpoints, festival line-ups (Venice Immersive, Sundance New Frontier, Tribeca, IDFA DocLab, Ars Electronica, …), exhibitions and survey corpora.
