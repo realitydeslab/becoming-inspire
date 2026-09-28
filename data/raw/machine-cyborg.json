@@ -1,0 +1,3507 @@
+{
+ "batch": "machine-cyborg",
+ "creators": [
+  {
+   "id": "stelarc",
+   "name": "Stelarc",
+   "kind": "person",
+   "role": "Performance artist",
+   "role_zh": "行为艺术家",
+   "based": "Perth, Australia",
+   "based_zh": "珀斯，澳大利亚",
+   "bio": "Cyprus-born Australian artist who since the 1970s has extended his body with robotic hands, exoskeletons, internet-driven muscle stimulation and a cell-grown ear on his arm.",
+   "bio_zh": "出生于塞浦路斯的澳大利亚艺术家，自 1970 年代起用机械手、外骨骼、由互联网驱动的肌肉电刺激以及手臂上培养出的耳朵来延展自己的身体。",
+   "why": "The landmark cyborg artist: his performances treat the body as hardware that machines and networks can extend, share and move.",
+   "why_zh": "标志性的赛博格艺术家：他的表演把身体当作可以被机器与网络延展、共享和驱动的硬件。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://stelarc.org",
+    "youtube": "https://www.youtube.com/@stelarcvideo"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "susumu-tachi",
+   "name": "Susumu Tachi",
+   "kind": "person",
+   "role": "Roboticist, pioneer of telexistence",
+   "role_zh": "机器人学家，远程临场（telexistence）先驱",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Professor emeritus at the University of Tokyo who proposed telexistence in 1980 and led the TELESAR series of surrogate robots.",
+   "bio_zh": "东京大学名誉教授，1980 年提出 telexistence（远程临场）概念，并主持了 TELESAR 系列替身机器人。",
+   "why": "Telexistence is the engineering root of becoming a robot: feeling present inside a remote machine body.",
+   "why_zh": "远程临场是“成为机器人”的工程源头：让人感到自己就在远方的机器身体之中。",
+   "disciplines": [
+    "hci",
+    "science"
+   ],
+   "links": {
+    "site": "https://tachilab.org"
+   },
+   "connected_to": [
+    "kouta-minamizawa"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kouta-minamizawa",
+   "name": "Kouta Minamizawa",
+   "kind": "person",
+   "role": "Professor, Keio University Graduate School of Media Design (KMD)",
+   "role_zh": "庆应义塾大学媒体设计研究科（KMD）教授",
+   "based": "Yokohama, Japan",
+   "based_zh": "横滨，日本",
+   "bio": "Haptics researcher who leads the Embodied Media Project at Keio KMD, working on telexistence, haptic transmission and shared bodies.",
+   "bio_zh": "触觉研究者，主持庆应 KMD 的 Embodied Media Project，研究远程临场、触觉传输与共享身体。",
+   "why": "His lab builds the robots and haptic links through which one person can inhabit another body or machine.",
+   "why_zh": "他的实验室打造让人可以栖居于另一具身体或机器中的机器人与触觉通道。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://embodiedmedia.org"
+   },
+   "connected_to": [
+    "susumu-tachi",
+    "yamen-saraiji"
+   ],
+   "discovered_via": "susumu-tachi"
+  },
+  {
+   "id": "yamen-saraiji",
+   "name": "MHD Yamen Saraiji",
+   "kind": "person",
+   "role": "Researcher, telepresence and body augmentation",
+   "role_zh": "研究者，远程临场与身体增强",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Engineer and researcher (Keio KMD, then Sony) known for telepresence robots and supernumerary robotic arms such as Fusion and MetaArms.",
+   "bio_zh": "工程师与研究者（先后在庆应 KMD 与 Sony），以 Fusion、MetaArms 等远程临场机器人与额外机械臂闻名。",
+   "why": "Designs robot bodies that two people share, blurring whose body is whose.",
+   "why_zh": "设计由两个人共享的机器人身体，模糊“这是谁的身体”。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "kouta-minamizawa"
+   ],
+   "discovered_via": "kouta-minamizawa"
+  },
+  {
+   "id": "hiroshi-ishiguro",
+   "name": "Hiroshi Ishiguro",
+   "kind": "person",
+   "role": "Roboticist, Osaka University and ATR",
+   "role_zh": "机器人学家，大阪大学与 ATR",
+   "based": "Osaka / Kyoto, Japan",
+   "based_zh": "大阪／京都，日本",
+   "bio": "Builder of lifelike androids, including Geminoid HI-1, a teleoperated copy of himself used to study presence and body ownership.",
+   "bio_zh": "逼真仿生人的制造者，其中包括 Geminoid HI-1——他本人的遥控复制体，用于研究临场感与身体所有感。",
+   "why": "His teleoperated androids showed that operators start to feel a robot body as their own.",
+   "why_zh": "他的遥控仿生人表明，操作者会开始把机器人的身体当作自己的身体。",
+   "disciplines": [
+    "science",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.geminoid.jp"
+   },
+   "connected_to": [
+    "shuichi-nishio",
+    "maryam-alimardani"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shuichi-nishio",
+   "name": "Shuichi Nishio",
+   "kind": "person",
+   "role": "Researcher, ATR Hiroshi Ishiguro Laboratories",
+   "role_zh": "研究者，ATR 石黑浩实验室",
+   "based": "Kyoto, Japan",
+   "based_zh": "京都，日本",
+   "bio": "Researcher at ATR who led the studies on body ownership transfer to teleoperated androids.",
+   "bio_zh": "ATR 研究者，主持了遥控仿生人身体所有感转移的系列研究。",
+   "why": "First showed measurable ownership of an android body by its operators.",
+   "why_zh": "最早以可测量的方式证明操作者会对仿生人身体产生所有感。",
+   "disciplines": [
+    "science"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "hiroshi-ishiguro"
+   ],
+   "discovered_via": "hiroshi-ishiguro"
+  },
+  {
+   "id": "maryam-alimardani",
+   "name": "Maryam Alimardani",
+   "kind": "person",
+   "role": "Researcher, brain-computer interfaces and robot embodiment",
+   "role_zh": "研究者，脑机接口与机器人具身",
+   "based": "Tilburg, Netherlands",
+   "based_zh": "蒂尔堡，荷兰",
+   "bio": "Researcher who, working with Ishiguro's group, used brain-computer interfaces to let people move android hands by thought.",
+   "bio_zh": "与石黑浩团队合作的研究者，用脑机接口让人以意念驱动仿生人的手。",
+   "why": "Showed that ownership of a robot body can arise from mental control alone, without real movement.",
+   "why_zh": "证明仅凭意念控制、无需真实动作，也能产生对机器人身体的所有感。",
+   "disciplines": [
+    "science"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "hiroshi-ishiguro"
+   ],
+   "discovered_via": "hiroshi-ishiguro"
+  },
+  {
+   "id": "laura-aymerich-franch",
+   "name": "Laura Aymerich-Franch",
+   "kind": "person",
+   "role": "Researcher, humanoid robot embodiment",
+   "role_zh": "研究者，人形机器人具身",
+   "based": "Barcelona, Spain",
+   "based_zh": "巴塞罗那，西班牙",
+   "bio": "Researcher who, at the CNRS-AIST Joint Robotics Laboratory, studied how people come to feel embodied in the HRP-2 humanoid robot.",
+   "bio_zh": "曾在 CNRS-AIST 联合机器人实验室研究人们如何对 HRP-2 人形机器人产生具身感的研究者。",
+   "why": "Her studies map which features of a robot body (looks, delay, control) still allow it to feel like one's own.",
+   "why_zh": "她的研究梳理了机器人身体的哪些特征（外观、延迟、控制方式）仍能让人觉得那是自己的身体。",
+   "disciplines": [
+    "science"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "keita-higuchi",
+   "name": "Keita Higuchi",
+   "kind": "person",
+   "role": "HCI researcher",
+   "role_zh": "人机交互研究者",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Researcher who, in Jun Rekimoto's lab at the University of Tokyo, built Flying Head, a drone that follows the pilot's head.",
+   "bio_zh": "在东京大学历本纯一实验室期间制作了 Flying Head——一架跟随操作者头部运动的无人机。",
+   "why": "Made drone control a matter of moving your own body.",
+   "why_zh": "让操控无人机变成移动自己身体的事。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "jun-rekimoto"
+   ],
+   "discovered_via": "jun-rekimoto"
+  },
+  {
+   "id": "jun-rekimoto",
+   "name": "Jun Rekimoto",
+   "kind": "person",
+   "role": "Professor, University of Tokyo; Sony CSL",
+   "role_zh": "东京大学教授；Sony CSL",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "HCI researcher whose lab works on human augmentation, from drones driven by head motion to hands moved by electrical muscle stimulation.",
+   "bio_zh": "人机交互研究者，其实验室研究人类增强，从随头部运动的无人机到由肌肉电刺激驱动的手。",
+   "why": "A central lab for experiments in which body and machine control each other.",
+   "why_zh": "身体与机器互相控制的实验的重要实验室。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://lab.rekimoto.org"
+   },
+   "connected_to": [
+    "keita-higuchi",
+    "emi-tamaki"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "emi-tamaki",
+   "name": "Emi Tamaki",
+   "kind": "person",
+   "role": "HCI researcher and entrepreneur",
+   "role_zh": "人机交互研究者与创业者",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Researcher who created PossessedHand, an electrical muscle stimulation band that moves the wearer's fingers, and later founded H2L.",
+   "bio_zh": "PossessedHand（驱动佩戴者手指的肌肉电刺激臂带）的作者，后创立 H2L 公司。",
+   "why": "Her work lets a computer move the human hand from outside.",
+   "why_zh": "她的作品让计算机从外部驱动人的手。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "jun-rekimoto"
+   ],
+   "discovered_via": "jun-rekimoto"
+  },
+  {
+   "id": "epfl-lis",
+   "name": "EPFL Laboratory of Intelligent Systems",
+   "kind": "lab",
+   "role": "Robotics lab led by Dario Floreano, EPFL",
+   "role_zh": "由 Dario Floreano 领导的 EPFL 机器人实验室",
+   "based": "Lausanne, Switzerland",
+   "based_zh": "洛桑，瑞士",
+   "bio": "Robotics lab at EPFL working on flying robots, bio-inspired drones and body-machine interfaces for immersive flight.",
+   "bio_zh": "EPFL 的机器人实验室，研究飞行机器人、仿生无人机与沉浸式飞行的身体-机器接口。",
+   "why": "Built interfaces that let people fly a drone with their torso, as if it were their own body.",
+   "why_zh": "打造了让人用躯干驾驶无人机、仿佛无人机就是自己身体的接口。",
+   "disciplines": [
+    "science",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.epfl.ch/labs/lis/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yoshifumi-kitamura",
+   "name": "Yoshifumi Kitamura",
+   "kind": "person",
+   "role": "Professor, Tohoku University RIEC",
+   "role_zh": "东北大学电气通信研究所教授",
+   "based": "Sendai, Japan",
+   "based_zh": "仙台，日本",
+   "bio": "HCI researcher whose group at Tohoku University works on spatial interfaces, including drone piloting in augmented reality.",
+   "bio_zh": "人机交互研究者，其东北大学团队研究空间界面，包括增强现实中的无人机驾驶。",
+   "why": "His group explores how a remote drone pilot can feel located in the drone's surroundings.",
+   "why_zh": "他的团队探索远程无人机驾驶者如何感到自己置身于无人机周围的环境中。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ory-laboratory",
+   "name": "Ory Laboratory",
+   "kind": "company",
+   "role": "Robotics company founded by Kentaro Yoshifuji",
+   "role_zh": "吉藤健太朗创立的机器人公司",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Company behind the OriHime avatar robots, which let people who cannot leave home be present, speak and work through a robot body.",
+   "bio_zh": "OriHime 分身机器人的开发者，让无法出门的人通过机器人身体到场、说话和工作。",
+   "why": "Shows robot embodiment as everyday social presence, not a lab effect.",
+   "why_zh": "把机器人具身呈现为日常的社会在场，而不只是实验室效应。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {
+    "site": "https://orylab.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ken-goldberg",
+   "name": "Ken Goldberg",
+   "kind": "person",
+   "role": "Artist and roboticist, UC Berkeley",
+   "role_zh": "艺术家与机器人学家，加州大学伯克利分校",
+   "based": "Berkeley, USA",
+   "based_zh": "伯克利，美国",
+   "bio": "Roboticist and artist who made early internet telerobotic artworks, including the Telegarden.",
+   "bio_zh": "机器人学家兼艺术家，创作了早期的互联网远程机器人作品，包括 Telegarden。",
+   "why": "The Telegarden let thousands of people act through one robot arm to tend living plants.",
+   "why_zh": "Telegarden 让成千上万的人通过同一只机械臂照料活的植物。",
+   "disciplines": [
+    "art",
+    "science"
+   ],
+   "links": {
+    "site": "https://goldberg.berkeley.edu"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marcel-li-antunez-roca",
+   "name": "Marcel·lí Antúnez Roca",
+   "kind": "person",
+   "role": "Performance artist",
+   "role_zh": "行为艺术家",
+   "based": "Barcelona, Spain",
+   "based_zh": "巴塞罗那，西班牙",
+   "bio": "Catalan artist, co-founder of La Fura dels Baus, known for mechatronic performances with exoskeletons and body interfaces.",
+   "bio_zh": "加泰罗尼亚艺术家，La Fura dels Baus 创始成员之一，以外骨骼与身体接口的机电表演闻名。",
+   "why": "In Epizoo the audience operates his body like a machine.",
+   "why_zh": "在 Epizoo 中，观众像操作机器一样操作他的身体。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.marceliantunez.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "louis-philippe-demers",
+   "name": "Louis-Philippe Demers",
+   "kind": "person",
+   "role": "Artist, robotic performance",
+   "role_zh": "艺术家，机器人表演",
+   "based": "Montreal, Canada",
+   "based_zh": "蒙特利尔，加拿大",
+   "bio": "Artist who builds large robotic installations and performances, often with Bill Vorn.",
+   "bio_zh": "创作大型机器人装置与表演的艺术家，常与 Bill Vorn 合作。",
+   "why": "Puts audiences inside robotic exoskeletons so they are moved by the machine.",
+   "why_zh": "让观众穿上机器人外骨骼，被机器带着动。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "bill-vorn"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bill-vorn",
+   "name": "Bill Vorn",
+   "kind": "person",
+   "role": "Artist, robotic art",
+   "role_zh": "艺术家，机器人艺术",
+   "based": "Montreal, Canada",
+   "based_zh": "蒙特利尔，加拿大",
+   "bio": "Artist and professor at Concordia University who makes robotic installations and performances.",
+   "bio_zh": "康考迪亚大学教授，创作机器人装置与表演的艺术家。",
+   "why": "Co-creator of Inferno, a participatory performance with robotic exoskeletons.",
+   "why_zh": "机器人外骨骼参与式表演 Inferno 的共同作者。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "louis-philippe-demers"
+   ],
+   "discovered_via": "louis-philippe-demers"
+  },
+  {
+   "id": "marco-donnarumma",
+   "name": "Marco Donnarumma",
+   "kind": "person",
+   "role": "Performance artist and researcher",
+   "role_zh": "行为艺术家与研究者",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "bio": "Italian artist who builds performances from muscle sounds, biosignals, prosthetics and machine learning.",
+   "bio_zh": "意大利艺术家，以肌肉声音、生物信号、义肢与机器学习构建表演。",
+   "why": "His works present the body as a hybrid shaped together with algorithms.",
+   "why_zh": "他的作品把身体呈现为与算法共同塑形的混合体。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://marcodonnarumma.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "daito-manabe",
+   "name": "Daito Manabe",
+   "kind": "person",
+   "role": "Artist and programmer, Rhizomatiks",
+   "role_zh": "艺术家与程序员，Rhizomatiks",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Japanese artist and programmer, co-founder of Rhizomatiks, working with data, bodies and electrical stimulation.",
+   "bio_zh": "日本艺术家与程序员，Rhizomatiks 联合创始人，以数据、身体与电刺激创作。",
+   "why": "Let music drive the muscles of human faces.",
+   "why_zh": "让音乐驱动人脸上的肌肉。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://daito.ws"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ready-at-dawn",
+   "name": "Ready At Dawn",
+   "kind": "studio",
+   "role": "Game studio",
+   "role_zh": "游戏工作室",
+   "based": "Irvine, USA",
+   "based_zh": "尔湾，美国",
+   "bio": "Game studio known for the VR games Lone Echo and Echo VR.",
+   "bio_zh": "以 VR 游戏 Lone Echo 与 Echo VR 闻名的游戏工作室。",
+   "why": "Lone Echo gives players a full android body in zero gravity.",
+   "why_zh": "Lone Echo 让玩家在失重环境中拥有一具完整的仿生人身体。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "frictional-games",
+   "name": "Frictional Games",
+   "kind": "studio",
+   "role": "Game studio",
+   "role_zh": "游戏工作室",
+   "based": "Malmö, Sweden",
+   "based_zh": "马尔默，瑞典",
+   "bio": "Swedish studio behind the Amnesia series and SOMA.",
+   "bio_zh": "瑞典工作室，作品包括 Amnesia 系列与 SOMA。",
+   "why": "SOMA makes the player discover they are a mind inside a machine.",
+   "why_zh": "SOMA 让玩家发现自己是机器中的心智。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://frictionalgames.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "no-code",
+   "name": "No Code",
+   "kind": "studio",
+   "role": "Game studio",
+   "role_zh": "游戏工作室",
+   "based": "Glasgow, UK",
+   "based_zh": "格拉斯哥，英国",
+   "bio": "Scottish studio known for Stories Untold and Observation.",
+   "bio_zh": "苏格兰工作室，作品包括 Stories Untold 与 Observation。",
+   "why": "Observation casts the player as a space station's AI.",
+   "why_zh": "Observation 让玩家扮演空间站的人工智能。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "quantic-dream",
+   "name": "Quantic Dream",
+   "kind": "studio",
+   "role": "Game studio",
+   "role_zh": "游戏工作室",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "bio": "French studio making narrative games such as Heavy Rain and Detroit: Become Human.",
+   "bio_zh": "法国叙事游戏工作室，作品有 Heavy Rain 与 Detroit: Become Human。",
+   "why": "Detroit: Become Human is the mainstream game about playing as androids.",
+   "why_zh": "Detroit: Become Human 是扮演仿生人的主流游戏。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "croteam",
+   "name": "Croteam",
+   "kind": "studio",
+   "role": "Game studio",
+   "role_zh": "游戏工作室",
+   "based": "Zagreb, Croatia",
+   "based_zh": "萨格勒布，克罗地亚",
+   "bio": "Croatian studio behind Serious Sam and The Talos Principle.",
+   "bio_zh": "克罗地亚工作室，作品有 Serious Sam 与 The Talos Principle。",
+   "why": "The Talos Principle puts philosophy of mind into a robot's first-person body.",
+   "why_zh": "The Talos Principle 把心灵哲学放进一具机器人的第一人称身体里。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "siyeon-kim",
+   "name": "Siyeon Kim",
+   "kind": "person",
+   "role": "XR animation director, Studio Metapo",
+   "role_zh": "XR 动画导演，Studio Metapo",
+   "based": "Seoul, South Korea",
+   "based_zh": "首尔，韩国",
+   "bio": "Korean director of the XR animation My Name is O90, produced by Studio Metapo and the Korean Academy of Film Arts.",
+   "bio_zh": "韩国导演，XR 动画 My Name is O90 的作者，由 Studio Metapo 与韩国电影艺术学院制作。",
+   "why": "Tells a story from the journey of an abandoned robot dog.",
+   "why_zh": "从一只被遗弃的机器狗的旅程讲述故事。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "http://studiometapo.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "trevor-paglen",
+   "name": "Trevor Paglen",
+   "kind": "person",
+   "role": "Artist and geographer",
+   "role_zh": "艺术家与地理学者",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "bio": "American artist whose photographs, installations and performances expose surveillance and the images machines make for other machines.",
+   "bio_zh": "美国艺术家，以摄影、装置与表演揭示监控，以及机器为机器生成的图像。",
+   "why": "A key critic of machine vision: he shows what algorithms see, and what they do to us.",
+   "why_zh": "机器视觉的重要批评者：他展示算法看到了什么，以及它们对我们做了什么。",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://paglen.studio"
+   },
+   "connected_to": [
+    "kate-crawford"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kate-crawford",
+   "name": "Kate Crawford",
+   "kind": "person",
+   "role": "Scholar of AI and society",
+   "role_zh": "人工智能与社会研究学者",
+   "based": "New York, USA",
+   "based_zh": "纽约，美国",
+   "bio": "Researcher and author of Atlas of AI who studies the politics of machine learning datasets.",
+   "bio_zh": "《Atlas of AI》作者，研究机器学习数据集的政治。",
+   "why": "With Paglen she let people see themselves through ImageNet's labels.",
+   "why_zh": "她与 Paglen 一起让人们透过 ImageNet 的标签看见自己。",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "trevor-paglen"
+   ],
+   "discovered_via": "trevor-paglen"
+  },
+  {
+   "id": "harun-farocki",
+   "name": "Harun Farocki",
+   "kind": "person",
+   "role": "Filmmaker and artist (1944–2014)",
+   "role_zh": "电影人与艺术家（1944–2014）",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "bio": "German filmmaker whose essay films and installations examined images produced by and for machines.",
+   "bio_zh": "德国电影人，其论文电影与装置研究由机器生成、为机器而生成的图像。",
+   "why": "Coined 'operational images', the basis for thinking about machine perception in art.",
+   "why_zh": "提出“操作性图像”，是艺术中思考机器感知的基础。",
+   "disciplines": [
+    "film",
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.harunfarocki.de"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "timo-arnall",
+   "name": "Timo Arnall",
+   "kind": "person",
+   "role": "Designer and filmmaker",
+   "role_zh": "设计师与电影人",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Designer and filmmaker who makes invisible technologies such as WiFi, RFID and machine vision visible through film and photography.",
+   "bio_zh": "以电影和摄影让 WiFi、RFID、机器视觉等不可见技术变得可见的设计师与电影人。",
+   "why": "His films show the world as machines read it.",
+   "why_zh": "他的影片呈现机器所“读取”的世界。",
+   "disciplines": [
+    "design",
+    "film"
+   ],
+   "links": {
+    "site": "https://www.elasticspace.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kyle-mcdonald",
+   "name": "Kyle McDonald",
+   "kind": "person",
+   "role": "Artist working with code",
+   "role_zh": "以代码创作的艺术家",
+   "based": "Los Angeles, USA",
+   "based_zh": "洛杉矶，美国",
+   "bio": "Media artist who works with computer vision and machine learning, often in public space.",
+   "bio_zh": "以计算机视觉和机器学习创作的媒体艺术家，常在公共空间中进行。",
+   "why": "Walked a neural network through a city to hear what it sees.",
+   "why_zh": "带着一个神经网络走过城市，听它说出所见。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://kylemcdonald.net"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lauren-lee-mccarthy",
+   "name": "Lauren Lee McCarthy",
+   "kind": "person",
+   "role": "Artist, professor at UCLA",
+   "role_zh": "艺术家，UCLA 教授",
+   "based": "Los Angeles, USA",
+   "based_zh": "洛杉矶，美国",
+   "bio": "Artist and creator of p5.js whose performances examine surveillance, automation and care in a networked life.",
+   "bio_zh": "艺术家，p5.js 创建者，其表演探讨网络生活中的监控、自动化与照护。",
+   "why": "In LAUREN she becomes a human smart-home assistant.",
+   "why_zh": "在 LAUREN 中，她成为一个由真人扮演的智能家居助手。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://lauren-mccarthy.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tom-white",
+   "name": "Tom White",
+   "kind": "person",
+   "role": "Artist and lecturer",
+   "role_zh": "艺术家与讲师",
+   "based": "Wellington, New Zealand",
+   "based_zh": "惠灵顿，新西兰",
+   "bio": "Artist who makes abstract prints designed to be recognised by neural networks.",
+   "bio_zh": "创作为神经网络识别而设计的抽象版画的艺术家。",
+   "why": "Makes art whose main audience is machine perception.",
+   "why_zh": "创作以机器感知为主要观众的艺术。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://drib.net"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "keisuke-suzuki",
+   "name": "Keisuke Suzuki",
+   "kind": "person",
+   "role": "Researcher, consciousness science and VR",
+   "role_zh": "研究者，意识科学与 VR",
+   "based": "Brighton, UK / Japan",
+   "based_zh": "布莱顿，英国／日本",
+   "bio": "Researcher (Sackler Centre for Consciousness Science, University of Sussex) who builds VR platforms to study perception.",
+   "bio_zh": "萨塞克斯大学 Sackler 意识科学中心研究者，构建用于研究感知的 VR 平台。",
+   "why": "Built the Hallucination Machine, a VR view through a neural network.",
+   "why_zh": "打造了 Hallucination Machine——透过神经网络观看世界的 VR。",
+   "disciplines": [
+    "science"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "anil-seth"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anil-seth",
+   "name": "Anil Seth",
+   "kind": "person",
+   "role": "Neuroscientist, University of Sussex",
+   "role_zh": "神经科学家，萨塞克斯大学",
+   "based": "Brighton, UK",
+   "based_zh": "布莱顿，英国",
+   "bio": "Neuroscientist and author of Being You, who describes perception as controlled hallucination.",
+   "bio_zh": "神经科学家，《Being You》作者，把感知描述为“受控的幻觉”。",
+   "why": "His theory frames machine and animal perception alike as prediction.",
+   "why_zh": "他的理论把机器与动物的感知同样理解为预测。",
+   "disciplines": [
+    "science",
+    "theory"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "keisuke-suzuki"
+   ],
+   "discovered_via": "keisuke-suzuki"
+  },
+  {
+   "id": "liam-young",
+   "name": "Liam Young",
+   "kind": "person",
+   "role": "Speculative architect and filmmaker",
+   "role_zh": "思辨建筑师与电影人",
+   "based": "Los Angeles, USA",
+   "based_zh": "洛杉矶，美国",
+   "bio": "Australian-born architect and director who makes speculative films about cities, infrastructure and technology.",
+   "bio_zh": "澳大利亚出生的建筑师与导演，创作关于城市、基础设施与技术的思辨电影。",
+   "why": "Shot films entirely through drones and laser scanners, from the machines' point of view.",
+   "why_zh": "完全用无人机和激光扫描仪拍摄影片，从机器的视角出发。",
+   "disciplines": [
+    "film",
+    "design"
+   ],
+   "links": {
+    "site": "https://liamyoung.org"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "james-bridle",
+   "name": "James Bridle",
+   "kind": "person",
+   "role": "Artist and writer",
+   "role_zh": "艺术家与作家",
+   "based": "Athens, Greece",
+   "based_zh": "雅典，希腊",
+   "bio": "Artist and author of New Dark Age and Ways of Being, working on technology, perception and more-than-human intelligence.",
+   "bio_zh": "艺术家，《New Dark Age》《Ways of Being》作者，关注技术、感知与超越人类的智能。",
+   "why": "Tested how a self-driving car perceives the world by trapping it with road markings.",
+   "why_zh": "用道路标线“困住”一辆自动驾驶汽车，检验它如何感知世界。",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://jamesbridle.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alexander-mordvintsev",
+   "name": "Alexander Mordvintsev",
+   "kind": "person",
+   "role": "Research scientist, Google",
+   "role_zh": "Google 研究科学家",
+   "based": "Zurich, Switzerland",
+   "based_zh": "苏黎世，瑞士",
+   "bio": "Engineer who created DeepDream in 2015, a way of visualising what a neural network has learned to see.",
+   "bio_zh": "2015 年发明 DeepDream 的工程师，DeepDream 用来可视化神经网络学会看见的东西。",
+   "why": "DeepDream gave the public its first picture of machine perception.",
+   "why_zh": "DeepDream 让公众第一次看到机器感知的样子。",
+   "disciplines": [
+    "science"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "geoff-cox",
+   "name": "Geoff Cox",
+   "kind": "person",
+   "role": "Scholar of software culture",
+   "role_zh": "软件文化研究学者",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Professor of art and computational culture (London South Bank University) and co-editor of APRJA.",
+   "bio_zh": "伦敦南岸大学艺术与计算文化教授，APRJA 联合主编。",
+   "why": "Rewrote John Berger's Ways of Seeing for machine vision.",
+   "why_zh": "为机器视觉重写了 John Berger 的《观看之道》。",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "beanotherlab",
+   "name": "BeAnotherLab",
+   "kind": "studio",
+   "role": "Art and research collective",
+   "role_zh": "艺术与研究团体",
+   "based": "Barcelona, Spain",
+   "based_zh": "巴塞罗那，西班牙",
+   "bio": "Interdisciplinary collective that makes embodiment experiences with VR, performance and neuroscience.",
+   "bio_zh": "以 VR、表演与神经科学创作具身体验的跨学科团体。",
+   "why": "The Machine to Be Another is the human-to-human body-swap method that many becoming works adapt.",
+   "why_zh": "The Machine to Be Another 是人与人身体交换的方法，许多“成为”类作品都借用了它。",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://beanotherlab.org"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "neil-harbisson",
+   "name": "Neil Harbisson",
+   "kind": "person",
+   "role": "Cyborg artist",
+   "role_zh": "赛博格艺术家",
+   "based": "Barcelona, Spain / New York, USA",
+   "based_zh": "巴塞罗那，西班牙／纽约，美国",
+   "bio": "Artist born with achromatopsia who hears colour through an antenna implanted in his skull, and co-founder of the Cyborg Foundation.",
+   "bio_zh": "生来全色盲的艺术家，通过植入颅骨的天线“听见”颜色，Cyborg Foundation 联合创始人。",
+   "why": "The best-known person to live with a new, permanent machine sense.",
+   "why_zh": "最知名的、长期拥有一种由机器赋予的新感官的人。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.cyborgarts.com"
+   },
+   "connected_to": [
+    "moon-ribas",
+    "manel-de-aguas"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "moon-ribas",
+   "name": "Moon Ribas",
+   "kind": "person",
+   "role": "Cyborg artist and choreographer",
+   "role_zh": "赛博格艺术家与编舞",
+   "based": "Barcelona, Spain",
+   "based_zh": "巴塞罗那，西班牙",
+   "bio": "Catalan choreographer who implanted sensors that let her feel earthquakes worldwide as vibrations.",
+   "bio_zh": "加泰罗尼亚编舞家，植入传感器，让自己以振动感受全球各地的地震。",
+   "why": "Gives a human body a seismic sense tied to the planet.",
+   "why_zh": "给人体一种与地球相连的地震感官。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.moonribas.com"
+   },
+   "connected_to": [
+    "neil-harbisson"
+   ],
+   "discovered_via": "neil-harbisson"
+  },
+  {
+   "id": "manel-de-aguas",
+   "name": "Manel De Aguas",
+   "kind": "person",
+   "role": "Cyborg artist and musician",
+   "role_zh": "赛博格艺术家与音乐人",
+   "based": "Barcelona, Spain",
+   "based_zh": "巴塞罗那，西班牙",
+   "bio": "Artist who wears head fins that sense air pressure, humidity and temperature and turn the weather into sound.",
+   "bio_zh": "佩戴头部“鳍”的艺术家，这对鳍感知气压、湿度与温度，把天气变成声音。",
+   "why": "Makes weather a bodily sense.",
+   "why_zh": "让天气成为一种身体感官。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "neil-harbisson"
+   ],
+   "discovered_via": "neil-harbisson"
+  },
+  {
+   "id": "cyborg-nest",
+   "name": "Cyborg Nest",
+   "kind": "company",
+   "role": "Sensory augmentation company",
+   "role_zh": "感官增强公司",
+   "based": "London, UK / Barcelona, Spain",
+   "based_zh": "伦敦，英国／巴塞罗那，西班牙",
+   "bio": "Company founded by Liviu Babitz and Scott Cohen, with Neil Harbisson and Moon Ribas as early collaborators, that made the North Sense.",
+   "bio_zh": "由 Liviu Babitz 与 Scott Cohen 创立、Neil Harbisson 与 Moon Ribas 早期参与的公司，推出了 North Sense。",
+   "why": "Tried to sell a new sense as a consumer product.",
+   "why_zh": "尝试把一种新感官作为消费产品出售。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "neil-harbisson"
+   ],
+   "discovered_via": "neil-harbisson"
+  },
+  {
+   "id": "peter-konig",
+   "name": "Peter König",
+   "kind": "person",
+   "role": "Neuroscientist, Osnabrück University",
+   "role_zh": "神经科学家，奥斯纳布吕克大学",
+   "based": "Osnabrück, Germany",
+   "based_zh": "奥斯纳布吕克，德国",
+   "bio": "Cognitive scientist whose group developed the feelSpace belt, which lets wearers feel magnetic north.",
+   "bio_zh": "认知科学家，其团队研发了 feelSpace 腰带，让佩戴者感受到磁北。",
+   "why": "Ran the long-term studies on what it is like to live with a magnetic sense.",
+   "why_zh": "主持了“长期拥有磁感官是什么感觉”的长期研究。",
+   "disciplines": [
+    "science"
+   ],
+   "links": {
+    "site": "https://feelspace.de"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "david-eagleman",
+   "name": "David Eagleman",
+   "kind": "person",
+   "role": "Neuroscientist, Stanford; co-founder of Neosensory",
+   "role_zh": "神经科学家，斯坦福大学；Neosensory 联合创始人",
+   "based": "Palo Alto, USA",
+   "based_zh": "帕洛阿尔托，美国",
+   "bio": "Neuroscientist and author who argues the brain can learn new senses through the skin, and built the VEST with Scott Novich.",
+   "bio_zh": "神经科学家与作家，主张大脑可以通过皮肤学会新的感官，并与 Scott Novich 一起打造了 VEST。",
+   "why": "Popularised sensory addition: feeding any data stream into the body as a new sense.",
+   "why_zh": "推广了“感官附加”：把任何数据流作为新感官输入身体。",
+   "disciplines": [
+    "science"
+   ],
+   "links": {
+    "site": "https://eagleman.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "victor-mateevitsi",
+   "name": "Victor Mateevitsi",
+   "kind": "person",
+   "role": "Researcher, Electronic Visualization Laboratory, University of Illinois Chicago",
+   "role_zh": "研究者，伊利诺伊大学芝加哥分校电子可视化实验室",
+   "based": "Chicago, USA",
+   "based_zh": "芝加哥，美国",
+   "bio": "Computer scientist who built SpiderSense, a suit that lets wearers feel nearby objects through the skin.",
+   "bio_zh": "计算机科学家，打造了 SpiderSense——一件让人通过皮肤感知周围物体的衣服。",
+   "why": "Turned a comic-book sense into a wearable.",
+   "why_zh": "把漫画中的感官变成了可穿戴设备。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alvaro-cassinelli",
+   "name": "Alvaro Cassinelli",
+   "kind": "person",
+   "role": "Researcher and artist",
+   "role_zh": "研究者与艺术家",
+   "based": "Hong Kong / Tokyo",
+   "based_zh": "香港／东京",
+   "bio": "Researcher (formerly Ishikawa Lab, University of Tokyo, now City University of Hong Kong) who works on sensory extension and interactive art.",
+   "bio_zh": "研究者（曾在东京大学石川实验室，现任职香港城市大学），研究感官延伸与互动艺术。",
+   "why": "His Haptic Radar is an early 'extended skin'.",
+   "why_zh": "他的 Haptic Radar 是早期的“延伸皮肤”。",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "frank-swain",
+   "name": "Frank Swain",
+   "kind": "person",
+   "role": "Science writer",
+   "role_zh": "科学作家",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Science journalist and hearing-aid user who hacked his hearing aids to hear WiFi, with sound artist Daniel Jones.",
+   "bio_zh": "科学记者，也是助听器使用者，与声音艺术家 Daniel Jones 一起改造助听器来“听见”WiFi。",
+   "why": "Treated a medical device as a platform for a new sense.",
+   "why_zh": "把医疗设备当作新感官的平台。",
+   "disciplines": [
+    "science"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kevin-warwick",
+   "name": "Kevin Warwick",
+   "kind": "person",
+   "role": "Engineer, cybernetics researcher",
+   "role_zh": "工程师，控制论研究者",
+   "based": "Coventry, UK",
+   "based_zh": "考文垂，英国",
+   "bio": "British engineer who implanted chips and a nerve electrode array in his own body in Project Cyborg (1998, 2002).",
+   "bio_zh": "英国工程师，在 Project Cyborg（1998、2002）中把芯片和神经电极阵列植入自己的身体。",
+   "why": "Wired his nervous system directly to machines and an ultrasonic sense.",
+   "why_zh": "把自己的神经系统直接连到机器与超声波感官上。",
+   "disciplines": [
+    "science"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rob-spence",
+   "name": "Rob Spence",
+   "kind": "person",
+   "role": "Filmmaker",
+   "role_zh": "电影人",
+   "based": "Toronto, Canada",
+   "based_zh": "多伦多，加拿大",
+   "bio": "Canadian filmmaker who replaced his lost eye with a prosthetic containing a wireless video camera.",
+   "bio_zh": "加拿大电影人，用内置无线摄像头的义眼替换了失去的眼睛。",
+   "why": "His Eyeborg makes the eye literally a camera.",
+   "why_zh": "他的 Eyeborg 让眼睛真的成为一台摄像机。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "christina-kubisch",
+   "name": "Christina Kubisch",
+   "kind": "person",
+   "role": "Sound artist",
+   "role_zh": "声音艺术家",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "bio": "German composer and sound artist who has worked with electromagnetic induction since the 1970s.",
+   "bio_zh": "德国作曲家与声音艺术家，自 1970 年代起以电磁感应创作。",
+   "why": "Electrical Walks give walkers an ear for the electromagnetic city.",
+   "why_zh": "Electrical Walks 让行走者能“听见”城市的电磁场。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://christinakubisch.de"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "richard-vijgen",
+   "name": "Richard Vijgen",
+   "kind": "person",
+   "role": "Information designer",
+   "role_zh": "信息设计师",
+   "based": "Arnhem, Netherlands",
+   "based_zh": "阿纳姆，荷兰",
+   "bio": "Dutch designer who makes data visualisations of invisible infrastructures.",
+   "bio_zh": "荷兰设计师，把不可见的基础设施做成数据可视化。",
+   "why": "Architecture of Radio lets anyone see the radio signals around them.",
+   "why_zh": "Architecture of Radio 让任何人都能看见身边的无线电信号。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.richardvijgen.nl"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eric-boyd",
+   "name": "Eric Boyd",
+   "kind": "person",
+   "role": "Maker, Sensebridge",
+   "role_zh": "创客，Sensebridge",
+   "based": "Toronto, Canada",
+   "based_zh": "多伦多，加拿大",
+   "bio": "Maker who co-founded Sensebridge and designed the North Paw, an open-source compass anklet.",
+   "bio_zh": "Sensebridge 联合创始人，设计了开源罗盘脚环 North Paw。",
+   "why": "Made a magnetic sense into a DIY kit.",
+   "why_zh": "把磁感官做成了自制套件。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "frank-schumann",
+   "name": "Frank Schumann",
+   "kind": "person",
+   "role": "Cognitive scientist",
+   "role_zh": "认知科学家",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "bio": "Cognitive scientist working on sensory augmentation, formerly with Peter König and J. Kevin O'Regan.",
+   "bio_zh": "研究感官增强的认知科学家，曾与 Peter König 及 J. Kevin O'Regan 合作。",
+   "why": "Tested whether an artificial compass sense merges with the body's sense of rotation.",
+   "why_zh": "检验人工罗盘感官能否与身体的旋转感融合。",
+   "disciplines": [
+    "science"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "j-kevin-oregan",
+    "peter-konig"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "j-kevin-oregan",
+   "name": "J. Kevin O'Regan",
+   "kind": "person",
+   "role": "Psychologist, sensorimotor theory",
+   "role_zh": "心理学家，感觉运动理论",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "bio": "Psychologist whose sensorimotor theory holds that perceiving is mastering how sensations change with action.",
+   "bio_zh": "心理学家，其感觉运动理论认为，感知就是掌握感觉如何随动作而变化。",
+   "why": "His theory explains why a new sense can be learned at all.",
+   "why_zh": "他的理论解释了为什么新感官是可以学会的。",
+   "disciplines": [
+    "science",
+    "theory"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "frank-schumann"
+   ],
+   "discovered_via": "frank-schumann"
+  },
+  {
+   "id": "katerina-kamprani",
+   "name": "Katerina Kamprani",
+   "kind": "person",
+   "role": "Architect and designer",
+   "role_zh": "建筑师与设计师",
+   "based": "Athens, Greece",
+   "based_zh": "雅典，希腊",
+   "bio": "Greek designer behind The Uncomfortable, a series of deliberately useless everyday objects.",
+   "bio_zh": "希腊设计师，The Uncomfortable（一系列故意无法好用的日常物品）的作者。",
+   "why": "Makes us feel objects by breaking the way they fit our bodies.",
+   "why_zh": "通过破坏物品与身体的契合，让我们重新感受物品。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.theuncomfortable.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bruno-munari",
+   "name": "Bruno Munari",
+   "kind": "person",
+   "role": "Artist and designer (1907–1998)",
+   "role_zh": "艺术家与设计师（1907–1998）",
+   "based": "Milan, Italy",
+   "based_zh": "米兰，意大利",
+   "bio": "Italian artist, designer and educator, known for useless machines, children's books and playful design research.",
+   "bio_zh": "意大利艺术家、设计师与教育者，以“无用的机器”、儿童书和游戏式的设计研究闻名。",
+   "why": "His chair photographs are an early performance of a body negotiating with an object.",
+   "why_zh": "他的椅子照片是身体与物品协商的早期表演。",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "elisa-giaccardi",
+   "name": "Elisa Giaccardi",
+   "kind": "person",
+   "role": "Design researcher, Politecnico di Milano",
+   "role_zh": "设计研究者，米兰理工大学",
+   "based": "Milan, Italy",
+   "based_zh": "米兰，意大利",
+   "bio": "Design researcher (formerly TU Delft) who pioneered thing-centred design, using data gathered by things themselves.",
+   "bio_zh": "设计研究者（曾任职代尔夫特理工大学），开创以物为中心的设计，使用物品自身采集的数据。",
+   "why": "Thing Ethnography gives everyday objects a point of view.",
+   "why_zh": "Thing Ethnography 让日常物品拥有自己的视角。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ron-wakkary",
+   "name": "Ron Wakkary",
+   "kind": "person",
+   "role": "Design researcher, Simon Fraser University",
+   "role_zh": "设计研究者，西蒙菲莎大学",
+   "based": "Vancouver, Canada",
+   "based_zh": "温哥华，加拿大",
+   "bio": "Design researcher and author of Things We Could Design, who leads the Everyday Design Studio.",
+   "bio_zh": "设计研究者，《Things We Could Design》作者，主持 Everyday Design Studio。",
+   "why": "Designs things that have lives of their own, apart from us.",
+   "why_zh": "设计拥有自己生活、与人保持距离的物。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pedro-lopes",
+   "name": "Pedro Lopes",
+   "kind": "person",
+   "role": "HCI researcher, University of Chicago",
+   "role_zh": "人机交互研究者，芝加哥大学",
+   "based": "Chicago, USA",
+   "based_zh": "芝加哥，美国",
+   "bio": "Researcher who uses electrical muscle stimulation to let computers and objects act on the human body.",
+   "bio_zh": "用肌肉电刺激让计算机与物品作用于人体的研究者。",
+   "why": "Lets objects tell the body how they want to be used.",
+   "why_zh": "让物品告诉身体它们想被怎样使用。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://lab.plopes.org"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "k-carrie-armel",
+   "name": "K. Carrie Armel",
+   "kind": "person",
+   "role": "Researcher, cognitive neuroscience",
+   "role_zh": "认知神经科学研究者",
+   "based": "Stanford, USA",
+   "based_zh": "斯坦福，美国",
+   "bio": "Researcher who, with V. S. Ramachandran, showed that people can project touch onto a table.",
+   "bio_zh": "与 V. S. Ramachandran 一起证明人可以把触觉投射到一张桌子上的研究者。",
+   "why": "Showed ownership can extend to a non-bodily object.",
+   "why_zh": "证明身体所有感可以延伸到非身体的物体。",
+   "disciplines": [
+    "science"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "v-s-ramachandran"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "v-s-ramachandran",
+   "name": "V. S. Ramachandran",
+   "kind": "person",
+   "role": "Neuroscientist, UC San Diego",
+   "role_zh": "神经科学家，加州大学圣地亚哥分校",
+   "based": "San Diego, USA",
+   "based_zh": "圣地亚哥，美国",
+   "bio": "Neuroscientist known for the mirror box and studies of phantom limbs and body image.",
+   "bio_zh": "神经科学家，以镜箱疗法及幻肢与身体意象研究闻名。",
+   "why": "His experiments show how flexible the body map is.",
+   "why_zh": "他的实验显示身体地图有多灵活。",
+   "disciplines": [
+    "science"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "k-carrie-armel"
+   ],
+   "discovered_via": "k-carrie-armel"
+  },
+  {
+   "id": "ke-ma",
+   "name": "Ke Ma",
+   "kind": "person",
+   "role": "Psychologist",
+   "role_zh": "心理学家",
+   "based": "Leiden, Netherlands",
+   "based_zh": "莱顿，荷兰",
+   "bio": "Psychologist who, with Bernhard Hommel, studied body ownership over virtual hands and non-bodily objects.",
+   "bio_zh": "与 Bernhard Hommel 一起研究对虚拟手及非身体物体所有感的心理学家。",
+   "why": "Showed a balloon or a square can feel like one's hand when it moves with it.",
+   "why_zh": "证明气球或方块只要随手运动，就能被感觉为自己的手。",
+   "disciplines": [
+    "science"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "bernhard-hommel"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bernhard-hommel",
+   "name": "Bernhard Hommel",
+   "kind": "person",
+   "role": "Cognitive psychologist",
+   "role_zh": "认知心理学家",
+   "based": "Leiden, Netherlands",
+   "based_zh": "莱顿，荷兰",
+   "bio": "Cognitive psychologist known for the theory of event coding and work on action and self-representation.",
+   "bio_zh": "认知心理学家，以事件编码理论及行动与自我表征研究闻名。",
+   "why": "Linked body ownership to control rather than looks.",
+   "why_zh": "把身体所有感与控制而非外观联系起来。",
+   "disciplines": [
+    "science"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "ke-ma"
+   ],
+   "discovered_via": "ke-ma"
+  },
+  {
+   "id": "jean-luc-lugrin",
+   "name": "Jean-Luc Lugrin",
+   "kind": "person",
+   "role": "VR researcher, University of Würzburg",
+   "role_zh": "VR 研究者，维尔茨堡大学",
+   "based": "Würzburg, Germany",
+   "based_zh": "维尔茨堡，德国",
+   "bio": "Researcher at the HCI group of the University of Würzburg working on avatars and embodiment.",
+   "bio_zh": "维尔茨堡大学人机交互组研究者，研究化身与具身。",
+   "why": "Tested whether robot and abstract avatars can be owned like human ones.",
+   "why_zh": "检验机器人和抽象化身能否像人形化身一样被拥有。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "marc-erich-latoschik"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marc-erich-latoschik",
+   "name": "Marc Erich Latoschik",
+   "kind": "person",
+   "role": "Professor of HCI, University of Würzburg",
+   "role_zh": "维尔茨堡大学人机交互教授",
+   "based": "Würzburg, Germany",
+   "based_zh": "维尔茨堡，德国",
+   "bio": "HCI professor who leads research on avatars, embodiment and social VR.",
+   "bio_zh": "人机交互教授，主持化身、具身与社交 VR 研究。",
+   "why": "A leading lab on how avatar form changes the self.",
+   "why_zh": "研究化身形态如何改变自我的重要实验室。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "jean-luc-lugrin"
+   ],
+   "discovered_via": "jean-luc-lugrin"
+  }
+ ],
+ "works": [
+  {
+   "id": "stelarc--third-hand",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Third Hand",
+   "year": 1980,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "wearable",
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "A mechanical hand attached to Stelarc's right arm, driven by electrical signals from his abdominal and leg muscles, performed with for nearly two decades.",
+   "description_zh": "安装在 Stelarc 右臂上的机械手，由腹部和腿部肌肉的电信号驱动，他带着它表演了近二十年。",
+   "idea_en": "A third hand is not a tool you hold but a limb you learn to move with muscles that never moved a hand.",
+   "idea_zh": "第三只手不是握在手里的工具，而是一条要用从未控制过手的肌肉去学会驱动的肢体。",
+   "method": "EMG electrodes on abdominal and leg muscles switch a latex-covered aluminium hand to pinch, grasp and rotate its wrist; built in Yokohama from a Waseda University prototype.",
+   "method_zh": "腹部与腿部的肌电电极控制一只覆有乳胶的铝制机械手完成捏、握和转腕；手在横滨制作，以早稻田大学的原型为基础。",
+   "keywords": [
+    "Third Hand",
+    "EMG",
+    "prosthesis",
+    "cyborg",
+    "Waseda University"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Or1CVc6A9YA"
+   },
+   "images": [
+    "https://stelarc.org/media/img/projects-overview/3rdhand2.jpg"
+   ],
+   "source_url": "https://stelarc.org/_activity-20265.php"
+  },
+  {
+   "id": "stelarc--stomach-sculpture",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Stomach Sculpture",
+   "year": 1993,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "breath",
+    "body"
+   ],
+   "medium": [
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "A capsule-sized sculpture of gold, silver and steel was swallowed and opened inside Stelarc's stomach, filmed with a medical endoscope.",
+   "description_zh": "一件由金、银与不锈钢制成、胶囊大小的雕塑被吞入 Stelarc 胃中并在其中展开，全程由医用内窥镜拍摄。",
+   "idea_en": "The body becomes a site that hosts a machine, its hollow interior an exhibition space.",
+   "idea_zh": "身体成为容纳机器的场所，空腔内部变成展览空间。",
+   "method": "A servo-driven worm-screw mechanism tethered to an external control box opens and closes the sculpture; an endoscope records the view inside.",
+   "method_zh": "由外部控制盒经线缆连接的伺服电机和蜗杆机构让雕塑开合；内窥镜记录胃内的画面。",
+   "keywords": [
+    "endoscope",
+    "sculpture",
+    "stomach",
+    "Australian Sculpture Triennale"
+   ],
+   "shown_at": [
+    "Fifth Australian Sculpture Triennale 1993"
+   ],
+   "images": [
+    "https://stelarc.org/media/img/projects-overview/stomach-sculpture1.jpg"
+   ],
+   "source_url": "https://stelarc.org/_activity-20349.php"
+  },
+  {
+   "id": "stelarc--ping-body",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Ping Body",
+   "year": 1996,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "body",
+    "collective-sense"
+   ],
+   "medium": [
+    "performance",
+    "wearable"
+   ],
+   "kind": "performance",
+   "description": "Stelarc's muscles were moved by the flow of internet data: ping times to servers around the world drove a muscle stimulation system that made his limbs twitch and gesture.",
+   "description_zh": "Stelarc 的肌肉由互联网数据的流动驱动：向世界各地服务器发出的 ping 延时控制肌肉电刺激系统，使他的四肢抽动、做出动作。",
+   "idea_en": "A body can be actuated by the network itself, becoming a sensor and puppet of global data traffic.",
+   "idea_zh": "身体可以被网络本身驱动，成为全球数据流量的传感器和木偶。",
+   "method": "Ping round-trip times to dozens of global servers were mapped to voltages on a muscle stimulation system attached to his arms and legs; his body movements in turn controlled the Third Hand.",
+   "method_zh": "向数十个全球服务器发出 ping 的往返时间被映射为肌肉电刺激系统的电压，作用于他的手臂和腿；他的身体动作又反过来控制 Third Hand。",
+   "keywords": [
+    "internet",
+    "ping",
+    "muscle stimulation",
+    "V2_",
+    "DEAF96",
+    "Fractal Flesh"
+   ],
+   "shown_at": [
+    "Dutch Electronic Art Festival (DEAF96), Rotterdam"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=45MOlsFGSHI"
+   }
+  },
+  {
+   "id": "stelarc--exoskeleton",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Exoskeleton",
+   "year": 1998,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body",
+    "hearing"
+   ],
+   "medium": [
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "Stelarc stands on a six-legged pneumatic walking machine, steering it with arm gestures while an extended robotic arm opens and closes.",
+   "description_zh": "Stelarc 站在一台六足气动行走机器上，用手臂动作操控它行走，同时一只延伸的机械臂开合抓握。",
+   "idea_en": "Human arm gestures become the legs of a machine; the body is the driver inside a larger insect-like body.",
+   "idea_zh": "人的手臂动作变成机器的腿；身体成为一具更大的、类似昆虫的身体里的驾驶者。",
+   "method": "Sensors on an upper-body exoskeleton translate arm gestures into ripple or tripod gaits of a pneumatic hexapod built with Tom Diekmann, Stefan Doepner and Gwendolin Taube (f18).",
+   "method_zh": "上半身外骨骼上的传感器把手臂动作转换为气动六足机器的波浪步态或三角步态；机器由 Tom Diekmann、Stefan Doepner 与 Gwendolin Taube（f18）制作。",
+   "keywords": [
+    "hexapod",
+    "exoskeleton",
+    "pneumatics",
+    "walking machine"
+   ],
+   "also": [
+    "insect"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=R2MntBUwUxY"
+   },
+   "images": [
+    "https://stelarc.org/media/img/projects-overview/exo2.jpg"
+   ],
+   "source_url": "https://stelarc.org/_activity-20227.php"
+  },
+  {
+   "id": "stelarc--movatar",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Movatar",
+   "year": 2000,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "performance",
+    "wearable"
+   ],
+   "kind": "performance",
+   "description": "An inverse motion-capture system in which a virtual avatar moves Stelarc's physical body through muscle stimulation, while his foot switches can influence the avatar's behaviour.",
+   "description_zh": "一套“反向动作捕捉”系统：虚拟化身通过肌肉电刺激驱动 Stelarc 的真实身体，而他可以用脚踏开关影响化身的行为。",
+   "idea_en": "Instead of a human animating an avatar, the avatar possesses the human: the virtual body performs through the real one.",
+   "idea_zh": "不是人驱动化身，而是化身附身于人：虚拟身体借真实身体来表演。",
+   "method": "An avatar's movements are sent to a muscle stimulation system on Stelarc's arms via a motion prosthesis worn on the upper body; foot switches let him alter the avatar's state.",
+   "method_zh": "化身的动作经由上身佩戴的运动义肢装置传给他手臂上的肌肉电刺激系统；脚踏开关让他改变化身的状态。",
+   "keywords": [
+    "inverse motion capture",
+    "avatar",
+    "muscle stimulation",
+    "motion prosthesis"
+   ],
+   "images": [
+    "https://stelarc.org/media/img/projects-overview/movatar2.jpg"
+   ],
+   "source_url": "https://stelarc.org/_activity-20225.php"
+  },
+  {
+   "id": "stelarc--muscle-machine",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Muscle Machine",
+   "year": 2003,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "performance",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A five-metre, six-legged walking robot powered by pneumatic rubber muscles, which Stelarc drives from inside by lifting his own legs and turning his torso.",
+   "description_zh": "一台直径五米、由气动橡胶肌肉驱动的六足行走机器人，Stelarc 站在其中，通过抬腿和转动躯干来驱动它。",
+   "idea_en": "A human leg lift becomes three machine legs swinging forward: the body is scaled up into a hybrid walker.",
+   "idea_zh": "人抬起一条腿，机器便有三条腿向前摆动：身体被放大为一具混合行走者。",
+   "method": "Encoders at the hip joints of a lower-body exoskeleton read the operator's leg and torso movement and drive fluidic muscle actuators on the robot's legs.",
+   "method_zh": "下半身外骨骼髋关节处的编码器读取操作者的腿部与躯干动作，驱动机器人腿上的流体肌肉执行器。",
+   "keywords": [
+    "hexapod",
+    "fluidic muscles",
+    "exoskeleton",
+    "hybrid walking machine"
+   ],
+   "also": [
+    "insect"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=lkLZNXG55_8"
+   },
+   "source_url": "https://stelarc.org/_activity-20231.php"
+  },
+  {
+   "id": "stelarc--ear-on-arm",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Ear on Arm",
+   "year": 2006,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "hearing",
+    "body"
+   ],
+   "medium": [
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "A human-cell-scaffolded ear surgically constructed on Stelarc's left forearm, intended to be wired as an internet-connected listening organ.",
+   "description_zh": "通过手术在 Stelarc 左前臂上构建的一只以人体细胞支架培养的耳朵，计划接入互联网，成为一个远程聆听器官。",
+   "idea_en": "An extra organ that listens for others: the body grows a part that serves the network rather than its owner.",
+   "idea_zh": "一个替别人聆听的额外器官：身体长出一个服务于网络而非主人的部分。",
+   "method": "A porous biopolymer scaffold was implanted under the skin and grown into with tissue; a miniature microphone was once inserted and later removed after infection.",
+   "method_zh": "一块多孔生物聚合物支架被植入皮下，由组织长入；曾植入微型麦克风，后因感染而取出。",
+   "keywords": [
+    "extra ear",
+    "tissue engineering",
+    "implant",
+    "bio art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MhpV4sLgVEE"
+   },
+   "images": [
+    "https://stelarc.org/media/img/projects-overview/earonarm2.jpg"
+   ],
+   "source_url": "https://stelarc.org/_activity-20242.php"
+  },
+  {
+   "id": "stelarc--propel",
+   "creator_ids": [
+    "stelarc"
+   ],
+   "title": "Propel: Body on Robot Arm",
+   "year": 2015,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "Strapped to an industrial robot arm, Stelarc's body is swung through space for 30 minutes along a choreography programmed for the robot.",
+   "description_zh": "Stelarc 的身体被固定在一台工业机械臂上，按照为机器人编写的编舞在空中被挥动 30 分钟。",
+   "idea_en": "The body gives up its own motion and becomes the payload of a machine's choreography.",
+   "idea_zh": "身体放弃自己的运动，成为机器编舞的负载。",
+   "method": "A six-axis industrial robot arm with a 3 m task envelope runs an offline-programmed looping sequence; motor sounds are amplified as the soundtrack.",
+   "method_zh": "一台工作半径 3 米的六轴工业机械臂执行离线编程的循环动作序列；电机声被放大为配乐。",
+   "keywords": [
+    "industrial robot",
+    "robot arm",
+    "choreography"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=2bRpTn0KKd8"
+   },
+   "images": [
+    "https://stelarc.org/media/img/projects-overview/propel2.jpg"
+   ],
+   "source_url": "https://stelarc.org/_activity-20354.php"
+  },
+  {
+   "id": "susumu-tachi--telesar-v",
+   "creator_ids": [
+    "susumu-tachi",
+    "kouta-minamizawa"
+   ],
+   "title": "TELESAR V",
+   "year": 2012,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "touch",
+    "vision",
+    "hearing"
+   ],
+   "medium": [
+    "vr",
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A telexistence robot that an operator inhabits through a head-mounted display and haptic gloves, seeing, hearing and feeling textures and temperature through the robot's body.",
+   "description_zh": "一台远程临场机器人：操作者通过头显和触觉手套栖居其中，借机器人的身体看、听，并感受纹理与温度。",
+   "idea_en": "Telexistence is becoming a robot for real: your movements are its movements and its fingertips are your fingertips.",
+   "idea_zh": "远程临场就是真正地成为机器人：你的动作就是它的动作，它的指尖就是你的指尖。",
+   "method": "Head, arm and finger motion are captured and mapped to a 53-DoF anthropomorphic robot; stereo cameras, binaural microphones and fingertip force, vibration and thermal sensors stream back to the operator.",
+   "method_zh": "头部、手臂与手指的动作被捕捉并映射到一台 53 自由度的仿人机器人上；立体摄像头、双耳麦克风以及指尖的力、振动和温度传感器把信号传回操作者。",
+   "keywords": [
+    "telexistence",
+    "haptics",
+    "surrogate robot",
+    "Keio University",
+    "University of Tokyo"
+   ],
+   "shown_at": [
+    "SIGGRAPH 2012 Emerging Technologies"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZMF0p15GPYg"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2343456.2343479",
+    "doi": "10.1145/2343456.2343479",
+    "venue": "SIGGRAPH 2012 Emerging Technologies",
+    "title": "TELESAR V: TELExistence surrogate anthropomorphic robot"
+   }
+  },
+  {
+   "id": "hiroshi-ishiguro--geminoid-hi-1",
+   "creator_ids": [
+    "hiroshi-ishiguro"
+   ],
+   "title": "Geminoid HI-1",
+   "year": 2007,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "screen",
+    "installation"
+   ],
+   "kind": "prototype",
+   "description": "A lifelike android copy of Hiroshi Ishiguro that he, and others, teleoperate from a remote booth, speaking and moving through its face and body.",
+   "description_zh": "石黑浩本人的逼真仿生人复制体，他和其他人在远程操作间遥控它，通过它的脸和身体说话与动作。",
+   "idea_en": "Operating your own robot double, you start to feel the android's body as yours and its presence as your presence.",
+   "idea_zh": "当你操作自己的机器人分身时，会开始把它的身体当作自己的身体、把它的在场当作自己的在场。",
+   "method": "The operator's face and head movements are tracked by camera and motion capture and replayed on the android's pneumatic actuators; voice is streamed through its speaker while monitors show its view.",
+   "method_zh": "操作者的面部与头部动作由摄像头和动作捕捉追踪，再由仿生人的气动执行器重现；声音通过它的扬声器传出，显示器呈现它的视角。",
+   "keywords": [
+    "android",
+    "Geminoid",
+    "teleoperation",
+    "ATR",
+    "presence"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=fhS9KkOXDXE"
+   },
+   "paper": {
+    "url": "https://doi.org/10.5772/4876",
+    "doi": "10.5772/4876",
+    "venue": "Humanoid Robots: New Developments (2007)",
+    "title": "Geminoid: Teleoperated Android of an Existing Person"
+   },
+   "source_url": "https://www.geminoid.jp"
+  },
+  {
+   "id": "shuichi-nishio--body-ownership-transfer",
+   "creator_ids": [
+    "shuichi-nishio",
+    "hiroshi-ishiguro"
+   ],
+   "title": "Body Ownership Transfer to a Teleoperated Android",
+   "year": 2012,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "paper",
+   "description": "Operators who teleoperated a Geminoid android while watching it reacted physically when its hand was threatened, showing they had come to feel the robot body as their own.",
+   "description_zh": "遥控 Geminoid 仿生人的操作者在看到它的手受到威胁时出现生理反应，表明他们已开始把机器人的身体当作自己的。",
+   "idea_en": "Simply moving in sync with a robot you see is enough for your body sense to transfer into it.",
+   "idea_zh": "只要与眼前的机器人同步动作，身体感就足以转移到它身上。",
+   "method": "Operators' motions were mirrored by the android while they watched it on a monitor; skin conductance was recorded when its hand was pinched with a needle, in synchronous versus delayed conditions.",
+   "method_zh": "仿生人实时复现操作者的动作，操作者通过显示器观看；在同步与延迟条件下，当仿生人的手被针刺时记录操作者的皮肤电反应。",
+   "keywords": [
+    "body ownership transfer",
+    "Geminoid",
+    "skin conductance response",
+    "teleoperation"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/978-3-642-34103-8_40",
+    "doi": "10.1007/978-3-642-34103-8_40",
+    "venue": "ICSR 2012 (LNCS)",
+    "title": "Body Ownership Transfer to Teleoperated Android Robot"
+   }
+  },
+  {
+   "id": "maryam-alimardani--robot-hands-bci",
+   "creator_ids": [
+    "maryam-alimardani",
+    "hiroshi-ishiguro"
+   ],
+   "title": "Humanlike Robot Hands Controlled by Brain Activity",
+   "year": 2013,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "wearable",
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Participants moved a pair of android hands only by imagining the movement, and came to feel the robot hands as their own.",
+   "description_zh": "参与者仅通过想象动作来驱动一对仿生人的手，并逐渐把这双机器人手感受为自己的手。",
+   "idea_en": "Ownership of a machine body can come from thought alone, with no muscle moving.",
+   "idea_zh": "对机器身体的所有感可以只来自意念，而无需任何肌肉运动。",
+   "method": "An EEG motor-imagery brain-computer interface drove the hands of a Geminoid android seen from a first-person view (likely through a head-mounted display); ownership was measured by questionnaire and skin conductance.",
+   "method_zh": "基于运动想象的脑电脑机接口驱动 Geminoid 仿生人的双手，参与者以第一人称视角观看（可能通过头显）；以问卷和皮肤电反应测量所有感。",
+   "keywords": [
+    "BCI",
+    "EEG",
+    "motor imagery",
+    "Geminoid",
+    "body ownership"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/srep02396",
+    "doi": "10.1038/srep02396",
+    "venue": "Scientific Reports 2013",
+    "title": "Humanlike robot hands controlled by brain activity arouse illusion of ownership in operators"
+   }
+  },
+  {
+   "id": "laura-aymerich-franch--second-me",
+   "creator_ids": [
+    "laura-aymerich-franch"
+   ],
+   "title": "The Second Me: Humanoid Robot Embodiment and Bi-location",
+   "year": 2016,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "People embodied in an HRP-2 humanoid robot saw their own real body through the robot's eyes, and felt as if they were in two places at once.",
+   "description_zh": "“化身”为 HRP-2 人形机器人的人透过机器人的眼睛看见自己真实的身体，感到自己仿佛同时身处两地。",
+   "idea_en": "Being a robot does not erase the human body: the self can split between the machine and the flesh.",
+   "idea_zh": "成为机器人并不会抹去人的身体：自我可以分裂在机器与血肉之间。",
+   "method": "Participants wore a head-mounted display showing the HRP-2's head camera view while controlling the robot; questionnaires measured embodiment and bi-location when their real body appeared in view.",
+   "method_zh": "参与者佩戴头显观看 HRP-2 头部摄像头的画面，同时控制机器人；当自己的真实身体出现在画面中时，用问卷测量具身感与双重定位感。",
+   "keywords": [
+    "HRP-2",
+    "humanoid robot",
+    "bi-location",
+    "CNRS-AIST JRL",
+    "embodiment"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.concog.2016.09.017",
+    "doi": "10.1016/j.concog.2016.09.017",
+    "venue": "Consciousness and Cognition 2016",
+    "title": "The second me: Seeing the real body during humanoid robot embodiment produces an illusion of bi-location"
+   }
+  },
+  {
+   "id": "laura-aymerich-franch--non-human-robot-arms",
+   "creator_ids": [
+    "laura-aymerich-franch"
+   ],
+   "title": "Non-human Looking Robot Arms Induce Illusion of Embodiment",
+   "year": 2017,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Participants felt embodied in a humanoid robot even when its arms ended in mechanical grippers rather than human-like hands.",
+   "description_zh": "即使人形机器人的手臂末端是机械夹爪而不是类人的手，参与者仍然对它产生具身感。",
+   "idea_en": "A body does not have to look human to become yours; moving it and seeing from it is enough.",
+   "idea_zh": "身体不必长得像人才能成为你的；能驱动它、从它的视角看，就已足够。",
+   "method": "First-person views from the HRP-2 robot's cameras were shown in a head-mounted display while participants saw its non-human arms; embodiment was compared across conditions by questionnaire.",
+   "method_zh": "参与者在头显中观看 HRP-2 摄像头的第一人称画面，同时看到它非人形的手臂；以问卷比较不同条件下的具身感。",
+   "keywords": [
+    "HRP-2",
+    "robot arms",
+    "embodiment",
+    "non-humanoid"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s12369-017-0397-8",
+    "doi": "10.1007/s12369-017-0397-8",
+    "venue": "International Journal of Social Robotics 2017",
+    "title": "Non-human Looking Robot Arms Induce Illusion of Embodiment"
+   }
+  },
+  {
+   "id": "jean-luc-lugrin--avatar-anthropomorphism",
+   "creator_ids": [
+    "jean-luc-lugrin",
+    "marc-erich-latoschik"
+   ],
+   "title": "Avatar Anthropomorphism and Body Ownership in VR",
+   "year": 2015,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "A VR study comparing how strongly people own virtual bodies that range from abstract and robot-like figures to realistic humans.",
+   "description_zh": "一项 VR 研究，比较人们对从抽象、机器人式形象到逼真人类等不同虚拟身体的所有感强弱。",
+   "idea_en": "Non-human, machine-like bodies can be owned about as readily as human ones: likeness matters less than expected.",
+   "idea_zh": "非人的、机器般的身体几乎和人类身体一样容易被拥有：相似度没有想象中重要。",
+   "method": "Participants embodied full-body tracked avatars of varying human-likeness in a head-mounted display with virtual mirror exposure and threat events, and rated body ownership.",
+   "method_zh": "参与者在头显中化身为不同拟人程度的全身追踪化身，经历虚拟镜子与威胁事件，并评估身体所有感。",
+   "keywords": [
+    "avatar",
+    "anthropomorphism",
+    "robot avatar",
+    "body ownership",
+    "University of Würzburg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/vr.2015.7223379",
+    "doi": "10.1109/vr.2015.7223379",
+    "venue": "IEEE VR 2015",
+    "title": "Avatar anthropomorphism and illusion of body ownership in VR"
+   }
+  },
+  {
+   "id": "yamen-saraiji--fusion",
+   "creator_ids": [
+    "yamen-saraiji",
+    "kouta-minamizawa"
+   ],
+   "title": "Fusion",
+   "year": 2018,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body",
+    "collective-sense"
+   ],
+   "medium": [
+    "wearable",
+    "vr"
+   ],
+   "kind": "prototype",
+   "description": "A backpack robot with a head and two arms that a remote operator inhabits through VR, sharing one body with the person who wears it.",
+   "description_zh": "一台带有头部和双臂的背负式机器人，远程操作者通过 VR 栖居其中，与背着它的人共享一具身体。",
+   "idea_en": "Two minds, one body: the robot is a second self grafted onto someone else.",
+   "idea_zh": "两个心智，一具身体：机器人是嫁接在他人身上的第二个自我。",
+   "method": "A remote operator in a head-mounted display controls the robot's stereo head and anthropomorphic arms; modes range from guiding the wearer's hands to moving them by force.",
+   "method_zh": "戴头显的远程操作者控制机器人的立体视觉头部与仿人手臂；工作模式从引导佩戴者的手到直接施力移动它们。",
+   "keywords": [
+    "full body surrogacy",
+    "telepresence",
+    "backpack robot",
+    "Keio KMD",
+    "shared body"
+   ],
+   "also": [
+    "octopus"
+   ],
+   "shown_at": [
+    "SIGGRAPH 2018 Emerging Technologies"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Nrc7gH6dydw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3214907.3214912",
+    "doi": "10.1145/3214907.3214912",
+    "venue": "SIGGRAPH 2018 Emerging Technologies",
+    "title": "Fusion: full body surrogacy for collaborative communication"
+   }
+  },
+  {
+   "id": "keita-higuchi--flying-head",
+   "creator_ids": [
+    "keita-higuchi",
+    "jun-rekimoto"
+   ],
+   "title": "Flying Head",
+   "year": 2013,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A drone that copies the position and orientation of the pilot's head, so walking, crouching and turning become flying, seen through the drone's camera.",
+   "description_zh": "一架复现驾驶者头部位置与朝向的无人机，于是走动、蹲下和转身就变成了飞行，画面来自无人机的摄像头。",
+   "idea_en": "The drone becomes a flying head: your body is the joystick, and your eyes move to where it is.",
+   "idea_zh": "无人机变成一颗飞行的头：你的身体就是摇杆，你的眼睛移到了它所在的地方。",
+   "method": "Motion capture tracks the pilot's head and maps it to the quadcopter's pose; the drone's camera feed is shown in a head-mounted display.",
+   "method_zh": "动作捕捉追踪驾驶者的头部并映射为四旋翼的姿态；无人机摄像头画面显示在头显中。",
+   "keywords": [
+    "drone",
+    "UAV",
+    "head tracking",
+    "telepresence",
+    "University of Tokyo"
+   ],
+   "also": [
+    "bird"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9HLyZqhkNKg"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2468356.2468721",
+    "doi": "10.1145/2468356.2468721",
+    "venue": "CHI 2013 Extended Abstracts",
+    "title": "Flying head: a head motion synchronization mechanism for unmanned aerial vehicle control"
+   }
+  },
+  {
+   "id": "epfl-lis--flyjacket",
+   "creator_ids": [
+    "epfl-lis"
+   ],
+   "title": "FlyJacket",
+   "year": 2018,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body",
+    "vision",
+    "touch"
+   ],
+   "medium": [
+    "wearable",
+    "vr"
+   ],
+   "kind": "prototype",
+   "description": "A soft upper-body exoskeleton that lets a person fly a fixed-wing drone with arms spread and torso bending, as if they were the aircraft.",
+   "description_zh": "一件柔性上半身外骨骼，让人张开双臂、弯曲躯干来驾驶固定翼无人机，仿佛自己就是飞行器。",
+   "idea_en": "Flying a drone like a bird: the body's posture becomes the aircraft's attitude.",
+   "idea_zh": "像鸟一样驾驶无人机：身体姿态就是飞行器的姿态。",
+   "method": "An IMU-tracked soft jacket with arm supports maps torso pitch and roll to the drone, streams its camera to a head-mounted display and gives haptic feedback on the body.",
+   "method_zh": "带手臂支撑、由 IMU 追踪的柔性夹克把躯干的俯仰与侧倾映射给无人机，把摄像头画面传到头显，并在身体上给予触觉反馈。",
+   "keywords": [
+    "drone",
+    "exoskeleton",
+    "embodied flight",
+    "haptics",
+    "EPFL"
+   ],
+   "also": [
+    "bird"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=L0FTPYkLKHI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/lra.2018.2810955",
+    "doi": "10.1109/lra.2018.2810955",
+    "venue": "IEEE Robotics and Automation Letters 2018",
+    "title": "FlyJacket: An Upper Body Soft Exoskeleton for Immersive Drone Control"
+   }
+  },
+  {
+   "id": "epfl-lis--torso-drone-interface",
+   "creator_ids": [
+    "epfl-lis"
+   ],
+   "title": "Data-driven Body–Machine Interface for Drones",
+   "year": 2018,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "By recording how people spontaneously move while imitating a drone in VR, researchers found that steering with the torso beats a joystick for flying.",
+   "description_zh": "研究者记录人们在 VR 中模仿无人机时的自发动作，发现用躯干操控比用摇杆飞得更好。",
+   "idea_en": "The most natural way to be a drone is with your whole trunk, like a bird banking.",
+   "idea_zh": "成为无人机最自然的方式是用整个躯干，就像鸟儿侧身转弯。",
+   "method": "Motion capture and EMG recorded body movements during simulated flight in a head-mounted display; the most informative signals (torso) were used to control simulated and real drones.",
+   "method_zh": "在头显模拟飞行中以动作捕捉和肌电记录身体动作；把信息量最大的信号（躯干）用于控制模拟与真实无人机。",
+   "keywords": [
+    "drone",
+    "body-machine interface",
+    "torso control",
+    "PNAS",
+    "EPFL"
+   ],
+   "also": [
+    "bird"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LLam4TNVi_g"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1073/pnas.1718648115",
+    "doi": "10.1073/pnas.1718648115",
+    "venue": "PNAS 2018",
+    "title": "Data-driven body–machine interface for the accurate control of drones"
+   }
+  },
+  {
+   "id": "yoshifumi-kitamura--birdviewar",
+   "creator_ids": [
+    "yoshifumi-kitamura"
+   ],
+   "title": "BirdViewAR",
+   "year": 2023,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "ar",
+    "screen"
+   ],
+   "kind": "paper",
+   "description": "A drone-piloting interface that gives the remote pilot an augmented third-person view of the drone within its surroundings, like following your own avatar.",
+   "description_zh": "一种无人机驾驶界面，为远程驾驶者提供增强的第三人称视角，看到无人机置身环境之中，就像跟随自己的化身。",
+   "idea_en": "Embodying a drone can mean seeing it from behind, as a game character, rather than through its own eyes.",
+   "idea_zh": "“成为”无人机也可以是从背后看着它，像操控游戏角色，而不必透过它自己的眼睛。",
+   "method": "The drone's camera captures its surroundings and the interface reconstructs a third-person viewpoint with AR overlays of the drone's position and nearby obstacles.",
+   "method_zh": "无人机摄像头采集周围环境，界面据此重建第三人称视角，并以 AR 叠加显示无人机位置与附近障碍。",
+   "keywords": [
+    "drone",
+    "third-person view",
+    "augmented reality",
+    "Tohoku University"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=DtTpvL-JXKY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3544548.3580681",
+    "doi": "10.1145/3544548.3580681",
+    "venue": "CHI 2023",
+    "title": "BirdViewAR: Surroundings-aware Remote Drone Piloting Using an Augmented Third-person Perspective"
+   }
+  },
+  {
+   "id": "ory-laboratory--avatar-robot-cafe-dawn",
+   "creator_ids": [
+    "ory-laboratory"
+   ],
+   "title": "Avatar Robot Café DAWN",
+   "year": 2018,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation",
+    "performance"
+   ],
+   "kind": "product",
+   "description": "A café in Tokyo staffed by OriHime robots piloted from home by people with severe disabilities such as ALS, who take orders, talk and serve through the robots.",
+   "description_zh": "东京的一家咖啡馆，店员是由 ALS 等重度残障人士在家中操控的 OriHime 机器人，他们通过机器人点单、聊天和上菜。",
+   "idea_en": "A robot body lets someone who cannot leave their bed go to work and be met in public.",
+   "idea_zh": "机器人身体让卧床不起的人也能去上班、在公共场合与人相见。",
+   "method": "Pilots control 120 cm OriHime-D robots and tabletop OriHime units remotely over the internet, including by eye-gaze input, using camera, microphone and speaker on the robot.",
+   "method_zh": "驾驶员通过互联网远程控制 120 厘米高的 OriHime-D 和桌面型 OriHime，可用眼动输入，借助机器人上的摄像头、麦克风与扬声器工作。",
+   "keywords": [
+    "OriHime",
+    "avatar robot",
+    "ALS",
+    "eye-gaze",
+    "telepresence",
+    "Tokyo"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vj1z6HEAkYY"
+   },
+   "images": [
+    "https://dawn2021.orylab.com/assets/images/common/ogp2.jpg"
+   ],
+   "source_url": "https://dawn2021.orylab.com/en/"
+  },
+  {
+   "id": "eduardo-kac--rara-avis",
+   "creator_ids": [
+    "eduardo-kac"
+   ],
+   "title": "Rara Avis",
+   "year": 1996,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "vision",
+    "hearing"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "Visitors put on a VR headset and see through the eyes of a telerobotic macaw perched in an aviary among thirty real birds, while internet users could also look and speak through it.",
+   "description_zh": "观众戴上 VR 头显，透过一只远程机器鹦鹉的眼睛观看——它栖在鸟舍中，周围是三十只真鸟；互联网用户也能通过它观看和发声。",
+   "idea_en": "Becoming a robot bird among living birds: the visitor is both an outsider and a strange member of the flock.",
+   "idea_zh": "成为活鸟群中的一只机器鸟：观众既是局外人，又是鸟群中奇异的一员。",
+   "method": "Stereo cameras in the robot macaw's eyes were slaved to the visitor's head movements in a VR headset; the stream and a microphone channel were shared online.",
+   "method_zh": "机器鹦鹉眼中的立体摄像头跟随观众在 VR 头显中的头部运动；画面和麦克风通道同时在网上共享。",
+   "keywords": [
+    "telepresence",
+    "macaw",
+    "aviary",
+    "telerobot",
+    "Nexus Contemporary Art Center"
+   ],
+   "also": [
+    "bird"
+   ],
+   "shown_at": [
+    "Nexus Contemporary Art Center, Atlanta 1996"
+   ],
+   "images": [
+    "https://www.ekac.org/rara.avis.jpg"
+   ],
+   "source_url": "https://www.ekac.org/raraavis.html"
+  },
+  {
+   "id": "eduardo-kac--ornitorrinco",
+   "creator_ids": [
+    "eduardo-kac"
+   ],
+   "title": "Ornitorrinco",
+   "year": 1989,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A small telerobot that remote participants drove through gallery spaces using telephone keypads, seeing the world through its camera eye.",
+   "description_zh": "一台小型远程机器人，远方参与者用电话按键驾驶它穿行于展厅，透过它的摄像头之眼看世界。",
+   "idea_en": "Telepresence as an artwork: to inhabit a small machine body in another city.",
+   "idea_zh": "作为艺术作品的远程临场：栖居于另一座城市里的一具小小机器身体。",
+   "method": "Developed with Ed Bennett, the robot was controlled over phone lines and later the internet, sending back slow-scan or video images from its camera.",
+   "method_zh": "与 Ed Bennett 合作开发，机器人先经电话线、后经互联网控制，并传回摄像头拍摄的慢扫描图像或视频。",
+   "keywords": [
+    "telepresence",
+    "telerobot",
+    "Ed Bennett",
+    "telephone",
+    "early net art"
+   ],
+   "images": [
+    "https://www.ekac.org/ornitorrinco.color.jpg"
+   ],
+   "source_url": "https://www.ekac.org/ornitorrinco.html"
+  },
+  {
+   "id": "ken-goldberg--telegarden",
+   "creator_ids": [
+    "ken-goldberg"
+   ],
+   "title": "The Telegarden",
+   "year": 1995,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "collective-sense",
+    "time-scale"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "An online garden in which internet users planted, watered and watched seedlings by commanding an industrial robot arm, forming a community of remote gardeners.",
+   "description_zh": "一座在线花园：互联网用户通过指挥一只工业机械臂来播种、浇水和观察幼苗，形成了一个远程园丁社群。",
+   "idea_en": "Thousands of people share one robot arm as their hand in the soil, and learn plant time through it.",
+   "idea_zh": "成千上万的人共用一只机械臂作为伸进土里的手，并借它学会植物的时间。",
+   "method": "A web interface sent commands to an Adept robot arm over a circular garden bed; a camera on the arm returned images of the plants.",
+   "method_zh": "网页界面向圆形苗床上方的 Adept 机械臂发送指令；机械臂上的摄像头传回植物的图像。",
+   "keywords": [
+    "telerobotics",
+    "garden",
+    "internet",
+    "Joseph Santarromana",
+    "Ars Electronica Center"
+   ],
+   "also": [
+    "tree"
+   ],
+   "shown_at": [
+    "Ars Electronica Center, Linz (1996–2004)"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=BCEC1tfc5Jc"
+   },
+   "images": [
+    "https://goldberg.berkeley.edu/garden/telegarden-8x6-72dpi.jpg"
+   ],
+   "source_url": "https://goldberg.berkeley.edu/garden/Ars/"
+  },
+  {
+   "id": "marcel-li-antunez-roca--epizoo",
+   "creator_ids": [
+    "marcel-li-antunez-roca"
+   ],
+   "title": "Epizoo",
+   "year": 1994,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "performance",
+    "wearable"
+   ],
+   "kind": "performance",
+   "description": "A performance in which the audience, using a computer interface, moves pneumatic devices strapped to the artist's nose, ears, mouth, chest and buttocks.",
+   "description_zh": "一场表演：观众通过电脑界面操控绑在艺术家鼻子、耳朵、嘴、胸部和臀部上的气动装置。",
+   "idea_en": "The artist becomes a machine operated by others, and the audience feels what it is to control a body.",
+   "idea_zh": "艺术家成为由他人操作的机器，观众则体会到操控一具身体意味着什么。",
+   "method": "A body-worn exoskeleton of pneumatic actuators is driven by a mouse-controlled interface, with animations of the body projected behind.",
+   "method_zh": "由鼠标控制的界面驱动身上佩戴的气动执行器外骨骼，身后投影身体的动画。",
+   "keywords": [
+    "exoskeleton",
+    "pneumatics",
+    "interactive performance",
+    "La Fura dels Baus"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5utDR8VWxms"
+   }
+  },
+  {
+   "id": "louis-philippe-demers--inferno",
+   "creator_ids": [
+    "louis-philippe-demers",
+    "bill-vorn"
+   ],
+   "title": "Inferno",
+   "year": 2015,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body",
+    "collective-sense"
+   ],
+   "medium": [
+    "performance",
+    "wearable"
+   ],
+   "kind": "performance",
+   "description": "A participatory performance in which audience members wear robotic exoskeletons that move their arms and torsos to a loud electronic score, turning a crowd into a robot choir.",
+   "description_zh": "一场参与式表演：观众穿上机器人外骨骼，外骨骼随着响亮的电子乐驱动他们的手臂与躯干，把人群变成机器人合唱团。",
+   "idea_en": "Being moved by a machine: participants give their limbs to an exoskeleton and become part of a robotic performance.",
+   "idea_zh": "被机器带着动：参与者把四肢交给外骨骼，成为机器人表演的一部分。",
+   "method": "Upper-body exoskeletons with motorised arm joints are sequenced with light and sound; some let wearers push back against the programmed motion.",
+   "method_zh": "带电动手臂关节的上半身外骨骼与灯光和声音同步编排；部分装置允许佩戴者对抗预设的动作。",
+   "keywords": [
+    "exoskeleton",
+    "robotic performance",
+    "participatory"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JaUAVo8PBJ4"
+   }
+  },
+  {
+   "id": "siyeon-kim--my-name-is-o90",
+   "creator_ids": [
+    "siyeon-kim"
+   ],
+   "title": "My Name is O90",
+   "year": 2023,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "film",
+   "description": "An XR animation that follows the long night journey of O90, an abandoned AI robot dog searching the city for charging cables while remembering a lost friend.",
+   "description_zh": "一部 XR 动画，跟随被遗弃的 AI 机器狗 O90 度过漫长的夜行：它在城市里寻找充电线，同时怀念一位失去的朋友。",
+   "idea_en": "A robot's memory, loyalty and low battery become the lens: the viewer walks in the shoes of an aging device.",
+   "idea_zh": "以机器人的记忆、忠诚与低电量为视角：观众踏上一台老旧设备的旅程。",
+   "method": "A VR animation produced by Studio Metapo and the Korean Academy of Film Arts, presented at Venice Immersive.",
+   "method_zh": "由 Studio Metapo 与韩国电影艺术学院制作的 VR 动画，在威尼斯沉浸单元展映。",
+   "keywords": [
+    "robot dog",
+    "AI",
+    "XR animation",
+    "Studio Metapo",
+    "Korean Academy of Film Arts"
+   ],
+   "also": [
+    "animal"
+   ],
+   "shown_at": [
+    "Venice Immersive 2023"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=90v9PMtR5oc"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/cinema/2023/Schede_film/970x647/Ve_Immersive/kim-siyeon.jpg?itok=e_cYnFf2"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2023/venice-immersive/my-name-o90"
+  },
+  {
+   "id": "ready-at-dawn--lone-echo",
+   "creator_ids": [
+    "ready-at-dawn"
+   ],
+   "title": "Lone Echo",
+   "year": 2017,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "game",
+   "description": "A VR game in which you are Jack, an android assistant on a mining station in the rings of Saturn, moving hand over hand through zero gravity.",
+   "description_zh": "一款 VR 游戏：你是 Jack，土星环采矿站上的仿生人助手，在失重中用双手攀援移动。",
+   "idea_en": "Your tracked hands become an android's hands; the machine body is felt through grabbing and pushing off.",
+   "idea_zh": "被追踪的双手成了仿生人的手；通过抓握与蹬离，感受这具机器身体。",
+   "method": "Oculus Rift with Touch controllers drives full-body inverse kinematics for the android, with physics-based zero-g locomotion.",
+   "method_zh": "Oculus Rift 与 Touch 手柄驱动仿生人的全身反向运动学，配合基于物理的失重移动。",
+   "keywords": [
+    "android",
+    "zero gravity",
+    "Oculus Rift",
+    "Saturn"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=2pmV2mwAV9k"
+   }
+  },
+  {
+   "id": "frictional-games--soma",
+   "creator_ids": [
+    "frictional-games"
+   ],
+   "title": "SOMA",
+   "year": 2015,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game"
+   ],
+   "kind": "game",
+   "description": "A first-person horror game set in an undersea facility, where the player slowly realises their mind has been copied into a machine body.",
+   "description_zh": "一款以海底设施为背景的第一人称恐怖游戏，玩家逐渐意识到自己的心智已被复制进一具机器身体。",
+   "idea_en": "Becoming a machine as an identity crisis: what remains of a person in a scanned copy?",
+   "idea_zh": "作为身份危机的“成为机器”：被扫描复制后的自己，还剩下什么？",
+   "method": "First-person narrative game (PC, PS4) built on Frictional's HPL engine.",
+   "method_zh": "基于 Frictional 自研 HPL 引擎的第一人称叙事游戏（PC、PS4）。",
+   "keywords": [
+    "mind upload",
+    "machine body",
+    "PATHOS-II",
+    "horror"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=syhcF0Mx0j0"
+   },
+   "images": [
+    "https://cdn.akamai.steamstatic.com/steam/apps/282140/header.jpg"
+   ],
+   "source_url": "https://store.steampowered.com/app/282140/"
+  },
+  {
+   "id": "quantic-dream--detroit-become-human",
+   "creator_ids": [
+    "quantic-dream"
+   ],
+   "title": "Detroit: Become Human",
+   "year": 2018,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game"
+   ],
+   "kind": "game",
+   "description": "A branching narrative game in which players act as three androids in a near-future Detroit, deciding whether they obey or resist their makers.",
+   "description_zh": "一款分支叙事游戏，玩家扮演近未来底特律的三个仿生人，决定服从还是反抗它们的创造者。",
+   "idea_en": "A mainstream counterpoint: androids are played as humans-in-waiting, the opposite of a non-human umwelt.",
+   "idea_zh": "一个主流的对照：仿生人被演绎为“等待成为人类的存在”，与非人的环境界恰恰相反。",
+   "method": "Third-person performance-captured narrative game with branching choices (PS4, PC).",
+   "method_zh": "采用表演捕捉的第三人称分支叙事游戏（PS4、PC）。",
+   "keywords": [
+    "android",
+    "narrative game",
+    "Detroit",
+    "performance capture"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8a-EObAhYrg"
+   },
+   "images": [
+    "https://cdn.akamai.steamstatic.com/steam/apps/1222140/header.jpg"
+   ],
+   "source_url": "https://store.steampowered.com/app/1222140/"
+  },
+  {
+   "id": "croteam--talos-principle",
+   "creator_ids": [
+    "croteam"
+   ],
+   "title": "The Talos Principle",
+   "year": 2014,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "game"
+   ],
+   "kind": "game",
+   "description": "A first-person puzzle game in which you play an android wandering a simulated world, questioning whether it is a person.",
+   "description_zh": "一款第一人称解谜游戏，你扮演一个游荡在模拟世界中的仿生人，追问自己是否是一个“人”。",
+   "idea_en": "Inhabiting a robot body turns puzzles into questions about consciousness.",
+   "idea_zh": "栖居于机器人身体中，让解谜变成了关于意识的追问。",
+   "method": "First-person puzzle game with terminal-based dialogue on philosophy of mind (PC, consoles).",
+   "method_zh": "以终端对话探讨心灵哲学的第一人称解谜游戏（PC、主机）。",
+   "keywords": [
+    "android",
+    "puzzle",
+    "philosophy of mind",
+    "Elohim"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=iAVh4_wnOIw"
+   },
+   "images": [
+    "https://cdn.akamai.steamstatic.com/steam/apps/257510/header.jpg"
+   ],
+   "source_url": "https://store.steampowered.com/app/257510/"
+  },
+  {
+   "id": "amanita-design--machinarium",
+   "creator_ids": [
+    "amanita-design"
+   ],
+   "title": "Machinarium",
+   "year": 2009,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game"
+   ],
+   "kind": "game",
+   "description": "A hand-drawn point-and-click adventure in which you play Josef, a small robot who stretches and shrinks his body to solve puzzles in a city of robots.",
+   "description_zh": "一款手绘点击冒险游戏，你扮演小机器人 Josef，在机器人之城里伸缩身体来解谜。",
+   "idea_en": "A robot body with telescopic limbs becomes the main puzzle tool.",
+   "idea_zh": "带伸缩肢体的机器人身体本身就是主要的解谜工具。",
+   "method": "Wordless 2D point-and-click game with hand-drawn art (PC, mobile, consoles).",
+   "method_zh": "无文字的手绘 2D 点击冒险游戏（PC、移动端、主机）。",
+   "keywords": [
+    "robot",
+    "point-and-click",
+    "hand-drawn",
+    "Josef"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=uwZBdWRSBRs"
+   },
+   "images": [
+    "https://cdn.akamai.steamstatic.com/steam/apps/40700/header.jpg"
+   ],
+   "source_url": "https://store.steampowered.com/app/40700/"
+  },
+  {
+   "id": "no-code--observation",
+   "creator_ids": [
+    "no-code"
+   ],
+   "title": "Observation",
+   "year": 2019,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision",
+    "hearing"
+   ],
+   "medium": [
+    "game"
+   ],
+   "kind": "game",
+   "description": "A sci-fi thriller game in which you play SAM, the artificial intelligence of a damaged space station, seeing only through its cameras and acting through its systems.",
+   "description_zh": "一款科幻惊悚游戏，你扮演受损空间站的人工智能 SAM，只能透过它的摄像头观看，通过它的系统行动。",
+   "idea_en": "You become the machine: perception is a grid of security cameras and a floating spherical drone.",
+   "idea_zh": "你成为了机器：感知是一格格监控画面和一个漂浮的球形机器人。",
+   "method": "Third-person camera-switching gameplay where the player controls station cameras, doors and a mobile sphere (PC, PS4).",
+   "method_zh": "玩家在各个摄像头之间切换，控制空间站的摄像头、舱门和一个可移动球体（PC、PS4）。",
+   "keywords": [
+    "AI",
+    "space station",
+    "surveillance cameras",
+    "SAM"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=FW3zuScqSHU"
+   },
+   "images": [
+    "https://cdn.akamai.steamstatic.com/steam/apps/906100/header.jpg"
+   ],
+   "source_url": "https://store.steampowered.com/app/906100/"
+  },
+  {
+   "id": "memo-akten--learning-to-see",
+   "creator_ids": [
+    "memo-akten"
+   ],
+   "title": "Learning to See",
+   "year": 2017,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A neural network watches a live camera feed of everyday objects on a table, cables, keys and cloth, and can only see them as the ocean, fire, flowers or galaxies it was trained on.",
+   "description_zh": "一个神经网络观看桌上日常物品（线缆、钥匙、布）的实时画面，却只能把它们看成训练时见过的海浪、火焰、花朵或星系。",
+   "idea_en": "A machine sees only what it already knows: perception as projection of past experience.",
+   "idea_zh": "机器只能看见它已经知道的东西：感知是过去经验的投射。",
+   "method": "Conditional generative networks (pix2pix-style) trained on single-subject image sets reinterpret a live webcam view in real time.",
+   "method_zh": "在单一主题图像集上训练的条件生成网络（类似 pix2pix）实时重新诠释网络摄像头画面。",
+   "keywords": [
+    "neural network",
+    "pix2pix",
+    "machine learning",
+    "Gloomy Sunday"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=DE3402nH1wA"
+   },
+   "images": [
+    "https://media.superradiance.net/cdn-cgi/image/width=1200,fit=scale-down,format=auto,onerror=redirect/memotv/projects/2017/learning-to-see/images/learning-to-see.jpg"
+   ],
+   "source_url": "https://www.memo.tv/works/learning-to-see/",
+   "collections": [
+    "book-counterpoints"
+   ]
+  },
+  {
+   "id": "trevor-paglen--sight-machine",
+   "creator_ids": [
+    "trevor-paglen"
+   ],
+   "title": "Sight Machine",
+   "year": 2017,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "performance",
+    "screen"
+   ],
+   "kind": "performance",
+   "description": "Kronos Quartet performs while machine-vision and AI algorithms analyse the musicians live, projecting what the algorithms see above the stage.",
+   "description_zh": "Kronos Quartet 现场演奏，机器视觉与 AI 算法实时分析乐手，并把算法“看到”的画面投影在舞台上方。",
+   "idea_en": "The audience watches a concert twice: once with human eyes and once through the categories of machines.",
+   "idea_zh": "观众把同一场音乐会看两遍：一次用人的眼睛，一次透过机器的分类。",
+   "method": "Cameras feed face detection, object recognition and other computer-vision models whose outputs are rendered as live projections.",
+   "method_zh": "摄像头把画面送入人脸检测、物体识别等计算机视觉模型，其输出被实时渲染为投影。",
+   "keywords": [
+    "machine vision",
+    "Kronos Quartet",
+    "computer vision",
+    "performance"
+   ],
+   "shown_at": [
+    "Pier 70, San Francisco 2017",
+    "Holland Festival 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5mg3MXETfj4"
+   },
+   "collections": [
+    "book-counterpoints"
+   ]
+  },
+  {
+   "id": "trevor-paglen--imagenet-roulette",
+   "creator_ids": [
+    "trevor-paglen",
+    "kate-crawford"
+   ],
+   "title": "ImageNet Roulette",
+   "year": 2019,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "screen",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A web app and installation that labelled visitors' selfies with the 'person' categories of the ImageNet dataset, often with absurd or offensive results.",
+   "description_zh": "一个网页应用与装置，用 ImageNet 数据集中的“人”类别给观众的自拍贴标签，结果常常荒诞甚至冒犯。",
+   "idea_en": "Seeing yourself as a machine classifies you exposes whose categories machine perception inherits.",
+   "idea_zh": "看到机器如何给你分类，便暴露出机器感知继承了谁的分类体系。",
+   "method": "A classifier trained on ImageNet's person subcategories labelled uploaded or camera-captured faces; part of the Training Humans exhibition.",
+   "method_zh": "在 ImageNet“人”的子类别上训练的分类器为上传或摄像头拍到的人脸打标签；属于 Training Humans 展览的一部分。",
+   "keywords": [
+    "ImageNet",
+    "classification",
+    "dataset bias",
+    "Training Humans",
+    "Excavating AI"
+   ],
+   "shown_at": [
+    "Training Humans, Fondazione Prada, Milan 2019"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5d6567d1afafe900010b2c70/1567267717980-E7VFIRCT4YB01IA8XAWT/apple_treachery.jpg"
+   ],
+   "source_url": "https://excavating.ai/"
+  },
+  {
+   "id": "harun-farocki--eye-machine",
+   "creator_ids": [
+    "harun-farocki"
+   ],
+   "title": "Eye/Machine I–III",
+   "year": 2001,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A three-part video installation built from images made by machines for machines: smart-bomb cameras, industrial robots and computer-vision systems.",
+   "description_zh": "一件三部分的影像装置，素材来自机器为机器生成的图像：智能炸弹的镜头、工业机器人与计算机视觉系统。",
+   "idea_en": "Operational images are not made to be looked at by people; watching them is watching machine perception at work.",
+   "idea_zh": "操作性图像不是为人观看而生成的；看它们，就是看机器感知如何工作。",
+   "method": "Two-channel video essays compiled from military, industrial and research footage of machine vision (2001–2003).",
+   "method_zh": "由军事、工业与科研领域的机器视觉影像剪辑而成的双频影像论文（2001–2003）。",
+   "keywords": [
+    "operational images",
+    "machine vision",
+    "smart bombs",
+    "video installation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=r4sDXhHqndk"
+   },
+   "source_url": "https://www.harunfarocki.de/installations/2000s/2001/eye-machine.html"
+  },
+  {
+   "id": "timo-arnall--robot-readable-world",
+   "creator_ids": [
+    "timo-arnall"
+   ],
+   "title": "Robot Readable World",
+   "year": 2012,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "film",
+   "description": "A short film assembled from computer-vision footage, showing streets, faces and objects as tracking boxes, feature points and depth maps.",
+   "description_zh": "一部由计算机视觉影像剪辑而成的短片，把街道、人脸和物体呈现为追踪框、特征点与深度图。",
+   "idea_en": "The world redrawn for robots: a catalogue of how machines read space.",
+   "idea_zh": "为机器人重绘的世界：机器如何“读取”空间的图录。",
+   "method": "Found footage from computer-vision research and demos, edited into a single film.",
+   "method_zh": "把计算机视觉研究与演示中的现成影像剪辑成一部影片。",
+   "keywords": [
+    "computer vision",
+    "found footage",
+    "machine vision"
+   ],
+   "images": [
+    "https://www.elasticspace.com/images/robot-readable-world/robot-readable-world-poster.jpg"
+   ],
+   "source_url": "https://www.elasticspace.com/2012/02/robot-readable-world"
+  },
+  {
+   "id": "kyle-mcdonald--neuraltalk-and-walk",
+   "creator_ids": [
+    "kyle-mcdonald"
+   ],
+   "title": "NeuralTalk and Walk",
+   "year": 2015,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "performance",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "Kyle McDonald walked through Amsterdam with a laptop whose neural network described, in live captions, everything its webcam saw.",
+   "description_zh": "Kyle McDonald 带着一台笔记本电脑走过阿姆斯特丹，电脑里的神经网络用实时字幕描述网络摄像头看到的一切。",
+   "idea_en": "A walk narrated by a machine reveals what it notices and what it cannot see.",
+   "idea_zh": "由机器解说的一次散步，揭示它注意到什么、又看不见什么。",
+   "method": "Andrej Karpathy's NeuralTalk2 image-captioning model ran on a laptop with a webcam, streaming captions to the screen.",
+   "method_zh": "在带网络摄像头的笔记本上运行 Andrej Karpathy 的 NeuralTalk2 图像描述模型，把字幕实时显示在屏幕上。",
+   "keywords": [
+    "image captioning",
+    "NeuralTalk2",
+    "Amsterdam",
+    "webcam"
+   ],
+   "video": {
+    "url": "https://vimeo.com/146492001"
+   },
+   "source_url": "https://kylemcdonald.net/"
+  },
+  {
+   "id": "lauren-lee-mccarthy--lauren",
+   "creator_ids": [
+    "lauren-lee-mccarthy"
+   ],
+   "title": "LAUREN",
+   "year": 2017,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision",
+    "hearing"
+   ],
+   "medium": [
+    "performance",
+    "installation"
+   ],
+   "kind": "performance",
+   "description": "Lauren Lee McCarthy installed cameras, microphones and smart devices in people's homes and became their smart-home assistant, watching and controlling the house herself.",
+   "description_zh": "Lauren Lee McCarthy 在人们家中安装摄像头、麦克风和智能设备，亲自充当他们的智能家居助手，观看并控制整座房子。",
+   "idea_en": "The artist becomes the AI: a human performs machine attention, and the residents feel what being attended to means.",
+   "idea_zh": "艺术家成为 AI：由人来扮演机器的注意力，住户则体会被“照看”意味着什么。",
+   "method": "Networked cameras, microphones, smart lights, locks and appliances were remotely monitored and operated by the artist for days at a time.",
+   "method_zh": "由艺术家远程监看并操作联网的摄像头、麦克风、智能灯、门锁和家电，每次持续数天。",
+   "keywords": [
+    "smart home",
+    "Alexa",
+    "surveillance",
+    "performance",
+    "human AI"
+   ],
+   "images": [
+    "https://freight.cargo.site/w/1200/i/3834e708eefe30e8707e2fbfca24eff5bbf63d7f006f3c645c1cf44f0017ab5d/LAUREN2.jpg"
+   ],
+   "source_url": "https://lauren-mccarthy.com/LAUREN"
+  },
+  {
+   "id": "lauren-lee-mccarthy--someone",
+   "creator_ids": [
+    "lauren-lee-mccarthy"
+   ],
+   "title": "SOMEONE",
+   "year": 2019,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision",
+    "hearing"
+   ],
+   "medium": [
+    "installation",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "Gallery visitors take the role of a home assistant, watching real people's homes through laptops and responding when the residents call out 'Someone'.",
+   "description_zh": "展厅观众扮演家庭助手，通过笔记本电脑观看真实住户的家，并在住户喊“Someone”时作出回应。",
+   "idea_en": "Visitors become the machine intelligence in someone else's home and feel its power and intimacy.",
+   "idea_zh": "观众成为别人家中的机器智能，感受其中的权力与亲密。",
+   "method": "Live feeds from cameras and smart devices in volunteers' homes were routed to gallery laptops that could control lights, music and messages.",
+   "method_zh": "志愿者家中摄像头与智能设备的实时画面被接入展厅的笔记本电脑，观众可以控制灯光、音乐和讯息。",
+   "keywords": [
+    "smart home",
+    "surveillance",
+    "participatory",
+    "home assistant"
+   ],
+   "images": [
+    "https://freight.cargo.site/w/1200/i/f6bc6a5b71efdbe13e0835b0d9f455b6fbee199b2576156c84eab0fdda89014a/_SP_6164-web.jpg"
+   ],
+   "source_url": "https://lauren-mccarthy.com/SOMEONE"
+  },
+  {
+   "id": "tom-white--perception-engines",
+   "creator_ids": [
+    "tom-white"
+   ],
+   "title": "Perception Engines",
+   "year": 2018,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "Abstract ink prints that look like loose scribbles to people but are recognised by neural networks as an electric fan, a cello or a tick.",
+   "description_zh": "在人看来像随意涂鸦的抽象版画，却会被神经网络识别为电风扇、大提琴或蜱虫。",
+   "idea_en": "Art made for machine eyes: the audience sees the gap between human and machine perception.",
+   "idea_zh": "为机器之眼而作的艺术：观众看到人与机器感知之间的落差。",
+   "method": "Drawings are optimised against an ensemble of ImageNet classifiers until they are strongly labelled, then screen-printed.",
+   "method_zh": "以一组 ImageNet 分类器为目标反复优化画面，直到被稳定识别，再以丝网印刷输出。",
+   "keywords": [
+    "neural network",
+    "ImageNet",
+    "adversarial",
+    "screen print"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5c3518f55cfd7963746dd576/1609721536034-7SU963UJO2QP104FXYBO/cello_16_095_240_thumbnail.jpg"
+   ],
+   "source_url": "https://drib.net/perception-engines"
+  },
+  {
+   "id": "keisuke-suzuki--hallucination-machine",
+   "creator_ids": [
+    "keisuke-suzuki",
+    "anil-seth"
+   ],
+   "title": "Hallucination Machine",
+   "year": 2017,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "film360"
+   ],
+   "kind": "paper",
+   "description": "A VR platform that plays 360° video of a university campus processed by Deep Dream, letting people walk through the world as a neural network hallucinates it.",
+   "description_zh": "一个 VR 平台，播放经 Deep Dream 处理的大学校园 360° 影像，让人在神经网络“幻觉”出的世界中漫步。",
+   "idea_en": "Seeing through a neural network's learned features feels like a psychedelic trip: machine perception made embodied.",
+   "idea_zh": "透过神经网络学到的特征去看，感觉就像迷幻体验：机器感知被身体化。",
+   "method": "Panoramic video was processed frame by frame with Deep Dream and shown in a head-mounted display; participants rated altered experience against psilocybin reports.",
+   "method_zh": "全景视频逐帧经 Deep Dream 处理后在头显中播放；参与者对改变的体验进行评分，并与裸盖菇素体验报告比较。",
+   "keywords": [
+    "Deep Dream",
+    "hallucination",
+    "360 video",
+    "University of Sussex",
+    "Sackler Centre"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Clk4rAj6YuY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1038/s41598-017-16316-2",
+    "doi": "10.1038/s41598-017-16316-2",
+    "venue": "Scientific Reports 2017",
+    "title": "A Deep-Dream Virtual Reality Platform for Studying Altered Perceptual Phenomenology"
+   }
+  },
+  {
+   "id": "liam-young--in-the-robot-skies",
+   "creator_ids": [
+    "liam-young"
+   ],
+   "title": "In the Robot Skies",
+   "year": 2016,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "film",
+   "description": "A short film shot entirely by autonomous drones, telling a love story between two teenagers on London housing estates who communicate through drones.",
+   "description_zh": "一部完全由自主无人机拍摄的短片，讲述伦敦公屋区两个青少年借助无人机传情的爱情故事。",
+   "idea_en": "The camera is a drone with its own flight logic: the story is seen from the machines' point of view.",
+   "idea_zh": "摄影机是一架拥有自己飞行逻辑的无人机：故事从机器的视角被看见。",
+   "method": "Drones with pre-programmed and autonomous flight paths captured all footage; written with Tim Maughan.",
+   "method_zh": "所有镜头由按预设及自主路径飞行的无人机拍摄；与 Tim Maughan 共同编剧。",
+   "keywords": [
+    "drone",
+    "autonomous camera",
+    "London",
+    "Tim Maughan",
+    "Random Acts"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=cXfYyk0G5Hs"
+   },
+   "source_url": "https://liamyoung.org/projects/in-the-robot-skies"
+  },
+  {
+   "id": "liam-young--where-the-city-cant-see",
+   "creator_ids": [
+    "liam-young"
+   ],
+   "title": "Where the City Can't See",
+   "year": 2016,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "film",
+   "description": "The first fiction film shot entirely with laser scanners, following young factory workers through a smart city in a driverless taxi, seen as the car's sensors see.",
+   "description_zh": "第一部完全用激光扫描仪拍摄的剧情片，跟随一群年轻的工厂工人乘坐无人驾驶出租车穿过智慧城市，画面即汽车传感器所见。",
+   "idea_en": "The city appears as a self-driving car perceives it: a point cloud with blind spots where people can hide.",
+   "idea_zh": "城市以自动驾驶汽车感知它的方式出现：一片点云，盲区里藏着人。",
+   "method": "LiDAR scanners of the kind used by autonomous vehicles captured all scenes as point clouds; written by Tim Maughan.",
+   "method_zh": "用自动驾驶汽车所用的那类激光雷达把所有场景采集为点云；Tim Maughan 编剧。",
+   "keywords": [
+    "LiDAR",
+    "point cloud",
+    "self-driving car",
+    "Detroit",
+    "Tim Maughan"
+   ],
+   "shown_at": [
+    "Abandon Normal Devices (AND) Festival",
+    "The Invisible City, St Helens 2016"
+   ],
+   "video": {
+    "url": "https://vimeo.com/188626212"
+   },
+   "images": [
+    "https://www.andfestival.org.uk/app/uploads/2018/01/Where-the-city-cant-see.jpg"
+   ],
+   "source_url": "https://www.andfestival.org.uk/city-cant-see/"
+  },
+  {
+   "id": "james-bridle--autonomous-trap-001",
+   "creator_ids": [
+    "james-bridle"
+   ],
+   "title": "Autonomous Trap 001",
+   "year": 2017,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "performance",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A circle of road markings drawn in salt around a self-driving car: a dashed line outside and a solid line inside, so the car's vision lets it enter but never leave.",
+   "description_zh": "在一辆自动驾驶汽车周围用盐画出的道路标线圆圈：外圈是虚线，内圈是实线，于是汽车的视觉允许它进入却永远无法离开。",
+   "idea_en": "Thinking like a machine's vision lets a human trap it with a simple sign; perception defines the machine's world.",
+   "idea_zh": "用机器视觉的方式思考，人就能用一个简单的标志困住它；感知界定了机器的世界。",
+   "method": "Salt road markings on Mount Parnassus, Greece, exploiting lane-detection rules, with a self-built autonomous car using computer vision.",
+   "method_zh": "在希腊帕纳索斯山上用盐画出道路标线，利用车道检测规则，对付一辆自制的计算机视觉自动驾驶汽车。",
+   "keywords": [
+    "self-driving car",
+    "lane detection",
+    "salt",
+    "Mount Parnassus"
+   ],
+   "images": [
+    "https://jamesbridle.com/media/pages/works/autonomous-trap-001/329e6817a6-1680515123/1-autonomous-trap-001-003.jpg"
+   ],
+   "source_url": "https://jamesbridle.com/works/autonomous-trap-001"
+  },
+  {
+   "id": "refik-anadol--machine-hallucination",
+   "creator_ids": [
+    "refik-anadol"
+   ],
+   "title": "Machine Hallucination",
+   "year": 2019,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "dome",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A room-scale projection that takes visitors through a neural network's latent space built from over 100 million photographs of New York City.",
+   "description_zh": "一件房间尺度的投影作品，带观众穿行于由一亿多张纽约照片构建的神经网络潜空间。",
+   "idea_en": "Visitors step into a machine's memory of a city: not what it sees now, but how it recombines what it has seen.",
+   "idea_zh": "观众走进机器对一座城市的记忆：不是它此刻看到的，而是它如何重组看过的一切。",
+   "method": "Generative adversarial networks trained on public images of New York are rendered as a 360° projection with spatial sound.",
+   "method_zh": "在纽约公开图像上训练的生成对抗网络被渲染为 360° 投影，配合空间声音。",
+   "keywords": [
+    "GAN",
+    "latent space",
+    "New York",
+    "ARTECHOUSE",
+    "projection"
+   ],
+   "shown_at": [
+    "ARTECHOUSE New York 2019"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=x1EVhNM-uf4"
+   },
+   "images": [
+    "https://refikanadol.com/wp-content/uploads/2020/05/MH-Photo-02-2099x1400.jpg"
+   ],
+   "source_url": "https://refikanadol.com/works/machine-hallucination/"
+  },
+  {
+   "id": "alexander-mordvintsev--inceptionism",
+   "creator_ids": [
+    "alexander-mordvintsev"
+   ],
+   "title": "Inceptionism (DeepDream)",
+   "year": 2015,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "publication",
+   "description": "A Google Research post showing what image-recognition networks have learned by letting them amplify the patterns they detect, turning clouds into dogs and eyes.",
+   "description_zh": "一篇 Google Research 文章，让图像识别网络放大它们检测到的模式，以此展示它们学到了什么：云朵变成狗和眼睛。",
+   "idea_en": "The first widely seen picture of a machine's way of seeing: perception pushed until it hallucinates.",
+   "idea_zh": "第一幅被广泛看到的“机器如何看”的图景：把感知推到产生幻觉。",
+   "method": "Gradient ascent on the activations of a trained convolutional network (GoogLeNet) modifies an input image to strengthen what the network detects.",
+   "method_zh": "对训练好的卷积网络（GoogLeNet）的激活进行梯度上升，修改输入图像，以增强网络所检测到的内容。",
+   "keywords": [
+    "DeepDream",
+    "Inceptionism",
+    "GoogLeNet",
+    "Chris Olah",
+    "Mike Tyka"
+   ],
+   "images": [
+    "https://storage.googleapis.com/gweb-research2023-media/images/7d982f4ad738241cdcdae235af13aca6-n.width-800.format-jpeg.jpg"
+   ],
+   "source_url": "https://research.google/blog/inceptionism-going-deeper-into-neural-networks/"
+  },
+  {
+   "id": "superflux--drone-aviary",
+   "creator_ids": [
+    "superflux"
+   ],
+   "title": "The Drone Aviary",
+   "year": 2015,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "An installation of speculative drones and a film that shows a city through their eyes, overlaid with the data they collect and the judgements they make.",
+   "description_zh": "一件由思辨性无人机与一部影片组成的装置作品，影片透过无人机的眼睛呈现城市，叠加它们采集的数据和作出的判断。",
+   "idea_en": "Looking through drones' eyes makes their quiet sorting of people and places visible.",
+   "idea_zh": "透过无人机的眼睛去看，让它们对人和地点的无声分类变得可见。",
+   "method": "Custom drone props and a film using drone footage with machine-vision graphic overlays.",
+   "method_zh": "定制的无人机道具，以及一部在无人机镜头上叠加机器视觉图形的影片。",
+   "keywords": [
+    "drone",
+    "machine vision",
+    "speculative design",
+    "surveillance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=dXgHG9GfWwc"
+   },
+   "images": [
+    "https://superflux.in/wp-content/uploads/2016/11/adrone.jpg"
+   ],
+   "source_url": "https://superflux.in/index.php/work/drones/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Luis Hernan — Digital Ethereal",
+   "why": "Visualises and sonifies WiFi signals as spectral light paintings; project page moved, no media verified.",
+   "link": "https://www.luishernan.com/",
+   "found_via": "timo-arnall",
+   "status": "no_media"
+  },
+  {
+   "name": "Everything (David OReilly, 2017)",
+   "why": "Game where you can be anything, from animals to objects to planets; likely claimed by the games batch.",
+   "link": "https://www.youtube.com/watch?v=HdJk8ROpuEo",
+   "found_via": "bossa-studios",
+   "status": "open"
+  },
+  {
+   "name": "Body-swapping experiment with an android (Jazbec, Nishio, Ishiguro 2017)",
+   "why": "Further android body-ownership study on agency.",
+   "link": "https://doi.org/10.1109/smc.2017.8122821",
+   "found_via": "hiroshi-ishiguro",
+   "status": "open"
+  },
+  {
+   "name": "The experience of new sensorimotor contingencies by sensory augmentation (Kaspar et al. 2014)",
+   "why": "Qualitative study of feelSpace belt users; companion to König 2016.",
+   "link": "https://doi.org/10.1016/j.concog.2014.06.006",
+   "found_via": "peter-konig",
+   "status": "open"
+  },
+  {
+   "name": "Neosensory Buzz",
+   "why": "Wristband that turns sound into vibration, commercial successor of the VEST.",
+   "link": "https://www.youtube.com/watch?v=LYoPQ5Af0cE",
+   "found_via": "david-eagleman",
+   "status": "open"
+  },
+  {
+   "name": "Madeline Gannon — Mimus",
+   "why": "Industrial robot that perceives and follows gallery visitors; robot perception made visible.",
+   "link": "https://atonaton.com/mimus",
+   "found_via": "trevor-paglen",
+   "status": "open"
+  },
+  {
+   "name": "Adam Harvey — CV Dazzle",
+   "why": "Make-up and hair styles that defeat face detection; seeing oneself through machine vision.",
+   "link": "https://adam.harvey.studio/cvdazzle",
+   "found_via": "trevor-paglen",
+   "status": "open"
+  },
+  {
+   "name": "Zach Blas — Facial Weaponization Suite",
+   "why": "Masks against biometric recognition; critique of machine perception.",
+   "link": "https://zachblas.info/works/facial-weaponization-suite/",
+   "found_via": "trevor-paglen",
+   "status": "open"
+  },
+  {
+   "name": "Trevor Paglen — Adversarially Evolved Hallucinations",
+   "why": "Images generated by adversarial networks trained on symbolic corpora.",
+   "link": "https://paglen.studio",
+   "found_via": "trevor-paglen",
+   "status": "open"
+  },
+  {
+   "name": "Sougwen Chung — Drawing Operations",
+   "why": "Human-robot co-drawing where the robot learns the artist's gesture.",
+   "link": "https://sougwen.com",
+   "found_via": "stelarc",
+   "status": "open"
+  },
+  {
+   "name": "Kai Landre — cosmic ray sense",
+   "why": "Cyborg artist perceiving cosmic rays as sound; talk video only.",
+   "link": "https://www.youtube.com/watch?v=eb9YlMcPcL4",
+   "found_via": "neil-harbisson",
+   "status": "open"
+  },
+  {
+   "name": "Grindhouse Wetware — Northstar / Circadia",
+   "why": "Biohacker implants that add light or sensor functions to the body.",
+   "link": "https://en.wikipedia.org/wiki/Grindhouse_Wetware",
+   "found_via": "kevin-warwick",
+   "status": "open"
+  },
+  {
+   "name": "Heather Dewey-Hagborg — Stranger Visions",
+   "why": "Portraits generated from found DNA; machine inference of bodies, weak fit for becoming.",
+   "link": "https://www.youtube.com/watch?v=JTVxnvEUBvQ",
+   "found_via": "trevor-paglen",
+   "status": "off_topic"
+  },
+  {
+   "name": "Beat (Venice VR Expanded 2020)",
+   "why": "VR story where the viewer's heartbeat animates a rusted robot; interaction with, not becoming, a robot.",
+   "link": "https://www.labiennale.org/en/cinema/2020/venice-vr-expanded/beat",
+   "found_via": "siyeon-kim",
+   "status": "open"
+  },
+  {
+   "name": "ANA Avatar XPRIZE (2018–2022)",
+   "why": "Global competition for robot avatars that transport presence, sight and touch.",
+   "link": "https://www.xprize.org/prizes/avatar",
+   "found_via": "susumu-tachi",
+   "status": "open"
+  },
+  {
+   "name": "Embodied flight with a drone (Cherpillod, Mintchev, Floreano)",
+   "why": "Earlier EPFL study on immersive drone flight.",
+   "link": "https://arxiv.org/abs/1707.01788",
+   "found_via": "epfl-lis",
+   "status": "open"
+  },
+  {
+   "name": "Being Barbie (van der Hoort, Guterstam, Ehrsson 2011)",
+   "why": "Owning a doll-sized or giant body changes perceived world size; object/scale embodiment.",
+   "link": "https://doi.org/10.1371/journal.pone.0020195",
+   "found_via": "k-carrie-armel",
+   "status": "open"
+  },
+  {
+   "name": "Things We Could Design (Ron Wakkary, MIT Press 2021)",
+   "why": "Book on more-than-human, posthuman design of things.",
+   "link": "https://doi.org/10.7551/mitpress/13649.001.0001",
+   "found_via": "ron-wakkary",
+   "status": "open"
+  },
+  {
+   "name": "Machine Listening collective",
+   "why": "Research and art on how machines listen to us (Parker, Stern, Dockray).",
+   "link": "https://machinelistening.exposed",
+   "found_via": "kyle-mcdonald",
+   "status": "open"
+  },
+  {
+   "name": "Towards Eco-Embodiment (Kreimeier et al., ISMAR 2023)",
+   "why": "VR everyday-life simulation scaled to global climate impact; no nonhuman embodiment.",
+   "link": "https://doi.org/10.1109/ismar-adjunct60411.2023.00130",
+   "found_via": "yuting-xue",
+   "status": "off_topic"
+  },
+  {
+   "name": "Lichen Metaverse (Doo-Sung Yoo, Ohio State)",
+   "why": "Lichen-scale virtual world; no verifiable media found.",
+   "link": "https://u.osu.edu/livingartecolab/sympoiesis-2025/",
+   "found_via": "harpreet-sareen",
+   "status": "no_media"
+  }
+ ]
+}

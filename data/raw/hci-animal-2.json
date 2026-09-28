@@ -1,0 +1,1761 @@
+{
+ "batch": "hci-animal",
+ "creators": [
+  {
+   "id": "mel-slater",
+   "name": "Mel Slater",
+   "kind": "person",
+   "role": "VR researcher, University of Barcelona (Event Lab); formerly UCL",
+   "based": "Barcelona, Spain",
+   "bio": "Mel Slater pioneered research on presence and virtual body ownership, from body swaps to extended avatars.",
+   "why": "His lab showed that people can own bodies with tails and very long arms, the basis for non-human embodiment.",
+   "disciplines": [
+    "science",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "虚拟现实研究者，巴塞罗那大学 Event Lab；曾任职伦敦大学学院",
+   "bio_zh": "Mel Slater 开创了关于临场感与虚拟身体所有感的研究，从身体互换到延展化身。",
+   "why_zh": "他的实验室证明人可以拥有带尾巴或超长手臂的身体，这是非人类化身研究的基础。",
+   "based_zh": "巴塞罗那，西班牙",
+   "connected_to": [
+    "konstantina-kilteni"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "konstantina-kilteni",
+   "name": "Konstantina Kilteni",
+   "kind": "person",
+   "role": "Neuroscientist, Karolinska Institutet / Donders Institute",
+   "based": "Stockholm, Sweden",
+   "bio": "Konstantina Kilteni studies body representation and self-touch; with Mel Slater she defined the sense of embodiment in VR.",
+   "why": "Her three-part model (ownership, agency, self-location) is the standard frame for measuring any embodiment, human or not.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {},
+   "role_zh": "神经科学家，卡罗林斯卡学院 / 唐德斯研究所",
+   "bio_zh": "Konstantina Kilteni 研究身体表征与自我触碰；她与 Mel Slater 一起定义了 VR 中的“具身感”。",
+   "why_zh": "她提出的三要素模型（所有感、能动感、自我定位）是测量任何具身（无论是否为人形）的标准框架。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [
+    "mel-slater"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shuto-takashita",
+   "name": "Shuto Takashita",
+   "kind": "person",
+   "role": "HCI researcher, University of Tokyo (Inami Lab)",
+   "based": "Tokyo, Japan",
+   "bio": "Shuto Takashita designs mappings that let people control non-humanoid body parts, working with Masahiko Inami and Michiteru Kitazaki.",
+   "why": "His octopus-like tentacle and 'plausible embodiment' framework treat non-human bodies as designable, not as copies of animals.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "人机交互研究者，东京大学稻见实验室",
+   "bio_zh": "Shuto Takashita 与稻见昌彦、北崎充晃合作，设计让人控制非人形身体部件的映射方式。",
+   "why_zh": "他的章鱼式触手与“可信具身”框架把非人类身体视为可设计的对象，而不是动物的复制品。",
+   "based_zh": "东京，日本",
+   "connected_to": [
+    "michiteru-kitazaki",
+    "kouta-minamizawa"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yu-jiang",
+   "name": "Yu Jiang",
+   "kind": "person",
+   "role": "HCI researcher, Tsinghua University",
+   "based": "Beijing, China",
+   "bio": "Yu Jiang works with Yukang Yan and David Lindlbauer on controlling non-humanoid avatars.",
+   "why": "HandAvatar turns the dexterity of one hand into the body of a spider, dragon or tank.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "人机交互研究者，清华大学",
+   "bio_zh": "Yu Jiang 与 Yukang Yan、David Lindlbauer 合作研究非人形化身的控制。",
+   "why_zh": "HandAvatar 把一只手的灵巧转化为蜘蛛、龙或坦克的身体。",
+   "based_zh": "北京，中国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jaan-aru",
+   "name": "Jaan Aru",
+   "kind": "person",
+   "role": "Neuroscientist, University of Tartu",
+   "based": "Tartu, Estonia",
+   "bio": "Jaan Aru studies consciousness and learning; with Madis Vasser he ran the 'human octopus' VR experiments.",
+   "why": "Tested how many extra hands a person can usefully control.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {},
+   "role_zh": "神经科学家，塔尔图大学",
+   "bio_zh": "Jaan Aru 研究意识与学习；他与 Madis Vasser 进行了“人类章鱼”VR 实验。",
+   "why_zh": "检验了一个人能有效控制多少只额外的手。",
+   "based_zh": "塔尔图，爱沙尼亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dani-clode",
+   "name": "Dani Clode",
+   "kind": "person",
+   "role": "Designer, Plasticity Lab (University of Cambridge / UCL)",
+   "based": "London, UK",
+   "bio": "Dani Clode designed the Third Thumb as a graduate project at the Royal College of Art and developed it with Tamar Makin's lab.",
+   "why": "Reframes prosthetics as extensions: a sixth digit anyone can learn to use.",
+   "disciplines": [
+    "design",
+    "science"
+   ],
+   "links": {
+    "site": "https://www.daniclode.com"
+   },
+   "role_zh": "设计师，可塑性实验室（剑桥大学 / 伦敦大学学院）",
+   "bio_zh": "Dani Clode 在皇家艺术学院读研时设计了“第三拇指”，并与 Tamar Makin 的实验室一起继续开发。",
+   "why_zh": "把假肢重新定义为延伸：一根人人都能学会使用的第六指。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "tamar-makin"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tamar-makin",
+   "name": "Tamar Makin",
+   "kind": "person",
+   "role": "Professor of cognitive neuroscience, University of Cambridge (Plasticity Lab)",
+   "based": "Cambridge, UK",
+   "bio": "Tamar Makin studies how the brain represents the body, prosthetics and augmentation.",
+   "why": "Her Third Thumb studies show what learning an extra body part does to the brain's map of the hand.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {},
+   "role_zh": "认知神经科学教授，剑桥大学可塑性实验室",
+   "bio_zh": "Tamar Makin 研究大脑如何表征身体、假肢与增强装置。",
+   "why_zh": "她的第三拇指研究揭示了学习一个额外身体部件会如何改变大脑中的手部地图。",
+   "based_zh": "剑桥，英国",
+   "connected_to": [
+    "dani-clode"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "michiteru-kitazaki",
+   "name": "Michiteru Kitazaki",
+   "kind": "person",
+   "role": "Professor of perception, Toyohashi University of Technology",
+   "based": "Toyohashi, Japan",
+   "bio": "Michiteru Kitazaki studies visual perception, body ownership and shared or extra bodies in VR (JST ERATO Inami Jizai Body project).",
+   "why": "His lab tests whether people can own and share robotic limbs they do not control alone.",
+   "disciplines": [
+    "science",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "感知研究教授，丰桥技术科学大学",
+   "bio_zh": "北崎充晃研究视知觉、身体所有感以及 VR 中的共享身体与额外身体（JST ERATO 稻见自在化身体项目）。",
+   "why_zh": "他的实验室检验人能否拥有并共享那些并非由自己单独控制的机器肢体。",
+   "based_zh": "丰桥，日本",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gowrishankar-ganesh",
+   "name": "Gowrishankar Ganesh",
+   "kind": "person",
+   "role": "Robotics and neuroscience researcher, CNRS-LIRMM",
+   "based": "Montpellier, France",
+   "bio": "Gowrishankar Ganesh studies human motor control and embodiment of tools and robots.",
+   "why": "Asked whether a limb that moves independently of every real limb can still feel like one's own.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {},
+   "role_zh": "机器人与神经科学研究者，法国国家科研中心 LIRMM",
+   "bio_zh": "Gowrishankar Ganesh 研究人的运动控制，以及对工具与机器人的具身。",
+   "why_zh": "追问一条独立于所有真实肢体运动的肢体，是否仍能被感受为自己的。",
+   "based_zh": "蒙彼利埃，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "haoran-xie",
+   "name": "Haoran Xie",
+   "kind": "person",
+   "role": "HCI researcher, Japan Advanced Institute of Science and Technology",
+   "based": "Nomi, Japan",
+   "bio": "Haoran Xie's lab designs wearable and augmentation devices.",
+   "why": "Built a wearable tail that supports body weight like a kangaroo's and expresses emotion like a dog's.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "人机交互研究者，北陆先端科学技术大学院大学",
+   "bio_zh": "Haoran Xie 的实验室设计可穿戴与人体增强设备。",
+   "why_zh": "制作了一条可穿戴尾巴：能像袋鼠尾巴那样支撑体重，也能像狗尾巴那样表达情绪。",
+   "based_zh": "能美，日本",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "takuji-narumi",
+   "name": "Takuji Narumi",
+   "kind": "person",
+   "role": "Associate professor, University of Tokyo",
+   "based": "Tokyo, Japan",
+   "bio": "Takuji Narumi studies how virtual bodies and multisensory cues change perception and behaviour.",
+   "why": "His lab asked how to own a tail you can rarely see.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "东京大学副教授",
+   "bio_zh": "Takuji Narumi 研究虚拟身体与多感官线索如何改变感知与行为。",
+   "why_zh": "他的实验室研究如何拥有一条几乎看不到的尾巴。",
+   "based_zh": "东京，日本",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "matthew-longo",
+   "name": "Matthew R. Longo",
+   "kind": "person",
+   "role": "Professor of psychology, Birkbeck, University of London",
+   "based": "London, UK",
+   "bio": "Matthew Longo studies body representation, touch and illusions of the body.",
+   "why": "His sixth-finger illusions show how quickly the hand map accepts an extra digit.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {},
+   "role_zh": "心理学教授，伦敦大学伯贝克学院",
+   "bio_zh": "Matthew Longo 研究身体表征、触觉与身体错觉。",
+   "why_zh": "他的第六指错觉揭示了手部地图接纳额外手指的速度之快。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sang-won-leigh",
+   "name": "Sang-won Leigh",
+   "kind": "person",
+   "role": "Assistant professor, Georgia Tech; formerly MIT Media Lab Fluid Interfaces",
+   "based": "Atlanta, USA",
+   "bio": "Sang-won Leigh designs body-extending robots and wrote on human–machine body plasticity with Pattie Maes.",
+   "why": "Proposed 'morphological interfaces' that change the shape of the body itself.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "佐治亚理工学院助理教授；曾就职于 MIT 媒体实验室 Fluid Interfaces 组",
+   "bio_zh": "Sang-won Leigh 设计延伸身体的机器人，并与 Pattie Maes 合写了关于人机身体可塑性的论文。",
+   "why_zh": "提出了改变身体形态本身的“形态界面”。",
+   "based_zh": "亚特兰大，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jennifer-molnar",
+   "name": "Jennifer Molnar",
+   "kind": "person",
+   "role": "Robotics and VR researcher",
+   "based": "USA",
+   "bio": "Jennifer Molnar works on soft robotics and non-anthropomorphic hands with Yigit Mengüç.",
+   "why": "Argued that non-human hands need non-human control, not one-to-one finger mapping.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "机器人与虚拟现实研究者",
+   "bio_zh": "Jennifer Molnar 与 Yigit Mengüç 合作研究软体机器人与非拟人之手。",
+   "why_zh": "主张非人类之手需要非人类的控制方式，而不是一一对应的手指映射。",
+   "based_zh": "美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ehud-sharlin",
+   "name": "Ehud Sharlin",
+   "kind": "person",
+   "role": "Professor of computer science, University of Calgary",
+   "based": "Calgary, Canada",
+   "bio": "Ehud Sharlin leads the uTouch group on human–robot interaction and physical interfaces.",
+   "why": "Studied how cyborg extra arms could gesture and communicate.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "计算机科学教授，卡尔加里大学",
+   "bio_zh": "Ehud Sharlin 领导 uTouch 研究组，研究人机交互与实体界面。",
+   "why_zh": "研究了赛博格的额外手臂如何做手势、进行交流。",
+   "based_zh": "卡尔加里，加拿大",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hongyu-zhou",
+   "name": "Hongyu Zhou",
+   "kind": "person",
+   "role": "HCI researcher, University of Sydney",
+   "based": "Sydney, Australia",
+   "bio": "Hongyu Zhou studies control of supernumerary limbs with Anusha Withana.",
+   "why": "Mapped how people juggle control of many virtual arms at once.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "人机交互研究者，悉尼大学",
+   "bio_zh": "Hongyu Zhou 与 Anusha Withana 一起研究额外肢体的控制。",
+   "why_zh": "梳理了人如何同时操控多条虚拟手臂。",
+   "based_zh": "悉尼，澳大利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "adam-drogemuller",
+   "name": "Adam Drogemuller",
+   "kind": "person",
+   "role": "VR researcher, University of South Australia",
+   "based": "Adelaide, Australia",
+   "bio": "Adam Drogemuller works on immersive analytics and body remapping in VR.",
+   "why": "Let users hand control of a third arm from one limb to another by gaze and voice.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "虚拟现实研究者，南澳大学",
+   "bio_zh": "Adam Drogemuller 研究沉浸式分析与 VR 中的身体重映射。",
+   "why_zh": "让用户通过注视与语音，把第三只手臂的控制权在不同肢体之间切换。",
+   "based_zh": "阿德莱德，澳大利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "siqi-yu",
+   "name": "Siqi Yu",
+   "kind": "person",
+   "role": "Games researcher, HKUST (Guangzhou)",
+   "based": "Guangzhou, China",
+   "bio": "Siqi Yu, with Shuai Liu, Yiqing Tian and Mar Canet Sola, analysed first-person VR games with animal avatars.",
+   "why": "Their survey shows how far commercial games are from actually becoming an animal.",
+   "disciplines": [
+    "games",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "游戏研究者，香港科技大学（广州）",
+   "bio_zh": "Siqi Yu 与 Shuai Liu、Yiqing Tian、Mar Canet Sola 一起分析了第一人称动物化身 VR 游戏。",
+   "why_zh": "他们的综述表明，商业游戏离真正“成为动物”还有多远。",
+   "based_zh": "广州，中国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anna-samira-praetorius",
+   "name": "Anna Samira Praetorius",
+   "kind": "person",
+   "role": "Games researcher, SRH University Heidelberg",
+   "based": "Heidelberg, Germany",
+   "bio": "Anna Samira Praetorius reviews research on avatars and the Proteus effect.",
+   "why": "Her review organises when and why an avatar's body changes its user's behaviour.",
+   "disciplines": [
+    "games"
+   ],
+   "links": {},
+   "role_zh": "游戏研究者，海德堡 SRH 大学",
+   "bio_zh": "Anna Samira Praetorius 综述化身与普罗透斯效应的研究。",
+   "why_zh": "她的综述梳理了化身的身体何时、为何会改变使用者的行为。",
+   "based_zh": "海德堡，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "matthew-botvinick",
+   "name": "Matthew Botvinick",
+   "kind": "person",
+   "role": "Cognitive neuroscientist, Princeton / Google DeepMind",
+   "based": "London, UK",
+   "bio": "Matthew Botvinick, with Jonathan Cohen, first described the rubber hand illusion in 1998.",
+   "why": "The rubber hand illusion is the experimental root of every virtual body, human or animal.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {},
+   "role_zh": "认知神经科学家，普林斯顿大学 / Google DeepMind",
+   "bio_zh": "Matthew Botvinick 与 Jonathan Cohen 于 1998 年首次描述了橡胶手错觉。",
+   "why_zh": "橡胶手错觉是一切虚拟身体（无论人或动物）的实验源头。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "thomas-nagel",
+   "name": "Thomas Nagel",
+   "kind": "person",
+   "role": "Philosopher, New York University",
+   "based": "New York, USA",
+   "bio": "Thomas Nagel is a philosopher of mind and ethics.",
+   "why": "His 1974 essay made the bat the standard case for the limits of imagining another animal's experience.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "哲学家，纽约大学",
+   "bio_zh": "Thomas Nagel 是心灵哲学与伦理学家。",
+   "why_zh": "他 1974 年的文章让蝙蝠成为讨论“想象另一种动物经验之极限”的标准案例。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jakob-von-uexkull",
+   "name": "Jakob von Uexküll",
+   "kind": "person",
+   "role": "Biologist (1864–1944)",
+   "based": "Hamburg, Germany",
+   "bio": "Jakob von Uexküll founded the study of the Umwelt, the perceptual world specific to each animal.",
+   "why": "The Umwelt is the core concept behind every work that lets people perceive as another animal.",
+   "disciplines": [
+    "science",
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "生物学家（1864–1944）",
+   "bio_zh": "Jakob von Uexküll 开创了“环境界”（Umwelt）研究，即每种动物特有的感知世界。",
+   "why_zh": "环境界是一切让人以另一种动物方式感知的作品背后的核心概念。",
+   "based_zh": "汉堡，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "mel-slater--human-tails",
+   "creator_ids": [
+    "mel-slater"
+   ],
+   "title": "Human Tails",
+   "year": 2013,
+   "field": "octopus",
+   "sub": "limbs",
+   "also": [
+    "animal"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "dome"
+   ],
+   "kind": "paper",
+   "description": "Participants in a CAVE controlled a humanoid avatar with a long tail, moving it with their hips, and later had to use it to block falling objects.",
+   "description_zh": "参与者在 CAVE 中控制一个长着长尾巴的人形化身，用髋部摆动尾巴，随后还要用它挡住落下的物体。",
+   "idea_en": "People learn to own and use a body part that humans do not have.",
+   "idea_zh": "人可以学会拥有并使用一个人类本来没有的身体部件。",
+   "method": "CAVE-like projection with full-body tracking; hip movement mapped to tail motion, compared with a randomly moving tail.",
+   "method_zh": "类 CAVE 投影加全身追踪；把髋部动作映射为尾巴运动，并与随机摆动的尾巴对照。",
+   "keywords": [
+    "tail",
+    "William Steptoe",
+    "Anthony Steed",
+    "UCL",
+    "extended humanoid avatar",
+    "IEEE TVCG"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/tvcg.2013.32",
+    "doi": "10.1109/tvcg.2013.32",
+    "venue": "IEEE TVCG 2013 (IEEE VR 2013)",
+    "title": "Human Tails: Ownership and Control of Extended Humanoid Avatars"
+   }
+  },
+  {
+   "id": "konstantina-kilteni--very-long-arm",
+   "creator_ids": [
+    "konstantina-kilteni"
+   ],
+   "title": "The Very Long Arm Illusion",
+   "year": 2012,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Participants saw their virtual arm stretch up to four times its length while it stayed synchronised with their real arm.",
+   "description_zh": "参与者看到自己的虚拟手臂伸长到原来的四倍，同时仍与真实手臂同步运动。",
+   "idea_en": "Body ownership stretches: a grossly asymmetric body can still be one's own.",
+   "idea_zh": "身体所有感可以被拉伸：一个严重不对称的身体仍可以是自己的。",
+   "method": "Head-tracked stereo head-mounted display with a virtual body coincident with the real one; arm length manipulated across five conditions.",
+   "method_zh": "头部追踪的立体头戴显示器，虚拟身体与真实身体重合；在五种条件下改变手臂长度。",
+   "keywords": [
+    "long arm",
+    "body space",
+    "Mel Slater",
+    "Maria V. Sanchez-Vives",
+    "PLoS ONE"
+   ],
+   "images": [
+    "https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0040867.g001"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1371/journal.pone.0040867",
+    "doi": "10.1371/journal.pone.0040867",
+    "venue": "PLoS ONE 2012",
+    "title": "Extending Body Space in Immersive Virtual Reality: A Very Long Arm Illusion"
+   }
+  },
+  {
+   "id": "stanford-vhil--homuncular-flexibility",
+   "creator_ids": [
+    "stanford-vhil"
+   ],
+   "title": "Homuncular Flexibility in Virtual Reality",
+   "year": 2015,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Participants hit targets with avatars whose limbs were remapped, for example controlling a third arm by rotating their wrists, or swapping arms and legs.",
+   "description_zh": "参与者用肢体被重新映射的化身击中目标，比如旋转手腕来控制第三只手臂，或把手臂与腿对调。",
+   "idea_en": "The brain's body map can learn a new body plan within minutes (Lanier's homuncular flexibility).",
+   "idea_zh": "大脑的身体地图可以在几分钟内学会新的身体结构（Lanier 的“小人弹性”）。",
+   "method": "Full-body tracking in a head-mounted display with remapped motions: legs to arms, wrist rotation to a third arm's reach.",
+   "method_zh": "头戴显示器加全身追踪，重新映射动作：腿对应手臂，手腕旋转对应第三只手臂的伸展。",
+   "keywords": [
+    "homuncular flexibility",
+    "Jaron Lanier",
+    "Andrea Stevenson Won",
+    "Jeremy Bailenson",
+    "third arm"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1111/jcc4.12107",
+    "doi": "10.1111/jcc4.12107",
+    "venue": "Journal of Computer-Mediated Communication 2015",
+    "title": "Homuncular Flexibility in Virtual Reality"
+   }
+  },
+  {
+   "id": "stanford-vhil--third-arm-control",
+   "creator_ids": [
+    "stanford-vhil"
+   ],
+   "title": "Control Schemes for a Third Arm",
+   "year": 2016,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "A comparison of ways to control an avatar's third arm, from bimanual to head- and gaze-based mappings, for task performance and ownership.",
+   "description_zh": "比较控制化身第三只手臂的几种方式，从双手协同到头部与注视映射，考察任务表现与所有感。",
+   "idea_en": "An extra limb is only as good as the scheme that drives it.",
+   "idea_zh": "额外肢体好不好用，取决于驱动它的方案。",
+   "method": "Within-subjects VR study using 3D-interaction techniques to map existing limbs onto a third arm.",
+   "method_zh": "被试内 VR 研究，用三维交互技术把已有肢体映射到第三只手臂。",
+   "keywords": [
+    "third arm",
+    "Bireswar Laha",
+    "Andrea Stevenson Won",
+    "Presence"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/pres_a_00251",
+    "doi": "10.1162/pres_a_00251",
+    "venue": "Presence: Teleoperators and Virtual Environments 2016",
+    "title": "Evaluating Control Schemes for the Third Arm of an Avatar"
+   }
+  },
+  {
+   "id": "shuto-takashita--embodied-tentacle",
+   "creator_ids": [
+    "shuto-takashita"
+   ],
+   "title": "Embodied Tentacle",
+   "year": 2024,
+   "field": "octopus",
+   "sub": "cephalopod",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Participants controlled an unbranched 12-joint, octopus-like virtual arm with their own arm, comparing mappings for reaching and wrapping tasks.",
+   "description_zh": "参与者用自己的手臂控制一条无分支、12 个关节、形似章鱼的虚拟手臂，比较不同映射在够取与缠绕任务中的效果。",
+   "idea_en": "A tentacle cannot be copied from an arm; the mapping itself must be designed.",
+   "idea_zh": "触手无法照搬手臂；映射本身必须被设计。",
+   "method": "Head-mounted VR with arm and hand tracking mapped to 12 tentacle joints through several mapping methods.",
+   "method_zh": "头戴式 VR，通过多种映射方法把手臂与手部追踪映射到触手的 12 个关节。",
+   "keywords": [
+    "octopus",
+    "tentacle",
+    "non-analogous body parts",
+    "Masahiko Inami",
+    "Michiteru Kitazaki",
+    "CHI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=41AYcDhbT0E"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3613904.3642340",
+    "doi": "10.1145/3613904.3642340",
+    "venue": "CHI 2024",
+    "title": "Embodied Tentacle: Mapping Design to Control of Non-Analogous Body Parts with the Human Body"
+   }
+  },
+  {
+   "id": "yu-jiang--handavatar",
+   "creator_ids": [
+    "yu-jiang"
+   ],
+   "title": "HandAvatar",
+   "year": 2023,
+   "field": "octopus",
+   "sub": "limbs",
+   "also": [
+    "animal"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "A method that lets users embody arbitrary non-humanoid avatars, such as a spider, dragon or crab, by moving the fingers of one hand.",
+   "description_zh": "一种方法，让用户移动一只手的手指就能化身为任意非人形化身，比如蜘蛛、龙或螃蟹。",
+   "idea_en": "The hand is a small body: its joints can stand in for any creature's legs.",
+   "idea_zh": "手是一个小小的身体：它的关节可以替代任何生物的腿。",
+   "method": "Hand tracking with automatically generated joint-to-joint mappings optimised for precision, structural similarity and comfort.",
+   "method_zh": "手部追踪，自动生成关节到关节的映射，并针对精度、结构相似性与舒适度进行优化。",
+   "keywords": [
+    "hand mapping",
+    "spider",
+    "dragon",
+    "Yukang Yan",
+    "David Lindlbauer",
+    "CHI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=EJwMmeSN01Q"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3544548.3581027",
+    "doi": "10.1145/3544548.3581027",
+    "venue": "CHI 2023",
+    "title": "HandAvatar: Embodying Non-Humanoid Virtual Avatars through Hands"
+   }
+  },
+  {
+   "id": "jaan-aru--human-octopus",
+   "creator_ids": [
+    "jaan-aru"
+   ],
+   "title": "The Human Octopus",
+   "year": 2016,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Participants controlled different numbers of virtual supernumerary hands through hand tracking, with delays and scaling added to test their use.",
+   "description_zh": "参与者通过手部追踪控制不同数量的虚拟额外手，研究者加入延迟与缩放来测试它们的可用性。",
+   "idea_en": "More hands do not mean more skill; the octopus body has to be learned.",
+   "idea_zh": "更多的手不等于更高的技能；章鱼般的身体需要学习。",
+   "method": "Leap Motion hand tracking in a head-mounted display, with extra virtual hands copying or transforming real hand motion.",
+   "method_zh": "头戴显示器中的 Leap Motion 手部追踪，额外的虚拟手复制或变换真实手的动作。",
+   "keywords": [
+    "supernumerary hands",
+    "octopus",
+    "Madis Vasser",
+    "Raul Vicente",
+    "bioRxiv"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1101/056812",
+    "doi": "10.1101/056812",
+    "venue": "bioRxiv 2016",
+    "title": "The Human Octopus: Controlling supernumerary hands with the help of virtual reality"
+   }
+  },
+  {
+   "id": "kouta-minamizawa--metalimbs",
+   "creator_ids": [
+    "kouta-minamizawa",
+    "yamen-saraiji"
+   ],
+   "title": "MetaLimbs",
+   "year": 2017,
+   "field": "octopus",
+   "sub": "limbs",
+   "also": [
+    "robot"
+   ],
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A backpack with two robotic arms controlled by the wearer's legs and toes, so that a seated person has four arms.",
+   "description_zh": "一个背负两条机械臂的背包，由佩戴者的腿和脚趾控制，让坐着的人拥有四只手臂。",
+   "idea_en": "Limb substitution: legs become arms, and the body plan is rearranged.",
+   "idea_zh": "肢体替代：腿变成手臂，身体结构被重新排列。",
+   "method": "Motion tracking of legs and feet relative to the torso and of toe bending, mapped to robot arm and gripper, with force feedback to the feet.",
+   "method_zh": "追踪腿脚相对于躯干的运动及脚趾弯曲，映射到机械臂与夹爪，并向脚部提供力反馈。",
+   "keywords": [
+    "robotic arms",
+    "Tomoya Sasaki",
+    "Masahiko Inami",
+    "Keio KMD",
+    "SIGGRAPH Emerging Technologies"
+   ],
+   "shown_at": [
+    "SIGGRAPH 2017 Emerging Technologies"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NIuIiI5mVhI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3084822.3084837",
+    "doi": "10.1145/3084822.3084837",
+    "venue": "ACM SIGGRAPH 2017 Emerging Technologies",
+    "title": "MetaLimbs: multiple arms interaction metamorphism"
+   }
+  },
+  {
+   "id": "kouta-minamizawa--arque",
+   "creator_ids": [
+    "kouta-minamizawa",
+    "yamen-saraiji"
+   ],
+   "title": "Arque: Artificial Biomimicry-Inspired Tail",
+   "year": 2019,
+   "field": "octopus",
+   "sub": "limbs",
+   "also": [
+    "animal"
+   ],
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A wearable artificial tail driven by artificial muscles that shifts the wearer's balance and can push or pull the body.",
+   "description_zh": "一条由人工肌肉驱动的可穿戴人造尾巴，能改变佩戴者的平衡，并推拉身体。",
+   "idea_en": "Borrow the tail animals use for balance, as a new human body part.",
+   "idea_zh": "借来动物用于平衡的尾巴，作为人类的新身体部件。",
+   "method": "Jointed spring-based tail with four pneumatic artificial muscles; tail length and weight adjusted to the wearer.",
+   "method_zh": "由弹簧关节构成的尾巴，配四条气动人工肌肉；尾巴长度与重量按佩戴者调节。",
+   "keywords": [
+    "tail",
+    "biomimicry",
+    "pneumatic muscles",
+    "Junichi Nabeshima",
+    "Keio KMD",
+    "SIGGRAPH Emerging Technologies"
+   ],
+   "shown_at": [
+    "SIGGRAPH 2019 Emerging Technologies"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Tr1-IhEhXYQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3305367.3327987",
+    "doi": "10.1145/3305367.3327987",
+    "venue": "ACM SIGGRAPH 2019 Emerging Technologies",
+    "title": "Arque: artificial biomimicry-inspired tail for extending innate body functions"
+   }
+  },
+  {
+   "id": "haoran-xie--wearable-tail",
+   "creator_ids": [
+    "haoran-xie"
+   ],
+   "title": "Augmenting Human With a Tail",
+   "year": 2019,
+   "field": "octopus",
+   "sub": "limbs",
+   "also": [
+    "animal"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A wearable tail that can lock into a support to hold the wearer's weight like a kangaroo's, or wag and move to express emotion.",
+   "description_zh": "一条可穿戴尾巴：可以锁定成支撑，像袋鼠尾巴那样承担体重，也可以摇摆表达情绪。",
+   "idea_en": "One tail, two animal functions: physical support and emotional signal.",
+   "idea_zh": "一条尾巴，两种动物功能：身体支撑与情绪信号。",
+   "method": "Segmented motor-driven tail with a locking mechanism for support mode and preset motion patterns for emotion mode.",
+   "method_zh": "分节的电机驱动尾巴，带有用于支撑模式的锁定机构，以及用于情绪模式的预设动作。",
+   "keywords": [
+    "tail",
+    "kangaroo",
+    "emotion",
+    "RESTAIL",
+    "Augmented Human"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=PNdFxswDvsU"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3311823.3311847",
+    "doi": "10.1145/3311823.3311847",
+    "venue": "Augmented Human 2019",
+    "title": "Augmenting Human With a Tail"
+   }
+  },
+  {
+   "id": "takuji-narumi--virtual-tail-mirror",
+   "creator_ids": [
+    "takuji-narumi"
+   ],
+   "title": "Owning a Virtual Tail without a Mirror",
+   "year": 2019,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "A study of whether people can own a virtual tail they only glimpse partly, rather than watching it continuously in a mirror.",
+   "description_zh": "一项研究：如果只能偶尔看到部分尾巴，而不是一直在镜子里看，人能否拥有一条虚拟尾巴。",
+   "idea_en": "Body parts behind us can be owned from partial glimpses, as real tails are.",
+   "idea_zh": "长在身后的身体部件，只凭零星的一瞥也能被拥有，就像真实的尾巴一样。",
+   "method": "Head-mounted VR with hip-driven tail and conditions varying how much visuomotor feedback is visible.",
+   "method_zh": "头戴式 VR，由髋部驱动尾巴，并在不同条件下改变可见的视动反馈量。",
+   "keywords": [
+    "tail",
+    "partial visuomotor feedback",
+    "Ryota Ito",
+    "Nami Ogawa",
+    "SAP"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3343036.3343139",
+    "doi": "10.1145/3343036.3343139",
+    "venue": "ACM Symposium on Applied Perception 2019",
+    "title": "Do We Have to Look at the Mirror All the Time? Effect of Partial Visuomotor Feedback on Body Ownership of a Virtual Human Tail"
+   }
+  },
+  {
+   "id": "dani-clode--third-thumb",
+   "creator_ids": [
+    "dani-clode",
+    "tamar-makin"
+   ],
+   "title": "Third Thumb",
+   "year": 2017,
+   "field": "octopus",
+   "sub": "limbs",
+   "also": [
+    "robot"
+   ],
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A 3D-printed extra thumb worn beside the little finger and controlled by pressure sensors under the toes; users learn to hold, carry and play with it.",
+   "description_zh": "一根 3D 打印的额外拇指，佩戴在小指旁，由脚趾下的压力传感器控制；使用者学会用它握持、搬运甚至演奏。",
+   "idea_en": "An extra digit can be learned in days, and it changes how the brain represents the hand.",
+   "idea_zh": "额外的手指可以在几天内学会，而且会改变大脑对手的表征。",
+   "method": "Motorised thumb on the hand with wireless toe-pressure control; the 2021 study used fMRI before and after five days of training.",
+   "method_zh": "手上的电动拇指，由脚趾压力无线控制；2021 年研究在五天训练前后进行了功能磁共振成像。",
+   "keywords": [
+    "Third Thumb",
+    "Paulina Kieliba",
+    "Plasticity Lab",
+    "Royal College of Art",
+    "Science Robotics",
+    "hand augmentation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GKSCmkCE5og"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1126/scirobotics.abd7935",
+    "doi": "10.1126/scirobotics.abd7935",
+    "venue": "Science Robotics 2021",
+    "title": "Robotic hand augmentation drives changes in neural body representation"
+   }
+  },
+  {
+   "id": "michiteru-kitazaki--srl-in-vr",
+   "creator_ids": [
+    "michiteru-kitazaki"
+   ],
+   "title": "Embodiment of Supernumerary Robotic Limbs in VR",
+   "year": 2022,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Participants used two extra virtual robotic arms controlled by their feet while their real arms remained free.",
+   "description_zh": "参与者用脚控制两条额外的虚拟机械臂，而真实的双臂保持空闲。",
+   "idea_en": "Adding limbs, not replacing them: extra arms can be owned alongside the real ones.",
+   "idea_zh": "是增加肢体而不是替换：额外手臂可以与真实手臂同时被拥有。",
+   "method": "Head-mounted VR with foot tracking mapped to two robotic arms, with visuotactile stimulation and ownership measures.",
+   "method_zh": "头戴式 VR，追踪脚部并映射到两条机械臂，配合视触刺激与所有感测量。",
+   "keywords": [
+    "supernumerary robotic limbs",
+    "Ken Arai",
+    "Maki Sugimoto",
+    "Scientific Reports"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-13981-w/MediaObjects/41598_2022_13981_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41598-022-13981-w",
+    "doi": "10.1038/s41598-022-13981-w",
+    "venue": "Scientific Reports 2022",
+    "title": "Embodiment of supernumerary robotic limbs in virtual reality"
+   }
+  },
+  {
+   "id": "michiteru-kitazaki--parasitic-body",
+   "creator_ids": [
+    "michiteru-kitazaki"
+   ],
+   "title": "Parasitic Body",
+   "year": 2019,
+   "field": "octopus",
+   "sub": "collective",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "A shared-body VR system in which one person is the main body and another, the 'parasite', controls a third arm from their shoulder.",
+   "description_zh": "一个共享身体 VR 系统：一人是主体，另一人作为“寄生者”从其肩部控制第三只手臂。",
+   "idea_en": "One body, two minds: a third limb can belong to someone else.",
+   "idea_zh": "一个身体，两个心智：第三条肢体可以属于另一个人。",
+   "method": "Networked VR in which the parasite operator's view is attached to the host's body, with varying perspective dependency.",
+   "method_zh": "联网 VR 中，寄生操作者的视角附着在主体的身体上，并在不同条件下改变视角依赖程度。",
+   "keywords": [
+    "shared body",
+    "third arm",
+    "Ryo Takizawa",
+    "Adrien Verhulst",
+    "IEEE VR"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/vr.2019.8798351",
+    "doi": "10.1109/vr.2019.8798351",
+    "venue": "IEEE VR 2019",
+    "title": "Parasitic Body: Exploring Perspective Dependency in a Shared Body with a Third Arm"
+   }
+  },
+  {
+   "id": "gowrishankar-ganesh--independent-supernumerary-limb",
+   "creator_ids": [
+    "gowrishankar-ganesh"
+   ],
+   "title": "Owning an Independent Supernumerary Limb",
+   "year": 2022,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Participants controlled a virtual sixth limb through muscle signals not tied to any existing limb's movement.",
+   "description_zh": "参与者通过与任何现有肢体运动无关的肌肉信号，控制一条虚拟的第六肢。",
+   "idea_en": "A limb with its own control channel, like an octopus arm, can still become part of the self.",
+   "idea_zh": "一条拥有独立控制通道的肢体（就像章鱼的腕足）仍能成为自我的一部分。",
+   "method": "Electromyography-based control of a virtual arm in a head-mounted display, following the rubber-hand paradigm.",
+   "method_zh": "在头戴显示器中基于肌电信号控制虚拟手臂，沿用橡胶手范式。",
+   "keywords": [
+    "supernumerary limb",
+    "EMG",
+    "Kohei Umezawa",
+    "Yoichi Miyawaki",
+    "Scientific Reports"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-06040-x/MediaObjects/41598_2022_6040_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41598-022-06040-x",
+    "doi": "10.1038/s41598-022-06040-x",
+    "venue": "Scientific Reports 2022",
+    "title": "Bodily ownership of an independent supernumerary limb: an exploratory study"
+   }
+  },
+  {
+   "id": "shengdong-zhao--virtually-extended-proprioception",
+   "creator_ids": [
+    "shengdong-zhao"
+   ],
+   "title": "Virtually-Extended Proprioception",
+   "year": 2020,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Users get an appended virtual limb that reaches far into the scene, giving them a body-based sense of where distant targets are.",
+   "description_zh": "用户获得一条伸进场景深处的附加虚拟肢体，从而以身体感知远处目标的位置。",
+   "idea_en": "Extend proprioception by growing the body toward what you want to reach.",
+   "idea_zh": "让身体向你想够到的地方生长，从而延伸本体感觉。",
+   "method": "Head-mounted VR with an appended virtual arm or leg attached to the avatar, evaluated for target selection.",
+   "method_zh": "头戴式 VR，在化身上附加虚拟手臂或腿，并在目标选择任务中评估。",
+   "keywords": [
+    "appended limb",
+    "proprioception",
+    "Yang Tian",
+    "Chi-Wing Fu",
+    "CHI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=IvwwMAtxrpA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3313831.3376557",
+    "doi": "10.1145/3313831.3376557",
+    "venue": "CHI 2020",
+    "title": "Virtually-Extended Proprioception: Providing Spatial Reference in VR through an Appended Virtual Limb"
+   }
+  },
+  {
+   "id": "matthew-longo--sixth-finger-illusion",
+   "creator_ids": [
+    "matthew-longo"
+   ],
+   "title": "The Sixth Finger Illusion",
+   "year": 2020,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "paper",
+   "description": "A mirror-box illusion in which synchronous touches make people feel a sixth finger on their hand continuously; a 2026 follow-up embodies another person's finger.",
+   "description_zh": "一种镜箱错觉：同步触碰让人持续感到手上有第六根手指；2026 年的后续研究甚至让人把另一个人的手指纳入身体。",
+   "idea_en": "Illusions show that the number of fingers is not fixed in the body's map.",
+   "idea_zh": "错觉表明，手指的数量在身体地图中并不是固定的。",
+   "method": "Mirror box with conflicting visual and tactile stroking of the hand; ownership measured by questionnaire and localisation.",
+   "method_zh": "镜箱中对手施加视觉与触觉相冲突的抚触；用问卷与定位测量所有感。",
+   "keywords": [
+    "sixth finger",
+    "mirror box",
+    "Denise Cadete",
+    "Holly Blood",
+    "Perception"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1177/0301006620939457",
+    "doi": "10.1177/0301006620939457",
+    "venue": "Perception 2020",
+    "title": "A Continuous Illusion of Having a Sixth Finger"
+   }
+  },
+  {
+   "id": "anatole-lecuyer--six-fingers",
+   "creator_ids": [
+    "anatole-lecuyer"
+   ],
+   "title": "\"Wow! I Have Six Fingers!\"",
+   "year": 2016,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Participants saw a realistic six-fingered virtual hand move with their own hand and rated how much it felt like theirs.",
+   "description_zh": "参与者看到一只逼真的六指虚拟手随自己的手运动，并评价它有多像自己的手。",
+   "idea_en": "A structurally different hand can be accepted as one's own.",
+   "idea_zh": "结构不同的手也能被接纳为自己的手。",
+   "method": "Hand motion capture driving a six-digit virtual hand in a head-mounted display; ownership and agency questionnaires.",
+   "method_zh": "手部动作捕捉驱动头戴显示器中的六指虚拟手；用问卷测量所有感与能动感。",
+   "keywords": [
+    "six fingers",
+    "Ludovic Hoyet",
+    "Ferran Argelaguet",
+    "Inria",
+    "Frontiers in Robotics and AI"
+   ],
+   "images": [
+    "https://www.frontiersin.org/files/Articles/181118/frobt-03-00027-HTML/image_m/frobt-03-00027-g001.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.3389/frobt.2016.00027",
+    "doi": "10.3389/frobt.2016.00027",
+    "venue": "Frontiers in Robotics and AI 2016",
+    "title": "“Wow! I Have Six Fingers!”: Would You Accept Structural Changes of Your Hand in VR?"
+   }
+  },
+  {
+   "id": "ehud-sharlin--supernumerary-arms-communication",
+   "creator_ids": [
+    "ehud-sharlin"
+   ],
+   "title": "Supernumerary Arms for Gestural Communication",
+   "year": 2018,
+   "field": "octopus",
+   "sub": "limbs",
+   "also": [
+    "robot"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "Wearable extra robotic arms used not for tasks but for gestures, to explore how a cyborg might communicate with added limbs.",
+   "description_zh": "可穿戴的额外机械臂不用于完成任务，而用于做手势，探索赛博格如何用新增的肢体交流。",
+   "idea_en": "Extra limbs can speak: a body with more arms has more gestures.",
+   "idea_zh": "额外的肢体也能“说话”：手臂更多的身体拥有更多的手势。",
+   "method": "Shoulder-mounted robotic arms driven by preset and user-controlled gesture motions.",
+   "method_zh": "肩部安装的机械臂，由预设与用户控制的手势动作驱动。",
+   "keywords": [
+    "supernumerary arms",
+    "gesture",
+    "cyborg",
+    "Anthony Tran",
+    "Sowmya Somanath",
+    "CHI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CwnPO8OpI_I"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3170427.3188683",
+    "doi": "10.1145/3170427.3188683",
+    "venue": "CHI 2018 Late-Breaking Work",
+    "title": "Supernumerary Arms for Gestural Communication"
+   }
+  },
+  {
+   "id": "hongyu-zhou--juggling-extra-limbs",
+   "creator_ids": [
+    "hongyu-zhou"
+   ],
+   "title": "Juggling Extra Limbs",
+   "year": 2025,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "A study of the strategies people use to control several supernumerary arms at once in VR.",
+   "description_zh": "一项研究，考察人在 VR 中同时控制多条额外手臂时采用的策略。",
+   "idea_en": "Many-armed bodies need attention strategies, not only mappings.",
+   "idea_zh": "多臂的身体需要注意力策略，而不只是映射。",
+   "method": "Head-mounted VR with multiple virtual arms driven by different body and controller mappings; task and interview analysis.",
+   "method_zh": "头戴式 VR，多条虚拟手臂由不同的身体与手柄映射驱动；分析任务表现与访谈。",
+   "keywords": [
+    "multi-arms",
+    "supernumerary limbs",
+    "Anusha Withana",
+    "Andrea Bianchi",
+    "CHI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=COwif96tbf0"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713647",
+    "doi": "10.1145/3706598.3713647",
+    "venue": "CHI 2025",
+    "title": "Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality"
+   }
+  },
+  {
+   "id": "adam-drogemuller--third-arm-remapping",
+   "creator_ids": [
+    "adam-drogemuller"
+   ],
+   "title": "Real-Time Remapping of a Third Arm",
+   "year": 2019,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Users switch which of their limbs (either arm, either leg or the head) drives a virtual third arm, by gazing at the limb and saying 'switch'.",
+   "description_zh": "用户注视自己的某条肢体（任一手臂、任一条腿或头部）并说“切换”，即可改由它驱动虚拟第三只手臂。",
+   "idea_en": "A third arm can borrow control from whichever limb is free.",
+   "idea_zh": "第三只手臂可以从任何空闲的肢体借用控制权。",
+   "method": "Head-mounted VR with gaze-based limb selection and voice confirmation; box-collection tasks with 12 participants.",
+   "method_zh": "头戴式 VR，基于注视选择肢体并用语音确认；12 名参与者完成收集箱子的任务。",
+   "keywords": [
+    "third arm",
+    "remapping",
+    "Masahiko Inami",
+    "Maki Sugimoto",
+    "ICAT-EGVE"
+   ],
+   "paper": {
+    "url": "https://diglib.eg.org/handle/10.2312/egve20191281",
+    "venue": "ICAT-EGVE 2019 (DOI 10.2312/egve.20191281)",
+    "title": "Real Time Remapping of a Third Arm in Virtual Reality"
+   }
+  },
+  {
+   "id": "siqi-yu--how-to-be-non-human",
+   "creator_ids": [
+    "siqi-yu"
+   ],
+   "title": "How to be Non-Human: Animal Embodiment in VR Games",
+   "year": 2026,
+   "field": "foundations",
+   "sub": "survey",
+   "also": [
+    "animal"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "A reflexive thematic analysis of 48 first-person VR games with animal avatars, sorted into biomimicry, limited simulation, hybrid human-animal and human-behaviour themes.",
+   "description_zh": "对 48 款第一人称动物化身 VR 游戏的反思性主题分析，将其归为动物仿生、有限模拟、人兽混合与人类行为四类主题。",
+   "idea_en": "About 77% of animal-avatar games keep human interaction logic; the animal is mostly a skin.",
+   "idea_zh": "约 77% 的动物化身游戏保留人的交互逻辑；动物多半只是一层外皮。",
+   "method": "Researchers played all games on Meta Quest 3 with verbal logging, then coded movement, control and feedback patterns.",
+   "method_zh": "研究者在 Meta Quest 3 上玩遍所有游戏并口述记录，再对移动、控制与反馈模式进行编码。",
+   "keywords": [
+    "VR games",
+    "animal avatar",
+    "thematic analysis",
+    "VR Pigeons",
+    "Squid Smack",
+    "Tentacular",
+    "DiGRA"
+   ],
+   "images": [
+    "https://arxiv.org/html/2606.08130v1/img/theme_fig/Fig_VRPigeons.jpg",
+    "https://arxiv.org/html/2606.08130v1/img/theme_fig/Fig_Tentacular.jpg"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2606.08130",
+    "arxiv": "2606.08130",
+    "venue": "DiGRA 2026",
+    "title": "How to be Non-Human: A Thematic Analysis of Animal Embodiment in VR Games"
+   },
+   "collections": [
+    "yu-2026-vr-animal-avatar-games"
+   ]
+  },
+  {
+   "id": "anna-samira-praetorius--proteus-effect-review",
+   "creator_ids": [
+    "anna-samira-praetorius"
+   ],
+   "title": "How Avatars Influence User Behavior: A Review of the Proteus Effect",
+   "year": 2020,
+   "field": "foundations",
+   "sub": "survey",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "paper",
+   "description": "A review of studies on the Proteus effect, classifying them by self-similarity, wishful identification and embodied presence.",
+   "description_zh": "一篇普罗透斯效应研究综述，按自我相似、愿望认同与具身临场感对研究进行分类。",
+   "idea_en": "Whatever body you inhabit, human or animal, tends to reshape how you act.",
+   "idea_zh": "无论栖身于人还是动物的身体，它都会重塑你的行为方式。",
+   "method": "Literature review of avatar studies since Yee and Bailenson (2007).",
+   "method_zh": "对 Yee 与 Bailenson（2007）以来的化身研究进行文献综述。",
+   "keywords": [
+    "Proteus effect",
+    "avatar",
+    "Daniel Görlich",
+    "FDG"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3402942.3403019",
+    "doi": "10.1145/3402942.3403019",
+    "venue": "Foundations of Digital Games (FDG) 2020",
+    "title": "How Avatars Influence User Behavior: A Review on the Proteus Effect in Virtual Environments and Video Games"
+   }
+  },
+  {
+   "id": "xinmiao-lan--non-humanlike-proteus",
+   "creator_ids": [
+    "xinmiao-lan"
+   ],
+   "title": "Can Non-Humanlike Avatars Induce the Proteus Effect?",
+   "year": 2023,
+   "field": "foundations",
+   "sub": "embodiment",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "An experiment testing whether the attractiveness of a non-humanlike avatar changes social participation, through identification and embodiment.",
+   "description_zh": "一项实验，检验非人形化身的吸引力是否会通过认同与具身改变社会参与。",
+   "idea_en": "The Proteus effect holds beyond human form, but depends on identifying with the body.",
+   "idea_zh": "普罗透斯效应超越了人形，但取决于人是否认同这个身体。",
+   "method": "Between-subjects VR study with attractive and unattractive non-humanlike avatars and mediation analysis.",
+   "method_zh": "组间 VR 实验，使用有吸引力与无吸引力的非人形化身，并做中介分析。",
+   "keywords": [
+    "Proteus effect",
+    "non-humanlike avatar",
+    "Zeph van Berlo"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.chbah.2023.100020",
+    "doi": "10.1016/j.chbah.2023.100020",
+    "venue": "Computers in Human Behavior: Artificial Humans 2023",
+    "title": "Can non-humanlike avatars induce the Proteus effect? The roles of avatar identification and embodiment in influencing social participation"
+   }
+  },
+  {
+   "id": "stanford-vhil--homuncular-flexibility-essay",
+   "creator_ids": [
+    "stanford-vhil"
+   ],
+   "title": "Homuncular Flexibility: Inhabiting Nonhuman Avatars",
+   "year": 2015,
+   "field": "foundations",
+   "sub": "theory",
+   "also": [
+    "octopus"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "An essay setting out homuncular flexibility, the idea that the brain's body map can adapt to bodies with extra or differently moving appendages.",
+   "description_zh": "一篇阐述“小人弹性”的文章：大脑的身体地图可以适应拥有额外肢体或运动方式不同的身体。",
+   "idea_en": "Nonhuman avatars are not a trick of rendering but a test of neural plasticity.",
+   "idea_zh": "非人类化身不是渲染的把戏，而是对神经可塑性的检验。",
+   "method": "Theoretical synthesis of neuroscience, VR experiments and Lanier's early avatar work.",
+   "method_zh": "综合神经科学、VR 实验与 Lanier 早期化身工作的理论文章。",
+   "keywords": [
+    "homuncular flexibility",
+    "Jaron Lanier",
+    "Andrea Stevenson Won",
+    "Jeremy Bailenson",
+    "nonhuman avatars"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/9781118900772.etrds0165",
+    "doi": "10.1002/9781118900772.etrds0165",
+    "venue": "Emerging Trends in the Social and Behavioral Sciences 2015",
+    "title": "Homuncular Flexibility: The Human Ability to Inhabit Nonhuman Avatars"
+   }
+  },
+  {
+   "id": "shuto-takashita--plausible-embodiment",
+   "creator_ids": [
+    "shuto-takashita"
+   ],
+   "title": "Plausible Embodiment",
+   "year": 2026,
+   "field": "foundations",
+   "sub": "theory",
+   "also": [
+    "octopus"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "A design framework for embodying non-human avatars that aims for bodies that feel plausible to control rather than realistic copies of animals.",
+   "description_zh": "一个非人类化身的设计框架，追求“操控起来可信”的身体，而不是对动物的逼真复制。",
+   "idea_en": "Plausibility, not realism, is the goal when designing a body humans do not have.",
+   "idea_zh": "设计人类没有的身体时，目标是可信而不是逼真。",
+   "method": "Conceptual framework drawn from the author's tentacle and supernumerary-limb studies.",
+   "method_zh": "基于作者关于触手与额外肢体研究得出的概念框架。",
+   "keywords": [
+    "non-human avatar",
+    "plausibility",
+    "design framework",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772363.3799215",
+    "doi": "10.1145/3772363.3799215",
+    "venue": "CHI 2026 Extended Abstracts",
+    "title": "Plausible Embodiment: A Design Framework for Embodying Non-Human Avatars Beyond Realism"
+   }
+  },
+  {
+   "id": "sang-won-leigh--morphological-interfaces",
+   "creator_ids": [
+    "sang-won-leigh"
+   ],
+   "title": "Morphological Interfaces: On Body Transforming Technologies",
+   "year": 2017,
+   "field": "foundations",
+   "sub": "theory",
+   "also": [
+    "octopus"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "paper",
+   "description": "A paper on technologies that change the shape and capacities of the body, from extra robotic fingers to reconfigured limbs.",
+   "description_zh": "一篇讨论改变身体形态与能力之技术的论文，从额外的机械手指到重新配置的肢体。",
+   "idea_en": "The self is plastic; interfaces can change the body, not only the screen.",
+   "idea_zh": "自我具有可塑性；界面可以改变身体，而不只是屏幕。",
+   "method": "Position paper drawing on tool-use neuroscience and the authors' body-extending robots.",
+   "method_zh": "立场论文，借鉴工具使用的神经科学研究与作者自己的身体延伸机器人。",
+   "keywords": [
+    "morphological interfaces",
+    "body plasticity",
+    "Pattie Maes",
+    "MIT Media Lab",
+    "CHI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=V6CMtXQj_Ts"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3027063.3052758",
+    "doi": "10.1145/3027063.3052758",
+    "venue": "CHI 2017 Extended Abstracts",
+    "title": "Morphological Interfaces: On Body Transforming Technologies"
+   }
+  },
+  {
+   "id": "jennifer-molnar--non-anthropomorphic-hands",
+   "creator_ids": [
+    "jennifer-molnar"
+   ],
+   "title": "Non-Anthropomorphic Hands",
+   "year": 2022,
+   "field": "foundations",
+   "sub": "theory",
+   "also": [
+    "octopus"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "A position paper on hands that differ from ours in topology and motion, and why one-to-one finger mapping limits them.",
+   "description_zh": "一篇立场论文，讨论在拓扑与运动上不同于人手的“手”，以及为什么一一对应的手指映射限制了它们。",
+   "idea_en": "Truly non-human bodies need control schemes invented for them.",
+   "idea_zh": "真正非人类的身体需要为它们发明的控制方案。",
+   "method": "Review of real and virtual non-anthropomorphic hands and their control strategies.",
+   "method_zh": "回顾真实与虚拟的非拟人之手及其控制策略。",
+   "keywords": [
+    "non-anthropomorphic hands",
+    "Yigit Mengüç",
+    "control mapping",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3491101.3519871",
+    "doi": "10.1145/3491101.3519871",
+    "venue": "CHI 2022 Extended Abstracts",
+    "title": "Toward Handling the Complexities of Non-Anthropomorphic Hands"
+   }
+  },
+  {
+   "id": "konstantina-kilteni--sense-of-embodiment",
+   "creator_ids": [
+    "konstantina-kilteni"
+   ],
+   "title": "The Sense of Embodiment in Virtual Reality",
+   "year": 2012,
+   "field": "foundations",
+   "sub": "embodiment",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "A paper defining the sense of embodiment towards a virtual body as the combination of self-location, agency and body ownership.",
+   "description_zh": "一篇论文，把对虚拟身体的具身感定义为自我定位、能动感与身体所有感的结合。",
+   "idea_en": "The shared vocabulary for asking whether a bat, tail or tentacle has become part of you.",
+   "idea_zh": "用来追问蝙蝠、尾巴或触手是否已成为你一部分的共同词汇。",
+   "method": "Conceptual review of body ownership, agency and self-location research.",
+   "method_zh": "对身体所有感、能动感与自我定位研究的概念性综述。",
+   "keywords": [
+    "sense of embodiment",
+    "body ownership",
+    "agency",
+    "self-location",
+    "Raphaela Groten",
+    "Mel Slater",
+    "Presence"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/pres_a_00124",
+    "doi": "10.1162/pres_a_00124",
+    "venue": "Presence: Teleoperators and Virtual Environments 2012",
+    "title": "The Sense of Embodiment in Virtual Reality"
+   }
+  },
+  {
+   "id": "matthew-botvinick--rubber-hand-illusion",
+   "creator_ids": [
+    "matthew-botvinick"
+   ],
+   "title": "Rubber Hands 'Feel' Touch that Eyes See",
+   "year": 1998,
+   "field": "foundations",
+   "sub": "embodiment",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "paper",
+   "description": "The rubber hand illusion: when a visible rubber hand and a hidden real hand are stroked together, people feel the touch in the rubber hand.",
+   "description_zh": "橡胶手错觉：当可见的橡胶手与被遮住的真手被同时抚触时，人会在橡胶手上感到触碰。",
+   "idea_en": "What counts as one's body is decided by matching senses, which is why a virtual animal body can be owned.",
+   "idea_zh": "什么算作自己的身体，由感官之间的匹配决定；这也是虚拟动物身体可以被拥有的原因。",
+   "method": "Synchronous brushing of a rubber hand in view and the participant's hidden hand; proprioceptive drift measured.",
+   "method_zh": "同步刷拂可见的橡胶手与被遮住的真手；测量本体感觉漂移。",
+   "keywords": [
+    "rubber hand illusion",
+    "Jonathan Cohen",
+    "body ownership",
+    "Nature"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/35784",
+    "doi": "10.1038/35784",
+    "venue": "Nature 1998",
+    "title": "Rubber hands ‘feel’ touch that eyes see"
+   }
+  },
+  {
+   "id": "thomas-nagel--what-is-it-like-to-be-a-bat",
+   "creator_ids": [
+    "thomas-nagel"
+   ],
+   "title": "What Is It Like to Be a Bat?",
+   "year": 1974,
+   "field": "foundations",
+   "sub": "theory",
+   "also": [
+    "bat"
+   ],
+   "senses": [
+    "echolocation"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "publication",
+   "description": "A philosophy essay arguing that we cannot know what it is like to be a bat, because its experience is tied to a sonar sense we lack.",
+   "description_zh": "一篇哲学文章，论证我们无法知道成为蝙蝠是什么感觉，因为蝙蝠的经验与我们缺少的声呐感官紧密相连。",
+   "idea_en": "The question almost every becoming-bat work sets out to answer, or to fail at honestly.",
+   "idea_zh": "几乎每件“成为蝙蝠”的作品都在试图回答这个问题，或诚实地承认失败。",
+   "method": "Philosophical argument on subjective experience and physicalism.",
+   "method_zh": "关于主观经验与物理主义的哲学论证。",
+   "keywords": [
+    "bat",
+    "consciousness",
+    "subjective experience",
+    "Philosophical Review"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.2307/2183914",
+    "doi": "10.2307/2183914",
+    "venue": "The Philosophical Review 1974",
+    "title": "What Is It Like to Be a Bat?"
+   }
+  },
+  {
+   "id": "jakob-von-uexkull--stroll-through-umwelten",
+   "creator_ids": [
+    "jakob-von-uexkull"
+   ],
+   "title": "A Stroll Through the Worlds of Animals and Men",
+   "year": 1934,
+   "field": "foundations",
+   "sub": "theory",
+   "also": [
+    "animal"
+   ],
+   "senses": [
+    "multisensory"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "publication",
+   "description": "An illustrated book describing the Umwelt, the world as perceived and acted on by each animal, from the tick to the dog.",
+   "description_zh": "一本配有插图的书，描述“环境界”：每种动物（从蜱虫到狗）所感知与作用的世界。",
+   "idea_en": "Every animal lives in its own perceptual world; becoming another animal means entering its Umwelt.",
+   "idea_zh": "每种动物都活在自己的感知世界里；成为另一种动物，就是进入它的环境界。",
+   "method": "Biological and philosophical account with illustrations comparing human and animal perception of the same scenes.",
+   "method_zh": "以生物学与哲学论述为主，配插图比较人与动物对同一场景的感知。",
+   "keywords": [
+    "Umwelt",
+    "tick",
+    "semiotics",
+    "Streifzüge durch die Umwelten von Tieren und Menschen",
+    "Georg Kriszat"
+   ],
+   "images": [
+    "https://minnesota-us.imgix.net/covers/9780816659005.jpg?w=298"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1515/semi.1992.89.4.319",
+    "doi": "10.1515/semi.1992.89.4.319",
+    "venue": "Semiotica 1992 (English translation; German original 1934)",
+    "title": "A stroll through the worlds of animals and men: A picture book of invisible worlds"
+   },
+   "source_url": "https://www.upress.umn.edu/9780816659005/a-foray-into-the-worlds-of-animals-and-humans/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "From Alien to Ally (Espositi, Vetere, Bonarini, CHI 2025)",
+   "why": "Embodying a non-anthropomorphic robot for non-verbal communication; robot field, for machine-cyborg batch.",
+   "link": "https://doi.org/10.1145/3706598.3713428",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "VR Pigeons / Squid Smack (VR games)",
+   "why": "The only two 'Animal Biomimicry' games in Yu et al. 2026's corpus of 48 animal-avatar VR games; for the games batch.",
+   "link": "https://arxiv.org/abs/2606.08130",
+   "found_via": "siqi-yu",
+   "status": "open"
+  },
+  {
+   "name": "Supernumerary robotic limbs review (Prattichizzo et al. 2021)",
+   "why": "Survey of wearable extra limbs; corpus overlaps Third Thumb and six-finger work.",
+   "link": "https://doi.org/10.1088/2516-1091/ac2294",
+   "found_via": "tamar-makin",
+   "status": "open"
+  },
+  {
+   "name": "Asura hands (Kawaguchi et al., RO-MAN 2023)",
+   "why": "Owning two left hands in VR.",
+   "link": "https://doi.org/10.1109/ro-man57019.2023.10309380",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Supernumerary hand illusion in AR (Rosa et al. 2021)",
+   "why": "Embodiment of a third virtual arm in AR teleoperation.",
+   "link": "https://doi.org/10.3389/fcomp.2021.694916",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Towards Full Body Co-Embodiment of Human and Non-Human Avatars (Podkosova & Brument 2024)",
+   "why": "Two users share a four-limbed, two-headed non-human avatar.",
+   "link": "https://doi.org/10.1109/vrw62533.2024.00084",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Walking-in-place with a bear avatar (Tanahashi et al., AHs 2026)",
+   "why": "Posture and gesture congruence for quadrupedal avatars.",
+   "link": "https://doi.org/10.1145/3795011.3797415",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

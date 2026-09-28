@@ -1,0 +1,2130 @@
+{
+ "batch": "history-portfolios",
+ "creators": [
+  {
+   "id": "susan-amkraut",
+   "name": "Susan Amkraut",
+   "kind": "person",
+   "role": "Computer animator and virtual-environment artist",
+   "based": "Los Angeles, USA",
+   "bio": "Computer animation pioneer who, with Michael Girard, built behavioural animation systems for flocks and walking creatures in the late 1980s and early 1990s.",
+   "why": "Menagerie was one of the first head-mounted VR worlds filled with autonomous animals instead of objects.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "计算机动画师与虚拟环境艺术家",
+   "bio_zh": "计算机动画先驱，1980 年代末至 1990 年代初与 Michael Girard 一起开发了鸟群与行走生物的行为动画系统。",
+   "why_zh": "《Menagerie》是最早一批以自主动物而不是物体填满的头戴式 VR 世界之一。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [
+    "michael-girard",
+    "scott-fisher"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "michael-girard",
+   "name": "Michael Girard",
+   "kind": "person",
+   "role": "Computer animator, co-creator of Menagerie",
+   "based": "Los Angeles, USA",
+   "bio": "Animator and researcher known for procedural legged-locomotion animation; co-founded Unreal Pictures with Susan Amkraut.",
+   "why": "His locomotion systems gave the virtual animals of Menagerie believable bodies.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "计算机动画师，《Menagerie》联合创作者",
+   "bio_zh": "以程序化多足行走动画闻名的动画师与研究者，与 Susan Amkraut 共同创办 Unreal Pictures。",
+   "why_zh": "他的运动系统让《Menagerie》里的虚拟动物有了可信的身体。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [
+    "susan-amkraut"
+   ],
+   "discovered_via": "susan-amkraut"
+  },
+  {
+   "id": "scott-fisher",
+   "name": "Scott Fisher",
+   "kind": "person",
+   "role": "VR pioneer, NASA Ames VIEW lab and Telepresence Research",
+   "based": "Los Angeles, USA",
+   "bio": "Led the NASA Ames Virtual Interface Environment Workstation in the 1980s and later founded Telepresence Research and the USC Mobile and Environmental Media Lab.",
+   "why": "He produced and documented Menagerie, linking early VR engineering to artists working with animals.",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {},
+   "role_zh": "VR 先驱，NASA Ames VIEW 实验室与 Telepresence Research",
+   "bio_zh": "1980 年代领导 NASA Ames 的虚拟界面环境工作站，后创办 Telepresence Research 与南加州大学移动与环境媒体实验室。",
+   "why_zh": "他制作并记录了《Menagerie》，把早期 VR 工程与关注动物的艺术家连接起来。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [
+    "susan-amkraut"
+   ],
+   "discovered_via": "susan-amkraut"
+  },
+  {
+   "id": "rebecca-allen",
+   "name": "Rebecca Allen",
+   "kind": "person",
+   "role": "Media artist and professor, UCLA Design Media Arts",
+   "based": "Los Angeles, USA",
+   "bio": "Pioneer of computer animation and artificial-life art since the 1970s; founding chair of UCLA Design Media Arts.",
+   "why": "The Bush Soul series treated a virtual world as the wild place where a person's animal soul lives.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "http://www.rebeccaallen.com"
+   },
+   "role_zh": "媒体艺术家，加州大学洛杉矶分校设计媒体艺术系教授",
+   "bio_zh": "1970 年代起的计算机动画与人工生命艺术先驱，加州大学洛杉矶分校设计媒体艺术系创系主任。",
+   "why_zh": "《The Bush Soul》系列把虚拟世界当作一个人的动物灵魂栖居的荒野。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ars-electronica-futurelab",
+   "name": "Ars Electronica Futurelab",
+   "kind": "lab",
+   "role": "Art and technology research lab of Ars Electronica",
+   "based": "Linz, Austria",
+   "bio": "In-house R&D lab of the Ars Electronica Center, founded in 1996, building immersive, robotic and public-space installations.",
+   "why": "Its Humphrey flight simulators were among the first public installations to let visitors fly with their whole body.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://ars.electronica.art/futurelab/"
+   },
+   "role_zh": "Ars Electronica 的艺术与技术研究实验室",
+   "bio_zh": "Ars Electronica Center 的研发实验室，1996 年成立，制作沉浸式、机器人与公共空间装置。",
+   "why_zh": "它的 Humphrey 飞行模拟器是最早让公众用全身飞行的装置之一。",
+   "based_zh": "林茨，奥地利",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hiroo-iwata",
+   "name": "Hiroo Iwata",
+   "kind": "person",
+   "role": "Professor of VR and haptics, University of Tsukuba",
+   "based": "Tsukuba, Japan",
+   "bio": "Haptics and locomotion-interface researcher and media artist, known for Floating Eye, the Torus Treadmill and Big Robot.",
+   "why": "Floating Eye detached vision from the body and handed it to a flying machine.",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {},
+   "role_zh": "筑波大学 VR 与触觉教授",
+   "bio_zh": "触觉与行走界面研究者和媒体艺术家，代表作包括《Floating Eye》、Torus Treadmill 与 Big Robot。",
+   "why_zh": "《Floating Eye》把视觉从身体上拆下来，交给一台飞行的机器。",
+   "based_zh": "筑波，日本",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kazuhiko-hachiya",
+   "name": "Kazuhiko Hachiya",
+   "kind": "person",
+   "role": "Media artist",
+   "based": "Tokyo, Japan",
+   "bio": "Japanese media artist whose devices rewire communication and the body, from the Inter Discommunication Machine to the PostPet mail software and the OpenSky jet glider.",
+   "why": "He built both a winged headset for swapping perspectives and a real one-person aircraft modelled on a fictional bird-glider.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.petworks.co.jp/~hachiya/"
+   },
+   "role_zh": "媒体艺术家",
+   "bio_zh": "日本媒体艺术家，作品改写交流方式与身体，从《Inter Discommunication Machine》到 PostPet 邮件软件和 OpenSky 喷气滑翔机。",
+   "why_zh": "他既做了交换视角的带翼头戴装置，也造了一架以虚构“鸟形滑翔机”为原型的单人飞机。",
+   "based_zh": "东京，日本",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "myron-krueger",
+   "name": "Myron Krueger",
+   "kind": "person",
+   "role": "Computer artist, pioneer of 'artificial reality'",
+   "based": "Vernon, Connecticut, USA",
+   "bio": "Built responsive environments from 1969 onward (Glowflow, Metaplay, Psychic Space) and coined 'artificial reality'.",
+   "why": "Videoplace showed that a body could inhabit a graphic world without goggles or gloves.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "计算机艺术家，“人工现实”先驱",
+   "bio_zh": "1969 年起创作响应式环境（Glowflow、Metaplay、Psychic Space），并提出“人工现实”一词。",
+   "why_zh": "《Videoplace》证明身体可以不戴眼镜和手套就进入一个图形世界。",
+   "based_zh": "弗农，康涅狄格州，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "christa-sommerer",
+   "name": "Christa Sommerer",
+   "kind": "person",
+   "role": "Media artist and professor, Kunstuniversität Linz",
+   "based": "Linz, Austria",
+   "bio": "Trained in botany and sculpture; with Laurent Mignonneau she has made interactive artificial-life installations since 1992.",
+   "why": "Her works with Mignonneau made real plants and growing virtual plants into interfaces for the human body.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "媒体艺术家，林茨艺术大学教授",
+   "bio_zh": "学过植物学与雕塑，自 1992 年起与 Laurent Mignonneau 合作创作交互式人工生命装置。",
+   "why_zh": "她与 Mignonneau 的作品把真实植物和生长的虚拟植物变成人体的界面。",
+   "based_zh": "林茨，奥地利",
+   "connected_to": [
+    "laurent-mignonneau"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "laurent-mignonneau",
+   "name": "Laurent Mignonneau",
+   "kind": "person",
+   "role": "Media artist and professor, Kunstuniversität Linz",
+   "based": "Linz, Austria",
+   "bio": "French artist and engineer who co-creates interactive artificial-life works with Christa Sommerer, including A-Volve and Interactive Plant Growing.",
+   "why": "He built the plant-sensing and growth systems behind their early botanical interfaces.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "媒体艺术家，林茨艺术大学教授",
+   "bio_zh": "法国艺术家与工程师，与 Christa Sommerer 共同创作《A-Volve》《Interactive Plant Growing》等交互式人工生命作品。",
+   "why_zh": "他搭建了两人早期植物界面背后的植物感应与生长系统。",
+   "based_zh": "林茨，奥地利",
+   "connected_to": [
+    "christa-sommerer"
+   ],
+   "discovered_via": "christa-sommerer"
+  },
+  {
+   "id": "knowbotic-research",
+   "name": "Knowbotic Research",
+   "kind": "studio",
+   "role": "Media art group (Yvonne Wilhelm, Christian Hübler, Alexander Tuchacek)",
+   "based": "Zurich, Switzerland",
+   "bio": "Artist group founded in 1991 that builds interfaces to data networks and remote environments.",
+   "why": "Dialogue with the Knowbotic South turned Antarctica's data streams into a place a visitor could sense and move through.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "媒体艺术小组（Yvonne Wilhelm、Christian Hübler、Alexander Tuchacek）",
+   "bio_zh": "1991 年成立的艺术小组，为数据网络和远方环境制作界面。",
+   "why_zh": "《Dialogue with the Knowbotic South》把南极的数据流变成观众可以感知和穿行的地方。",
+   "based_zh": "苏黎世，瑞士",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "beatriz-da-costa",
+   "name": "Beatriz da Costa",
+   "kind": "person",
+   "role": "Artist and researcher, UC Irvine (1974–2012)",
+   "based": "Irvine, USA",
+   "bio": "Tactical-media artist working across biology, activism and engineering; co-founder of Critical Art Ensemble-adjacent projects and author of Tactical Biopolitics.",
+   "why": "PigeonBlog made pigeons into airborne co-researchers whose flights produced a pollution map.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家与研究者，加州大学欧文分校（1974–2012）",
+   "bio_zh": "横跨生物学、行动主义与工程的战术媒体艺术家，《Tactical Biopolitics》编者。",
+   "why_zh": "《PigeonBlog》让鸽子成为空中的共同研究者，用飞行绘出污染地图。",
+   "based_zh": "欧文，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "natalie-jeremijenko",
+   "name": "Natalie Jeremijenko",
+   "kind": "person",
+   "role": "Artist and engineer, Environmental Health Clinic, NYU",
+   "based": "New York, USA",
+   "bio": "Artist-engineer whose Environmental Health Clinic prescribes actions with other species; works include Feral Robotic Dogs, OOZ and Tree Logic.",
+   "why": "She designs interfaces through which people and fish, birds or trees can signal to each other.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "艺术家与工程师，纽约大学环境健康诊所",
+   "bio_zh": "艺术家兼工程师，她的环境健康诊所为人与其他物种的共处开出“处方”；作品包括 Feral Robotic Dogs、OOZ 与 Tree Logic。",
+   "why_zh": "她设计让人与鱼、鸟或树互相传递信号的界面。",
+   "based_zh": "纽约，美国",
+   "connected_to": [
+    "the-living"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "the-living",
+   "name": "The Living",
+   "kind": "studio",
+   "role": "Architecture studio (David Benjamin, Soo-in Yang)",
+   "based": "New York, USA",
+   "bio": "New York architecture studio founded by David Benjamin and Soo-in Yang, working with living materials and environmental sensing.",
+   "why": "Amphibious Architecture made fish presence in a city river visible and textable.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "role_zh": "建筑工作室（David Benjamin、Soo-in Yang）",
+   "bio_zh": "由 David Benjamin 与 Soo-in Yang 创办的纽约建筑工作室，关注活体材料与环境感知。",
+   "why_zh": "《Amphibious Architecture》让城市河流中鱼的存在变得可见，还能通过短信回应。",
+   "based_zh": "纽约，美国",
+   "connected_to": [
+    "natalie-jeremijenko"
+   ],
+   "discovered_via": "natalie-jeremijenko"
+  },
+  {
+   "id": "don-allison",
+   "name": "Don Allison",
+   "kind": "person",
+   "role": "VR researcher, GVU Center, Georgia Tech",
+   "based": "Atlanta, USA",
+   "bio": "Georgia Tech graduate researcher who led the Virtual Reality Gorilla Exhibit with Larry F. Hodges and Zoo Atlanta in the mid-1990s.",
+   "why": "The gorilla exhibit is an early case of VR used to let people live inside an animal's social world.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "VR 研究者，佐治亚理工学院 GVU 中心",
+   "bio_zh": "佐治亚理工学院研究生研究者，1990 年代中期与 Larry F. Hodges 及亚特兰大动物园共同主导“虚拟现实大猩猩展”。",
+   "why_zh": "大猩猩展是早期用 VR 让人进入动物社会世界的案例。",
+   "based_zh": "亚特兰大，美国",
+   "connected_to": [
+    "larry-f-hodges"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "larry-f-hodges",
+   "name": "Larry F. Hodges",
+   "kind": "person",
+   "role": "VR researcher, Georgia Tech, later Clemson University",
+   "based": "Atlanta, USA",
+   "bio": "Virtual-environments researcher known for VR exposure therapy and presence studies.",
+   "why": "He co-directed the Virtual Reality Gorilla Exhibit.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "VR 研究者，佐治亚理工学院，后任职克莱姆森大学",
+   "bio_zh": "虚拟环境研究者，以 VR 暴露疗法与临场感研究闻名。",
+   "why_zh": "他共同主导了“虚拟现实大猩猩展”。",
+   "based_zh": "亚特兰大，美国",
+   "connected_to": [
+    "don-allison"
+   ],
+   "discovered_via": "don-allison"
+  },
+  {
+   "id": "peter-meijer",
+   "name": "Peter Meijer",
+   "kind": "person",
+   "role": "Engineer, inventor of The vOICe",
+   "based": "Eindhoven, Netherlands",
+   "bio": "Dutch engineer at Philips Research who developed The vOICe, a visual-to-auditory sensory-substitution system, from 1991.",
+   "why": "The vOICe is the longest-running open platform for 'seeing with sound'.",
+   "disciplines": [
+    "science",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.seeingwithsound.com"
+   },
+   "role_zh": "工程师，The vOICe 发明者",
+   "bio_zh": "飞利浦研究院的荷兰工程师，1991 年起开发视觉转听觉的感官替代系统 The vOICe。",
+   "why_zh": "The vOICe 是运行时间最长、开放给所有人的“用声音看”平台。",
+   "based_zh": "埃因霍温，荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "agnes-hegedus",
+   "name": "Agnes Hegedüs",
+   "kind": "person",
+   "role": "Media artist",
+   "based": "Karlsruhe, Germany",
+   "bio": "Hungarian-born media artist associated with ZKM Karlsruhe; works include Handsight, Fruit Machine and Things Spoken.",
+   "why": "Handsight moves the eye into the hand and asks what a body is when its sight organ is detachable.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "媒体艺术家",
+   "bio_zh": "匈牙利出生的媒体艺术家，与卡尔斯鲁厄 ZKM 关系密切；作品有《Handsight》《Fruit Machine》《Things Spoken》等。",
+   "why_zh": "《Handsight》把眼睛移到手上，追问当视觉器官可以拆下时身体是什么。",
+   "based_zh": "卡尔斯鲁厄，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alvin-lucier",
+   "name": "Alvin Lucier",
+   "kind": "person",
+   "role": "Composer (1931–2021)",
+   "based": "Middletown, Connecticut, USA",
+   "bio": "Experimental composer of the Sonic Arts Union who made acoustic phenomena the subject of his music (I Am Sitting in a Room, Music for Solo Performer).",
+   "why": "Vespers asks human performers to navigate by echolocation, like bats.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "作曲家（1931–2021）",
+   "bio_zh": "Sonic Arts Union 的实验作曲家，以声学现象本身为音乐主题（《I Am Sitting in a Room》《Music for Solo Performer》）。",
+   "why_zh": "《Vespers》让人类表演者像蝙蝠一样靠回声定位行走。",
+   "based_zh": "米德尔顿，康涅狄格州，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "david-dunn",
+   "name": "David Dunn",
+   "kind": "person",
+   "role": "Composer and bioacoustic researcher",
+   "based": "Santa Fe, USA",
+   "bio": "American composer who records sound worlds of insects and ecosystems, often with custom sensors, and works with scientists on bark-beetle acoustics.",
+   "why": "He places listeners inside the sound worlds of pond insects and beetles in tree bark.",
+   "disciplines": [
+    "art",
+    "science"
+   ],
+   "links": {},
+   "role_zh": "作曲家与生物声学研究者",
+   "bio_zh": "美国作曲家，常用自制传感器录制昆虫与生态系统的声音世界，并与科学家合作研究小蠹虫声学。",
+   "why_zh": "他让听者进入池塘昆虫和树皮中甲虫的声音世界。",
+   "based_zh": "圣塔菲，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "haus-rucker-co",
+   "name": "Haus-Rucker-Co",
+   "kind": "studio",
+   "role": "Architecture and art group (Laurids Ortner, Günter Zamp Kelp, Klaus Pinter)",
+   "based": "Vienna, Austria",
+   "bio": "Viennese group founded in 1967 whose 'Mind Expanding Program' built pneumatic rooms and perception-altering helmets.",
+   "why": "Their helmets are 1960s ancestors of headsets that transform how the world looks and sounds.",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {},
+   "role_zh": "建筑与艺术小组（Laurids Ortner、Günter Zamp Kelp、Klaus Pinter）",
+   "bio_zh": "1967 年成立于维也纳，其“心智扩展计划”制作了充气空间与改变感知的头盔。",
+   "why_zh": "他们的头盔是 1960 年代改变视听世界的头显的前身。",
+   "based_zh": "维也纳，奥地利",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mark-thompson",
+   "name": "Mark Thompson",
+   "kind": "person",
+   "role": "Artist and beekeeper",
+   "based": "San Francisco Bay Area, USA",
+   "bio": "American artist who has worked with honeybees since the 1970s in performances and installations.",
+   "why": "Live-In Hive put an artist's head inside a working colony for weeks.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家与养蜂人",
+   "bio_zh": "自 1970 年代起以蜜蜂为材料创作表演与装置的美国艺术家。",
+   "why_zh": "《Live-In Hive》让艺术家把头放进一个真实的蜂群里长达数周。",
+   "based_zh": "旧金山湾区，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "greg-marshall",
+   "name": "Greg Marshall",
+   "kind": "person",
+   "role": "Marine biologist and filmmaker, inventor of Crittercam",
+   "based": "Washington, D.C., USA",
+   "bio": "Marine biologist who invented the animal-borne Crittercam and developed it at National Geographic from 1986.",
+   "why": "Crittercam made the animal's own point of view a standard research and broadcast image.",
+   "disciplines": [
+    "science",
+    "film"
+   ],
+   "links": {},
+   "role_zh": "海洋生物学家与电影人，Crittercam 发明者",
+   "bio_zh": "海洋生物学家，发明了动物携带式摄像机 Crittercam，1986 年起在美国国家地理学会持续开发。",
+   "why_zh": "Crittercam 让动物自己的视角成为科研与电视中的常见画面。",
+   "based_zh": "华盛顿特区，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lucien-castaing-taylor",
+   "name": "Lucien Castaing-Taylor",
+   "kind": "person",
+   "role": "Filmmaker and anthropologist, Harvard Sensory Ethnography Lab",
+   "based": "Cambridge, USA",
+   "bio": "Directs the Sensory Ethnography Lab at Harvard; films include Sweetgrass and Leviathan.",
+   "why": "Leviathan hands the camera to fish, gulls and the sea itself.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "role_zh": "电影人与人类学家，哈佛感官民族志实验室",
+   "bio_zh": "主持哈佛感官民族志实验室，作品包括《Sweetgrass》《Leviathan》。",
+   "why_zh": "《Leviathan》把摄影机交给鱼、海鸥和大海本身。",
+   "based_zh": "剑桥，美国",
+   "connected_to": [
+    "verena-paravel"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "verena-paravel",
+   "name": "Véréna Paravel",
+   "kind": "person",
+   "role": "Filmmaker and anthropologist, Harvard Sensory Ethnography Lab",
+   "based": "Paris, France",
+   "bio": "French-Swiss artist and anthropologist working in the Sensory Ethnography Lab; co-director of Leviathan, Caniba and De Humani Corporis Fabrica.",
+   "why": "Her films give up the human eye-level in favour of bodies and machines seen from within.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "role_zh": "电影人与人类学家，哈佛感官民族志实验室",
+   "bio_zh": "法国—瑞士艺术家与人类学家，感官民族志实验室成员，联合执导《Leviathan》《Caniba》《De Humani Corporis Fabrica》。",
+   "why_zh": "她的电影放弃人眼高度，转向从内部看身体与机器。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [
+    "lucien-castaing-taylor"
+   ],
+   "discovered_via": "lucien-castaing-taylor"
+  },
+  {
+   "id": "mit-synthetic-characters",
+   "name": "MIT Media Lab Synthetic Characters Group",
+   "kind": "lab",
+   "role": "Research group led by Bruce Blumberg (1996–2003)",
+   "based": "Cambridge, USA",
+   "bio": "MIT Media Lab group that built autonomous animal characters with emotion and learning, informed by animal-training research.",
+   "why": "Its installations let visitors act as or through a chicken, a wolf pup and a sheepdog.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": "https://characters.media.mit.edu"
+   },
+   "role_zh": "由 Bruce Blumberg 领导的研究组（1996–2003）",
+   "bio_zh": "麻省理工媒体实验室研究组，借鉴动物训练研究，制作有情绪与学习能力的自主动物角色。",
+   "why_zh": "它的装置让观众以一只鸡、一只小狼和一只牧羊犬的身份行动。",
+   "based_zh": "剑桥，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "susana-soares",
+   "name": "Susana Soares",
+   "kind": "person",
+   "role": "Designer, London South Bank University",
+   "based": "London, UK",
+   "bio": "Portuguese designer and researcher, graduate of the RCA Design Interactions programme, working on biology-driven speculative design.",
+   "why": "Bee's borrows the honeybee's sense of smell as a diagnostic organ for humans.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "role_zh": "设计师，伦敦南岸大学",
+   "bio_zh": "葡萄牙设计师与研究者，毕业于皇家艺术学院交互设计专业，从事以生物学驱动的思辨设计。",
+   "why_zh": "《Bee's》借用蜜蜂的嗅觉，把它变成人类的诊断器官。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dunne-and-raby",
+   "name": "Dunne & Raby",
+   "kind": "studio",
+   "role": "Critical design practice (Anthony Dunne, Fiona Raby)",
+   "based": "New York, USA",
+   "bio": "Anthony Dunne and Fiona Raby led the RCA Design Interactions programme and defined speculative and critical design.",
+   "why": "Foragers imagines humans growing new digestive organs modelled on other animals.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "http://dunneandraby.co.uk"
+   },
+   "role_zh": "批判性设计工作室（Anthony Dunne、Fiona Raby）",
+   "bio_zh": "Anthony Dunne 与 Fiona Raby 曾主持皇家艺术学院交互设计专业，界定了思辨设计与批判性设计。",
+   "why_zh": "《Foragers》设想人类仿照其他动物长出新的消化器官。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "carsten-holler",
+   "name": "Carsten Höller",
+   "kind": "person",
+   "role": "Artist, trained as an agricultural entomologist",
+   "based": "Stockholm, Sweden",
+   "bio": "Belgian-born artist with a doctorate in insect olfaction who builds participatory works that alter perception: slides, goggles, flying machines, mirrored carousels.",
+   "why": "His devices treat the gallery as a lab where visitors test how far their perception and bodily sense can be changed.",
+   "disciplines": [
+    "art",
+    "science"
+   ],
+   "links": {},
+   "role_zh": "艺术家，曾受训为农业昆虫学家",
+   "bio_zh": "比利时出生的艺术家，拥有昆虫嗅觉方向的博士学位，创作改变感知的参与式作品：滑梯、倒视眼镜、飞行器、镜面旋转木马等。",
+   "why_zh": "他的装置把展厅当作实验室，让观众检验自己的感知和身体感可以被改变到什么程度。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tom-froese",
+   "name": "Tom Froese",
+   "kind": "person",
+   "role": "Cognitive scientist, Okinawa Institute of Science and Technology",
+   "based": "Okinawa, Japan",
+   "bio": "Researcher in enactive cognitive science and artificial life who builds minimal sensory-substitution devices to study perception.",
+   "why": "The Enactive Torch shows how a single vibrating channel becomes a new way of feeling space.",
+   "disciplines": [
+    "science",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "认知科学家，冲绳科学技术大学院大学",
+   "bio_zh": "生成认知科学与人工生命研究者，制作极简的感官替代装置来研究感知。",
+   "why_zh": "《Enactive Torch》展示了一条振动通道如何成为感受空间的新方式。",
+   "based_zh": "冲绳，日本",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "susan-amkraut--menagerie",
+   "creator_ids": [
+    "susan-amkraut",
+    "michael-girard",
+    "scott-fisher"
+   ],
+   "title": "Menagerie",
+   "year": 1993,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "bird"
+   ],
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A head-mounted virtual environment populated by computer-generated birds, dogs and other creatures that flock, walk and scatter around the visitor as they move.",
+   "description_zh": "一个头戴式虚拟环境，里面的计算机生成的鸟、狗等动物会随着观众的移动成群飞行、行走或四散。",
+   "idea_en": "A landmark of sharing space with autonomous animals rather than steering them: the visitor becomes one more body the flock reacts to.",
+   "idea_zh": "一个与自主动物共享空间而不是操控它们的里程碑：观众只是动物群会回应的又一个身体。",
+   "method": "Behavioural flocking and procedural legged-locomotion animation rendered in real time to a tracked stereoscopic display (likely a BOOM or HMD).",
+   "method_zh": "以行为群集算法与程序化多足运动动画实时渲染，输出到带追踪的立体显示器（可能为 BOOM 或头显）。",
+   "keywords": [
+    "flocking",
+    "birds",
+    "dogs",
+    "behavioural animation",
+    "Telepresence Research",
+    "Centre Pompidou"
+   ],
+   "shown_at": [
+    "Revue Virtuelle, Centre Pompidou 1993"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZKETFeraZFk"
+   },
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "rebecca-allen--the-bush-soul",
+   "creator_ids": [
+    "rebecca-allen"
+   ],
+   "title": "The Bush Soul (#1–#3)",
+   "year": 1997,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "installation",
+    "game"
+   ],
+   "kind": "artwork",
+   "description": "A series of three installations in which a visitor's 'soul', a pulsing sphere of energy, enters a virtual bush of artificial-life creatures that approach, avoid and respond to it; a force-feedback joystick lets the visitor feel the world.",
+   "description_zh": "三件系列装置：观众的“灵魂”化作一团跳动的能量球，进入由人工生命生物组成的虚拟灌木丛，生物会靠近、回避并回应它；力反馈摇杆让观众感到这个世界。",
+   "idea_en": "Named after the West African belief in a 'bush soul' that lives inside a wild animal, it frames entering a virtual world as sending part of yourself to live among other creatures.",
+   "idea_zh": "作品名来自西非关于“灌木之魂”栖居在野生动物体内的信仰，把进入虚拟世界理解为把自己的一部分送去与其他生物同住。",
+   "method": "Custom behaviour engine (later Emergence) where each character carries 'feelings' toward objects that drive its movement, with force-feedback joystick navigation.",
+   "method_zh": "自制行为引擎（后来的 Emergence），每个角色对物体带有驱动其行动的“情感”，并用力反馈摇杆导航。",
+   "keywords": [
+    "bush soul",
+    "artificial life",
+    "West Africa",
+    "force feedback",
+    "Emergence engine"
+   ],
+   "images": [
+    "https://assets.locomotive.works/sites/630ddaf4586d95007d5cf2e2/content_entry630ddb1b594da90081a5673c/630ddf87586d95007d5cf3e9/files/bs3.01.jpg?1750273474",
+    "https://assets.locomotive.works/sites/630ddaf4586d95007d5cf2e2/content_entry630ddb1b594da90081a5673c/630ddf94586d95007d5cf41c/files/bs1.in.1.jpg?1661853991"
+   ],
+   "source_url": "http://www.rebeccaallen.com/projects/bush-soul-number-3",
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "ars-electronica-futurelab--humphrey-ii",
+   "creator_ids": [
+    "ars-electronica-futurelab"
+   ],
+   "title": "Humphrey II",
+   "year": 2003,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A flight simulator at the Ars Electronica Center in which a visitor hangs face-down in a harness and flies over a virtual landscape by moving arms and body, feeling wind, turbulence and impact through force feedback.",
+   "description_zh": "Ars Electronica Center 的飞行模拟器：观众面朝下吊在支架中，用手臂与身体动作飞越虚拟地景，通过力反馈感受风、气流和撞击。",
+   "idea_en": "Flying is made with the whole body instead of a joystick, an early public version of the arms-as-wings posture later used by Birdly.",
+   "idea_zh": "飞行靠全身而不是摇杆完成，是后来 Birdly 所用“手臂即翅膀”姿态的早期公共版本。",
+   "method": "Body suspended in a motion-controlled harness with pneumatic force feedback, head-mounted display and body tracking; successor to the 1994 Humphrey simulator.",
+   "method_zh": "身体悬挂在运动控制支架上，配合气动力反馈、头戴显示器与身体追踪；是 1994 年 Humphrey 模拟器的后继。",
+   "keywords": [
+    "flight simulator",
+    "harness",
+    "force feedback",
+    "Ars Electronica Center",
+    "Humphrey"
+   ],
+   "shown_at": [
+    "Ars Electronica Center 2003"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8l8JCpMEviM"
+   },
+   "source_url": "https://ars.electronica.art/futurelab/",
+   "collections": [
+    "early-becoming-1965-2012",
+    "ars-electronica"
+   ]
+  },
+  {
+   "id": "hiroo-iwata--floating-eye",
+   "creator_ids": [
+    "hiroo-iwata"
+   ],
+   "title": "Floating Eye",
+   "year": 2000,
+   "field": "robot",
+   "sub": "machine-senses",
+   "also": [
+    "bird"
+   ],
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "wearable",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A camera hangs from a small blimp floating above the participant, who wears a dome-shaped display and walks while seeing only the blimp's wide-angle view, looking down on their own body.",
+   "description_zh": "一台摄像机挂在参与者头顶上方漂浮的小飞艇上，参与者戴着穹顶形显示器行走，只能看到飞艇的广角画面，从上方俯视自己的身体。",
+   "idea_en": "Vision is handed to a floating machine: you steer your body from a bird's- or drone's-eye position outside it.",
+   "idea_zh": "视觉交给一台漂浮的机器：你从身体之外、鸟或无人机的位置操控自己的身体。",
+   "method": "Helium blimp tethered to the participant carries a wide-angle camera whose video is shown in a head-worn hemispherical screen.",
+   "method_zh": "拴在参与者身上的氦气飞艇携带广角摄像机，画面显示在头戴式半球屏上。",
+   "keywords": [
+    "out-of-body",
+    "blimp",
+    "wide-angle",
+    "third-person view",
+    "wearable dome"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=In-M1eVAnYc"
+   },
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "kazuhiko-hachiya--inter-discommunication-machine",
+   "creator_ids": [
+    "kazuhiko-hachiya"
+   ],
+   "title": "Inter Discommunication Machine",
+   "year": 1993,
+   "field": "foundations",
+   "sub": "embodiment",
+   "also": [
+    "bird"
+   ],
+   "senses": [
+    "vision",
+    "hearing",
+    "body"
+   ],
+   "medium": [
+    "wearable",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "Two people wear winged headsets with cameras and microphones; each sees and hears only what the other's headset captures, so they must move through space in each other's perception.",
+   "description_zh": "两人戴着带翅膀、装有摄像头和麦克风的头戴装置；每人只能看到、听到对方装置采集的画面与声音，必须在对方的感知中移动。",
+   "idea_en": "An early swap of perspectives: the self is steered from outside, the ancestor of body-swap and perceptual-crossing works.",
+   "idea_zh": "一次早期的视角交换：自我被从外部操控，是身体交换与感知交叉作品的前身。",
+   "method": "Two head-mounted displays linked to each other's head-mounted camera and microphone via wireless video transmission, housed in feathered wing costumes.",
+   "method_zh": "两台头戴显示器通过无线视频互相连接对方的摄像头与麦克风，装在带羽毛的翅膀服装里。",
+   "keywords": [
+    "perspective swap",
+    "wings",
+    "HMD",
+    "body swap",
+    "perceptual crossing"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JOzVzcmK0VU"
+   },
+   "source_url": "https://www.petworks.co.jp/~hachiya/",
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "kazuhiko-hachiya--opensky",
+   "creator_ids": [
+    "kazuhiko-hachiya"
+   ],
+   "title": "OpenSky",
+   "year": 2003,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "An art project to build and fly a one-person jet-powered glider modelled on the bird-shaped Möwe from Hayao Miyazaki's Nausicaä of the Valley of the Wind, flown by the artist lying on its back.",
+   "description_zh": "一个艺术项目：以宫崎骏《风之谷》中鸟形的“Möwe”为原型，制造并驾驶单人喷气滑翔机，艺术家俯卧在机背上飞行。",
+   "idea_en": "Becoming a bird is taken literally: the body lies on a wing and steers by shifting its weight.",
+   "idea_zh": "“成为鸟”被当真：身体伏在机翼上，靠移动重心来操控方向。",
+   "method": "Custom flying-wing glider (M-02, later jet-powered M-02J) developed over a decade with test flights from 2006.",
+   "method_zh": "自制飞翼式滑翔机（M-02，后为喷气动力的 M-02J），历经十余年开发，2006 年起试飞。",
+   "keywords": [
+    "glider",
+    "Möwe",
+    "Nausicaä",
+    "flying wing",
+    "weight shift"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=nwZkRGxbWDg"
+   },
+   "source_url": "https://www.petworks.co.jp/~hachiya/works/OpenSky.html",
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "myron-krueger--videoplace",
+   "creator_ids": [
+    "myron-krueger"
+   ],
+   "title": "Videoplace",
+   "year": 1975,
+   "field": "foundations",
+   "sub": "embodiment",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "Participants see their live silhouettes on a large screen, where they play with graphic creatures such as the small CRITTER that climbs on their outline, and with other people's silhouettes from a remote room.",
+   "description_zh": "参与者在大屏幕上看到自己的实时剪影，与爬上剪影轮廓的小生物 CRITTER 等图形生物互动，也能与另一房间里他人的剪影互动。",
+   "idea_en": "The body becomes a graphic shape that other beings can climb, touch and respond to, the groundwork for embodied, full-body interaction.",
+   "idea_zh": "身体变成可以被其他生物攀爬、触碰和回应的图形，是全身具身交互的基础。",
+   "method": "Real-time video silhouette extraction on custom hardware, composited with computer graphics and projected; no goggles or gloves.",
+   "method_zh": "在自制硬件上实时提取视频剪影，与计算机图形合成并投影；无需眼镜或手套。",
+   "keywords": [
+    "artificial reality",
+    "silhouette",
+    "CRITTER",
+    "full-body interaction",
+    "Golden Nica 1990"
+   ],
+   "shown_at": [
+    "Milwaukee Art Museum 1975",
+    "Prix Ars Electronica Golden Nica 1990"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=dqZyZrN3Pl0"
+   },
+   "collections": [
+    "early-becoming-1965-2012",
+    "ars-electronica"
+   ]
+  },
+  {
+   "id": "christa-sommerer--interactive-plant-growing",
+   "creator_ids": [
+    "christa-sommerer",
+    "laurent-mignonneau"
+   ],
+   "title": "Interactive Plant Growing",
+   "year": 1992,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "touch",
+    "time-scale"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "Visitors touch or approach five real potted plants, and each touch makes a different species of virtual plant grow, twist or stop on a projection screen in real time.",
+   "description_zh": "观众触碰或靠近五株真实盆栽，每一次触碰都会让投影上不同种类的虚拟植物实时生长、扭动或停止。",
+   "idea_en": "The living plant is the interface: human touch is felt by a plant and translated into plant growth.",
+   "idea_zh": "活植物就是界面：人的触碰先被植物感知，再被转译为植物的生长。",
+   "method": "Electrical potential between the visitor's hand and each plant is measured and drives an algorithmic plant-growth program.",
+   "method_zh": "测量观众手与每株植物之间的电位差，用来驱动算法化的植物生长程序。",
+   "keywords": [
+    "plants",
+    "touch",
+    "artificial life",
+    "ZKM",
+    "plant interface"
+   ],
+   "shown_at": [
+    "ZKM Karlsruhe collection"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JXX7JNFD2X8"
+   },
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "christa-sommerer--trans-plant",
+   "creator_ids": [
+    "christa-sommerer",
+    "laurent-mignonneau"
+   ],
+   "title": "Trans Plant",
+   "year": 1995,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "installation",
+    "dome"
+   ],
+   "kind": "artwork",
+   "description": "Walking into a half-round room, visitors see their image on screen as grass and trees grow wherever they step; standing still makes plants grow taller, and body size and speed change what grows.",
+   "description_zh": "观众走进半圆形空间，在屏幕上看到自己的影像，脚步所到之处长出草和树；静止不动时植物长得更高，身体大小和移动速度决定长出的植物。",
+   "idea_en": "The visitor's body becomes a gardener and a garden: stillness, the tempo of plants, is what makes a forest.",
+   "idea_zh": "观众的身体既是园丁也是花园：静止，也就是植物的节奏，才能长出森林。",
+   "method": "3D video key extracts the visitor's body and position; a growth algorithm renders plants around it on a large projection.",
+   "method_zh": "三维视频抠像提取观众的身体与位置，生长算法在大投影上围绕身体生成植物。",
+   "keywords": [
+    "jungle",
+    "stillness",
+    "plant growth",
+    "Tokyo Metropolitan Museum of Photography"
+   ],
+   "shown_at": [
+    "Tokyo Metropolitan Museum of Photography 1995"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gduXrdsQG-w"
+   },
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "knowbotic-research--dialogue-with-the-knowbotic-south",
+   "creator_ids": [
+    "knowbotic-research"
+   ],
+   "title": "Dialogue with the Knowbotic South",
+   "year": 1994,
+   "field": "river",
+   "sub": "earth",
+   "senses": [
+    "vision",
+    "hearing",
+    "thermal"
+   ],
+   "medium": [
+    "installation",
+    "dome"
+   ],
+   "kind": "artwork",
+   "description": "In a dark room, visitors navigate a cloud of 'knowbots', agents built from live Antarctic research data, while wind and sound driven by Antarctic conditions fill the space.",
+   "description_zh": "在黑暗的房间里，观众穿行于由南极实时科研数据生成的“知识机器人”云团中，空间里充满由南极气候驱动的风与声音。",
+   "idea_en": "Antarctica is known only through instruments; the work lets a visitor feel a remote environment as data made bodily.",
+   "idea_zh": "南极只能通过仪器被认识；作品让观众把远方的环境当作可以用身体感知的数据。",
+   "method": "Networked feeds from Antarctic stations and databases drive computer-generated agents, projection, sound and a wind machine; navigation by tracked pointer (details likely varied by venue).",
+   "method_zh": "来自南极科考站和数据库的网络数据驱动计算机生成的代理、投影、声音与风机；以追踪指针导航（具体配置可能因展出地点而异）。",
+   "keywords": [
+    "Antarctica",
+    "knowbots",
+    "data",
+    "wind",
+    "climate",
+    "ZKM"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=dJ3ZbD5uGkE"
+   },
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "beatriz-da-costa--pigeonblog",
+   "creator_ids": [
+    "beatriz-da-costa"
+   ],
+   "title": "PigeonBlog",
+   "year": 2006,
+   "field": "bird",
+   "sub": "flock",
+   "also": [
+    "river"
+   ],
+   "senses": [
+    "smell",
+    "collective-sense"
+   ],
+   "medium": [
+    "wearable",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "Homing pigeons carry small backpacks that measure carbon monoxide and nitrogen oxides as they fly over Southern California and send readings to a live online map.",
+   "description_zh": "信鸽背着小背包飞过南加州，测量一氧化碳和氮氧化物，并把读数实时发送到在线地图。",
+   "idea_en": "The city's air is sensed at pigeon altitude: the birds become co-researchers and the map shows the world as they breathe it.",
+   "idea_zh": "在鸽子的飞行高度感知城市空气：鸽子成为共同研究者，地图呈现的是它们呼吸到的世界。",
+   "method": "Custom GPS, gas-sensor and GSM/SMS backpacks built with Cina Hazegh and Kevin Ponto, streaming to a Google Maps interface.",
+   "method_zh": "与 Cina Hazegh 和 Kevin Ponto 合作制作的 GPS、气体传感器与 GSM 短信背包，数据实时上传到 Google 地图界面。",
+   "keywords": [
+    "pigeons",
+    "air pollution",
+    "citizen science",
+    "GPS",
+    "ISEA 2006",
+    "ZeroOne"
+   ],
+   "shown_at": [
+    "ISEA 2006 / ZeroOne San Jose"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XXNh5dKIh18"
+   },
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "natalie-jeremijenko--amphibious-architecture",
+   "creator_ids": [
+    "natalie-jeremijenko",
+    "the-living"
+   ],
+   "title": "Amphibious Architecture",
+   "year": 2009,
+   "field": "fish",
+   "sub": "fish",
+   "also": [
+    "river"
+   ],
+   "senses": [
+    "vision",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "Floating tubes in New York's East River and Bronx River carry sensors that detect fish and dissolved oxygen below; lights on top change colour when fish swim past, and people can text the fish and get replies.",
+   "description_zh": "漂浮在纽约东河与布朗克斯河上的管状装置装有传感器，探测水下的鱼和溶解氧；有鱼游过时顶部的灯会变色，人们还可以给鱼发短信并收到回复。",
+   "idea_en": "Makes fish presence visible from the shore, turning a city river into a surface where people and fish can signal to each other.",
+   "idea_zh": "让岸上的人看见鱼的存在，把城市河流变成人与鱼互相传递信号的界面。",
+   "method": "Sonar fish detectors and water-quality sensors under buoyant tubes, with LED arrays above and an SMS interface.",
+   "method_zh": "浮管下方装有声呐鱼探仪与水质传感器，上方是 LED 灯阵，并配有短信接口。",
+   "keywords": [
+    "East River",
+    "Bronx River",
+    "fish",
+    "SMS",
+    "sonar",
+    "Toward the Sentient City"
+   ],
+   "shown_at": [
+    "Toward the Sentient City, Architectural League of New York 2009"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tE8gsMUguLY"
+   },
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "don-allison--virtual-reality-gorilla-exhibit",
+   "creator_ids": [
+    "don-allison",
+    "larry-f-hodges"
+   ],
+   "title": "The Virtual Reality Gorilla Exhibit",
+   "year": 1996,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "prototype",
+   "description": "At Zoo Atlanta, students in a head-mounted display take the role of an adolescent gorilla inside a virtual gorilla habitat, and the virtual gorillas react to their approach with dominance and submission behaviours.",
+   "description_zh": "在亚特兰大动物园，学生戴上头显扮演一只青春期大猩猩，进入虚拟大猩猩栖息地，虚拟大猩猩会以支配与顺从行为回应他们的靠近。",
+   "idea_en": "You learn gorilla social rules by being treated as a gorilla, an early VR case of learning through animal embodiment.",
+   "idea_zh": "通过被当作大猩猩对待来学习大猩猩的社会规则，是早期通过动物具身来学习的 VR 案例。",
+   "method": "SGI-rendered model of the Zoo Atlanta habitat with behaviour-controlled gorilla agents designed with primatologists, shown in a tracked HMD.",
+   "method_zh": "以 SGI 渲染亚特兰大动物园栖息地模型，大猩猩代理的行为与灵长类学家共同设计，通过带追踪的头显呈现。",
+   "keywords": [
+    "gorilla",
+    "Zoo Atlanta",
+    "education",
+    "Georgia Tech",
+    "GVU"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/38.626967",
+    "doi": "10.1109/38.626967",
+    "venue": "IEEE Computer Graphics and Applications 1997",
+    "title": "The Virtual Reality Gorilla Exhibit"
+   },
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "peter-meijer--the-voice",
+   "creator_ids": [
+    "peter-meijer"
+   ],
+   "title": "The vOICe",
+   "year": 1992,
+   "field": "robot",
+   "sub": "cyborg",
+   "also": [
+    "bat"
+   ],
+   "senses": [
+    "hearing",
+    "vision"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "product",
+   "description": "A sensory-substitution system that turns camera images into soundscapes: each image is scanned left to right, with height heard as pitch and brightness as loudness, so users learn to 'see' with their ears.",
+   "description_zh": "一种感官替代系统，把摄像头画面转成声音景观：画面从左到右扫描，高度变成音高、亮度变成响度，使用者学会“用耳朵看”。",
+   "idea_en": "Vision is re-routed through hearing; the long-term training of users shows how the brain adopts a new sensory channel.",
+   "idea_zh": "视觉改由听觉传达；使用者的长期训练显示大脑如何接纳一条新的感官通道。",
+   "method": "Software image-to-sound mapping running on PCs, phones and camera glasses, freely distributed since the 1990s.",
+   "method_zh": "在电脑、手机和摄像眼镜上运行的图像转声音映射软件，自 1990 年代起免费提供。",
+   "keywords": [
+    "sensory substitution",
+    "sonification",
+    "blindness",
+    "seeing with sound",
+    "Philips"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=I0lmSYP7OcM"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/10.121642",
+    "doi": "10.1109/10.121642",
+    "venue": "IEEE Transactions on Biomedical Engineering 1992",
+    "title": "An experimental system for auditory image representations"
+   },
+   "source_url": "https://www.seeingwithsound.com",
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "agnes-hegedus--handsight",
+   "creator_ids": [
+    "agnes-hegedus"
+   ],
+   "title": "Handsight",
+   "year": 1992,
+   "field": "foundations",
+   "sub": "embodiment",
+   "also": [
+    "octopus"
+   ],
+   "senses": [
+    "vision",
+    "touch"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A visitor holds an eyeball-shaped tracker and moves it inside a transparent glass sphere; a projection shows a virtual world 'inside' the sphere from the point of view of the hand-held eye.",
+   "description_zh": "观众手持一个眼球形状的追踪器，在透明玻璃球中移动；投影显示从这只手中之眼看到的球“内部”虚拟世界。",
+   "idea_en": "The eye moves into the hand: vision becomes something you reach with, like the eyes on an octopus's arms or a snail's stalks.",
+   "idea_zh": "眼睛移到了手上：视觉成为伸手去够的东西，就像章鱼腕上或蜗牛触角上的眼睛。",
+   "method": "Polhemus-tracked eyeball interface registered to a physical glass sphere, driving real-time graphics on a projection screen.",
+   "method_zh": "以 Polhemus 追踪的眼球界面与实体玻璃球对位，驱动投影屏上的实时图形。",
+   "keywords": [
+    "eye",
+    "hand",
+    "Polhemus",
+    "ZKM",
+    "Multimediale"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kTfgGeMfRZI"
+   },
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "eduardo-kac--uirapuru",
+   "creator_ids": [
+    "eduardo-kac"
+   ],
+   "title": "Uirapuru",
+   "year": 1999,
+   "field": "fish",
+   "sub": "fish",
+   "also": [
+    "bird"
+   ],
+   "senses": [
+    "vision",
+    "hearing"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A telerobotic flying fish hovers above an indoor 'forest'; gallery visitors and web users steer it and see through its camera eyes, while small robotic 'pingbirds' sing according to internet traffic.",
+   "description_zh": "一条遥控机器人“飞鱼”悬浮在室内“森林”上方；展厅观众和网上用户操控它，并透过它的摄像头眼睛观看，小型机器人“ping 鸟”则按网络流量鸣唱。",
+   "idea_en": "Telepresence puts you inside a mythical Amazonian creature, seeing the forest from the body of a flying fish.",
+   "idea_zh": "远程临场让你进入一种亚马逊神话生物的身体，从飞鱼的视角看森林。",
+   "method": "Remote-controlled blimp fish with onboard camera streamed to the web and a VRML world; pingbird songs driven by network ping times.",
+   "method_zh": "装有摄像头的遥控飞艇鱼把画面传到网络和 VRML 世界；ping 鸟的鸣声由网络 ping 延迟驱动。",
+   "keywords": [
+    "telepresence",
+    "flying fish",
+    "Amazon",
+    "uirapuru",
+    "pingbirds",
+    "ICC Tokyo"
+   ],
+   "shown_at": [
+    "ICC InterCommunication Center, Tokyo 1999"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_KEVb6x-9JM"
+   },
+   "source_url": "https://www.ekac.org/uirapuru.html",
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "eduardo-kac--the-eighth-day",
+   "creator_ids": [
+    "eduardo-kac"
+   ],
+   "title": "The Eighth Day",
+   "year": 2001,
+   "field": "robot",
+   "sub": "robot-body",
+   "also": [
+    "fungi"
+   ],
+   "senses": [
+    "vision",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "Under a Plexiglas dome live glowing GFP plants, amoebae, fish and mice, plus a 'biobot' robot whose movement is driven by an amoeba colony; online visitors control the biobot's camera eye and see the dome from inside.",
+   "description_zh": "有机玻璃穹顶下生活着发绿光的转基因植物、阿米巴、鱼和小鼠，还有一个由阿米巴群落驱动运动的“生物机器人”；网上观众控制它的摄像头眼睛，从内部观看穹顶。",
+   "idea_en": "You look out through a robot whose body is steered by single-celled organisms, a shared body of human, machine and microbe.",
+   "idea_zh": "你透过一台由单细胞生物驱动身体的机器人向外看，这是人、机器与微生物共享的身体。",
+   "method": "Biobot's motors respond to amoeba-colony activity sensed inside it; its camera streams to the web, where viewers set the gaze.",
+   "method_zh": "生物机器人的马达响应其内部感测到的阿米巴群落活动；摄像头画面流向网络，由观众决定视线方向。",
+   "keywords": [
+    "transgenic",
+    "GFP",
+    "amoebae",
+    "biobot",
+    "telepresence",
+    "Arizona State University Art Museum"
+   ],
+   "shown_at": [
+    "Arizona State University Art Museum 2001"
+   ],
+   "images": [
+    "https://www.ekac.org/8thday-general-nopublic.jpg"
+   ],
+   "source_url": "https://www.ekac.org/8thday.html",
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "alvin-lucier--vespers",
+   "creator_ids": [
+    "alvin-lucier"
+   ],
+   "title": "Vespers",
+   "year": 1968,
+   "field": "bat",
+   "sub": "echolocation",
+   "also": [
+    "mole"
+   ],
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "performance",
+    "audio"
+   ],
+   "kind": "performance",
+   "description": "Blindfolded performers walk through a dark space holding handheld click generators and find their way by listening to the echoes; the piece is dedicated to the bats of the family Vespertilionidae.",
+   "description_zh": "蒙眼的表演者手持咔嗒声发生器穿过黑暗空间，靠聆听回声找到路；作品献给蝙蝠科（Vespertilionidae）的蝙蝠。",
+   "idea_en": "Human echolocation as a concert: the audience hears a room being mapped by clicks, the way a bat hears it.",
+   "idea_zh": "把人类回声定位变成一场音乐会：观众听见一个房间被咔嗒声测绘出来，像蝙蝠听到的那样。",
+   "method": "Sondols (sonar-dolls), handheld pulse-wave oscillators whose click rate performers vary to read echoes from walls and objects.",
+   "method_zh": "Sondol（声呐玩偶），一种手持脉冲振荡器，表演者改变咔嗒频率，从墙和物体的回声中读取空间。",
+   "keywords": [
+    "echolocation",
+    "Sondol",
+    "Vespertilionidae",
+    "Sonic Arts Union",
+    "bats"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=U8CTqqvFNUo"
+   },
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "david-dunn--the-sound-of-light-in-trees",
+   "creator_ids": [
+    "david-dunn"
+   ],
+   "title": "The Sound of Light in Trees",
+   "year": 2006,
+   "field": "insect",
+   "sub": "insect-other",
+   "also": [
+    "tree"
+   ],
+   "senses": [
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "Recordings made inside the trunks of piñon pines in New Mexico, where bark beetles chew, click and signal to each other during a drought-driven outbreak.",
+   "description_zh": "在新墨西哥州矮松树干内部录制的声音：在干旱引发的虫灾中，小蠹虫在树皮里啃食、咔嗒作响并互相发信号。",
+   "idea_en": "Listening from inside the tree puts you at beetle scale, in the sound world that decides whether a forest lives.",
+   "idea_zh": "从树干内部聆听，让你处在甲虫的尺度上，身处决定森林存亡的声音世界。",
+   "method": "Custom contact sensors inserted into phloem tissue, recorded and edited with minimal processing; research follow-up with physicist Jim Crutchfield on beetle acoustics.",
+   "method_zh": "把自制接触式传感器插入韧皮部组织录音，几乎不做处理地剪辑；之后与物理学家 Jim Crutchfield 合作研究甲虫声学。",
+   "keywords": [
+    "bark beetle",
+    "piñon pine",
+    "contact microphone",
+    "bioacoustics",
+    "drought"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gH6zUgeKY7o"
+   },
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "david-dunn--chaos-and-the-emergent-mind-of-the-pond",
+   "creator_ids": [
+    "david-dunn"
+   ],
+   "title": "Chaos and the Emergent Mind of the Pond",
+   "year": 1991,
+   "field": "insect",
+   "sub": "insect-other",
+   "also": [
+    "fish"
+   ],
+   "senses": [
+    "hearing"
+   ],
+   "medium": [
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "A composition built from hydrophone recordings of aquatic insects in freshwater ponds, revealing a dense world of clicks, buzzes and rhythms beneath the surface.",
+   "description_zh": "一首由淡水池塘中水生昆虫的水听器录音构成的作品，揭示水面下由咔嗒、嗡鸣和节奏组成的稠密世界。",
+   "idea_en": "A pond heard from within sounds like a single thinking organism; listening becomes a way of entering insect time.",
+   "idea_zh": "从内部聆听，池塘听起来像一个会思考的整体生物；聆听成为进入昆虫时间的方式。",
+   "method": "Hydrophone recordings from ponds in North America and Africa, edited into a continuous piece.",
+   "method_zh": "来自北美和非洲池塘的水听器录音，剪辑成一首连续作品。",
+   "keywords": [
+    "hydrophone",
+    "aquatic insects",
+    "pond",
+    "bioacoustics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=eZ6yDfx2new"
+   },
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "haus-rucker-co--flyhead",
+   "creator_ids": [
+    "haus-rucker-co"
+   ],
+   "title": "Flyhead (Environment Transformer)",
+   "year": 1968,
+   "field": "insect",
+   "sub": "insect-other",
+   "senses": [
+    "vision",
+    "hearing"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "artwork",
+   "description": "A green double-bubble helmet whose split prisms break the view into many facets and whose headphones distort surrounding sound, so the wearer perceives the street like an insect.",
+   "description_zh": "一顶绿色双泡头盔，内部的分光棱镜把视野分成许多小面，耳机扭曲周围的声音，让佩戴者像昆虫一样感知街道。",
+   "idea_en": "A 1960s headset for compound vision: changing the senses changes the relation to the environment, no computer needed.",
+   "idea_zh": "一件 1960 年代的“复眼”头显：改变感官就改变了与环境的关系，不需要计算机。",
+   "method": "Polyethylene helmet with an eye-level prism array and stereo headphones fitted with acoustic filters.",
+   "method_zh": "聚乙烯头盔，内置与眼睛齐平的棱镜阵列和装有声学滤波器的立体声耳机。",
+   "keywords": [
+    "compound eye",
+    "helmet",
+    "Mind Expanding Program",
+    "prism",
+    "Vienna"
+   ],
+   "images": [
+    "https://arthur.io/img/art/jpg/00017344fb78826ea/haus-rucker-co/flyhead-environment-transformer-wien/large/haus-rucker-co--flyhead-environment-transformer-wien.jpg"
+   ],
+   "source_url": "https://www.moma.org/explore/inside_out/2011/03/31/the-mind-expanderflyhead-helmet-a-mind-blowing-perception-transformer/",
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "rebecca-horn--unicorn",
+   "creator_ids": [
+    "rebecca-horn"
+   ],
+   "title": "Unicorn (Einhorn)",
+   "year": 1970,
+   "field": "animal",
+   "sub": "wild",
+   "also": [
+    "octopus"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "wearable",
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "A woman walks through fields and woods wearing a tall white horn strapped to her head and torso with bandages, balancing the extension with every step.",
+   "description_zh": "一名女性头上和身上用绷带绑着一只高高的白色长角，在田野和树林中行走，每一步都要平衡这根延伸物。",
+   "idea_en": "A body extension that changes posture and gait until the wearer moves like another creature, an early prosthetic becoming.",
+   "idea_zh": "一件改变姿态与步态的身体延伸物，直到佩戴者像另一种生物那样移动，是早期的假体式“成为”。",
+   "method": "Wood-and-fabric horn attached with a harness of straps; performed for film.",
+   "method_zh": "用木头和布料制成的长角，以绑带固定在身上；为影片拍摄而表演。",
+   "keywords": [
+    "body extension",
+    "horn",
+    "unicorn",
+    "prosthesis",
+    "Performances"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8-uShAVpDLM"
+   },
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "mark-thompson--live-in-hive",
+   "creator_ids": [
+    "mark-thompson"
+   ],
+   "title": "Live-In Hive",
+   "year": 1976,
+   "field": "insect",
+   "sub": "bee",
+   "senses": [
+    "smell",
+    "hearing",
+    "touch"
+   ],
+   "medium": [
+    "performance",
+    "installation"
+   ],
+   "kind": "performance",
+   "description": "The artist put his head through the floor of a glass-walled hive and stayed inside for long periods while a swarm of honeybees built comb around him and flew in and out through a tube.",
+   "description_zh": "艺术家把头从一个玻璃蜂箱的底部伸进去，长时间停留在里面，一群蜜蜂在他周围筑巢，并通过一根管子进出。",
+   "idea_en": "Immersion before VR: the hive's heat, hum and smell surround the head, and the human becomes a passive member of the colony.",
+   "idea_zh": "VR 之前的沉浸：蜂巢的热度、嗡鸣和气味包围头部，人成为蜂群中一个被动的成员。",
+   "method": "Wooden box with glass and metal walls, a head opening in the base and a wire tube to the outside for foraging bees.",
+   "method_zh": "木箱配玻璃和金属壁，底部开有伸头的孔，并用金属丝管通向外面供蜜蜂觅食。",
+   "keywords": [
+    "honeybees",
+    "hive",
+    "immersion",
+    "performance"
+   ],
+   "images": [
+    "https://www.artribune.com/wp-content/uploads/2017/01/Mark-Thompson-Live-In-Hive-1976.-Performance.jpg"
+   ],
+   "source_url": "https://www.artribune.com/arti-visive/2017/01/miele-artisti-beuys-huyghe-thompson/",
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "greg-marshall--crittercam",
+   "creator_ids": [
+    "greg-marshall"
+   ],
+   "title": "Crittercam",
+   "year": 1987,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "fish"
+   ],
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "product",
+   "description": "A camera and data logger attached to sharks, turtles, seals, whales, penguins and lions that records video from the animal's own body as it hunts, dives and socialises.",
+   "description_zh": "安装在鲨鱼、海龟、海豹、鲸、企鹅和狮子身上的摄像机与数据记录器，从动物自己的身体记录它捕猎、下潜和社交的画面。",
+   "idea_en": "The animal carries the camera: point-of-view footage that many immersive animal works later imitate.",
+   "idea_zh": "摄像机由动物携带：这种第一视角画面后来被许多沉浸式动物作品模仿。",
+   "method": "Pressure-rated housing with video, depth, temperature and speed sensors, attached by suction cup, harness or clamp and recovered after release.",
+   "method_zh": "耐压外壳内装摄像、深度、温度和速度传感器，以吸盘、背带或夹具固定，脱落后回收。",
+   "keywords": [
+    "animal-borne camera",
+    "sharks",
+    "turtles",
+    "seals",
+    "National Geographic"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=q-EONusvq_8"
+   },
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "lucien-castaing-taylor--leviathan",
+   "creator_ids": [
+    "lucien-castaing-taylor",
+    "verena-paravel"
+   ],
+   "title": "Leviathan",
+   "year": 2012,
+   "field": "fish",
+   "sub": "fish",
+   "also": [
+    "bird"
+   ],
+   "senses": [
+    "vision",
+    "hearing",
+    "body"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "film",
+   "description": "A documentary shot aboard a fishing trawler off New Bedford with small cameras strapped to fishermen, thrown among dying fish on deck and plunged under the waves with gulls overhead.",
+   "description_zh": "一部在新贝德福德外海拖网渔船上拍摄的纪录片，小摄像机绑在渔民身上、扔进甲板上垂死的鱼群，或随着海鸥掠过沉入浪下。",
+   "idea_en": "The camera gives up the human viewpoint and drifts between fish, birds, nets and water, a cinema of nonhuman positions.",
+   "idea_zh": "摄影机放弃人的视角，在鱼、鸟、渔网与海水之间漂移，是一种非人位置的电影。",
+   "method": "GoPro cameras mounted on bodies, poles and nets, with little narrative editing and dense location sound.",
+   "method_zh": "GoPro 摄像机装在身体、杆子和渔网上，几乎不做叙事剪辑，配以稠密的现场声音。",
+   "keywords": [
+    "GoPro",
+    "trawler",
+    "gulls",
+    "New Bedford",
+    "Sensory Ethnography Lab"
+   ],
+   "shown_at": [
+    "Locarno Film Festival 2012",
+    "Toronto International Film Festival 2012"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vntC7OPDHs8"
+   },
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "mit-synthetic-characters--swamped",
+   "creator_ids": [
+    "mit-synthetic-characters"
+   ],
+   "title": "Swamped!",
+   "year": 1998,
+   "field": "bird",
+   "sub": "flock",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "installation",
+    "game"
+   ],
+   "kind": "prototype",
+   "description": "A visitor squeezes, waves and tilts an instrumented plush chicken to guide an animated chicken as it protects its eggs from a hungry raccoon in a barnyard.",
+   "description_zh": "观众挤压、挥动、倾斜一只装有传感器的毛绒鸡，指挥一只动画鸡在农场里保护鸡蛋，不让饥饿的浣熊偷走。",
+   "idea_en": "A 'sympathetic interface': you steer an animal through a toy version of its body, acting as its conscience rather than its puppeteer.",
+   "idea_zh": "一种“同感界面”：你通过动物身体的玩具版本来引导它，更像它的良心而不是操偶师。",
+   "method": "Plush toy with accelerometers, gyros, squeeze and bend sensors; gestures recognised with HMMs and fed to autonomous behaviour-based characters.",
+   "method_zh": "毛绒玩具内置加速度计、陀螺仪、挤压和弯曲传感器；用隐马尔可夫模型识别手势，输入自主行为角色。",
+   "keywords": [
+    "plush toy",
+    "chicken",
+    "raccoon",
+    "tangible interface",
+    "SIGGRAPH 98"
+   ],
+   "shown_at": [
+    "SIGGRAPH 98 Enhanced Realities"
+   ],
+   "images": [
+    "https://characters.media.mit.edu/images/swamped.gif"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/302979.303028",
+    "doi": "10.1145/302979.303028",
+    "venue": "CHI 1999",
+    "title": "Sympathetic interfaces: using a plush toy to direct synthetic characters"
+   },
+   "source_url": "https://characters.media.mit.edu/projects/swamped.html",
+   "collections": [
+    "early-becoming-1965-2012",
+    "siggraph-xr"
+   ]
+  },
+  {
+   "id": "mit-synthetic-characters--alphawolf",
+   "creator_ids": [
+    "mit-synthetic-characters"
+   ],
+   "title": "AlphaWolf",
+   "year": 2001,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "hearing",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation",
+    "game"
+   ],
+   "kind": "prototype",
+   "description": "Three visitors each play a wolf pup in a virtual pack, howling, growling, whining or barking into a microphone to shape how their pup interacts with its packmates and where it stands in the hierarchy.",
+   "description_zh": "三名观众各扮演虚拟狼群中的一只小狼，对着麦克风嚎叫、低吼、呜咽或吠叫，决定自己的小狼如何与同伴互动、在等级中处于什么位置。",
+   "idea_en": "You join a pack with your voice: becoming wolf means learning a social order through dominance and submission sounds.",
+   "idea_zh": "用声音加入狼群：成为狼意味着通过支配与顺从的声音学习一种社会秩序。",
+   "method": "Vocal-affect classification of the visitor's sounds drives autonomous wolf agents with learning, emotion and development models.",
+   "method_zh": "对观众声音进行情感分类，驱动具有学习、情绪和成长模型的自主狼代理。",
+   "keywords": [
+    "wolves",
+    "pack",
+    "howl",
+    "social hierarchy",
+    "SIGGRAPH 2001"
+   ],
+   "shown_at": [
+    "SIGGRAPH 2001 Emerging Technologies"
+   ],
+   "video": {
+    "url": "https://characters.media.mit.edu/video/alphaWolf.mov"
+   },
+   "images": [
+    "https://characters.media.mit.edu/images/alphawolf.gif"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/978-3-540-45173-0_2",
+    "doi": "10.1007/978-3-540-45173-0_2",
+    "venue": "Lecture Notes in Computer Science 2003",
+    "title": "AlphaWolf: Social Learning, Emotion and Development in Autonomous Virtual Agents"
+   },
+   "source_url": "https://characters.media.mit.edu/projects/alphawolf.html",
+   "collections": [
+    "early-becoming-1965-2012",
+    "siggraph-xr"
+   ]
+  },
+  {
+   "id": "susana-soares--bees",
+   "creator_ids": [
+    "susana-soares"
+   ],
+   "title": "Bee's",
+   "year": 2007,
+   "field": "insect",
+   "sub": "bee",
+   "senses": [
+    "smell",
+    "breath"
+   ],
+   "medium": [
+    "installation",
+    "wearable"
+   ],
+   "kind": "artwork",
+   "description": "Hand-blown glass objects hold trained honeybees; a person breathes into the glass and the bees fly into a small chamber if they smell the chemical markers of disease.",
+   "description_zh": "手工吹制的玻璃器皿里装着受过训练的蜜蜂；人对着玻璃呼气，如果蜜蜂嗅到疾病的化学标记，就会飞进一个小腔室。",
+   "idea_en": "The bee's nose becomes a human organ of perception, a diagnostic sense borrowed from another species.",
+   "idea_zh": "蜜蜂的鼻子成为人的感知器官，一种从其他物种借来的诊断感官。",
+   "method": "Bees conditioned with Pavlovian training to respond to target odours, housed in two-chamber glass vessels.",
+   "method_zh": "用巴甫洛夫式训练让蜜蜂对目标气味作出反应，放在双腔玻璃容器中。",
+   "keywords": [
+    "honeybees",
+    "smell",
+    "diagnosis",
+    "speculative design",
+    "RCA Design Interactions"
+   ],
+   "shown_at": [
+    "Science Gallery Dublin"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NcWyf20aMv0"
+   },
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "dunne-and-raby--foragers",
+   "creator_ids": [
+    "dunne-and-raby"
+   ],
+   "title": "Designs for an Overpopulated Planet: Foragers",
+   "year": 2009,
+   "field": "animal",
+   "sub": "multispecies",
+   "senses": [
+    "smell",
+    "body"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "artwork",
+   "description": "Speculative devices, including artificial rumens and bird-like filters, worn by urban foragers who have borrowed digestive systems from other animals to eat what humans cannot.",
+   "description_zh": "一组思辨装置，包括人造瘤胃和仿鸟类的过滤器，由城市采集者佩戴：他们借用其他动物的消化系统，去吃人类无法消化的东西。",
+   "idea_en": "Becoming animal as survival: the human body is redesigned with organs of cows, birds and rodents.",
+   "idea_zh": "为了生存而成为动物：用牛、鸟和啮齿动物的器官重新设计人类身体。",
+   "method": "Prototype props and photographs presenting wearable fermentation and filtering devices.",
+   "method_zh": "以道具原型和照片呈现可穿戴的发酵与过滤装置。",
+   "keywords": [
+    "speculative design",
+    "rumen",
+    "digestion",
+    "foraging",
+    "HUMAN+"
+   ],
+   "shown_at": [
+    "HUMAN+, Science Gallery Dublin 2011"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_-kLwHS__1s"
+   },
+   "source_url": "http://dunneandraby.co.uk/content/projects/510/0",
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "carsten-holler--flying-machine",
+   "creator_ids": [
+    "carsten-holler"
+   ],
+   "title": "Flying Machine",
+   "year": 1996,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A visitor is strapped face-down into a harness on a motorised arm and swung in wide circles through the gallery, arms free, like a bird gliding over the crowd.",
+   "description_zh": "观众面朝下被绑在电动悬臂的吊带里，在展厅上空大幅度绕圈飞行，双臂自由，像一只滑翔在人群上方的鸟。",
+   "idea_en": "Flight as a physical sensation rather than an image: the body feels lift, speed and the view down on others, without a headset.",
+   "idea_zh": "飞行是一种身体感受而不是图像：不戴头显，身体就能感到升力、速度和俯视他人的视野。",
+   "method": "Harness suspended from a rotating steel arm driven by a motor, with the rider's weight and position setting the ride.",
+   "method_zh": "吊带悬挂在电机驱动的旋转钢臂上，骑乘者的体重和姿势决定飞行状态。",
+   "keywords": [
+    "flight",
+    "harness",
+    "Hayward Gallery",
+    "participatory"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=v5pvNtMWRgI"
+   },
+   "shown_at": [
+    "Decision, Hayward Gallery 2015"
+   ],
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "carsten-holler--upside-down-goggles",
+   "creator_ids": [
+    "carsten-holler"
+   ],
+   "title": "Upside-Down Goggles",
+   "year": 1994,
+   "field": "foundations",
+   "sub": "embodiment",
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "artwork",
+   "description": "Visitors put on prism goggles that flip the visual world upside down and try to walk, reach and climb stairs until the body starts to adapt.",
+   "description_zh": "观众戴上把视觉世界上下颠倒的棱镜眼镜，尝试行走、伸手和上下楼梯，直到身体开始适应。",
+   "idea_en": "Perception is learned and can be relearned: a simple optical swap shows how quickly a body adapts to a new way of seeing, the premise behind any sensory becoming.",
+   "idea_zh": "感知是习得的，也可以重新习得：一次简单的光学翻转就显示身体多快能适应新的看法，这是所有感官“成为”的前提。",
+   "method": "Prism goggles inverting the image, after George Stratton's 1890s experiments; worn for minutes or, in trials, for days.",
+   "method_zh": "借鉴 George Stratton 在 1890 年代的实验，用棱镜眼镜翻转画面；可戴几分钟，实验中曾连续佩戴数天。",
+   "keywords": [
+    "inverted vision",
+    "Stratton",
+    "sensorimotor adaptation",
+    "prism goggles"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Ct3c9PzS6yE"
+   },
+   "shown_at": [
+    "Decision, Hayward Gallery 2015"
+   ],
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "olafur-eliasson--your-blind-passenger",
+   "creator_ids": [
+    "olafur-eliasson"
+   ],
+   "title": "Your blind passenger",
+   "year": 2010,
+   "field": "mole",
+   "sub": "reduced",
+   "senses": [
+    "vision",
+    "hearing",
+    "touch"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A 90-metre tunnel filled with dense coloured fog in which visitors can see only about a metre ahead and move by sound, touch and the shifting colour of the light.",
+   "description_zh": "一条 90 米长、充满浓密彩色雾气的隧道，观众只能看清前方约一米，靠声音、触觉和光色变化前进。",
+   "idea_en": "Taking sight away makes the other senses lead; the body finds its way the way a burrowing animal might, by nearness and sound.",
+   "idea_zh": "拿走视觉，让其他感官引路；身体像穴居动物那样，靠距离感和声音找到方向。",
+   "method": "Fog machines and coloured fluorescent lights in a long enclosed corridor, with colour shifting from yellow to blue along the way.",
+   "method_zh": "在封闭长廊中使用造雾机与彩色荧光灯，沿途光色由黄变蓝。",
+   "keywords": [
+    "fog",
+    "tunnel",
+    "reduced sight",
+    "Arken",
+    "Tate Modern"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JhQqtNUIlTY"
+   },
+   "shown_at": [
+    "ARKEN Museum of Modern Art 2010",
+    "In Real Life, Tate Modern 2019"
+   ],
+   "also": [
+    "river"
+   ],
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "tom-froese--enactive-torch",
+   "creator_ids": [
+    "tom-froese"
+   ],
+   "title": "The Enactive Torch",
+   "year": 2012,
+   "field": "mole",
+   "sub": "touch",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "paper",
+   "description": "A handheld device that measures the distance to whatever it points at and turns it into vibration on the hand, so blindfolded users sweep it like a whisker to feel objects and gaps.",
+   "description_zh": "一种手持装置，测量所指物体的距离并转成手上的振动，蒙眼的使用者像挥动胡须一样扫动它，感受物体和空隙。",
+   "idea_en": "One vibrating channel, used actively, becomes a sense of space: perception lives in the loop of moving and sensing, as with a mole's nose or a rat's whiskers.",
+   "idea_zh": "一条振动通道只要被主动使用，就会成为空间感：感知存在于移动与感受的回路中，就像鼹鼠的鼻子或老鼠的胡须。",
+   "method": "Ultrasonic or infrared range sensor mapped to a vibrotactile motor, with logged sweeps used in perception experiments.",
+   "method_zh": "超声或红外测距传感器映射到振动马达，记录扫动数据用于感知实验。",
+   "keywords": [
+    "sensory substitution",
+    "enactivism",
+    "vibrotactile",
+    "whisker",
+    "blindfold"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/TOH.2011.57",
+    "doi": "10.1109/TOH.2011.57",
+    "venue": "IEEE Transactions on Haptics 2012",
+    "title": "The Enactive Torch: A New Tool for the Science of Perception"
+   },
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Dancing with the Virtual Dervish: Virtual Bodies (Diane Gromala & Yacov Sharir, Banff 1994)",
+   "why": "Banff Art and Virtual Environments piece where you enter a virtual human body; body-as-landscape, not nonhuman.",
+   "link": "",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Archeology of a Mother Tongue (Toni Dove & Michael Mackenzie, Banff 1993)",
+   "why": "Banff VR work; narrative, no nonhuman embodiment.",
+   "link": "",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Inherent Rights, Vision Rights (Lawrence Paul Yuxweluptun, Banff 1992)",
+   "why": "Banff VR longhouse with spirit beings; check whether animal spirits are embodied.",
+   "link": "",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "A-Volve (Sommerer & Mignonneau 1994)",
+   "why": "Golden Nica 1994; visitors draw creatures that live in a water pool, but do not become them.",
+   "link": "https://www.youtube.com/watch?v=klRAT48STGk",
+   "found_via": "christa-sommerer",
+   "status": "off_topic"
+  },
+  {
+   "name": "Liquid Views (Monika Fleischmann & Wolfgang Strauss 1992)",
+   "why": "Narcissus mirror in virtual water; self-image dissolves in ripples, weak water-becoming.",
+   "link": "https://www.youtube.com/watch?v=bjq13wyjhA8",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Terrain 01 (Ulrike Gabriel 1993)",
+   "why": "Brainwave-controlled light drives solar robots; control, not embodiment.",
+   "link": "https://www.youtube.com/watch?v=s0xOS1ToxPo",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Bar Code Hotel (Perry Hoberman 1994)",
+   "why": "Banff/SIGGRAPH VR where barcoded objects act as characters; object-personas, borderline.",
+   "link": "",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "World Skin (Maurice Benayoun 1997)",
+   "why": "Golden Nica CAVE work about war photography; not nonhuman.",
+   "link": "",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Feral Robotic Dogs (Natalie Jeremijenko 2002)",
+   "why": "Hacked robot dogs sniff pollutants; robot-senses work, no stable media found.",
+   "link": "",
+   "found_via": "natalie-jeremijenko",
+   "status": "no_media"
+  },
+  {
+   "name": "Mussel Choir / OOZ (Natalie Jeremijenko, Environmental Health Clinic)",
+   "why": "Mussels as water-quality sensors that 'sing'; human-animal interfaces.",
+   "link": "",
+   "found_via": "natalie-jeremijenko",
+   "status": "open"
+  },
+  {
+   "name": "Zoomorph (Lisa Jevbratt)",
+   "why": "Software filters showing images as various animals would see them; project page offline.",
+   "link": "https://www.youtube.com/watch?v=eIudJhvhcas",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "BrainPort / tongue display unit (Paul Bach-y-Rita, 1998–2000s)",
+   "why": "Electrotactile tongue display successor to TVSS; machine-cyborg holds TVSS only.",
+   "link": "",
+   "found_via": "paul-bach-y-rita",
+   "status": "open"
+  },
+  {
+   "name": "Duncan the Highland Terrier / Sheep|Dog: Trial by Eire (MIT Synthetic Characters 2000)",
+   "why": "Voice-directed sheepdog installation; similar to AlphaWolf.",
+   "link": "https://characters.media.mit.edu",
+   "found_via": "mit-synthetic-characters",
+   "status": "open"
+  },
+  {
+   "name": "Humphrey (Ars Electronica Center 1994)",
+   "why": "First-generation flight simulator preceding Humphrey II.",
+   "link": "",
+   "found_via": "ars-electronica-futurelab",
+   "status": "duplicate"
+  },
+  {
+   "name": "Finger Gloves (Rebecca Horn 1972)",
+   "why": "Body extension that lengthens fingers to touch distant surfaces; no stable image found.",
+   "link": "",
+   "found_via": "rebecca-horn",
+   "status": "no_media"
+  },
+  {
+   "name": "Teleporting an Unknown State (Eduardo Kac 1996)",
+   "why": "Web users send light to grow a plant in the dark; collective plant care, not embodiment.",
+   "link": "https://www.ekac.org",
+   "found_via": "eduardo-kac",
+   "status": "open"
+  }
+ ]
+}

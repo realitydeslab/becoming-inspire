@@ -1,0 +1,1570 @@
+{
+ "batch": "machine-cyborg",
+ "creators": [
+  {
+   "id": "paul-bach-y-rita",
+   "name": "Paul Bach-y-Rita",
+   "kind": "person",
+   "role": "Neuroscientist (1934–2006)",
+   "role_zh": "神经科学家（1934–2006）",
+   "based": "Madison, USA",
+   "based_zh": "麦迪逊，美国",
+   "bio": "Neuroscientist who pioneered sensory substitution, from the 1969 tactile vision chair to the tongue-based BrainPort.",
+   "bio_zh": "感官替代的开创者，从 1969 年的触觉视觉椅到基于舌头的 BrainPort。",
+   "why": "Showed the brain can learn to see through the skin, the premise of every new-sense device.",
+   "why_zh": "证明大脑可以学会通过皮肤“看”，这是所有新感官装置的前提。",
+   "disciplines": [
+    "science"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "david-eagleman"
+   ],
+   "discovered_via": "david-eagleman"
+  },
+  {
+   "id": "masahiko-inami",
+   "name": "Masahiko Inami",
+   "kind": "person",
+   "role": "Professor, University of Tokyo RCAST; JIZAI Body Project",
+   "role_zh": "东京大学先端科学技术研究中心教授；JIZAI Body 项目负责人",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Researcher in augmented humans, known for optical camouflage and the JIZAI Body project on freely reconfigurable bodies.",
+   "bio_zh": "人类增强研究者，以光学迷彩和探索可自由重构身体的 JIZAI Body 项目闻名。",
+   "why": "Treats the body as editable: arms that can be added, swapped and shared between people.",
+   "why_zh": "把身体当作可以编辑的对象：手臂可以增加、交换，也可以在人与人之间共享。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "yamen-saraiji",
+    "kouta-minamizawa"
+   ],
+   "discovered_via": "yamen-saraiji"
+  },
+  {
+   "id": "harpreet-sareen",
+   "name": "Harpreet Sareen",
+   "kind": "person",
+   "role": "Designer and researcher, cyborg botany",
+   "role_zh": "设计师与研究者，赛博格植物学",
+   "based": "New York, USA",
+   "based_zh": "纽约，美国",
+   "bio": "Designer (formerly MIT Media Lab Fluid Interfaces, now Parsons) who merges plants with electronics and robots.",
+   "bio_zh": "设计师（曾在 MIT Media Lab Fluid Interfaces 组，现任教于 Parsons），把植物与电子和机器人融合。",
+   "why": "Gives plants machine bodies and uses plant tissue itself as circuitry.",
+   "why_zh": "为植物配上机器身体，并把植物组织本身用作电路。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "interactive-architecture-lab",
+   "name": "Interactive Architecture Lab",
+   "kind": "lab",
+   "role": "Research lab at The Bartlett, UCL, led by Ruairi Glynn",
+   "role_zh": "伦敦大学学院巴特莱特建筑学院的研究实验室，由 Ruairi Glynn 领导",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Master's programme and lab at The Bartlett working on responsive, robotic and living architecture.",
+   "bio_zh": "巴特莱特建筑学院的硕士项目与实验室，研究响应式、机器人化与有生命的建筑。",
+   "why": "Built a roaming garden steered by its plants.",
+   "why_zh": "打造了由植物自己掌舵、四处漫游的花园。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "http://www.interactivearchitecture.org"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "elke-reinhuber",
+   "name": "Elke Reinhuber",
+   "kind": "person",
+   "role": "Media artist and scholar",
+   "role_zh": "媒体艺术家与学者",
+   "based": "Hong Kong",
+   "based_zh": "香港",
+   "bio": "Media artist and academic (City University of Hong Kong) working on expanded cinema and immersive media.",
+   "bio_zh": "媒体艺术家与学者（香港城市大学），研究扩延电影与沉浸式媒介。",
+   "why": "Co-author of Green Rhythms, a human-plant symbiotic installation.",
+   "why_zh": "人与植物共生装置 Green Rhythms 的共同作者。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": ""
+   },
+   "connected_to": [
+    "yuting-xue"
+   ],
+   "discovered_via": "yuting-xue"
+  }
+ ],
+ "works": [
+  {
+   "id": "neil-harbisson--cyborg-antenna",
+   "creator_ids": [
+    "neil-harbisson"
+   ],
+   "title": "Cyborg Antenna (Eyeborg)",
+   "year": 2004,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "vision",
+    "hearing"
+   ],
+   "medium": [
+    "wearable",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "An antenna osseointegrated into Neil Harbisson's skull turns light frequencies into vibrations he hears through bone, letting him perceive colour, including infrared and ultraviolet.",
+   "description_zh": "一根与 Neil Harbisson 颅骨骨整合的天线把光的频率转换为振动，他通过骨传导“听见”颜色，包括红外与紫外。",
+   "idea_en": "A permanent new sense changes identity: Harbisson describes himself as a cyborg and his antenna as an organ.",
+   "idea_zh": "一种永久的新感官改变了身份：Harbisson 称自己为赛博格，称天线为一个器官。",
+   "method": "A camera sensor at the tip of the antenna maps hue to sound frequency, transmitted by bone conduction through the skull implant; an internet link lets others send him colours.",
+   "method_zh": "天线末端的摄像传感器把色相映射为声音频率，经颅骨植入物以骨传导传递；互联网连接让他人可以向他发送颜色。",
+   "keywords": [
+    "antenna",
+    "achromatopsia",
+    "bone conduction",
+    "sonochromatism",
+    "Cyborg Foundation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ygRNoieAnzI"
+   },
+   "source_url": "https://www.cyborgarts.com/"
+  },
+  {
+   "id": "moon-ribas--seismic-sense",
+   "creator_ids": [
+    "moon-ribas"
+   ],
+   "title": "Seismic Sense",
+   "year": 2013,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "hearing",
+    "touch",
+    "time-scale"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "artwork",
+   "description": "Implanted vibration sensors that let Moon Ribas feel earthquakes happening anywhere on Earth, their strength felt as vibration intensity.",
+   "description_zh": "植入的振动传感器让 Moon Ribas 感受到地球任何地方发生的地震，地震强度体现为振动的强弱。",
+   "idea_en": "A body tuned to the planet: she senses the Earth moving all the time, far beyond the reach of human perception.",
+   "idea_zh": "一具与行星同频的身体：她时时刻刻感受到地球的运动，远远超出人类感知的范围。",
+   "method": "Online seismograph data is sent to vibrating implants, first in her arm and later in her feet.",
+   "method_zh": "在线地震仪数据被发送到振动植入物，最初植入手臂，后来植入双脚。",
+   "keywords": [
+    "seismic sense",
+    "earthquake",
+    "implant",
+    "vibration",
+    "Cyborg Foundation"
+   ],
+   "also": [
+    "river"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MdDfAdSeRNQ"
+   },
+   "images": [
+    "https://images.hoobaweb.com/8930/imgf-1200-630/moon-ribas.png"
+   ],
+   "source_url": "https://www.moonribas.com/"
+  },
+  {
+   "id": "moon-ribas--waiting-for-earthquakes",
+   "creator_ids": [
+    "moon-ribas"
+   ],
+   "title": "Waiting for Earthquakes",
+   "year": 2013,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "A dance performance in which Moon Ribas stands still until her seismic sense detects an earthquake, then translates its intensity into movement.",
+   "description_zh": "一场舞蹈表演：Moon Ribas 静立等待，直到她的地震感官探测到地震，再把地震的强度转化为动作。",
+   "idea_en": "The planet is the choreographer: a performance timed and scored by the Earth's movements.",
+   "idea_zh": "行星就是编舞者：这场表演的时间与节奏由地球的运动决定。",
+   "method": "Real-time earthquake data from her seismic sense implants cues improvised movement on stage.",
+   "method_zh": "来自地震感官植入物的实时地震数据触发舞台上的即兴动作。",
+   "keywords": [
+    "dance",
+    "earthquake",
+    "seismic sense",
+    "real-time data"
+   ],
+   "also": [
+    "river"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1Un4MFR-vNI"
+   }
+  },
+  {
+   "id": "manel-de-aguas--weather-fins",
+   "creator_ids": [
+    "manel-de-aguas"
+   ],
+   "title": "Weather Fins",
+   "year": 2017,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "hearing",
+    "breath"
+   ],
+   "medium": [
+    "wearable",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "Fins worn on the sides of Manel De Aguas's head sense atmospheric pressure, humidity and temperature and let him hear the weather as sound.",
+   "description_zh": "佩戴在 Manel De Aguas 头部两侧的“鳍”感知气压、湿度与温度，让他以声音的形式听见天气。",
+   "idea_en": "The weather becomes a felt, continuous sense, closer to how many animals track the air.",
+   "idea_zh": "天气成为一种持续的、身体可感的感官，更接近许多动物感知空气的方式。",
+   "method": "Environmental sensors in the fins drive sound transmitted by bone conduction; he also uses the data to compose music.",
+   "method_zh": "鳍中的环境传感器驱动经骨传导传递的声音；他也用这些数据作曲。",
+   "keywords": [
+    "weather sense",
+    "fins",
+    "bone conduction",
+    "atmospheric pressure",
+    "transpecies"
+   ],
+   "also": [
+    "river"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hSo_cZhyRA4"
+   }
+  },
+  {
+   "id": "cyborg-nest--north-sense",
+   "creator_ids": [
+    "cyborg-nest"
+   ],
+   "title": "North Sense",
+   "year": 2016,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "magnetic",
+    "touch"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "product",
+   "description": "A small silicone device attached to the chest with piercings that vibrates whenever the wearer faces magnetic north.",
+   "description_zh": "一个用穿刺固定在胸前的小型硅胶装置，佩戴者每次朝向磁北时它就会振动。",
+   "idea_en": "Sold as a sense rather than a gadget: the aim is a direction sense that becomes part of perception.",
+   "idea_zh": "它被当作一种感官而非小工具出售：目标是让方向感成为感知的一部分。",
+   "method": "A magnetometer and vibration motor in a silicone housing, fixed by two titanium bar piercings.",
+   "method_zh": "硅胶外壳内置磁力计与振动马达，通过两枚钛合金穿刺棒固定在身上。",
+   "keywords": [
+    "magnetic north",
+    "magnetoreception",
+    "piercing",
+    "wearable",
+    "Liviu Babitz"
+   ],
+   "also": [
+    "bird"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0xPMpKxd1R8"
+   }
+  },
+  {
+   "id": "peter-konig--feelspace-sixth-sense",
+   "creator_ids": [
+    "peter-konig"
+   ],
+   "title": "feelSpace Belt: Learning the Sixth Sense",
+   "year": 2005,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "magnetic",
+    "touch"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "paper",
+   "description": "Participants wore a vibrating belt that always indicated magnetic north for six weeks, and some reported that their perception of space changed.",
+   "description_zh": "参与者连续六周佩戴一条始终指示磁北的振动腰带，其中一些人表示对空间的感知发生了变化。",
+   "idea_en": "A magnetic sense can be learned: with time the belt stops being a signal and becomes part of how space feels.",
+   "idea_zh": "磁感官是可以学会的：随着时间推移，腰带不再是信号，而成为空间感的一部分。",
+   "method": "A belt of 13 vibrotactile motors with an electronic compass continuously vibrates the element pointing north; navigation tests and interviews assessed learning.",
+   "method_zh": "一条装有 13 个振动马达和电子罗盘的腰带，始终让朝北的马达振动；以导航测试与访谈评估学习效果。",
+   "keywords": [
+    "feelSpace",
+    "magnetic belt",
+    "sensory augmentation",
+    "Osnabrück",
+    "Nagel"
+   ],
+   "also": [
+    "bird"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0po8YOA-17U"
+   },
+   "images": [
+    "https://feelspace.de/wp-content/uploads/2022/03/naviBelt_Features-e1647970100122.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1088/1741-2560/2/4/r02",
+    "doi": "10.1088/1741-2560/2/4/r02",
+    "venue": "Journal of Neural Engineering 2005",
+    "title": "Beyond sensory substitution—learning the sixth sense"
+   }
+  },
+  {
+   "id": "peter-konig--new-sensorimotor-contingencies",
+   "creator_ids": [
+    "peter-konig"
+   ],
+   "title": "Long-term Sensory Augmentation with a Magnetic Belt",
+   "year": 2016,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "magnetic",
+    "touch"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "paper",
+   "description": "A seven-week study of people wearing the feelSpace belt, combining behaviour, subjective reports and brain imaging to track how a new sense is learned.",
+   "description_zh": "一项为期七周的研究，结合行为、主观报告与脑成像，追踪佩戴 feelSpace 腰带的人如何学会一种新感官。",
+   "idea_en": "Learning a new sense is learning new sensorimotor contingencies, and it reshapes both experience and brain activity.",
+   "idea_zh": "学会一种新感官，就是学会新的感觉运动关联，它同时重塑体验与大脑活动。",
+   "method": "Participants wore the vibrotactile compass belt daily for seven weeks; brain imaging, behavioural tasks and questionnaires were compared with controls.",
+   "method_zh": "参与者连续七周每天佩戴振动罗盘腰带；以脑成像、行为任务和问卷与对照组比较。",
+   "keywords": [
+    "feelSpace",
+    "sensorimotor contingencies",
+    "fMRI",
+    "magnetic sense"
+   ],
+   "also": [
+    "bird"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1371/journal.pone.0166647",
+    "doi": "10.1371/journal.pone.0166647",
+    "venue": "PLOS ONE 2016",
+    "title": "Learning New Sensorimotor Contingencies: Effects of Long-Term Use of Sensory Augmentation on the Brain and Conscious Perception"
+   }
+  },
+  {
+   "id": "frank-schumann--auditory-compass",
+   "creator_ids": [
+    "frank-schumann",
+    "j-kevin-oregan"
+   ],
+   "title": "Sensory Augmentation with an Auditory Compass",
+   "year": 2017,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "magnetic",
+    "hearing"
+   ],
+   "medium": [
+    "wearable",
+    "audio"
+   ],
+   "kind": "paper",
+   "description": "People who wore an auditory compass signal for a period integrated it with their vestibular sense of rotation, showing a new sense merging with an old one.",
+   "description_zh": "佩戴听觉罗盘信号一段时间后，人们把它与前庭的旋转感融合，表明新感官可以并入旧感官。",
+   "idea_en": "An artificial sense does not stay separate; it gets absorbed into the body's own sense of orientation.",
+   "idea_zh": "人工感官不会一直独立存在，它会被吸收进身体自身的方位感。",
+   "method": "Headphones played a sound signal encoding the direction of north during a training period; perceived self-rotation was tested before and after (likely with passive rotation in darkness).",
+   "method_zh": "训练期间耳机播放编码北方方向的声音信号；在训练前后测试自我旋转的感知（可能是在黑暗中被动旋转）。",
+   "keywords": [
+    "auditory compass",
+    "vestibular",
+    "sensory augmentation",
+    "sensorimotor theory"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/srep42197",
+    "doi": "10.1038/srep42197",
+    "venue": "Scientific Reports 2017",
+    "title": "Sensory augmentation: integration of an auditory compass signal into human perception of space"
+   }
+  },
+  {
+   "id": "eric-boyd--north-paw",
+   "creator_ids": [
+    "eric-boyd"
+   ],
+   "title": "North Paw",
+   "year": 2008,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "magnetic",
+    "touch"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "product",
+   "description": "An open-source anklet with a ring of vibration motors that buzzes on the side facing north, sold as a DIY kit.",
+   "description_zh": "一个开源脚环，环形排布的振动马达在朝北的一侧振动，以自制套件形式出售。",
+   "idea_en": "A magnetic sense anyone can solder: umwelt expansion as a hobby kit.",
+   "idea_zh": "人人都能焊出来的磁感官：把环境界扩展做成业余套件。",
+   "method": "A compass module drives eight vibration motors around the ankle; inspired by the feelSpace belt.",
+   "method_zh": "罗盘模块驱动脚踝周围的八个振动马达；灵感来自 feelSpace 腰带。",
+   "keywords": [
+    "compass anklet",
+    "Sensebridge",
+    "open hardware",
+    "magnetic sense"
+   ],
+   "also": [
+    "bird"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=D4shfNufqSg"
+   }
+  },
+  {
+   "id": "david-eagleman--vest",
+   "creator_ids": [
+    "david-eagleman"
+   ],
+   "title": "VEST (Versatile Extra-Sensory Transducer)",
+   "year": 2015,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "touch",
+    "hearing"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "paper",
+   "description": "A vibrating vest that turns sound into patterns on the torso so deaf people can learn to understand speech through the skin; Eagleman proposed feeding it any data stream as a new sense.",
+   "description_zh": "一件把声音转成躯干振动图案的背心，让聋人能通过皮肤学会理解语音；Eagleman 还提出可向它输入任何数据流，作为新的感官。",
+   "idea_en": "The skin can carry a new channel of the world: data becomes a felt sense after training.",
+   "idea_zh": "皮肤可以承载一条新的世界通道：经过训练，数据会成为可感知的感官。",
+   "method": "An array of vibrotactile motors on a vest encodes audio frequencies spatially and temporally; the paper estimates how much information the skin can carry.",
+   "method_zh": "背心上的振动马达阵列以空间与时间模式编码声音频率；论文估算了皮肤能承载多少信息。",
+   "keywords": [
+    "VEST",
+    "sensory substitution",
+    "sensory addition",
+    "Neosensory",
+    "Scott Novich"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kbKzF8gKxT4"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1007/s00221-015-4346-1",
+    "doi": "10.1007/s00221-015-4346-1",
+    "venue": "Experimental Brain Research 2015",
+    "title": "Using space and time to encode vibrotactile information: toward an estimate of the skin's achievable throughput"
+   }
+  },
+  {
+   "id": "victor-mateevitsi--spidersense",
+   "creator_ids": [
+    "victor-mateevitsi"
+   ],
+   "title": "SpiderSense",
+   "year": 2013,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A suit with sensor modules that press on the skin when objects approach, letting blindfolded wearers sense their surroundings and even throw at targets.",
+   "description_zh": "一件装有传感模块的衣服，物体靠近时会压迫皮肤，让蒙眼的佩戴者感知周围环境，甚至能投掷命中目标。",
+   "idea_en": "A whole-body proximity sense, like a spider feeling vibration, extends the skin into space.",
+   "idea_zh": "一种全身的接近感，像蜘蛛感知振动一样，把皮肤延伸到空间之中。",
+   "method": "Ultrasonic distance sensors distributed around the body drive servo-actuated pressure pads, closer objects pressing harder.",
+   "method_zh": "分布在身体周围的超声波测距传感器驱动伺服压力垫，物体越近压得越重。",
+   "keywords": [
+    "SpiderSense",
+    "ultrasonic",
+    "haptic suit",
+    "spatial awareness",
+    "EVL"
+   ],
+   "also": [
+    "insect"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=D2BZ5wCTwGU"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2459236.2459246",
+    "doi": "10.1145/2459236.2459246",
+    "venue": "Augmented Human 2013",
+    "title": "Sensing the environment through SpiderSense"
+   }
+  },
+  {
+   "id": "alvaro-cassinelli--haptic-radar",
+   "creator_ids": [
+    "alvaro-cassinelli"
+   ],
+   "title": "Haptic Radar",
+   "year": 2006,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A headband of rangefinders and vibration motors that lets the wearer feel approaching objects around the head, an 'extended skin' that works without sight.",
+   "description_zh": "一条装有测距传感器与振动马达的头带，让佩戴者感受到头部周围逼近的物体，是一种无需视觉的“延伸皮肤”。",
+   "idea_en": "Skin that reaches out into space: like whiskers or antennae for humans.",
+   "idea_zh": "向空间伸展的皮肤：如同人类的胡须或触角。",
+   "method": "Infrared rangefinders on modular units map distance to vibration intensity on the scalp.",
+   "method_zh": "模块化单元上的红外测距器把距离映射为头皮上的振动强度。",
+   "keywords": [
+    "extended skin",
+    "rangefinder",
+    "vibrotactile",
+    "Ishikawa Lab",
+    "University of Tokyo"
+   ],
+   "also": [
+    "insect"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Ow_RISC2S0A"
+   },
+   "images": [
+    "http://ishikawa-vision.org/perception/HapticRadar/DSC_8196.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/iswc.2006.286344",
+    "doi": "10.1109/iswc.2006.286344",
+    "venue": "ISWC 2006",
+    "title": "Augmenting spatial awareness with Haptic Radar"
+   },
+   "source_url": "https://www.ishikawa-vision.org/perception/HapticRadar/index-e.html"
+  },
+  {
+   "id": "frank-swain--phantom-terrains",
+   "creator_ids": [
+    "frank-swain"
+   ],
+   "title": "Phantom Terrains",
+   "year": 2014,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "hearing",
+    "electric"
+   ],
+   "medium": [
+    "wearable",
+    "audio"
+   ],
+   "kind": "prototype",
+   "description": "Frank Swain's hearing aids were modified to stream the surrounding WiFi landscape as sound, letting him hear networks, their strength and their names as he walks.",
+   "description_zh": "Frank Swain 的助听器被改造为把周围的 WiFi 环境实时转为声音，让他在行走时听见网络、信号强度和网络名称。",
+   "idea_en": "A medical device becomes an organ for the invisible electromagnetic city.",
+   "idea_zh": "医疗设备成为感知不可见电磁城市的器官。",
+   "method": "An iPhone app with sound artist Daniel Jones sonifies WiFi router data (signal, channel, encryption, names) and streams it to Bluetooth hearing aids.",
+   "method_zh": "与声音艺术家 Daniel Jones 合作的 iPhone 应用把 WiFi 路由器数据（信号、频道、加密方式、名称）声音化，并串流到蓝牙助听器。",
+   "keywords": [
+    "WiFi",
+    "hearing aid",
+    "sonification",
+    "Daniel Jones",
+    "data sense"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=v-vpR3FmxWU"
+   }
+  },
+  {
+   "id": "kevin-warwick--project-cyborg-2",
+   "creator_ids": [
+    "kevin-warwick"
+   ],
+   "title": "Project Cyborg 2.0",
+   "year": 2002,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "Kevin Warwick had an electrode array implanted in his arm's median nerve, controlling a robot hand over the internet and receiving ultrasonic distance signals as a new sense.",
+   "description_zh": "Kevin Warwick 在手臂正中神经中植入电极阵列，通过互联网控制机械手，并以超声波测距信号作为一种新感官。",
+   "idea_en": "The nervous system wired straight to machines: a body that can extend across the internet and feel distance ultrasonically.",
+   "idea_zh": "神经系统直接连到机器：身体可以跨越互联网延伸，并以超声波感知距离。",
+   "method": "A 100-electrode Utah array in the median nerve recorded and stimulated nerve signals, linked to a robot hand, an ultrasonic sensor and later to his wife's implant.",
+   "method_zh": "植入正中神经的 100 电极 Utah 阵列记录并刺激神经信号，连接机械手、超声波传感器，后来还连接到他妻子的植入物。",
+   "keywords": [
+    "neural implant",
+    "Utah array",
+    "ultrasonic sense",
+    "University of Reading"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GLq7edATaFo"
+   },
+   "images": [
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Kevin_Warwick_2011.jpg/1280px-Kevin_Warwick_2011.jpg"
+   ]
+  },
+  {
+   "id": "rob-spence--eyeborg",
+   "creator_ids": [
+    "rob-spence"
+   ],
+   "title": "Eyeborg",
+   "year": 2009,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "wearable",
+    "screen"
+   ],
+   "kind": "prototype",
+   "description": "Filmmaker Rob Spence replaced his lost eye with a prosthetic eye containing a wireless camera, recording and transmitting what it sees.",
+   "description_zh": "电影人 Rob Spence 用内置无线摄像头的义眼替换了失去的眼睛，记录并传输它看到的画面。",
+   "idea_en": "The eye literally becomes a camera: seeing and recording collapse into one organ.",
+   "idea_zh": "眼睛真的变成了摄像机：看与记录合并为同一个器官。",
+   "method": "A miniature low-resolution camera, battery and wireless transmitter fit inside an ocular prosthesis, streaming video to a receiver.",
+   "method_zh": "微型低分辨率摄像头、电池与无线发射器装在义眼中，把视频传到接收器。",
+   "keywords": [
+    "camera eye",
+    "prosthesis",
+    "wireless video",
+    "Deus Ex"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_8fFj4-CKY8"
+   }
+  },
+  {
+   "id": "christina-kubisch--electrical-walks",
+   "creator_ids": [
+    "christina-kubisch"
+   ],
+   "title": "Electrical Walks",
+   "year": 2004,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "hearing",
+    "electric"
+   ],
+   "medium": [
+    "audio",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "Walkers wear special headphones that turn the electromagnetic fields of the city, from shop alarms to ATMs and lighting, into sound, following a map of hot spots.",
+   "description_zh": "行走者戴上特制耳机，沿着“热点”地图行走，耳机把城市里的电磁场——从商店防盗门到自动取款机与照明——转成声音。",
+   "idea_en": "Walking with an electromagnetic ear reveals a hidden layer of the city that other senses miss.",
+   "idea_zh": "带着一只电磁之耳行走，会揭示其他感官错过的城市隐藏层。",
+   "method": "Wireless headphones with induction coils pick up and amplify electromagnetic fields directly as audio.",
+   "method_zh": "带感应线圈的无线耳机直接拾取并放大电磁场，转为声音。",
+   "keywords": [
+    "electromagnetic induction",
+    "sound walk",
+    "headphones",
+    "city"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gUYhwXteYP8"
+   },
+   "images": [
+    "https://christinakubisch.de/wp-content/uploads/2022/01/MG_2068-2-1024x682.jpeg"
+   ],
+   "source_url": "https://www.christinakubisch.de/electrical-walks"
+  },
+  {
+   "id": "richard-vijgen--architecture-of-radio",
+   "creator_ids": [
+    "richard-vijgen"
+   ],
+   "title": "Architecture of Radio",
+   "year": 2015,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "vision",
+    "electric"
+   ],
+   "medium": [
+    "ar"
+   ],
+   "kind": "artwork",
+   "description": "A site-specific AR app that shows the cell towers, WiFi routers and satellites whose signals surround the viewer, as a 360° data landscape.",
+   "description_zh": "一款基于位置的 AR 应用，以 360° 数据景观呈现环绕观者的手机基站、WiFi 路由器和卫星信号。",
+   "idea_en": "Seeing the radio spectrum around you turns infrastructure into a perceivable environment.",
+   "idea_zh": "看见身边的无线电频谱，就把基础设施变成了一个可感知的环境。",
+   "method": "The phone's location and orientation sensors place data from open databases of cell towers, WiFi networks and satellites around the user.",
+   "method_zh": "手机的位置与方向传感器，把来自开放数据库的基站、WiFi 网络与卫星数据放置在用户周围。",
+   "keywords": [
+    "radio",
+    "WiFi",
+    "cell towers",
+    "satellites",
+    "data visualisation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XUKc0Hrxn6s"
+   },
+   "images": [
+    "https://www.architectureofradio.com/img/thumb/1.jpg"
+   ],
+   "source_url": "https://www.architectureofradio.com/"
+  },
+  {
+   "id": "timo-arnall--immaterials-light-painting-wifi",
+   "creator_ids": [
+    "timo-arnall"
+   ],
+   "title": "Immaterials: Light Painting WiFi",
+   "year": 2011,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "vision",
+    "electric"
+   ],
+   "medium": [
+    "performance",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A four-metre rod of lights that measures WiFi signal strength was walked through Oslo and photographed in long exposures, revealing the shape of invisible networks.",
+   "description_zh": "一根会测量 WiFi 信号强度的四米灯杆被带着走过奥斯陆，并以长曝光拍摄，揭示看不见的网络的形状。",
+   "idea_en": "Making a machine sense visible in the city lets people see radio the way devices do.",
+   "idea_zh": "让一种机器感官在城市中变得可见，使人们能像设备那样“看见”无线电。",
+   "method": "A rod of 80 LEDs displays measured WiFi signal strength as bar height while moved through streets during long-exposure photography; with Jørn Knutsen and Einar Sneve Martinussen.",
+   "method_zh": "由 80 颗 LED 组成的灯杆把测得的 WiFi 信号强度显示为光柱高度，在长曝光拍摄中被移动穿过街道；与 Jørn Knutsen、Einar Sneve Martinussen 合作。",
+   "keywords": [
+    "WiFi",
+    "light painting",
+    "long exposure",
+    "Oslo",
+    "YOUrban"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=cxdjfOkPu-E"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1111/j.1740-9713.2013.00683.x",
+    "doi": "10.1111/j.1740-9713.2013.00683.x",
+    "venue": "Significance 2013",
+    "title": "Immaterials: Light Painting WiFi"
+   },
+   "source_url": "https://www.elasticspace.com/2013/09/the-immaterials-project"
+  },
+  {
+   "id": "emi-tamaki--possessedhand",
+   "creator_ids": [
+    "emi-tamaki",
+    "jun-rekimoto"
+   ],
+   "title": "PossessedHand",
+   "year": 2011,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A forearm band that moves the wearer's fingers with electrical muscle stimulation, so a computer can play the hand like an instrument.",
+   "description_zh": "一条前臂绑带，以肌肉电刺激驱动佩戴者的手指，让计算机像演奏乐器一样控制这只手。",
+   "idea_en": "Being moved by a computer from inside your own muscles: the hand becomes a machine output.",
+   "idea_zh": "从自己的肌肉内部被计算机驱动：手变成了机器的输出端。",
+   "method": "Twenty-eight electrode pads on the forearm stimulate muscles to flex 16 finger joints.",
+   "method_zh": "前臂上的 28 个电极片刺激肌肉，使 16 个手指关节屈曲。",
+   "keywords": [
+    "EMS",
+    "electrical muscle stimulation",
+    "hand",
+    "University of Tokyo"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9XBoZyfB8hY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/1978942.1979018",
+    "doi": "10.1145/1978942.1979018",
+    "venue": "CHI 2011",
+    "title": "PossessedHand: techniques for controlling human hands using electrical muscles stimuli"
+   }
+  },
+  {
+   "id": "daito-manabe--electric-stimulus-to-face",
+   "creator_ids": [
+    "daito-manabe"
+   ],
+   "title": "electric stimulus to face",
+   "year": 2008,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "body",
+    "hearing"
+   ],
+   "medium": [
+    "performance",
+    "wearable"
+   ],
+   "kind": "performance",
+   "description": "Electrodes on the faces of Daito Manabe and friends were driven by music, making their facial muscles twitch in time with the beat.",
+   "description_zh": "真锅大度和朋友们脸上的电极由音乐驱动，使他们的面部肌肉随节拍抽动。",
+   "idea_en": "A face becomes a display for a machine signal, performing expressions no one intended.",
+   "idea_zh": "人脸成为机器信号的显示器，做出无人刻意为之的表情。",
+   "method": "Audio signals are converted to low-current electrical muscle stimulation delivered through electrode pads on the face.",
+   "method_zh": "音频信号被转换为低电流的肌肉电刺激，通过面部电极片传递。",
+   "keywords": [
+    "EMS",
+    "face",
+    "music",
+    "Rhizomatiks"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tJ4_-2_oWuM"
+   }
+  },
+  {
+   "id": "marco-donnarumma--corpus-nil",
+   "creator_ids": [
+    "marco-donnarumma"
+   ],
+   "title": "Corpus Nil",
+   "year": 2016,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "body",
+    "hearing"
+   ],
+   "medium": [
+    "performance",
+    "wearable"
+   ],
+   "kind": "performance",
+   "description": "A performance in which an AI system listens to the sounds and electrical signals of Donnarumma's muscles and turns them into light and sound, as the body slowly contorts.",
+   "description_zh": "一场表演：人工智能系统聆听 Donnarumma 肌肉发出的声音与电信号，并把它们转化为光与声，身体则缓慢扭曲。",
+   "idea_en": "Body and algorithm shape each other; the performer is a hybrid organism with a machine.",
+   "idea_zh": "身体与算法彼此塑造；表演者是与机器结合的混合有机体。",
+   "method": "Wearable mechanomyography and electromyography sensors feed a machine learning system that controls sound synthesis and lights in real time.",
+   "method_zh": "可穿戴的肌音图与肌电传感器把数据输入机器学习系统，实时控制声音合成与灯光。",
+   "keywords": [
+    "biosignals",
+    "mechanomyography",
+    "machine learning",
+    "muscle sound"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CAIh8FxLMtk"
+   },
+   "images": [
+    "https://marcodonnarumma.com/live/wp-content/uploads/2017/03/Marco-Donnarumma_Corpus-Nil_1_web_by-onuk.jpg"
+   ],
+   "source_url": "https://marcodonnarumma.com/works/corpus-nil/"
+  },
+  {
+   "id": "katerina-kamprani--the-uncomfortable",
+   "creator_ids": [
+    "katerina-kamprani"
+   ],
+   "title": "The Uncomfortable",
+   "year": 2011,
+   "field": "robot",
+   "sub": "object",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A series of everyday objects redesigned to be deliberately inconvenient: a fork made of chain, a watering can that pours on your feet, a chair you cannot sit in.",
+   "description_zh": "一系列被故意设计得不好用的日常物品：用链条做成的叉子、会浇到自己脚上的洒水壶、无法坐下的椅子。",
+   "idea_en": "Breaking the fit between object and body makes us feel the object's own form and demands.",
+   "idea_zh": "打破物品与身体之间的契合，让我们感受到物品自身的形态与要求。",
+   "method": "Mostly 3D-rendered images of redesigned objects, with a few physical prototypes.",
+   "method_zh": "主要是重新设计物品的 3D 渲染图，也有少量实物原型。",
+   "keywords": [
+    "design",
+    "useless objects",
+    "chair",
+    "fork"
+   ],
+   "images": [
+    "https://www.theuncomfortable.com/wp-content/uploads/2017/05/chain_fork_01_p-655x437.jpg",
+    "https://www.theuncomfortable.com/wp-content/uploads/2017/06/Hoop-Chair-04-655x655.jpg"
+   ],
+   "source_url": "https://www.theuncomfortable.com/",
+   "collections": [
+    "book-counterpoints"
+   ]
+  },
+  {
+   "id": "bruno-munari--seeking-comfort",
+   "creator_ids": [
+    "bruno-munari"
+   ],
+   "title": "Seeking Comfort in an Uncomfortable Chair",
+   "year": 1944,
+   "field": "robot",
+   "sub": "object",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "screen",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "A sequence of fourteen photographs in Domus in which Munari twists into ever odder positions in a modern armchair, searching for a comfortable way to sit.",
+   "description_zh": "刊登于 Domus 的十四张系列照片：Munari 在一把现代扶手椅中扭出越来越古怪的姿势，寻找舒服的坐法。",
+   "idea_en": "The body bends to the object: a playful study of how a chair shapes the person who uses it.",
+   "idea_zh": "身体向物品弯折：一项关于椅子如何塑造使用者的游戏式研究。",
+   "method": "Staged photographic series published in Domus no. 202 (1944).",
+   "method_zh": "摆拍的摄影系列，刊登于 Domus 第 202 期（1944）。",
+   "keywords": [
+    "armchair",
+    "Domus",
+    "photography",
+    "design performance"
+   ],
+   "images": [
+    "https://www.domusweb.it/content/dam/domusweb/en/from-the-archive/2012/03/31/searching-for-comfort-in-an-uncomfortable-chair/domus-munariarchivio.png.foto.rbig.png"
+   ],
+   "source_url": "https://www.domusweb.it/en/from-the-archive/2012/03/31/searching-for-comfort-in-an-uncomfortable-chair.html",
+   "collections": [
+    "book-counterpoints"
+   ]
+  },
+  {
+   "id": "elisa-giaccardi--thing-ethnography",
+   "creator_ids": [
+    "elisa-giaccardi"
+   ],
+   "title": "Thing Ethnography",
+   "year": 2016,
+   "field": "robot",
+   "sub": "object",
+   "senses": [
+    "vision",
+    "collective-sense"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "paper",
+   "description": "Design researchers attached cameras and sensors to household things such as kettles, cups and fridges to see everyday life from the things' point of view.",
+   "description_zh": "设计研究者在水壶、杯子、冰箱等家用物品上安装摄像头与传感器，从物的视角观察日常生活。",
+   "idea_en": "Things become co-ethnographers: an object's viewpoint reveals practices people do not notice.",
+   "idea_zh": "物成为共同的民族志研究者：物的视角揭示人们没有察觉的日常实践。",
+   "method": "Autographer cameras and sensors mounted on objects captured images and use data, analysed with participants.",
+   "method_zh": "安装在物品上的 Autographer 相机与传感器采集图像和使用数据，并与参与者一起分析。",
+   "keywords": [
+    "thing perspective",
+    "co-ethnography",
+    "sensors",
+    "TU Delft",
+    "more-than-human design"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2901790.2901905",
+    "doi": "10.1145/2901790.2901905",
+    "venue": "DIS 2016",
+    "title": "Thing Ethnography: Doing Design Research with Non-Humans"
+   }
+  },
+  {
+   "id": "ron-wakkary--morse-things",
+   "creator_ids": [
+    "ron-wakkary"
+   ],
+   "title": "Morse Things",
+   "year": 2017,
+   "field": "robot",
+   "sub": "object",
+   "senses": [
+    "collective-sense",
+    "hearing"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "paper",
+   "description": "A set of ceramic bowls and cups that live in people's homes and talk to each other in Morse code over the home network, mostly ignoring their human owners.",
+   "description_zh": "一组放在人们家中的陶瓷碗和杯子，它们通过家庭网络用摩尔斯电码彼此交谈，大多时候并不理会主人。",
+   "idea_en": "Things with lives of their own: designing objects whose world is not centred on us.",
+   "idea_zh": "拥有自己生活的物：设计出世界并不以人为中心的物品。",
+   "method": "Ceramic vessels with embedded single-board computers exchange Morse messages over WiFi and post to a Twitter account; deployed in homes.",
+   "method_zh": "内嵌单板计算机的陶瓷器皿通过 WiFi 互发摩尔斯讯息并发布到 Twitter 账号；部署在家庭中。",
+   "keywords": [
+    "Morse code",
+    "ceramics",
+    "internet of things",
+    "Everyday Design Studio",
+    "object-oriented ontology"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3064663.3064734",
+    "doi": "10.1145/3064663.3064734",
+    "venue": "DIS 2017",
+    "title": "Morse Things: A Design Inquiry into the Gap Between Things and Us"
+   }
+  },
+  {
+   "id": "pedro-lopes--affordance-plus-plus",
+   "creator_ids": [
+    "pedro-lopes"
+   ],
+   "title": "Affordance++",
+   "year": 2015,
+   "field": "robot",
+   "sub": "object",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "paper",
+   "description": "Objects communicate how they want to be used by moving the user's muscles: a spray can makes you shake it, a door handle tells you it is hot.",
+   "description_zh": "物品通过驱动使用者的肌肉来传达它们想被怎样使用：喷漆罐让你摇晃它，门把手告诉你它很烫。",
+   "idea_en": "Taking the object's side: its behaviour is expressed through your body.",
+   "idea_zh": "站在物的一边：物的行为通过你的身体表达出来。",
+   "method": "Electrical muscle stimulation on the forearm, triggered by object recognition and tracking, actuates wrist and finger movements.",
+   "method_zh": "由物体识别与追踪触发的前臂肌肉电刺激，驱动手腕与手指动作。",
+   "keywords": [
+    "EMS",
+    "affordance",
+    "objects",
+    "Hasso Plattner Institute"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Gz4dphzBb6I"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2702123.2702128",
+    "doi": "10.1145/2702123.2702128",
+    "venue": "CHI 2015",
+    "title": "Affordance++: Allowing Objects to Communicate Dynamic Use"
+   }
+  },
+  {
+   "id": "k-carrie-armel--table-illusion",
+   "creator_ids": [
+    "k-carrie-armel",
+    "v-s-ramachandran"
+   ],
+   "title": "Projecting Sensations to External Objects",
+   "year": 2003,
+   "field": "robot",
+   "sub": "object",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "paper",
+   "description": "When a table was stroked in sync with the participant's hidden hand, people felt the touch on the table and reacted physiologically when it was 'hurt'.",
+   "description_zh": "当桌子与参与者被遮住的手同步被抚摸时，人们感到触觉出现在桌子上，并在桌子“受伤”时产生生理反应。",
+   "idea_en": "The body can extend into a plain object: ownership of a table, not just a rubber hand.",
+   "idea_zh": "身体可以延伸到一件普通物品中：不仅是橡胶手，一张桌子也能被“拥有”。",
+   "method": "A rubber-hand-style paradigm in which the tabletop and the hidden hand were stroked in synchrony, after which the table was threatened while skin conductance was recorded.",
+   "method_zh": "采用类似橡胶手错觉的范式，同步抚摸桌面与被遮住的手，随后对桌子施加威胁，同时记录皮肤电反应。",
+   "keywords": [
+    "rubber hand illusion",
+    "table",
+    "skin conductance",
+    "body ownership"
+   ],
+   "also": [
+    "foundations"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1098/rspb.2003.2364",
+    "doi": "10.1098/rspb.2003.2364",
+    "venue": "Proceedings of the Royal Society B 2003",
+    "title": "Projecting sensations to external objects: evidence from skin conductance response"
+   }
+  },
+  {
+   "id": "ke-ma--non-corporeal-objects",
+   "creator_ids": [
+    "ke-ma",
+    "bernhard-hommel"
+   ],
+   "title": "Body-ownership for Actively Operated Non-corporeal Objects",
+   "year": 2015,
+   "field": "robot",
+   "sub": "object",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "paper",
+   "description": "People came to feel a virtual balloon or rectangle as part of their body when it moved in sync with their own hand.",
+   "description_zh": "当虚拟气球或矩形与自己的手同步运动时，人们逐渐把它感受为自己身体的一部分。",
+   "idea_en": "Control, not shape, makes a thing feel like yours: an object can be embodied if it answers to your movement.",
+   "idea_zh": "让物感觉属于你的是控制而非形状：只要物回应你的动作，它就能被具身。",
+   "method": "A data glove drove virtual objects on screen (likely a projection-based virtual-hand setup), comparing synchronous and asynchronous movement with ownership questionnaires.",
+   "method_zh": "数据手套驱动屏幕上的虚拟物体（可能是基于投影的虚拟手设置），以问卷比较同步与异步运动下的所有感。",
+   "keywords": [
+    "virtual hand illusion",
+    "non-corporeal objects",
+    "agency",
+    "body ownership"
+   ],
+   "also": [
+    "foundations"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.concog.2015.06.003",
+    "doi": "10.1016/j.concog.2015.06.003",
+    "venue": "Consciousness and Cognition 2015",
+    "title": "Body-ownership for actively operated non-corporeal objects"
+   }
+  },
+  {
+   "id": "geoff-cox--ways-of-machine-seeing",
+   "creator_ids": [
+    "geoff-cox"
+   ],
+   "title": "Ways of Machine Seeing",
+   "year": 2017,
+   "field": "foundations",
+   "sub": "theory",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "publication",
+   "description": "An essay that updates John Berger's Ways of Seeing for an age in which images are increasingly made and read by machines.",
+   "description_zh": "一篇为图像日益由机器生成与读取的时代更新 John Berger《观看之道》的文章。",
+   "idea_en": "Machine seeing is also a way of seeing, shaped by power; any 'becoming machine' inherits it.",
+   "idea_zh": "机器的观看同样是一种观看之道，被权力塑造；任何“成为机器”的尝试都继承了它。",
+   "method": "Critical essay in the journal APRJA, drawing on computer vision and Berger's television series.",
+   "method_zh": "发表于 APRJA 期刊的批评性文章，结合计算机视觉与 Berger 的电视系列。",
+   "keywords": [
+    "machine vision",
+    "John Berger",
+    "APRJA",
+    "critical theory"
+   ],
+   "also": [
+    "robot"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7146/aprja.v6i1.116007",
+    "doi": "10.7146/aprja.v6i1.116007",
+    "venue": "APRJA 2017",
+    "title": "Ways of Machine Seeing"
+   }
+  },
+  {
+   "id": "beanotherlab--the-machine-to-be-another",
+   "creator_ids": [
+    "beanotherlab"
+   ],
+   "title": "The Machine to Be Another",
+   "year": 2012,
+   "field": "foundations",
+   "sub": "embodiment",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "Two participants wearing headsets see through each other's eyes and move in sync, experiencing the illusion of swapping bodies.",
+   "description_zh": "两名戴头显的参与者透过彼此的眼睛观看，并同步动作，体验身体互换的错觉。",
+   "idea_en": "The human-to-human body swap: a baseline method, and a counterpoint, for works that try to swap into non-human bodies.",
+   "idea_zh": "人与人之间的身体交换：它既是尝试进入非人身体的作品的基础方法，也是它们的对照。",
+   "method": "Head-mounted displays show a live first-person camera view from the other participant, with a performer mirroring movements and synchronised touch.",
+   "method_zh": "头显播放另一位参与者的实时第一人称摄像画面，配合表演者镜像动作与同步触碰。",
+   "keywords": [
+    "body swap",
+    "embodiment",
+    "empathy",
+    "first-person view"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=eIQWcmhChBI"
+   },
+   "images": [
+    "https://beanotherlab.org/wp-content/uploads/2019/04/bal_tmtba01.jpg"
+   ],
+   "source_url": "https://beanotherlab.org/home/work/tmtba/"
+  },
+  {
+   "id": "yamen-saraiji--metaarms",
+   "creator_ids": [
+    "yamen-saraiji",
+    "kouta-minamizawa",
+    "masahiko-inami"
+   ],
+   "title": "MetaArms",
+   "year": 2018,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A pair of robotic arms worn on the back and controlled by the wearer's feet, so that the body gains two extra arms driven by remapped legs.",
+   "description_zh": "一对背在身后、由佩戴者双脚控制的机械臂，身体由此获得两只由“重新映射”的腿来驱动的额外手臂。",
+   "idea_en": "Remapping feet to arms shows how quickly the body schema adopts machine limbs.",
+   "idea_zh": "把脚映射为手臂，显示身体图式能多快地接纳机器肢体。",
+   "method": "Foot position and toe bending, tracked by sensors, drive two backpack-mounted anthropomorphic arms; haptic feedback from the robot hands is returned to the feet.",
+   "method_zh": "传感器追踪脚的位置与脚趾弯曲，驱动两只背包式仿人机械臂；机械手的触觉反馈回传到脚上。",
+   "keywords": [
+    "supernumerary robotic limbs",
+    "body remapping",
+    "foot control",
+    "Keio KMD"
+   ],
+   "also": [
+    "robot"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hcnF3RkiItc"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3242587.3242665",
+    "doi": "10.1145/3242587.3242665",
+    "venue": "UIST 2018",
+    "title": "MetaArms: Body Remapping Using Feet-Controlled Artificial Arms"
+   }
+  },
+  {
+   "id": "masahiko-inami--jizai-arms",
+   "creator_ids": [
+    "masahiko-inami"
+   ],
+   "title": "JIZAI ARMS",
+   "year": 2023,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body",
+    "collective-sense"
+   ],
+   "medium": [
+    "wearable",
+    "performance"
+   ],
+   "kind": "prototype",
+   "description": "A wearable base with sockets for detachable robotic arms that can be added, swapped between wearers and operated by other people, forming 'social digital cyborgs'.",
+   "description_zh": "一个带插口的可穿戴底座，可装卸的机械臂能被增加、在佩戴者之间交换，也可以由他人操作，形成“社会化的数字赛博格”。",
+   "idea_en": "Robot limbs as social objects: a body that others can extend, lend and share.",
+   "idea_zh": "作为社交物件的机器肢体：一具可以由他人延伸、借出与共享的身体。",
+   "method": "A backpack base with six sockets holds detachable robotic arms, teleoperated through scaled-down master arms; designed collaboratively with artists and users.",
+   "method_zh": "一个带六个插口的背负底座承载可拆卸机械臂，通过缩小比例的主控臂远程操作；与艺术家和使用者共同设计。",
+   "keywords": [
+    "JIZAI Body",
+    "supernumerary robotic limbs",
+    "social cyborg",
+    "University of Tokyo"
+   ],
+   "also": [
+    "robot"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KFyZQfqaXhE"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3544548.3581169",
+    "doi": "10.1145/3544548.3581169",
+    "venue": "CHI 2023",
+    "title": "Social Digital Cyborgs: The Collaborative Design Process of JIZAI ARMS"
+   }
+  },
+  {
+   "id": "harpreet-sareen--elowan",
+   "creator_ids": [
+    "harpreet-sareen"
+   ],
+   "title": "Elowan",
+   "year": 2018,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "vision",
+    "electric"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "prototype",
+   "description": "A potted plant on a robotic base that uses its own electrical signals to drive itself toward light.",
+   "description_zh": "一株放在机器人底座上的盆栽植物，用自身的电信号驱动自己驶向光源。",
+   "idea_en": "The plant gets a machine body: its bioelectric response to light becomes locomotion.",
+   "idea_zh": "植物获得一具机器身体：它对光的生物电反应变成了移动能力。",
+   "method": "Electrodes on the leaves read the plant's bioelectrical responses to light; an amplifier and microcontroller turn them into motor commands for a wheeled base.",
+   "method_zh": "叶片上的电极读取植物对光的生物电反应；放大器与微控制器把信号转换为轮式底座的电机指令。",
+   "keywords": [
+    "plant-robot hybrid",
+    "bioelectricity",
+    "phototropism",
+    "MIT Media Lab",
+    "Fluid Interfaces"
+   ],
+   "also": [
+    "tree"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rptKlKZc7cs"
+   },
+   "images": [
+    "https://dam-prod.media.mit.edu/thumb/2018/11/01/BannerImage_v01.jpg.1400x1400.jpg"
+   ],
+   "source_url": "https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/"
+  },
+  {
+   "id": "harpreet-sareen--cyborg-botany",
+   "creator_ids": [
+    "harpreet-sareen"
+   ],
+   "title": "Cyborg Botany",
+   "year": 2019,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "touch",
+    "electric"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "paper",
+   "description": "Plants are augmented with conductive material grown inside their tissue so that the living plant can act as a sensor, display and actuator.",
+   "description_zh": "在植物组织内部生长出导电材料，使活的植物能够充当传感器、显示器和执行器。",
+   "idea_en": "Not a robot next to a plant but circuitry inside it: the plant's own body becomes the interface.",
+   "idea_zh": "不是植物旁边放一台机器人，而是把电路长在植物里：植物自己的身体就是界面。",
+   "method": "Conductive polymers are introduced into the plant's vascular tissue to form in-vivo wires, combined with the plant's natural signals and movements.",
+   "method_zh": "把导电聚合物引入植物的维管组织，形成活体内的导线，并结合植物本身的信号与运动。",
+   "keywords": [
+    "cyborg botany",
+    "in-vivo circuits",
+    "conductive polymer",
+    "MIT Media Lab"
+   ],
+   "also": [
+    "tree"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3fsE_c__zV4"
+   },
+   "images": [
+    "https://dam-prod.media.mit.edu/thumb/2019/05/08/titlegid-nosub.gif.1400x1400.gif"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3290607.3311778",
+    "doi": "10.1145/3290607.3311778",
+    "venue": "CHI 2019 Extended Abstracts",
+    "title": "Cyborg Botany: Augmented Plants as Sensors, Displays and Actuators"
+   },
+   "source_url": "https://www.media.mit.edu/projects/cyborg-botany/overview/"
+  },
+  {
+   "id": "interactive-architecture-lab--hortum-machina-b",
+   "creator_ids": [
+    "interactive-architecture-lab"
+   ],
+   "title": "Hortum machina, B",
+   "year": 2015,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "electric",
+    "time-scale"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "prototype",
+   "description": "A geodesic sphere planted as a garden that can roll through the city, steered by the electrical signals of the plants it carries.",
+   "description_zh": "一个种满植物的测地线球体花园，可以在城市中滚动，由它所承载植物的电信号来掌舵。",
+   "idea_en": "A garden becomes a cyborg vehicle: plants choose where their machine body goes.",
+   "idea_zh": "花园变成赛博格载具：植物决定它们的机器身体去往何处。",
+   "method": "Electrophysiological sensors on the plants feed a controller that shifts the sphere's weight to roll it; part of the reEarth project at The Bartlett BPro.",
+   "method_zh": "植物上的电生理传感器把信号送入控制器，控制器移动球体重心使其滚动；属于巴特莱特 BPro 的 reEarth 项目。",
+   "keywords": [
+    "plant electrophysiology",
+    "geodesic sphere",
+    "reEarth",
+    "The Bartlett",
+    "Danilo Sampaio"
+   ],
+   "also": [
+    "tree"
+   ],
+   "shown_at": [
+    "The Bartlett BPro Show 2015"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8Qk3BeolyiA"
+   }
+  },
+  {
+   "id": "yuting-xue--green-rhythms",
+   "creator_ids": [
+    "yuting-xue",
+    "elke-reinhuber"
+   ],
+   "title": "Green Rhythms",
+   "year": 2026,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "breath",
+    "time-scale"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "paper",
+   "description": "An interactive installation that translates plants' circadian rhythm into light and air, with the carbon dioxide exhaled by visitors feeding a shared metabolic cycle.",
+   "description_zh": "一件互动装置，把植物的昼夜节律转化为光与空气，观众呼出的二氧化碳进入人与植物共享的代谢循环。",
+   "idea_en": "Breathing with plants: visitors enter the plant's slow day-night timing through a shared exchange of light and air.",
+   "idea_zh": "与植物一起呼吸：观众通过光与空气的交换，进入植物缓慢的昼夜时间。",
+   "method": "Environmental light and visitors' exhaled CO2 are sensed and used to stage photosynthesis and nocturnal gas exchange as light and airflow.",
+   "method_zh": "感测环境光与观众呼出的二氧化碳，以光与气流呈现光合作用和夜间气体交换。",
+   "keywords": [
+    "circadian rhythm",
+    "photosynthesis",
+    "CO2",
+    "more-than-human design",
+    "time ecology"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3731459.3779145",
+    "doi": "10.1145/3731459.3779145",
+    "venue": "TEI 2026",
+    "title": "Green Rhythms: Symbiotic Interaction Between Humans and Plants"
+   }
+  },
+  {
+   "id": "paul-bach-y-rita--tvss",
+   "creator_ids": [
+    "paul-bach-y-rita"
+   ],
+   "title": "Tactile Vision Substitution System (TVSS)",
+   "year": 1969,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "touch",
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "wearable"
+   ],
+   "kind": "paper",
+   "description": "Blind participants sat in a chair whose back pressed a grid of vibrating pins against their skin, driven by a camera they moved, and learned to recognise objects and faces through touch.",
+   "description_zh": "盲人参与者坐在一把椅子上，椅背上的振动针阵按压他们的背部，信号来自他们自己移动的摄像机；他们由此学会通过触觉识别物体和人脸。",
+   "idea_en": "Seeing is done by the brain, not the eye: a camera and the skin of the back can form a new route to vision.",
+   "idea_zh": "看是大脑完成的，而不是眼睛：摄像机加上背部的皮肤，就能成为一条通往视觉的新路径。",
+   "method": "A television camera's image was converted into a 20 × 20 array of vibrotactile stimulators on the back of a dental chair; active camera control was key to learning.",
+   "method_zh": "电视摄像机的画面被转换为牙科椅背上 20 × 20 的振动触觉刺激阵列；由使用者主动控制摄像机是学会的关键。",
+   "keywords": [
+    "sensory substitution",
+    "TVSS",
+    "vibrotactile",
+    "blindness",
+    "neuroplasticity"
+   ],
+   "also": [
+    "mole"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/221963a0",
+    "doi": "10.1038/221963a0",
+    "venue": "Nature 1969",
+    "title": "Vision Substitution by Tactile Image Projection"
+   }
+  }
+ ],
+ "leads": []
+}

@@ -1,0 +1,888 @@
+{
+ "batch": "portfolio",
+ "creators": [
+  {
+   "id": "botao-hu",
+   "name": "Botao 'Amber' Hu",
+   "kind": "person",
+   "role": "Designer-researcher; Director of Reality Design Lab; DPhil candidate, University of Oxford",
+   "role_zh": "设计研究者；Reality Design Lab 主理人；牛津大学博士候选人",
+   "based": "Oxford, UK",
+   "based_zh": "牛津，英国",
+   "bio": "Works across somaesthetic design, mixed reality and more-than-human attunement, and invented the open-source HoloKit headset. Lead author of the monograph Experiencing More-than-Humans and of the portfolio works EchoVision, FungiSync, TentacUs, GravField and City of Sparkles.",
+   "bio_zh": "研究横跨身体美学设计、混合现实与超越人类的感知调谐，发明了开源头显 HoloKit。专著《Experiencing More-than-Humans》的第一作者，主导了 EchoVision、FungiSync、TentacUs、GravField 与 City of Sparkles 等作品。",
+   "why": "Coined 'Experiencing the More-than-Human through Human Augmentation' and built a portfolio of XR works that let people become bat, mole, octopus, fungi and AI.",
+   "why_zh": "提出“通过人类增强体验超越人类”的设计方法，并创作了一系列让人成为蝙蝠、鼹鼠、章鱼、真菌与 AI 的 XR 作品。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {
+    "site": "https://amber.botao.hu",
+    "github": "https://github.com/realitydeslab"
+   },
+   "connected_to": [
+    "reality-design-lab",
+    "danlin-huang",
+    "jae-eun-shin",
+    "jiabao-li"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "danlin-huang",
+   "name": "Danlin Huang",
+   "kind": "person",
+   "role": "Artist, designer-researcher and AR developer",
+   "role_zh": "艺术家、设计研究者与 AR 开发者",
+   "based": "China",
+   "based_zh": "中国",
+   "bio": "Trained in industrial design and media art at the China Academy of Art; research assistant at Reality Design Lab. Uses XR, biosensors and AI to enrich bodily experience; lead designer of FeltSight and co-author of the monograph Experiencing More-than-Humans.",
+   "bio_zh": "毕业于中国美术学院工业设计与媒体艺术方向，曾任 Reality Design Lab 研究助理。用 XR、生物传感与 AI 拓展身体经验；FeltSight 的主要设计者，专著《Experiencing More-than-Humans》合著者。",
+   "why": "Designed the touch-first and mask-based interfaces (FeltSight glove, EchoVision and FungiSync masks) through which the book's portfolio lets people sense as other beings.",
+   "why_zh": "设计了以触觉为先、以面具为载体的界面（FeltSight 手套、EchoVision 与 FungiSync 面具），让参与者以其他生命的方式感知。",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {
+    "site": "https://danlinhuang.com",
+    "youtube": "https://www.youtube.com/watch?v=7Pq6s3VnD0A"
+   },
+   "connected_to": [
+    "botao-hu",
+    "reality-design-lab"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jae-eun-shin",
+   "name": "Jae-eun Shin",
+   "kind": "person",
+   "role": "HCI and mixed-reality researcher, Graduate School of Information, Yonsei University",
+   "role_zh": "延世大学信息研究生院人机交互与混合现实研究者",
+   "based": "Seoul, South Korea",
+   "based_zh": "首尔，韩国",
+   "bio": "Researches augmented narrative space, embodiment, interaction and posthuman futures for XR. Co-author of the monograph Experiencing More-than-Humans, leading its critical XR framework.",
+   "bio_zh": "研究增强叙事空间、具身、交互以及 XR 的后人类未来。专著《Experiencing More-than-Humans》合著者，负责其中的批判性 XR 框架。",
+   "why": "The CHI 2026 paper by Shin frames XR as speculative worlding, distributed decentering and entangled becoming — the critical lens the book applies to its own works.",
+   "why_zh": "其 CHI 2026 论文把 XR 理解为推想性的世界营造、分布式去中心化与纠缠式生成，这正是本书审视自身作品的批判视角。",
+   "disciplines": [
+    "hci",
+    "theory"
+   ],
+   "links": {
+    "site": "https://experiencing-mth.github.io"
+   },
+   "connected_to": [
+    "botao-hu",
+    "danlin-huang"
+   ],
+   "discovered_via": "botao-hu"
+  },
+  {
+   "id": "reality-design-lab",
+   "name": "Reality Design Lab",
+   "kind": "lab",
+   "role": "Independent design research lab for mixed reality, directed by Botao 'Amber' Hu",
+   "role_zh": "由 Botao 'Amber' Hu 主持的混合现实独立设计研究实验室",
+   "based": "Oxford, UK / Hangzhou, China",
+   "based_zh": "牛津，英国／杭州，中国",
+   "bio": "Makes mixed-reality artworks, open-source toolkits (HoloKit, HoloField, HoloMask, MultipeerConnectivity for Unity) and teaching programmes under the motto 'design new realities'.",
+   "bio_zh": "以“设计新现实”为宗旨，创作混合现实艺术作品，开发开源工具（HoloKit、HoloField、HoloMask、Unity 版 MultipeerConnectivity），并开展教学项目。",
+   "why": "Produced most of the book's portfolio on shared open hardware, so bat, mole, fungi and octopus experiences can be exhibited and rebuilt by others.",
+   "why_zh": "本书作品集大多出自该实验室，并基于共享的开源硬件，使蝙蝠、鼹鼠、真菌与章鱼体验可以被展出、也可被他人复现。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {
+    "site": "https://reality.design",
+    "github": "https://github.com/realitydeslab"
+   },
+   "connected_to": [
+    "botao-hu",
+    "danlin-huang"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jiabao-li",
+   "name": "Jiabao Li",
+   "kind": "person",
+   "role": "Artist, designer and technologist; Associate Professor, Northeastern University",
+   "role_zh": "艺术家、设计师与技术专家；美国东北大学副教授",
+   "based": "United States",
+   "based_zh": "美国",
+   "bio": "Works on more-than-human ecologies, feminist biotech and multispecies intelligence through installations, XR, AI, bio-art and performance; previously Assistant Professor at UT Austin and a designer at Apple.",
+   "bio_zh": "通过装置、XR、AI、生物艺术与表演探索超越人类的生态、女性主义生物技术与多物种智能；曾任 UT Austin 助理教授、苹果公司设计师。",
+   "why": "Co-created EchoVision and the companion bat-song work Nocturnal Fugue, turning bat echolocation and bat calls into embodied public experiences.",
+   "why_zh": "EchoVision 与其姊妹作《Nocturnal Fugue》的共同创作者，把蝙蝠回声定位与蝙蝠叫声转化为可亲身体验的公共作品。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.jiabaoli.org"
+   },
+   "connected_to": [
+    "botao-hu",
+    "matt-mccorkle"
+   ],
+   "discovered_via": "botao-hu"
+  },
+  {
+   "id": "matt-mccorkle",
+   "name": "Matt McCorkle",
+   "kind": "person",
+   "role": "Sound designer and sonification artist",
+   "role_zh": "声音设计师与声音化艺术家",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "New York sound designer who builds sonified, listening environments; composer and sound artist on Nocturnal Fugue.",
+   "bio_zh": "纽约的声音设计师，创作以声音化为核心的聆听环境；《Nocturnal Fugue》的作曲与声音艺术家。",
+   "why": "Composed bat calls into the lullabies and love songs of Nocturnal Fugue, the sonic half of the EchoVision project.",
+   "why_zh": "把蝙蝠叫声谱成《Nocturnal Fugue》中的摇篮曲与情歌，是 EchoVision 项目的声音部分。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.mattmccorkle.com"
+   },
+   "connected_to": [
+    "jiabao-li",
+    "botao-hu"
+   ],
+   "discovered_via": "jiabao-li"
+  }
+ ],
+ "works": [
+  {
+   "id": "botao-hu--echovision",
+   "creator_ids": [
+    "botao-hu",
+    "jiabao-li",
+    "danlin-huang",
+    "reality-design-lab"
+   ],
+   "title": "EchoVision",
+   "year": 2024,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "hearing",
+    "vision"
+   ],
+   "medium": [
+    "mr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A mixed-reality installation in which participants hold a bat-shaped mask to their eyes and call out; their voice reveals the surrounding space as returning echoes, so they can navigate the dark as a bat does.",
+   "description_zh": "一件混合现实装置：参与者把蝙蝠形面具举到眼前并发出声音，声音像回声一样把周围空间“照亮”，让人像蝙蝠一样在黑暗中辨认方向。",
+   "idea_en": "Becoming bat means seeing only what your own voice returns: space exists when you call to it.",
+   "idea_zh": "成为蝙蝠，就是只看见自己声音带回来的东西：你呼唤，空间才出现。",
+   "method": "Handheld HoloKit-based mask with an iPhone; LiDAR reconstructs the room in real time and the pitch and tone of the participant's voice drive expanding echo visualisations in Unity.",
+   "method_zh": "基于 HoloKit 的手持面具内置 iPhone；LiDAR 实时重建空间，参与者声音的音高与音色驱动 Unity 中扩散的回声可视化。",
+   "keywords": [
+    "bat",
+    "echolocation",
+    "HoloKit",
+    "LiDAR",
+    "Thomas Nagel",
+    "Merlin Tuttle",
+    "Umwelt"
+   ],
+   "shown_at": [
+    "SIGGRAPH Asia 2024 Art Papers & XR",
+    "UbiComp/ISWC 2024 Design Exhibition",
+    "IEEE VIS 2024 Arts Program",
+    "West Bund Art Festival 2024",
+    "TANK Art Festival 2024",
+    "The Contemporary Austin / Fusebox 2024",
+    "SXSW 2025 XR Experience",
+    "IEEE VR 2025 XR Gallery",
+    "ACM CHI 2025 Interactivity",
+    "Augmented Humans 2025 Best Demo Award",
+    "CURRENTS New Media 2025",
+    "Plásmata 3, Onassis Stegi, Athens 2025"
+   ],
+   "video": {
+    "url": "https://vimeo.com/955577972"
+   },
+   "images": [
+    "https://reality.design/media/_resources/echovision-jiabao-01.webp",
+    "https://arxiv.org/html/2511.12533v3/images/echovision.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904607782-OXJXLC19IRU4NTTN0TEZ/Plasmata_3_EchoVision%40Pinelopi_Gerasimou_High-147.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3680530.3695460",
+    "doi": "10.1145/3680530.3695460",
+    "venue": "SIGGRAPH Asia 2024 Art Papers",
+    "title": "Becoming Bats with “EchoVision”: Towards Eco-Phenomenological Mixed Reality"
+   },
+   "source_url": "https://reality.design/project/echovision",
+   "code_url": "https://github.com/realitydeslab/echovision",
+   "collections": [
+    "book-portfolio"
+   ]
+  },
+  {
+   "id": "jiabao-li--nocturnal-fugue",
+   "creator_ids": [
+    "jiabao-li",
+    "matt-mccorkle",
+    "botao-hu"
+   ],
+   "title": "Nocturnal Fugue",
+   "year": 2024,
+   "field": "bat",
+   "sub": "bat-life",
+   "senses": [
+    "hearing",
+    "touch"
+   ],
+   "medium": [
+    "audio",
+    "installation",
+    "dome"
+   ],
+   "kind": "artwork",
+   "description": "An immersive sound and projection environment, shown with EchoVision, where AI-categorised bat calls become lullabies, love songs and quarrels set inside virtual bat habitats.",
+   "description_zh": "与 EchoVision 一同展出的沉浸式声音与投影环境：经 AI 分类的蝙蝠叫声被编成摇篮曲、情歌与争吵，置于虚拟的蝙蝠栖所之中。",
+   "idea_en": "After sensing like a bat, listen to bats as social beings with names, songs and arguments — while admitting their meaning stays out of reach.",
+   "idea_zh": "在像蝙蝠一样感知之后，再把蝙蝠当作有名字、会唱歌、会争吵的社会性生命来聆听，同时承认其意义仍不可及。",
+   "method": "Bat vocalisations labelled by machine-learning research (mating, feeding, fighting, grooming) are composed into spatial audio with immersive projection and haptic floor vibration.",
+   "method_zh": "借助机器学习研究对蝙蝠叫声的行为分类（求偶、觅食、争斗、梳理），创作成空间音频，并配合沉浸式投影与地面触觉振动。",
+   "keywords": [
+    "bat",
+    "bat calls",
+    "AI",
+    "spatial audio",
+    "haptics",
+    "Thomas Nagel"
+   ],
+   "shown_at": [
+    "Ars Electronica 2024 “Hope”",
+    "Vancouver International Film Festival 2024",
+    "Sheffield DocFest 2024 Alternate Realities",
+    "The Contemporary Austin / Fusebox 2024",
+    "FACT Liverpool 2025",
+    "Millennium Docs Against Gravity 2025",
+    "AUREA Award 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Nd5AGxZ7rlI"
+   },
+   "images": [
+    "https://static1.squarespace.com/static/58688c8a6a496327e937e35b/t/6567dcf5074e411c1d6aaf22/1701305603470/Nocturnal+Fugue+15.png?format=1500w",
+    "https://ars.electronica.art/hope/files/2024/08/53972683148_3ef28e94d0_k.jpg"
+   ],
+   "source_url": "https://www.jiabaoli.org/nocturnal-fugue"
+  },
+  {
+   "id": "danlin-huang--feltsight",
+   "creator_ids": [
+    "danlin-huang",
+    "botao-hu",
+    "reality-design-lab"
+   ],
+   "title": "FeltSight",
+   "year": 2025,
+   "field": "mole",
+   "sub": "touch",
+   "senses": [
+    "touch",
+    "vision"
+   ],
+   "medium": [
+    "mr",
+    "wearable"
+   ],
+   "kind": "artwork",
+   "description": "A mixed-reality haptic glove modelled on the star-nosed mole: walking through a forest, participants feel nearby objects through their fingertips before they touch them, while the headset shows only faint point clouds that appear where the hand explores.",
+   "description_zh": "一只以星鼻鼹为原型的混合现实触觉手套：在森林中漫步时，参与者在触碰前就能通过指尖感到附近物体，而头显只在手探索之处显出淡淡的点云。",
+   "idea_en": "Becoming mole means reduced reality: sight withdraws and the world arrives through an extended reach of touch.",
+   "idea_zh": "成为鼹鼠意味着“减少的现实”：视觉退场，世界通过延伸的触觉到来。",
+   "method": "Apple Vision Pro app linked by BLE to a silicone glove; LiDAR and hand tracking measure proximity, AI classifies materials, and per-fingertip actuators play audio-synthesised textures.",
+   "method_zh": "Apple Vision Pro 应用通过蓝牙连接硅胶手套；LiDAR 与手部追踪测量距离，AI 识别材质，每个指尖的振动器播放由音频合成的纹理。",
+   "keywords": [
+    "star-nosed mole",
+    "haptic glove",
+    "Apple Vision Pro",
+    "point cloud",
+    "reduced reality",
+    "forest"
+   ],
+   "shown_at": [
+    "SIGGRAPH Asia 2025 Art Papers",
+    "IEEE VIS 2025 Arts Program",
+    "ISMAR 2025 Demo",
+    "ACM CHI 2026 Interactivity",
+    "IEEE VR 2026 XR Gallery"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7Pq6s3VnD0A"
+   },
+   "images": [
+    "https://reality.design/media/feltsight-cover-forest-closeup.webp",
+    "https://reality.design/media/feltsight-danlin-22.webp",
+    "https://arxiv.org/html/2511.12533v3/images/feltsight.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3757369.3767605",
+    "doi": "10.1145/3757369.3767605",
+    "venue": "SIGGRAPH Asia 2025 Art Papers",
+    "title": "Becoming Mole with \"FeltSight\": Hyper-sensitizing the Surrounding through Mixed Reality Haptic Proximity Gloves"
+   },
+   "source_url": "https://danlinhuang.com/feltsight-1",
+   "code_url": "https://github.com/realitydeslab/feltsight",
+   "collections": [
+    "book-portfolio"
+   ]
+  },
+  {
+   "id": "botao-hu--tentacus",
+   "creator_ids": [
+    "botao-hu",
+    "danlin-huang",
+    "reality-design-lab"
+   ],
+   "title": "TentacUs",
+   "year": 2025,
+   "field": "octopus",
+   "sub": "collective",
+   "senses": [
+    "touch",
+    "collective-sense",
+    "body"
+   ],
+   "medium": [
+    "mr",
+    "wearable",
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "A mixed-reality ritual in which dancers join left hands in a ring and each becomes one tentacle of a collective octopus-like being; what one right hand senses nearby is passed as vibration to its neighbours.",
+   "description_zh": "一场混合现实仪式：舞者左手相牵围成一圈，每人成为一只集体“章鱼”的一条触手；一只右手感到的周围环境，会以振动传给相邻的人。",
+   "idea_en": "Becoming octopus means intelligence without a centre: many bodies sense and move as arms of one being.",
+   "idea_zh": "成为章鱼，意味着没有中心的智能：许多身体作为同一生命的触手去感知与移动。",
+   "method": "Soft-textile tentacle gloves hold smartphones whose LiDAR senses proximity and whose vibration motors broadcast haptic waves to neighbours; touch data are drawn as point clouds over a 3D Gaussian-splat scan on a public display.",
+   "method_zh": "柔软织物触手手套内置智能手机：LiDAR 感知距离，振动马达把触觉波传给相邻舞者；触碰数据以点云形式绘制在现场的 3D 高斯泼溅扫描上，供观众观看。",
+   "keywords": [
+    "octopus",
+    "tentacle",
+    "distributed cognition",
+    "vibrotactile",
+    "LiDAR",
+    "3D Gaussian Splatting",
+    "Donna Haraway"
+   ],
+   "shown_at": [
+    "SIGGRAPH Asia 2025 XR"
+   ],
+   "images": [
+    "https://arxiv.org/html/2511.12533v3/images/tentacus.jpg",
+    "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/afd62d02-7102-4a26-b5b4-03df6cc2744b/image2/public"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3761667.3761962",
+    "doi": "10.1145/3761667.3761962",
+    "venue": "SIGGRAPH Asia 2025 XR",
+    "title": "I Become Tentacle, We Become \"Tentacus\": A Mixed Reality Ritual for Distributed Bodies and Collective Minds"
+   },
+   "source_url": "https://amber.botao.hu/design/tentacus",
+   "code_url": "https://github.com/realitydeslab/tentacus",
+   "collections": [
+    "book-portfolio"
+   ]
+  },
+  {
+   "id": "botao-hu--fungisync",
+   "creator_ids": [
+    "botao-hu",
+    "danlin-huang",
+    "reality-design-lab"
+   ],
+   "title": "FungiSync",
+   "year": 2024,
+   "field": "fungi",
+   "sub": "mycelium",
+   "senses": [
+    "collective-sense",
+    "vision",
+    "touch"
+   ],
+   "medium": [
+    "mr",
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "A participatory mixed-reality ritual: participants wear mushroom-decorated MR masks, each showing a different visual worldview, and blend those worldviews with others through ritual handshakes, like nodes in a mycorrhizal network.",
+   "description_zh": "一场参与式混合现实仪式：参与者戴上饰有蘑菇的 MR 面具，每只面具呈现不同的视觉世界观；通过仪式化的握手，与他人交换、混合这些世界观，如同菌根网络中的节点。",
+   "idea_en": "Becoming fungi means becoming a node: perception is traded and mixed through contact rather than owned by one body.",
+   "idea_zh": "成为真菌就是成为节点：感知通过接触被交换与混合，而不属于某一个身体。",
+   "method": "Resin-printed mushroom masks mounted on HoloKit headsets; the HoloField co-located multiplayer framework over Multipeer Connectivity syncs Unity VFX Graph visuals, driven live by a DJ and composited for spectators.",
+   "method_zh": "树脂打印的蘑菇面具装在 HoloKit 头显上；基于 Multipeer Connectivity 的 HoloField 同场多人框架同步 Unity VFX Graph 视觉，由现场 DJ 驱动，并合成画面供观众观看。",
+   "keywords": [
+    "mycorrhiza",
+    "Wood Wide Web",
+    "mask",
+    "HoloKit",
+    "HoloField",
+    "handshake",
+    "mycopunk"
+   ],
+   "shown_at": [
+    "DevCon 2024 “Trusting the Unseen”, Bangkok",
+    "SIGGRAPH 2025 Immersive Pavilion"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1027901359"
+   },
+   "images": [
+    "https://reality.design/media/20241120%20fungi%205225.jpg",
+    "https://reality.design/media/project-fungisync-figure-01.jpg",
+    "https://arxiv.org/html/2511.12533v3/images/fungisync.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3721245.3734040",
+    "doi": "10.1145/3721245.3734040",
+    "venue": "SIGGRAPH 2025 Immersive Pavilion",
+    "title": "FungiSync: Merging Cyberdelic Mixed Realities"
+   },
+   "source_url": "https://reality.design/project/fungisync",
+   "collections": [
+    "book-portfolio"
+   ]
+  },
+  {
+   "id": "botao-hu--gravfield",
+   "creator_ids": [
+    "botao-hu",
+    "reality-design-lab"
+   ],
+   "title": "GravField",
+   "year": 2024,
+   "field": "octopus",
+   "sub": "collective",
+   "also": [
+    "river"
+   ],
+   "senses": [
+    "body",
+    "collective-sense",
+    "hearing"
+   ],
+   "medium": [
+    "mr",
+    "performance",
+    "audio"
+   ],
+   "kind": "performance",
+   "description": "A co-located mixed-reality performance where participants in AR headsets make music together through their distances, formations and head movements, while live-coders shape the virtual fields of attraction and repulsion between them.",
+   "description_zh": "一场同场混合现实表演：戴 AR 头显的参与者通过彼此的距离、队形与头部动作共同生成音乐，现场编程者实时塑造他们之间吸引与排斥的虚拟力场。",
+   "idea_en": "Bodies become masses in a shared field: the self is felt as a pull between people rather than a point.",
+   "idea_zh": "身体成为共享力场中的质量：自我被感受为人与人之间的牵引，而非一个孤立的点。",
+   "method": "HoloKit headsets networked with Multipeer Connectivity stream intercorporeal signals (distance, area, height difference, head sync) to live-coders, who map them to AR visuals and sound.",
+   "method_zh": "通过 Multipeer Connectivity 联网的 HoloKit 头显，把身体间信号（距离、面积、高度差、头部同步）传给现场编程者，映射为 AR 视觉与声音。",
+   "keywords": [
+    "intercorporeality",
+    "live coding",
+    "gravity",
+    "force field",
+    "HoloKit",
+    "somaesthetics"
+   ],
+   "shown_at": [
+    "ICLC 2024 Shanghai",
+    "SIGGRAPH Asia 2024 XR",
+    "IEEE VR 2025 XR Gallery",
+    "NIME 2025"
+   ],
+   "video": {
+    "url": "https://vimeo.com/955522087"
+   },
+   "images": [
+    "https://reality.design/media/_resources/GravField/project-gravfield-figure-01.jpg",
+    "https://reality.design/media/_resources/GravField/project-gravfield-figure-03.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3790651",
+    "doi": "10.1145/3772318.3790651",
+    "venue": "CHI 2026",
+    "title": "Nudging the Somas: Exploring How Live-Configurable Mixed Reality Objects Shape Open-Ended Intercorporeal Movements"
+   },
+   "source_url": "https://reality.design/project/gravfield",
+   "code_url": "https://github.com/realitydeslab/gravfield",
+   "collections": [
+    "book-portfolio"
+   ]
+  },
+  {
+   "id": "botao-hu--city-of-sparkles",
+   "creator_ids": [
+    "botao-hu",
+    "reality-design-lab"
+   ],
+   "title": "City of Sparkles",
+   "year": 2019,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A VR flight through New York rebuilt from four years of geotagged tweets, seen from the perspective of an AI that lives in a sea of human memory fragments; later rebuilt for Apple Vision Pro with bare-hand flying.",
+   "description_zh": "一次穿越纽约的 VR 飞行：城市由四年的带地理标记推文重建，从一个栖居于人类记忆碎片之海的 AI 的视角观看；后以 Apple Vision Pro 与徒手飞行交互重制。",
+   "idea_en": "Embodying an AI means perceiving a city as sampled, clustered traces of people rather than as streets and buildings.",
+   "idea_zh": "化身 AI，就是把城市感知为被采样、聚类的人的痕迹，而非街道与建筑。",
+   "method": "Unity point-cloud city built from photogrammetry and geotagged Twitter data with sentiment-mapped colour and motion; first HTC Vive, later Apple Vision Pro hand tracking, with adaptive music.",
+   "method_zh": "Unity 点云城市由摄影测量与带地理标记的 Twitter 数据构建，颜色与运动映射情绪；最初用 HTC Vive，后用 Apple Vision Pro 手势追踪，配以自适应音乐。",
+   "keywords": [
+    "AI perspective",
+    "Twitter data",
+    "point cloud",
+    "New York",
+    "HTC Vive",
+    "Apple Vision Pro",
+    "Composable Life"
+   ],
+   "shown_at": [
+    "SIGGRAPH 2019 Immersive Pavilion",
+    "New Media Film Festival 2019",
+    "DTLA Film Festival 2019",
+    "IEEE VR 2025 XR Gallery",
+    "ISEA 2025 Seoul"
+   ],
+   "video": {
+    "url": "https://vimeo.com/777136892"
+   },
+   "images": [
+    "https://reality.design/media/_resources/City%20Of%20Sparkles/project-city-of-sparkles-cover-01.jpg",
+    "https://reality.design/media/_resources/City%20Of%20Sparkles/project-city-of-sparkles-figure-01.jpg",
+    "https://arxiv.org/html/2511.12533v3/images/cityofsparkles.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3757369.3767604",
+    "doi": "10.1145/3757369.3767604",
+    "venue": "SIGGRAPH Asia 2025 Art Papers",
+    "title": "City of Sparkles: Embodying Cityscape of Human Memories"
+   },
+   "source_url": "https://reality.design/project/city-of-sparkles",
+   "collections": [
+    "book-portfolio"
+   ]
+  },
+  {
+   "id": "botao-hu--inattentive-robot",
+   "creator_ids": [
+    "botao-hu"
+   ],
+   "title": "Inattentive Robot",
+   "year": 2026,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "paper",
+   "description": "A provocation paper and set of six illustrated scenarios about a household robot with one body and many users, which cannot attend to everyone at once — pancakes versus homework, a car repair versus grandpa falling.",
+   "description_zh": "一篇思辨论文与六个图解情境：一台只有一个身体、却有多位使用者的家用机器人，无法同时照顾所有人——做松饼还是辅导作业，修车还是扶起摔倒的祖父。",
+   "idea_en": "Taking the robot's position shows that one body can attend to only one claim at a time, so attention becomes a question of priority and care.",
+   "idea_zh": "站在机器人的位置，会发现一个身体一次只能回应一个请求，注意力因此成为优先与照护的问题。",
+   "method": "Scenario-based attention-conflict tests, drawn as illustrations, used as a design method to expose how a shared robot decides whose time matters first.",
+   "method_zh": "以插图呈现的情境化“注意力冲突测试”，作为设计方法揭示共享机器人如何决定谁的时间优先。",
+   "keywords": [
+    "domestic robot",
+    "attention",
+    "care",
+    "TimelyAI",
+    "scenario"
+   ],
+   "images": [
+    "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/5b36fbb7-90cd-4c14-9e4b-21e92b43e2f4/image_-3/public",
+    "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/24d8ee0e-6050-4aad-954d-eb9970a6db60/image/public",
+    "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/76fdc61f-abf2-410b-9cad-7de73a811b6c/image/public"
+   ],
+   "paper": {
+    "url": "https://amber.botao.hu/project/inattentive-robot",
+    "venue": "CHI 2027 (under review)",
+    "title": "Inattentive Robot: When Should One Body Give Timely Attention to Many Masters?"
+   },
+   "source_url": "https://amber.botao.hu/project/inattentive-robot",
+   "collections": [
+    "book-portfolio"
+   ]
+  },
+  {
+   "id": "botao-hu--holokit",
+   "creator_ids": [
+    "botao-hu",
+    "reality-design-lab"
+   ],
+   "title": "HoloKit",
+   "year": 2017,
+   "field": "foundations",
+   "sub": "method",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "ar",
+    "mr"
+   ],
+   "kind": "product",
+   "description": "An open-source headset that turns a smartphone into an optical see-through mixed-reality display; the shared hardware behind EchoVision, FungiSync and GravField.",
+   "description_zh": "一款开源头显，把智能手机变成光学透视式混合现实显示器；EchoVision、FungiSync 与 GravField 共用的硬件。",
+   "idea_en": "Cheap, open, see-through MR keeps the participant in the real place and in view of others — the condition for public becoming-other experiences.",
+   "idea_zh": "廉价、开源、可透视的 MR 让参与者留在真实场所、也被他人看见，这是公共“成为他者”体验的前提。",
+   "method": "Cardboard (HoloKit 1, 2017) and then injection-moulded (HoloKit X, 2022) optics for iPhone, with a Unity SDK on ARKit and Multipeer Connectivity for co-located multiplayer.",
+   "method_zh": "为 iPhone 设计的光学结构，先是纸板版（HoloKit 1，2017），后为注塑版（HoloKit X，2022）；配有基于 ARKit 的 Unity SDK，并用 Multipeer Connectivity 实现同场多人。",
+   "keywords": [
+    "open source",
+    "smartphone headset",
+    "optical see-through",
+    "ARKit",
+    "Unity",
+    "Red Dot",
+    "iF Design Award"
+   ],
+   "shown_at": [
+    "Augmented World Expo 2017",
+    "Future of Storytelling 2017",
+    "SIGGRAPH 2017",
+    "Maker Faire New York 2017",
+    "Red Dot Design Award 2023",
+    "iF Design Award 2024",
+    "UbiComp/ISWC 2024 Best Demo Award"
+   ],
+   "video": {
+    "url": "https://vimeo.com/801220687"
+   },
+   "images": [
+    "https://reality.design/media/_resources/HoloKit%20X/project-holokit-x-cover-01.jpg",
+    "https://reality.design/media/_resources/HoloKit%20X/project-holokit-x-gallery-01.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3675094.3677549",
+    "doi": "10.1145/3675094.3677549",
+    "venue": "UbiComp/ISWC 2024 Adjunct",
+    "title": "HoloKit: Demonstrating an Open-Source Smartphone-Based Mixed Reality Headset for Mixed Reality Design Education"
+   },
+   "source_url": "https://holokit.io",
+   "code_url": "https://github.com/realitydeslab/holokit-app",
+   "collections": [
+    "book-portfolio"
+   ]
+  },
+  {
+   "id": "botao-hu--more-than-human-augmentation",
+   "creator_ids": [
+    "botao-hu",
+    "danlin-huang"
+   ],
+   "title": "Experiencing the More-than-Human Through Human Augmentation",
+   "year": 2025,
+   "field": "foundations",
+   "sub": "method",
+   "senses": [
+    "multisensory"
+   ],
+   "medium": [
+    "mr",
+    "wearable"
+   ],
+   "kind": "paper",
+   "description": "A design paper that repurposes human-augmentation technology to give temporary, first-person approximations of nonhuman senses, with seven design principles and five cases: EchoVision, FeltSight, FungiSync, TentacUs and City of Sparkles.",
+   "description_zh": "一篇设计论文：把原本用于强化人类的增强技术转而用于提供短暂的、第一人称的非人类感官近似体验，提出七条设计原则并报告五个案例：EchoVision、FeltSight、FungiSync、TentacUs 与 City of Sparkles。",
+   "idea_en": "Turn augmentation sideways: use the same devices not to make humans more capable but to modulate the human sensorium toward other Umwelten.",
+   "idea_zh": "让增强技术“侧转”：同样的设备不用来让人更强，而用来调节人的感官，趋近其他生命的环境界。",
+   "method": "Research through design grounded in eco-phenomenology and eco-somatics, synthesising principles across the authors' mixed-reality, haptic and EMS works.",
+   "method_zh": "以生态现象学与生态身体学为基础的设计研究，从作者的混合现实、触觉与肌电刺激作品中归纳设计原则。",
+   "keywords": [
+    "MtHtHA",
+    "human augmentation",
+    "Umwelt",
+    "eco-phenomenology",
+    "eco-somatics",
+    "Thomas Nagel"
+   ],
+   "images": [
+    "https://arxiv.org/html/2511.12533v3/images/MtHtHA.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2026.814",
+    "doi": "10.21606/drs.2026.814",
+    "arxiv": "2511.12533",
+    "venue": "DRS 2026",
+    "title": "Experiencing the More-than-Human Through Human Augmentation"
+   },
+   "source_url": "https://amber.botao.hu/project/hth",
+   "collections": [
+    "book-portfolio"
+   ]
+  },
+  {
+   "id": "jae-eun-shin--posthuman-xr-futures",
+   "creator_ids": [
+    "jae-eun-shin"
+   ],
+   "title": "Envisioning Posthuman/More-than-Human Futures for XR through HCI",
+   "year": 2026,
+   "field": "foundations",
+   "sub": "theory",
+   "senses": [
+    "multisensory"
+   ],
+   "medium": [
+    "vr",
+    "mr"
+   ],
+   "kind": "paper",
+   "description": "A CHI paper that critically reorients XR research away from human-centred presence and toward posthuman and more-than-human futures.",
+   "description_zh": "一篇 CHI 论文，批判性地把 XR 研究从以人为中心的“临场感”转向后人类与超越人类的未来。",
+   "idea_en": "XR can be read as speculative worlding, distributed decentering and entangled becoming, rather than as a tool for human immersion.",
+   "idea_zh": "XR 可以被理解为推想性的世界营造、分布式去中心化与纠缠式生成，而不只是服务于人类沉浸的工具。",
+   "method": "Critical review of HCI and XR literature through posthumanist theory, proposing a taxonomy linking space, body and interaction.",
+   "method_zh": "以后人类主义理论批判性回顾 HCI 与 XR 文献，提出连接空间、身体与交互的分类框架。",
+   "keywords": [
+    "posthumanism",
+    "more-than-human",
+    "XR",
+    "speculative worlding",
+    "decentering"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3790771",
+    "doi": "10.1145/3772318.3790771",
+    "venue": "CHI 2026",
+    "title": "Envisioning Posthuman/More-than-Human Futures for XR through HCI: A Critical Reorientation"
+   },
+   "source_url": "https://doi.org/10.1145/3772318.3790771"
+  },
+  {
+   "id": "botao-hu--experiencing-more-than-humans",
+   "creator_ids": [
+    "botao-hu",
+    "danlin-huang",
+    "jae-eun-shin"
+   ],
+   "title": "Experiencing More-than-Humans: Augmented Noticing through Extended Reality",
+   "year": 2026,
+   "field": "foundations",
+   "sub": "theory",
+   "senses": [
+    "multisensory"
+   ],
+   "medium": [
+    "mr",
+    "wearable"
+   ],
+   "kind": "publication",
+   "description": "A practice-led monograph in preparation, built on an annotated portfolio of XR works that attempt to become bat, mole, octopus, fungi, creek, chair, AI and robot.",
+   "description_zh": "一部正在撰写的实践型专著，以一组 XR 作品的注释作品集为基础，这些作品尝试成为蝙蝠、鼹鼠、章鱼、真菌、溪流、椅子、AI 与机器人。",
+   "idea_en": "No headset delivers another being's interiority; what XR can do is make the attempt and its failure perceptible, training attention to one's own attention.",
+   "idea_zh": "没有头显能交付另一种生命的内在体验；XR 能做的，是让这种尝试及其失败变得可感，从而训练人对自身注意力的注意。",
+   "method": "Research through design, soma design and the annotated-portfolio method, with a 'noticing score' exercise closing each case chapter.",
+   "method_zh": "采用设计研究、身体设计与注释作品集方法，每个案例章节以一份“觉察练习谱”作结。",
+   "keywords": [
+    "augmented noticing",
+    "productive failure",
+    "asymptotic empathy",
+    "afterglow",
+    "Umwelt",
+    "Anna Tsing"
+   ],
+   "images": [
+    "https://opengraph.githubassets.com/791ab569841ef1212cd12ab29d208927da6dcddc431cfa9b242f4d9b9c95e9c3/experiencing-mth/experiencing-mth.github.io"
+   ],
+   "source_url": "https://experiencing-mth.github.io",
+   "code_url": "https://github.com/experiencing-mth",
+   "collections": [
+    "book-portfolio"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Be the Creek",
+   "why": "Book portfolio work (Ch. 8, river): hydrophones, spatial audio and somatic force fields for a watercourse. No public page or media found.",
+   "link": "https://experiencing-mth.github.io",
+   "found_via": "botao-hu",
+   "status": "no_media"
+  },
+  {
+   "name": "Making Kin with Creek as Fish",
+   "why": "Book portfolio work (Ch. 9, fish): XR body remapping through a fish-creek relation. In development; no public page or media found.",
+   "link": "https://experiencing-mth.github.io",
+   "found_via": "botao-hu",
+   "status": "no_media"
+  },
+  {
+   "name": "Becoming Chairs",
+   "why": "Book portfolio work (Ch. 10, robot/object): XR stillness and affordance estrangement. In development; no public page or media found.",
+   "link": "https://experiencing-mth.github.io",
+   "found_via": "botao-hu",
+   "status": "no_media"
+  },
+  {
+   "name": "Augmented Noticing (corpus paper)",
+   "why": "Annotated-portfolio study for Ch. 13; page lists CHI 2027, authors hidden, under review, no abstract or media.",
+   "link": "https://amber.botao.hu/project/augmented-noticing",
+   "found_via": "botao-hu",
+   "status": "no_media"
+  },
+  {
+   "name": "Body Oracle (Danlin Huang, Ke Huang)",
+   "why": "AI hieroglyphs for collective bodily poses; well documented (DOI 10.1145/3749893.3749912) but not a becoming-other work.",
+   "link": "https://reality.design/project/body-oracle",
+   "found_via": "danlin-huang",
+   "status": "off_topic"
+  },
+  {
+   "name": "Foldiverse (Danlin Huang et al.)",
+   "why": "AR paper-folding therapy game for autistic children (CHI PLAY 2024); not more-than-human; site dead.",
+   "link": "https://doi.org/10.1145/3665463.3678823",
+   "found_via": "danlin-huang",
+   "status": "off_topic"
+  },
+  {
+   "name": "Cybroc (Botao Amber Hu)",
+   "why": "Kinetic artwork of 'cyborg' broccoli exercising for longevity (ISEA 2025, arXiv 2507.21064); plant-machine, but not first-person.",
+   "link": "https://amber.botao.hu/design/cybroc",
+   "found_via": "botao-hu",
+   "status": "open"
+  },
+  {
+   "name": "EverForest (Botao Amber Hu)",
+   "why": "Sustainability manifesto from an on-chain artificial life's point of view (HttF 2024, doi 10.1145/3686169.3686209).",
+   "link": "https://amber.botao.hu/design/everforest",
+   "found_via": "botao-hu",
+   "status": "open"
+  },
+  {
+   "name": "Jiabao Li — Squid Map, Wings Against the Veil of Light, What makes us most Human is also so Animal",
+   "why": "Other multispecies works by EchoVision's co-creator; not researched here.",
+   "link": "https://www.jiabaoli.org",
+   "found_via": "jiabao-li",
+   "status": "open"
+  },
+  {
+   "name": "TreeSense (Xin Liu, Yedan Qian)",
+   "why": "Earlier listed as a portfolio work but belongs to Xin Liu / slow immediate (MIT Media Lab); left for the plants batch.",
+   "link": "https://slowimmediate.com/treesense",
+   "found_via": "botao-hu",
+   "status": "duplicate"
+  }
+ ]
+}

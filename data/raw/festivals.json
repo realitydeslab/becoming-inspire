@@ -1,0 +1,2662 @@
+{
+ "batch": "festivals",
+ "creators": [
+  {
+   "id": "lynette-wallworth",
+   "name": "Lynette Wallworth",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "based": "Sydney, Australia",
+   "bio": "Australian artist working with immersive film and installation, often in collaboration with Indigenous communities (Collisions, Awavena).",
+   "why": "Uses VR to share an Indigenous way of seeing the forest as alive.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://www.lynettewallworth.com"
+   },
+   "role_zh": "艺术家与电影人",
+   "bio_zh": "澳大利亚艺术家，创作沉浸式影片与装置，常与原住民社群合作（《Collisions》《Awavena》）。",
+   "why_zh": "用 VR 分享一种把森林视为有生命存在的原住民观看方式。",
+   "based_zh": "悉尼，澳大利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "deniz-tortum",
+   "name": "Deniz Tortum",
+   "kind": "person",
+   "role": "Filmmaker and media artist",
+   "based": "Istanbul, Turkey",
+   "bio": "Turkish filmmaker and researcher (MIT Open Documentary Lab alumnus) working across documentary, VR and installation.",
+   "why": "His VR film asks whether a person can become a forest or a stone.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "role_zh": "电影人与媒体艺术家",
+   "bio_zh": "土耳其电影人与研究者（MIT 开放纪录片实验室校友），创作横跨纪录片、VR 与装置。",
+   "why_zh": "他的 VR 影片追问：人能否成为一片森林或一块石头。",
+   "based_zh": "伊斯坦布尔，土耳其",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bartabas",
+   "name": "Bartabas",
+   "kind": "person",
+   "role": "Equestrian theatre director (Théâtre Zingaro)",
+   "based": "Paris, France",
+   "bio": "French director and founder of Théâtre équestre Zingaro, known for performances in which horses are the protagonists.",
+   "why": "Brought his horse-centred theatre into VR, where the viewer gradually becomes the horse.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.bartabas.fr"
+   },
+   "role_zh": "马术剧场导演（Zingaro 剧团）",
+   "bio_zh": "法国导演，Zingaro 马术剧团创始人，以马为主角的演出闻名。",
+   "why_zh": "把以马为中心的剧场带进 VR，让观众逐渐成为马。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [
+    "pierre-zandrowicz"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pierre-zandrowicz",
+   "name": "Pierre Zandrowicz",
+   "kind": "person",
+   "role": "VR director (Atlas V)",
+   "based": "Paris, France",
+   "bio": "French director and co-founder of the immersive studio Atlas V.",
+   "why": "Co-directed Ex Anima, a VR work built around the breath and presence of horses.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "role_zh": "VR 导演（Atlas V）",
+   "bio_zh": "法国导演，沉浸式工作室 Atlas V 联合创始人。",
+   "why_zh": "联合执导《Ex Anima》，一部围绕马的呼吸与存在展开的 VR 作品。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [
+    "bartabas"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hsin-chien-huang",
+   "name": "Hsin-Chien Huang",
+   "kind": "person",
+   "role": "Artist and VR director",
+   "based": "Taipei, Taiwan",
+   "bio": "Taiwanese new-media artist, long-time collaborator of Laurie Anderson; his VR works (Samsara, The Starry Sand Beach) have won at Venice.",
+   "why": "Designs VR around embodied cognition: you are moved through the bodies of other beings.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家与 VR 导演",
+   "bio_zh": "台湾新媒体艺术家黄心健，长期与 Laurie Anderson 合作；其 VR 作品（《轮回》《星砂之海》）多次在威尼斯获奖。",
+   "why_zh": "以具身认知设计 VR：让你依次进入其他生命的身体。",
+   "based_zh": "台北，台湾",
+   "connected_to": [
+    "nina-barbier"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nina-barbier",
+   "name": "Nina Barbier",
+   "kind": "person",
+   "role": "Documentary filmmaker",
+   "based": "Paris, France",
+   "bio": "French director of science documentaries, including work with the Muséum national d'Histoire naturelle.",
+   "why": "Co-directed a VR tale told at the scale of a single-celled foraminifera.",
+   "disciplines": [
+    "film",
+    "science"
+   ],
+   "links": {},
+   "role_zh": "纪录片导演",
+   "bio_zh": "法国科学纪录片导演，曾与法国国家自然历史博物馆合作。",
+   "why_zh": "联合执导一部以单细胞有孔虫尺度讲述的 VR 童话。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [
+    "hsin-chien-huang"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lena-thiele",
+   "name": "Lena Thiele",
+   "kind": "person",
+   "role": "Interactive media director",
+   "based": "Berlin, Germany",
+   "bio": "German director of interactive documentaries; co-directed Myriad with Sebastian Baurmann and Dirk Hoffmann for the Interactive Media Foundation.",
+   "why": "Built a VR journey along the migration routes of three animals from scientific tracking data.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://www.interactivemedia-foundation.com"
+   },
+   "role_zh": "互动媒体导演",
+   "bio_zh": "德国互动纪录片导演；与 Sebastian Baurmann、Dirk Hoffmann 为 Interactive Media Foundation 联合执导《Myriad》。",
+   "why_zh": "根据科学追踪数据，沿三种动物的迁徙路线打造 VR 旅程。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alchemy-immersive",
+   "name": "Alchemy Immersive",
+   "kind": "studio",
+   "role": "Immersive natural history studio",
+   "based": "London, UK",
+   "bio": "British studio producing VR and mixed-reality natural history series with David Attenborough and Atlantic Productions (Micro Monsters, Kingdom of Plants).",
+   "why": "Shifts the viewer to the scale and time of insects and plants.",
+   "disciplines": [
+    "film",
+    "science"
+   ],
+   "links": {
+    "site": "https://alchemyimmersive.com"
+   },
+   "role_zh": "沉浸式自然史工作室",
+   "bio_zh": "英国工作室，与 David Attenborough 及 Atlantic Productions 合作制作 VR 与混合现实自然史系列（《Micro Monsters》《Kingdom of Plants》）。",
+   "why_zh": "把观众带到昆虫与植物的尺度和时间里。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "visiontrick-media",
+   "name": "Visiontrick Media",
+   "kind": "studio",
+   "role": "Game studio",
+   "based": "Stockholm, Sweden",
+   "bio": "Swedish independent studio (director Rui Guerreiro) behind the VR games Pan-Pan and Mare.",
+   "why": "Made a VR game where you are an artificial bird guiding a companion.",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://www.visiontrick.com"
+   },
+   "role_zh": "游戏工作室",
+   "bio_zh": "瑞典独立工作室（导演 Rui Guerreiro），开发了 VR 游戏《Pan-Pan》与《Mare》。",
+   "why_zh": "做了一款让你化身人造飞鸟、护送同伴的 VR 游戏。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "scanlab-projects",
+   "name": "ScanLAB Projects",
+   "kind": "studio",
+   "role": "3D scanning studio (Matthew Shaw & William Trossell)",
+   "based": "London, UK",
+   "bio": "London studio using LiDAR scanning for architecture, film and art.",
+   "why": "Re-times landscapes so that growth and erosion become visible.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://scanlabprojects.co.uk"
+   },
+   "role_zh": "三维扫描工作室（Matthew Shaw 与 William Trossell）",
+   "bio_zh": "以激光雷达扫描服务建筑、电影与艺术的伦敦工作室。",
+   "why_zh": "重新调整风景的时间，让生长与侵蚀变得可见。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "temsuyanger-longkumer",
+   "name": "Temsüyanger Longkumer",
+   "kind": "person",
+   "role": "Artist",
+   "based": "London, UK",
+   "bio": "Naga-born artist working between painting, sculpture and VR; his VR piece home was filmed with a bee colony in Gaili, Nagaland.",
+   "why": "Makes the beehive a model of humanity's shared home.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "http://www.temsuyanger.com"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "出生于那加兰的艺术家，创作横跨绘画、雕塑与 VR；VR 作品《home》与那加兰 Gaili 的一个蜂群一起拍摄。",
+   "why_zh": "把蜂巢当作人类共同家园的模型。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "adriaan-lokman",
+   "name": "Adriaan Lokman",
+   "kind": "person",
+   "role": "Animator",
+   "based": "Paris, France",
+   "bio": "Dutch animation director known for abstract films of air and turbulence (Barcode, Flow).",
+   "why": "Made a VR installation built entirely from wind, scent and warm air.",
+   "disciplines": [
+    "film",
+    "art"
+   ],
+   "links": {},
+   "role_zh": "动画导演",
+   "bio_zh": "荷兰动画导演，以关于空气与湍流的抽象影片闻名（《Barcode》《Flow》）。",
+   "why_zh": "做了一个完全由风、气味与暖气流构成的 VR 装置。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "maya-mouawad",
+   "name": "Maya Mouawad",
+   "kind": "person",
+   "role": "Artist and designer",
+   "based": "Paris, France",
+   "bio": "Franco-Lebanese designer of interactive installations, co-author of Peupler with composer Cyril Laurier.",
+   "why": "Designed an installation to see and feel a city from a tree's point of view.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "艺术家与设计师",
+   "bio_zh": "法国黎巴嫩裔互动装置设计师，与作曲家 Cyril Laurier 合作《Peupler》。",
+   "why_zh": "设计了一个从树的视角看见并感受城市的装置。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [
+    "cyril-laurier"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cyril-laurier",
+   "name": "Cyril Laurier",
+   "kind": "person",
+   "role": "Composer and data artist",
+   "based": "Paris, France",
+   "bio": "French-Spanish composer and data artist working with generative sound and AI.",
+   "why": "Co-created Peupler, where visitors' presence feeds a virtual tree.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "作曲家与数据艺术家",
+   "bio_zh": "法国西班牙裔作曲家与数据艺术家，从事生成声音与 AI 创作。",
+   "why_zh": "联合创作《Peupler》，访客的在场为一棵虚拟树提供养分。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [
+    "maya-mouawad"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "joren-vandenbroucke",
+   "name": "Joren Vandenbroucke",
+   "kind": "person",
+   "role": "Animator and VR director (Animal Tank)",
+   "based": "Ghent, Belgium",
+   "bio": "Belgian director at Animal Tank, known for comic VR and animation.",
+   "why": "Made a VR comedy in which you are a potted geranium.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://www.animaltank.com"
+   },
+   "role_zh": "动画与 VR 导演（Animal Tank）",
+   "bio_zh": "比利时 Animal Tank 工作室导演，以喜剧 VR 与动画见长。",
+   "why_zh": "做了一部让你成为一盆天竺葵的 VR 喜剧。",
+   "based_zh": "根特，比利时",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "within",
+   "name": "Within",
+   "kind": "company",
+   "role": "VR studio (Chris Milk & Aaron Koblin)",
+   "based": "Los Angeles, USA",
+   "bio": "Studio founded by Chris Milk and Aaron Koblin, early producer of cinematic and social VR.",
+   "why": "Life of Us moves two people through a chain of evolving bodies.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://www.with.in"
+   },
+   "role_zh": "VR 工作室（Chris Milk 与 Aaron Koblin）",
+   "bio_zh": "由 Chris Milk 与 Aaron Koblin 创立的工作室，电影化与社交 VR 的早期制作者。",
+   "why_zh": "《Life of Us》让两个人依次穿过不断进化的身体。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [
+    "chris-milk"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chris-milk",
+   "name": "Chris Milk",
+   "kind": "person",
+   "role": "Artist and director",
+   "based": "Los Angeles, USA",
+   "bio": "American director and co-founder of Within, known for early interactive installations and VR.",
+   "why": "The Treachery of Sanctuary turns visitors' shadows into birds that fly away.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "http://milk.co"
+   },
+   "role_zh": "艺术家与导演",
+   "bio_zh": "美国导演，Within 联合创始人，以早期互动装置与 VR 闻名。",
+   "why_zh": "《The Treachery of Sanctuary》把观众的影子变成飞走的鸟。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [
+    "within"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "leanne-allison",
+   "name": "Leanne Allison",
+   "kind": "person",
+   "role": "Filmmaker",
+   "based": "Canmore, Canada",
+   "bio": "Canadian wildlife filmmaker who co-directed the NFB interactive documentary Bear 71.",
+   "why": "Told the life of a grizzly through the trail cameras that watched her.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "role_zh": "电影人",
+   "bio_zh": "加拿大野生动物电影人，联合执导加拿大国家电影局互动纪录片《Bear 71》。",
+   "why_zh": "借监视她的红外相机讲述一头灰熊的一生。",
+   "based_zh": "坎莫尔，加拿大",
+   "connected_to": [
+    "jeremy-mendes"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jeremy-mendes",
+   "name": "Jeremy Mendes",
+   "kind": "person",
+   "role": "Interactive designer",
+   "based": "Vancouver, Canada",
+   "bio": "Canadian interactive filmmaker, co-director of Bear 71 for the National Film Board of Canada.",
+   "why": "Designed the surveillance-map interface through which users follow a bear.",
+   "disciplines": [
+    "film",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "互动设计师",
+   "bio_zh": "加拿大互动电影人，为加拿大国家电影局联合执导《Bear 71》。",
+   "why_zh": "设计了用户借以追随一头熊的监控地图界面。",
+   "based_zh": "温哥华，加拿大",
+   "connected_to": [
+    "leanne-allison"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "diego-galafassi",
+   "name": "Diego Galafassi",
+   "kind": "person",
+   "role": "Artist and sustainability researcher",
+   "based": "Stockholm, Sweden",
+   "bio": "Brazilian-born artist and researcher (Stockholm Resilience Centre) working with immersive media and climate.",
+   "why": "Made breath visible as air that travels between bodies and around the planet.",
+   "disciplines": [
+    "art",
+    "science"
+   ],
+   "links": {},
+   "role_zh": "艺术家与可持续性研究者",
+   "bio_zh": "巴西裔艺术家与研究者（斯德哥尔摩韧性中心），以沉浸式媒体关注气候。",
+   "why_zh": "把呼吸显形为在身体之间、环绕地球流动的空气。",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bianca-kennedy",
+   "name": "Bianca Kennedy",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Munich, Germany",
+   "bio": "German artist who works with The Swan Collective on hand-sculpted, photogrammetry-captured VR.",
+   "why": "Animalia Sum makes you a bug, then a bug farmer, in a future of insect protein.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "德国艺术家，与 The Swan Collective 合作，用手工雕塑加摄影测量制作 VR。",
+   "why_zh": "《Animalia Sum》在昆虫蛋白的未来里先让你成为虫，再成为养虫人。",
+   "based_zh": "慕尼黑，德国",
+   "connected_to": [
+    "swan-collective"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "swan-collective",
+   "name": "The Swan Collective",
+   "kind": "studio",
+   "role": "Art collective (Felix Kraus)",
+   "based": "Munich, Germany",
+   "bio": "Collective founded by Felix Kraus making VR and installation art.",
+   "why": "Co-created Animalia Sum with Bianca Kennedy.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术团体（Felix Kraus）",
+   "bio_zh": "由 Felix Kraus 创立的 VR 与装置艺术团体。",
+   "why_zh": "与 Bianca Kennedy 共同创作《Animalia Sum》。",
+   "based_zh": "慕尼黑，德国",
+   "connected_to": [
+    "bianca-kennedy"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "arnaud-colinart",
+   "name": "Arnaud Colinart",
+   "kind": "person",
+   "role": "Immersive producer and director (Atlas V)",
+   "based": "Paris, France",
+   "bio": "French producer and co-founder of Atlas V; co-directed the VR adaptation of Notes on Blindness.",
+   "why": "Helped turn a blind man's audio diary into a VR world made of sound.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "role_zh": "沉浸式制片人与导演（Atlas V）",
+   "bio_zh": "法国制片人、Atlas V 联合创始人；联合执导《Notes on Blindness》VR 版。",
+   "why_zh": "参与把一位盲人的录音日记变成由声音构成的 VR 世界。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [
+    "amaury-la-burthe",
+    "pierre-zandrowicz"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "amaury-la-burthe",
+   "name": "Amaury La Burthe",
+   "kind": "person",
+   "role": "Sound designer and VR director (AudioGaming)",
+   "based": "Toulouse, France",
+   "bio": "French sound designer, founder of AudioGaming, co-director of Notes on Blindness: Into Darkness.",
+   "why": "Designed binaural worlds that appear only where sound falls.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "role_zh": "声音设计师与 VR 导演（AudioGaming）",
+   "bio_zh": "法国声音设计师，AudioGaming 创始人，《Notes on Blindness: Into Darkness》联合导演。",
+   "why_zh": "设计只在声音落下之处显现的双耳音频世界。",
+   "based_zh": "图卢兹，法国",
+   "connected_to": [
+    "arnaud-colinart"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "miri-chekhanovich",
+   "name": "Miri Chekhanovich",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "based": "Montreal, Canada",
+   "bio": "Israeli-Canadian visual artist; co-created Plastisapiens with Édith Jorisch (NFB and DPT).",
+   "why": "Uses embodiment to imagine bodies changed by plastic.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {},
+   "role_zh": "艺术家与电影人",
+   "bio_zh": "以色列裔加拿大视觉艺术家；与 Édith Jorisch 合作《Plastisapiens》（加拿大国家电影局与 DPT 出品）。",
+   "why_zh": "以具身体验想象被塑料改变的身体。",
+   "based_zh": "蒙特利尔，加拿大",
+   "connected_to": [
+    "edith-jorisch"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "edith-jorisch",
+   "name": "Édith Jorisch",
+   "kind": "person",
+   "role": "Filmmaker",
+   "based": "Montreal, Canada",
+   "bio": "Canadian filmmaker and visual artist, co-creator of Plastisapiens.",
+   "why": "Co-designed VR bodies that are part animal, part plastic.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "role_zh": "电影人",
+   "bio_zh": "加拿大电影人与视觉艺术家，《Plastisapiens》联合创作者。",
+   "why_zh": "共同设计半动物、半塑料的 VR 身体。",
+   "based_zh": "蒙特利尔，加拿大",
+   "connected_to": [
+    "miri-chekhanovich"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "adam-may",
+   "name": "Adam May",
+   "kind": "person",
+   "role": "Immersive director (Vision3)",
+   "based": "London, UK",
+   "bio": "British creator of stereo and location-based immersive work, maker of Critical Distance with Chris Campkin.",
+   "why": "Made orca echolocation visible as sound in space on HoloLens 2.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://www.vision3.tv"
+   },
+   "role_zh": "沉浸式导演（Vision3）",
+   "bio_zh": "英国立体与场景式沉浸作品创作者，与 Chris Campkin 合作《Critical Distance》。",
+   "why_zh": "在 HoloLens 2 上把虎鲸的回声定位显现为空间中的声音。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "chris-campkin"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chris-campkin",
+   "name": "Chris Campkin",
+   "kind": "person",
+   "role": "Creative collaborator (Vision3)",
+   "based": "London, UK",
+   "bio": "Key collaborator on Critical Distance at Vision3.",
+   "why": "Co-created a mixed-reality encounter with the Southern Resident orcas.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "role_zh": "创意合作者（Vision3）",
+   "bio_zh": "Vision3《Critical Distance》的主要合作者。",
+   "why_zh": "共同创作与南方定居虎鲸相遇的混合现实体验。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "adam-may"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jonah-king",
+   "name": "Jonah King",
+   "kind": "person",
+   "role": "Artist",
+   "based": "New York, USA",
+   "bio": "American artist working in VR, film and sculpture; assistant professor at Stevens Institute of Technology.",
+   "why": "Honey Fungus stages intimacy with a sentient fungal network.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://jonahking.com"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "美国艺术家，创作 VR、影像与雕塑；Stevens 理工学院助理教授。",
+   "why_zh": "《Honey Fungus》上演人与有感知的真菌网络之间的亲密。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "holition",
+   "name": "Holition",
+   "kind": "studio",
+   "role": "Creative innovation studio",
+   "based": "London, UK",
+   "bio": "London studio making interactive and immersive digital installations.",
+   "why": "Took Barbican visitors down to the scale of soil organisms.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://holition.com"
+   },
+   "role_zh": "创意创新工作室",
+   "bio_zh": "制作互动与沉浸式数字装置的伦敦工作室。",
+   "why_zh": "把巴比肯的观众带到土壤生物的尺度。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "george-monbiot"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "george-monbiot",
+   "name": "George Monbiot",
+   "kind": "person",
+   "role": "Writer and environmental campaigner",
+   "based": "Oxford, UK",
+   "bio": "British journalist and author of Feral and Regenesis.",
+   "why": "Argued that soil should be revered like a coral reef; his research shaped The World Beneath Our Feet.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "作家与环保倡导者",
+   "bio_zh": "英国记者，著有《Feral》与《Regenesis》。",
+   "why_zh": "主张土壤应像珊瑚礁一样被珍视；其研究塑造了《The World Beneath Our Feet》。",
+   "based_zh": "牛津，英国",
+   "connected_to": [
+    "holition"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "victoria-vesna",
+   "name": "Victoria Vesna",
+   "kind": "person",
+   "role": "Media artist (UCLA Art|Sci Center)",
+   "based": "Los Angeles, USA",
+   "bio": "Media artist and professor who directs the UCLA Art|Sci Center, working on nanotechnology, sound and ecology.",
+   "why": "Noise Aquarium puts visitors among magnified plankton under noise pollution.",
+   "disciplines": [
+    "art",
+    "science"
+   ],
+   "links": {
+    "site": "https://victoriavesna.com"
+   },
+   "role_zh": "媒体艺术家（UCLA 艺术科学中心）",
+   "bio_zh": "媒体艺术家与教授，领导 UCLA 艺术科学中心，关注纳米技术、声音与生态。",
+   "why_zh": "《Noise Aquarium》把观众放进噪声污染下被放大的浮游生物之间。",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ant-farm",
+   "name": "Ant Farm",
+   "kind": "studio",
+   "role": "Architecture and media art collective (1968–1978)",
+   "based": "San Francisco, USA",
+   "bio": "Radical architecture collective (Chip Lord, Doug Michels, Curtis Schreier and others), known for Cadillac Ranch and Media Burn.",
+   "why": "Dolphin Embassy is an early design for communication across species.",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {},
+   "role_zh": "建筑与媒体艺术团体（1968–1978）",
+   "bio_zh": "激进建筑团体（Chip Lord、Doug Michels、Curtis Schreier 等），以《Cadillac Ranch》《Media Burn》闻名。",
+   "why_zh": "《Dolphin Embassy》是早期的跨物种交流设计。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shimabuku",
+   "name": "Shimabuku",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Naha, Japan",
+   "bio": "Japanese artist whose playful actions often involve animals, especially octopuses.",
+   "why": "Makes sculptures whose audience is octopuses.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "日本艺术家，其轻松的行动作品常与动物尤其是章鱼有关。",
+   "why_zh": "做以章鱼为观众的雕塑。",
+   "based_zh": "那霸，日本",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "es-devlin",
+   "name": "Es Devlin",
+   "kind": "person",
+   "role": "Artist and stage designer",
+   "based": "London, UK",
+   "bio": "British artist known for large-scale sculptures and stage designs that combine light, text and sound.",
+   "why": "Forest of Us maps the branching of human lungs onto the branching of trees.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://esdevlin.com"
+   },
+   "role_zh": "艺术家与舞台设计师",
+   "bio_zh": "英国艺术家，以结合光、文字与声音的大型雕塑和舞台设计闻名。",
+   "why_zh": "《Forest of Us》把人肺的分支与树的分支对应起来。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wolfgang-buttress",
+   "name": "Wolfgang Buttress",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Nottingham, UK",
+   "bio": "British artist who made The Hive for the UK Pavilion at Expo Milano 2015 with physicist Martin Bencsik.",
+   "why": "Lets visitors hear and feel a live bee colony's vibrations through light, sound and bone conduction.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.wolfgangbuttress.com"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "英国艺术家，与物理学家 Martin Bencsik 为 2015 米兰世博会英国馆创作《The Hive》。",
+   "why_zh": "让访客通过光、声音与骨传导听见并感受一个活蜂群的振动。",
+   "based_zh": "诺丁汉，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "superflux",
+   "name": "Superflux",
+   "kind": "studio",
+   "role": "Speculative design studio (Anab Jain & Jon Ardern)",
+   "based": "London, UK",
+   "bio": "Design studio making speculative futures and more-than-human installations.",
+   "why": "Refuge for Resurgence seats humans among fourteen other species at one table.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://superflux.in"
+   },
+   "role_zh": "思辨设计工作室（Anab Jain 与 Jon Ardern）",
+   "bio_zh": "创作思辨未来与超越人类装置的设计工作室。",
+   "why_zh": "《Refuge for Resurgence》让人类与另外十四个物种同桌而坐。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "momoko-seto",
+   "name": "Momoko Seto",
+   "kind": "person",
+   "role": "Filmmaker and artist",
+   "based": "Paris, France",
+   "bio": "Japanese-born, Paris-based filmmaker whose PLANET series films real micro-organisms, fungi and insects in macro time-lapse as alien worlds.",
+   "why": "Shifts the viewer to the scale and time of mould, fungi and tadpoles.",
+   "disciplines": [
+    "film",
+    "art"
+   ],
+   "links": {},
+   "role_zh": "电影人与艺术家",
+   "bio_zh": "出生于日本、常居巴黎的电影人，其《PLANET》系列以微距延时拍摄真实的微生物、真菌与昆虫，把它们呈现为异星世界。",
+   "why_zh": "把观众带到霉菌、真菌与蝌蚪的尺度与时间。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jorg-courtial",
+   "name": "Jörg Courtial",
+   "kind": "person",
+   "role": "VR director (Faber Courtial)",
+   "based": "Darmstadt, Germany",
+   "bio": "German director and co-founder of the digital studio Faber Courtial, known for VR and dome films on space and evolution.",
+   "why": "Genesis compresses Earth's 4.7 billion years into one day around the viewer.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://www.fabercourtial.de"
+   },
+   "role_zh": "VR 导演（Faber Courtial）",
+   "bio_zh": "德国导演，数字工作室 Faber Courtial 联合创始人，以关于太空与进化的 VR 与球幕影片闻名。",
+   "why_zh": "《Genesis》把地球 47 亿年压缩成观众身边的一天。",
+   "based_zh": "达姆施塔特，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "luma-octo",
+   "name": "Luma Octo",
+   "kind": "studio",
+   "role": "Immersive studio (Max Sacker & Arite Szadkowski)",
+   "based": "Berlin, Germany",
+   "bio": "German studio of filmmakers Max Sacker and Arite Szadkowski making interactive, musical immersive cinema.",
+   "why": "Octopocalypse stages first contact with an octopus intelligence through rhythm and touch.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "role_zh": "沉浸式工作室（Max Sacker 与 Arite Szadkowski）",
+   "bio_zh": "德国电影人 Max Sacker 与 Arite Szadkowski 的工作室，创作互动、音乐化的沉浸式影像。",
+   "why_zh": "《Octopocalypse》以节奏与触觉上演与章鱼智能的第一次接触。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "steye-hallema",
+   "name": "Steye Hallema",
+   "kind": "person",
+   "role": "Artist, founder of The Smartphone Orchestra",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Dutch artist making collective experiences on audiences' own phones (The Smartphone Orchestra, The Imaginary Friend).",
+   "why": "Turns a crowd into the voice of a lagoon or river claiming rights of nature.",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://smartphoneorchestra.com"
+   },
+   "role_zh": "艺术家，The Smartphone Orchestra 创始人",
+   "bio_zh": "荷兰艺术家，用观众自己的手机创作集体体验（The Smartphone Orchestra、《The Imaginary Friend》）。",
+   "why_zh": "把人群变成争取自然权利的潟湖或河流的声音。",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sarah-silverblatt-buser",
+   "name": "Sarah Silverblatt-Buser",
+   "kind": "person",
+   "role": "Choreographer and XR artist",
+   "based": "Santa Fe, USA",
+   "bio": "American choreographer and filmmaker making movement-based VR and dance films.",
+   "why": "Collective Body turns each dancer's movement signature into an elemental avatar.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {},
+   "role_zh": "编舞与 XR 艺术家",
+   "bio_zh": "美国编舞与电影人，创作以动作为基础的 VR 与舞蹈影像。",
+   "why_zh": "《Collective Body》把每位舞者的动作特征变成一种元素化身。",
+   "based_zh": "圣塔菲，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "institute-of-digital-fashion",
+   "name": "Institute of Digital Fashion",
+   "kind": "studio",
+   "role": "Digital fashion collective (Leanne Elliott Young & Catty Tay)",
+   "based": "London, UK",
+   "bio": "London collective making gender-nonconforming avatars, 3D couture and AR/VR experiences.",
+   "why": "Queer Ecology maps visitors' bodies onto plant beings that grow, merge and decay.",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {},
+   "role_zh": "数字时尚团体（Leanne Elliott Young 与 Catty Tay）",
+   "bio_zh": "伦敦团体，创作性别非常规化身、三维高定与 AR/VR 体验。",
+   "why_zh": "《Queer Ecology》把访客的身体映射成会生长、融合与衰败的植物存在。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "brigitte-baptiste"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "brigitte-baptiste",
+   "name": "Brigitte Baptiste",
+   "kind": "person",
+   "role": "Biologist and queer ecologist",
+   "based": "Bogotá, Colombia",
+   "bio": "Colombian biologist, former director of the Humboldt Institute and rector of Universidad EAN, known for queer ecology.",
+   "why": "Her claim that 'there is nothing more queer than nature' shaped the Barbican piece.",
+   "disciplines": [
+    "science",
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "生物学家与酷儿生态学者",
+   "bio_zh": "哥伦比亚生物学家，曾任洪堡研究所所长、EAN 大学校长，以酷儿生态学著称。",
+   "why_zh": "她“没有什么比自然更酷儿”的观点塑造了巴比肯的这件作品。",
+   "based_zh": "波哥大，哥伦比亚",
+   "connected_to": [
+    "institute-of-digital-fashion"
+   ],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "lynette-wallworth--awavena",
+   "creator_ids": [
+    "lynette-wallworth"
+   ],
+   "title": "Awavena",
+   "year": 2018,
+   "field": "tree",
+   "sub": "forest",
+   "senses": [
+    "vision",
+    "multisensory"
+   ],
+   "medium": [
+    "vr",
+    "film360"
+   ],
+   "kind": "film",
+   "description": "A VR documentary made with the Yawanawa of the Amazon and their first woman shaman, Hushahu; the forest is shown as it appears in a medicine vision, with plants and beings glowing with life.",
+   "description_zh": "与亚马孙 Yawanawa 部族及其首位女萨满 Hushahu 共同完成的 VR 纪录片；森林以药物异象中的样子出现，植物与生灵都在发光。",
+   "idea_en": "The forest seen as alive: VR stands in for a medicine vision that lets outsiders glimpse how the Yawanawa perceive plants and spirits.",
+   "idea_zh": "把森林看作有生命的存在：VR 代替药物异象，让外来者瞥见 Yawanawa 人如何感知植物与灵。",
+   "method": "360° live action shot in the Amazon combined with real-time rendered particle visions of the forest (VR headset).",
+   "method_zh": "在亚马孙拍摄的 360° 实景结合实时渲染的森林粒子异象（VR 头显）。",
+   "keywords": [
+    "Yawanawa",
+    "Hushahu",
+    "Amazon",
+    "shamanism",
+    "forest spirits"
+   ],
+   "shown_at": [
+    "Sundance New Frontier 2018",
+    "Venice Virtual Reality 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Eo_BQGVzd18"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2018/Schede_film/970x647/Venice-VR/awavena.jpg?itok=cXc408uH"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2018/lineup/venice-virtual-reality/awavena",
+   "collections": [
+    "venice-immersive",
+    "sundance-new-frontier"
+   ]
+  },
+  {
+   "id": "deniz-tortum--selyatagi",
+   "creator_ids": [
+    "deniz-tortum"
+   ],
+   "title": "Selyatağı (Floodplain)",
+   "year": 2018,
+   "field": "tree",
+   "sub": "forest",
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "film360"
+   ],
+   "kind": "film",
+   "description": "A VR film in which a search party lost in a forest slated for construction falls under the spell of an old tree, and the humans slowly merge with the forest.",
+   "description_zh": "VR 影片：在一片即将被开发的森林里，搜救队迷失方向，被一棵老树的咒语笼罩，人类慢慢融入森林。",
+   "idea_en": "Asks whether we can become a forest, a stone or a multitude of organisms when we can no longer be what we were.",
+   "idea_zh": "追问：当我们无法再是原来的自己时，能否成为一片森林、一块石头，或众多生物的集合。",
+   "method": "360° volumetric and photogrammetric forest scenes built on the world of the feature film Yuva (Emre Yeksan).",
+   "method_zh": "以体积捕捉与摄影测量建构的 360° 森林场景，延伸自剧情片《Yuva》（Emre Yeksan）的世界。",
+   "keywords": [
+    "forest",
+    "tree",
+    "Yuva",
+    "Turkey",
+    "photogrammetry"
+   ],
+   "shown_at": [
+    "Venice Virtual Reality 2018"
+   ],
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2018/Schede_film/970x647/Venice-VR/selyatagi.jpg?itok=dbGz_le-"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2018/lineup/venice-virtual-reality/selyata%C4%9Fi-floodplain",
+   "collections": [
+    "venice-immersive"
+   ]
+  },
+  {
+   "id": "bartabas--ex-anima",
+   "creator_ids": [
+    "bartabas",
+    "pierre-zandrowicz"
+   ],
+   "title": "Ex Anima",
+   "year": 2019,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "body",
+    "breath"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "film",
+   "description": "Horses emerge from the dark, breathing and dancing on sand; as the piece unfolds the viewer moves with them until they increasingly become the horse.",
+   "description_zh": "马从黑暗中出现，在沙地上呼吸、起舞；随着作品推进，观众与它们一同移动，逐渐成为马。",
+   "idea_en": "Becoming a horse through breath and rhythm rather than story: an ode to the breathing of animals.",
+   "idea_zh": "不靠故事，而是通过呼吸与节奏成为马：一首献给动物呼吸的颂歌。",
+   "method": "VR film built from Théâtre Zingaro's equestrian performance, shot with stereoscopic capture of the horses (likely volumetric/CG hybrid).",
+   "method_zh": "以 Zingaro 马术剧团的演出为基础的 VR 影片，对马进行立体拍摄（很可能结合体积捕捉与 CG）。",
+   "keywords": [
+    "horse",
+    "Théâtre Zingaro",
+    "breath",
+    "Atlas V",
+    "ARTE"
+   ],
+   "shown_at": [
+    "Venice Virtual Reality 2019"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=H4TyjO6UiDI"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2019/Schede_film/970x647/Venice_VR/ex-anima-experience.jpg?itok=pp2569cx"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2019/venice-virtual-reality/ex-anima-experience",
+   "collections": [
+    "venice-immersive"
+   ]
+  },
+  {
+   "id": "hsin-chien-huang--samsara",
+   "creator_ids": [
+    "hsin-chien-huang"
+   ],
+   "title": "Samsara",
+   "year": 2021,
+   "field": "animal",
+   "sub": "multispecies",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "After humans destroy the Earth and re-engineer their DNA to survive in space, the participant returns to Earth in another era as a different life form, then passes through other beings' bodies in a cycle of rebirth.",
+   "description_zh": "人类毁掉地球、改造 DNA 流亡太空后，参与者在另一个时代以另一种生命形态回到地球，并在轮回中穿过其他生命的身体。",
+   "idea_en": "Reincarnation as embodied cognition: each rebirth gives you a new body and a new perspective on the same planet.",
+   "idea_zh": "以轮回演绎具身认知：每一次重生都给你一具新身体、一种看同一颗星球的新视角。",
+   "method": "Free-roaming VR with full-body avatars that change species across chapters (HTC Vive / Quest).",
+   "method_zh": "可自由走动的 VR，全身化身在各章节之间变换物种（HTC Vive / Quest）。",
+   "keywords": [
+    "reincarnation",
+    "embodied cognition",
+    "evolution",
+    "Taiwan",
+    "Lun Hui"
+   ],
+   "shown_at": [
+    "Venice VR Expanded 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9IygU6BpINQ"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2021/Schede_film/970x647/Venice_VR_Expanded/huang_samsara.jpg?itok=EaPJB35o"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2021/lineup/venice-vr-expanded/lun-hui-samsara",
+   "collections": [
+    "venice-immersive"
+   ]
+  },
+  {
+   "id": "lena-thiele--myriad",
+   "creator_ids": [
+    "lena-thiele"
+   ],
+   "title": "Myriad. Where We Connect",
+   "year": 2021,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "bird",
+    "fish"
+   ],
+   "senses": [
+    "time-scale",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "film360"
+   ],
+   "kind": "film",
+   "description": "A VR journey along the real migration routes of a Northern Bald Ibis, an Arctic fox and a green sea turtle, following wind and ocean currents across a world made of carbon.",
+   "description_zh": "沿着北方秃鹮、北极狐与绿海龟真实迁徙路线展开的 VR 旅程，随风与洋流穿越一个由碳构成的世界。",
+   "idea_en": "Travelling as a migrating animal makes the planet legible as currents, routes and distances rather than places.",
+   "idea_zh": "以迁徙动物的方式旅行，地球变成可读的洋流、路线与距离，而不是地点。",
+   "method": "Real-time VR and 360° versions driven by scientific GPS tracking data of the three species.",
+   "method_zh": "实时 VR 与 360° 版本，由三种动物的科学 GPS 追踪数据驱动。",
+   "keywords": [
+    "migration",
+    "Northern Bald Ibis",
+    "Arctic fox",
+    "green sea turtle",
+    "carbon",
+    "tracking data"
+   ],
+   "shown_at": [
+    "Venice VR Expanded 2021",
+    "Wildscreen Festival 2022"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=bhAM7tUr-Dg"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2021/Schede_film/970x647/Venice_VR_Expanded/thiele_myriad-ok2.jpg?itok=Jw687wrD"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2021/lineup/venice-vr-expanded/myriad-where-we-connect-vr-experience",
+   "collections": [
+    "venice-immersive",
+    "wildscreen-festival"
+   ]
+  },
+  {
+   "id": "nina-barbier--la-plage-de-sable-etoile",
+   "creator_ids": [
+    "nina-barbier",
+    "hsin-chien-huang"
+   ],
+   "title": "La plage de sable étoilé (The Starry Sand Beach)",
+   "year": 2021,
+   "field": "fish",
+   "sub": "reef",
+   "also": [
+    "fungi"
+   ],
+   "senses": [
+    "time-scale",
+    "vision"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "film",
+   "description": "A scientific fairy tale that shrinks the participant to the scale of Baculogypsina sphaerulata, the star-shaped foraminifera that make up the sand of East China Sea beaches, and travels 400 million years back through their history.",
+   "description_zh": "一则科学童话：把参与者缩小到星砂有孔虫（Baculogypsina sphaerulata）的尺度——东海海滩的星形沙粒——并回溯它们四亿年的历史。",
+   "idea_en": "A game of scales: you become as small as a single-celled organism and as small again among the stars.",
+   "idea_zh": "一场尺度游戏：你小到单细胞生物那样，在群星之间又同样渺小。",
+   "method": "Real-time VR (Vive/Quest) with scientific models from the Muséum national d'Histoire naturelle.",
+   "method_zh": "实时 VR（Vive/Quest），采用法国国家自然历史博物馆的科学模型。",
+   "keywords": [
+    "foraminifera",
+    "star sand",
+    "ocean acidification",
+    "coral",
+    "MNHN",
+    "Lucid Realities"
+   ],
+   "shown_at": [
+    "Venice VR Expanded 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RX1ZBV_CSq4"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2021/Schede_film/970x647/Venice_VR_Expanded/barbier_huang_la_plage_de_sable_etoile.jpg?itok=haNW5Mlv"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2021/lineup/venice-vr-expanded/la-plage-de-sable-%C3%A9toil%C3%A9",
+   "collections": [
+    "venice-immersive"
+   ]
+  },
+  {
+   "id": "alchemy-immersive--micro-monsters",
+   "creator_ids": [
+    "alchemy-immersive"
+   ],
+   "title": "Micro Monsters with David Attenborough",
+   "year": 2021,
+   "field": "insect",
+   "sub": "insect-other",
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "vr",
+    "film360"
+   ],
+   "kind": "film",
+   "description": "A five-episode VR series that shrinks the viewer to insect size among scorpions, centipedes, aphids, weaver ants and trapdoor spiders, narrated by David Attenborough.",
+   "description_zh": "五集 VR 系列：把观众缩小到昆虫大小，置身蝎子、蜈蚣、蚜虫、织叶蚁与活板门蛛之间，由 David Attenborough 解说。",
+   "idea_en": "Insect scale as the first step of becoming: the everyday ground turns into a vast, dangerous world.",
+   "idea_zh": "昆虫尺度是成为的第一步：平常的地面变成辽阔而危险的世界。",
+   "method": "Stereoscopic macro live-action combined with CG, delivered on Meta Quest (director Elliot Graves).",
+   "method_zh": "立体微距实拍结合 CG，在 Meta Quest 上发布（导演 Elliot Graves）。",
+   "keywords": [
+    "insect scale",
+    "ants",
+    "spiders",
+    "David Attenborough",
+    "Atlantic Productions",
+    "macro"
+   ],
+   "shown_at": [
+    "Venice VR Expanded 2021"
+   ],
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2021/Schede_film/970x647/Venice_VR_Expanded/graves_micro_monsters_with_david_attenborough.jpg?itok=hNtopxHL"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2021/lineup/venice-vr-expanded/micro-monsters-david-attenborough",
+   "collections": [
+    "venice-immersive"
+   ]
+  },
+  {
+   "id": "visiontrick-media--mare",
+   "creator_ids": [
+    "visiontrick-media"
+   ],
+   "title": "Mare",
+   "year": 2020,
+   "field": "bird",
+   "sub": "flight",
+   "also": [
+    "robot"
+   ],
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "game",
+   "description": "A VR puzzle game in which the player wakes up embodying an artificial bird and flies across strange landscapes to guide and protect a vulnerable AI companion.",
+   "description_zh": "VR 解谜游戏：玩家醒来时化身一只人造鸟，飞越奇异的风景，引导并保护一个脆弱的 AI 同伴。",
+   "idea_en": "The player never has hands: seeing, moving and helping all happen through a bird's gaze and flight.",
+   "idea_zh": "玩家没有手：看、移动与帮助全靠一只鸟的目光与飞行。",
+   "method": "Gaze-directed flight on standalone VR (Oculus Quest); the bird is steered by head direction and perching points.",
+   "method_zh": "在一体机 VR（Oculus Quest）上以视线控制飞行；鸟随头部方向和栖停点移动。",
+   "keywords": [
+    "artificial bird",
+    "gaze control",
+    "flight",
+    "companion"
+   ],
+   "shown_at": [
+    "Venice VR Expanded 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=iJouYmaHOuk"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2021/Schede_film/970x647/Venice_VR_Expanded/guerreiro_mare.jpg?itok=RzlLB4KG"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2021/lineup/venice-vr-expanded/mare",
+   "collections": [
+    "venice-immersive"
+   ]
+  },
+  {
+   "id": "jorg-courtial--genesis",
+   "creator_ids": [
+    "jorg-courtial"
+   ],
+   "title": "Genesis",
+   "year": 2021,
+   "field": "river",
+   "sub": "planet",
+   "senses": [
+    "time-scale",
+    "vision"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "film",
+   "description": "A VR journey through 4.7 billion years of Earth condensed onto a 24-hour clock: the young glowing planet, dark oceans, prehistoric jungles with giant insects, dinosaurs, mass extinctions and finally human ancestors.",
+   "description_zh": "一段 VR 旅程，把地球 47 亿年压缩到 24 小时的钟面上：年轻炽热的星球、黑暗的海洋、巨型昆虫的史前丛林、恐龙、大灭绝，最后是人类祖先。",
+   "idea_en": "Taking the planet's time scale: humanity appears only in the final second of Earth's day.",
+   "idea_zh": "采用行星的时间尺度：人类只出现在地球这一天的最后一秒。",
+   "method": "Real-time rendered VR (Vive / Quest) with an on-screen Earth clock and paleontologically informed CG environments.",
+   "method_zh": "实时渲染 VR（Vive / Quest），配有地球时钟，以古生物学资料为依据的 CG 场景。",
+   "keywords": [
+    "deep time",
+    "evolution",
+    "Earth clock",
+    "mass extinction",
+    "dinosaurs"
+   ],
+   "shown_at": [
+    "Venice VR Expanded 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rx70fLFpTp8"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2021/Schede_film/970x647/Venice_VR_Expanded/courtial_genesis.jpg?itok=h5M0IGwZ"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2021/lineup/venice-vr-expanded/genesis",
+   "collections": [
+    "venice-immersive"
+   ]
+  },
+  {
+   "id": "alchemy-immersive--kingdom-of-plants",
+   "creator_ids": [
+    "alchemy-immersive"
+   ],
+   "title": "Kingdom of Plants with David Attenborough",
+   "year": 2022,
+   "field": "tree",
+   "sub": "plant",
+   "also": [
+    "fungi"
+   ],
+   "senses": [
+    "time-scale",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "film360"
+   ],
+   "kind": "film",
+   "description": "A three-part immersive series that places the viewer at the scale and pace of plants: sitting inside rare blooms, watching a sundew hunt and being consumed by fungi.",
+   "description_zh": "三集沉浸式系列：把观众放到植物的尺度与节奏中——坐进稀有花朵、看茅膏菜捕猎、被真菌吞没。",
+   "idea_en": "Plant time made watchable: time-lapse at plant scale turns slow growth into drama you are inside.",
+   "idea_zh": "让植物时间变得可看：植物尺度的延时摄影把缓慢的生长变成你身处其中的戏剧。",
+   "method": "Stereoscopic time-lapse and macro photography from the Royal Botanic Gardens, Kew, released on Meta Quest (director Iona McEwan).",
+   "method_zh": "在英国皇家植物园邱园拍摄的立体延时与微距影像，发布于 Meta Quest（导演 Iona McEwan）。",
+   "keywords": [
+    "plants",
+    "time-lapse",
+    "sundew",
+    "Kew",
+    "David Attenborough"
+   ],
+   "shown_at": [
+    "Venice Immersive 2022"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vwDrTZs41SE"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2022/Schede_film/970x647/Venice_Immersive/mcewan_.jpg?itok=zPmXq-PX"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2022/venice-immersive/kingdom-plants-david-attenborough",
+   "collections": [
+    "venice-immersive"
+   ]
+  },
+  {
+   "id": "scanlab-projects--framerate",
+   "creator_ids": [
+    "scanlab-projects"
+   ],
+   "title": "FRAMERATE: Pulse of the Earth",
+   "year": 2022,
+   "field": "river",
+   "sub": "earth",
+   "senses": [
+    "time-scale",
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A multi-screen installation of LiDAR time-lapses of changing landscapes: a cliff eroding, a pumpkin growing, sand shifting and forests turning with the seasons.",
+   "description_zh": "多屏装置，展示激光雷达延时扫描下变化的风景：崖壁侵蚀、南瓜生长、沙丘移动、森林随季节变色。",
+   "idea_en": "Seeing at the Earth's pace: geological and seasonal change compressed until land appears to breathe.",
+   "idea_zh": "以地球的速度观看：地质与季节的变化被压缩到大地仿佛在呼吸。",
+   "method": "Repeated terrestrial LiDAR scans of the same sites over months, rendered as volumetric point-cloud time-lapses.",
+   "method_zh": "对同一地点进行数月重复的地面激光雷达扫描，渲染为体积点云延时影像。",
+   "keywords": [
+    "LiDAR",
+    "time-lapse",
+    "erosion",
+    "landscape",
+    "point cloud"
+   ],
+   "shown_at": [
+    "Venice Immersive 2022"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8bcrX3ah-PY"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2022/Schede_film/970x647/Venice_Immersive/shaw_trossel_.jpg?itok=MsvUsDiC"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2022/venice-immersive/framerate-pulse-earth",
+   "collections": [
+    "venice-immersive"
+   ]
+  },
+  {
+   "id": "temsuyanger-longkumer--home",
+   "creator_ids": [
+    "temsuyanger-longkumer"
+   ],
+   "title": "home",
+   "year": 2023,
+   "field": "insect",
+   "sub": "bee",
+   "senses": [
+    "collective-sense",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "film360"
+   ],
+   "kind": "film",
+   "description": "A VR work filmed with a bee colony in Gaili, Nagaland, that takes the viewer inside a beehive as a model of humanity's relationship with its planet.",
+   "description_zh": "与那加兰 Gaili 一个蜂群共同拍摄的 VR 作品，带观众进入蜂巢，把它当作人类与地球关系的模型。",
+   "idea_en": "Living inside the hive: the colony as a single organism whose choices mirror our own habitat-making.",
+   "idea_zh": "生活在蜂巢里：蜂群是一个整体生命，它的选择映照出人类的筑居方式。",
+   "method": "Stereoscopic footage inside and around a living hive combined with animated sequences (VR headset).",
+   "method_zh": "在活体蜂巢内外拍摄的立体影像，结合动画段落（VR 头显）。",
+   "keywords": [
+    "bees",
+    "beehive",
+    "Nagaland",
+    "colony"
+   ],
+   "shown_at": [
+    "Venice Immersive 2023"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1-Xy4B7MbzA"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2023/Schede_film/970x647/Ve_Immersive/longkumer.jpg?itok=k7tAqi6V"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2023/venice-immersive/home",
+   "collections": [
+    "venice-immersive"
+   ]
+  },
+  {
+   "id": "adriaan-lokman--flow",
+   "creator_ids": [
+    "adriaan-lokman"
+   ],
+   "title": "Flow",
+   "year": 2023,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "touch",
+    "thermal",
+    "breath"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A VR installation made entirely of air: the visitor surrenders to wind currents that carry the story of a woman's night, felt as gusts, warmth, breath and scent.",
+   "description_zh": "完全由空气构成的 VR 装置：访客顺从风的流动，风讲述一位女性的一夜，以阵风、暖意、呼吸与气味被感受到。",
+   "idea_en": "Becoming the wind: the story is told by air currents, not by characters, and the body reads it through skin.",
+   "idea_zh": "成为风：故事由气流而非角色讲述，身体用皮肤去读它。",
+   "method": "Animated airflow simulation in VR synchronised with fans, heaters and scent diffusers around the seated visitor.",
+   "method_zh": "VR 中的气流动画模拟，与围绕座位的风扇、加热器和气味扩散器同步。",
+   "keywords": [
+    "wind",
+    "air currents",
+    "scent",
+    "heat",
+    "Lucid Realities"
+   ],
+   "shown_at": [
+    "Venice Immersive 2023"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QxiIIZ7rP4I"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2023/Schede_film/970x647/Ve_Immersive/lokman.jpg?itok=5Yakke_C"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2023/venice-immersive/flow",
+   "collections": [
+    "venice-immersive"
+   ]
+  },
+  {
+   "id": "maya-mouawad--peupler",
+   "creator_ids": [
+    "maya-mouawad",
+    "cyril-laurier"
+   ],
+   "title": "Peupler",
+   "year": 2023,
+   "field": "tree",
+   "sub": "tree",
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "installation",
+    "mr"
+   ],
+   "kind": "artwork",
+   "description": "An interactive installation that lets visitors see and feel the city from the point of view of a tree, and feed that tree through their own presence.",
+   "description_zh": "互动装置：让访客从一棵树的视角看见并感受城市，并用自己的在场为这棵树提供养分。",
+   "idea_en": "The tree as a witness of the city: taking its point of view makes cohabitation a question of who populates space.",
+   "idea_zh": "树是城市的见证者：采取它的视角，共居就成了“谁在占据空间”的问题。",
+   "method": "Photogrammetric digital tree with generative sound, responding to visitors' movement via sensors (Fisheye Immersive).",
+   "method_zh": "摄影测量的数字树配合生成声音，通过传感器回应访客的移动（Fisheye Immersive）。",
+   "keywords": [
+    "tree",
+    "city",
+    "cohabitation",
+    "generative sound"
+   ],
+   "shown_at": [
+    "Venice Immersive 2023"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=t3No7MRp-MU"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2023/Schede_film/970x647/Ve_Immersive/mouawad-laurier.jpg?itok=xzhsmdLl"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2023/venice-immersive/peupler",
+   "collections": [
+    "venice-immersive"
+   ]
+  },
+  {
+   "id": "joren-vandenbroucke--the-great-escape",
+   "creator_ids": [
+    "joren-vandenbroucke"
+   ],
+   "title": "The Great Escape",
+   "year": 2025,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "film",
+   "description": "An interactive VR comedy in which the viewer is the third of three bored geraniums on a lonely man's windowsill, rooted in place while they plot to see the world.",
+   "description_zh": "互动 VR 喜剧：观众是孤独男人窗台上三盆无聊天竺葵中的第三盆，被根固定在原地，却谋划着去看世界。",
+   "idea_en": "Being rooted: embodying a potted plant turns immobility and a windowsill view into the whole of life.",
+   "idea_zh": "扎根的处境：成为一盆盆栽，不能移动与窗台的视野就是生活的全部。",
+   "method": "Animated interactive VR with the participant fixed in the pot's position; interaction through gaze and limited hand gestures.",
+   "method_zh": "动画互动 VR，参与者被固定在花盆的位置；通过视线与有限的手势交互。",
+   "keywords": [
+    "geranium",
+    "houseplant",
+    "comedy",
+    "Animal Tank"
+   ],
+   "shown_at": [
+    "Venice Immersive 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jH5bGRsqn4k"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2025/Schede_film/970x647/Ve_Immersive/the_great_escape.jpg?itok=2-fTzReL"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2025/venice-immersive/great-escape",
+   "collections": [
+    "venice-immersive"
+   ]
+  },
+  {
+   "id": "luma-octo--octopocalypse",
+   "creator_ids": [
+    "luma-octo"
+   ],
+   "title": "Octopocalypse",
+   "year": 2026,
+   "field": "octopus",
+   "sub": "cephalopod",
+   "senses": [
+    "hearing",
+    "touch",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation",
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A three-person immersive installation after a meteor storm: participants face a fragile, prophetic alien octopus that tries to make contact through music, touch, rhythm and visions, and must choose whether to interrogate it or listen and earn its trust.",
+   "description_zh": "三人沉浸式装置，设定在流星风暴之后：参与者面对一只脆弱而具预言能力的外星章鱼，它试图通过音乐、触觉、节奏与幻象建立联系，参与者要决定是审问它，还是倾听并赢得信任。",
+   "idea_en": "Meeting an octopus mind on its own terms: contact happens through rhythm and touch, and slowing down is the only way in.",
+   "idea_zh": "按章鱼心智自己的方式与它相遇：联系通过节奏与触觉发生，放慢速度是唯一的入口。",
+   "method": "Multi-user installation combining immersive cinema, haptics and rhythm input; the group builds a music track from patterns sent by the octopus (generative AI used for prototyping).",
+   "method_zh": "多人装置，结合沉浸式影像、触觉与节奏输入；参与者用章鱼发出的模式共同搭建一段音乐（生成式 AI 用于原型制作）。",
+   "keywords": [
+    "octopus",
+    "first contact",
+    "rhythm",
+    "haptics",
+    "collective choice"
+   ],
+   "shown_at": [
+    "Venice Immersive 2026"
+   ],
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2026/Schede_film/970x647/Ve_Immersive/octopocalypse.jpg?itok=Y7TyKEIK"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2026/venice-immersive/octopocalypse",
+   "collections": [
+    "venice-immersive"
+   ]
+  },
+  {
+   "id": "steye-hallema--la-laguna-parla",
+   "creator_ids": [
+    "steye-hallema"
+   ],
+   "title": "La Laguna Parla",
+   "year": 2026,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "hearing",
+    "collective-sense"
+   ],
+   "medium": [
+    "performance",
+    "audio"
+   ],
+   "kind": "performance",
+   "description": "A collective smartphone ritual for hundreds of participants that gives voice to the Venice lagoon as a living being, adapted from The Waterbodies Orchestra made with the Confluence of European Water Bodies.",
+   "description_zh": "面向数百名参与者的集体手机仪式，为作为生命存在的威尼斯潟湖发声，改编自与“欧洲水体汇流”合作的《The Waterbodies Orchestra》。",
+   "idea_en": "Speaking as the lagoon: a crowd's phones become one voice for a body of water that claims legal personhood.",
+   "idea_zh": "以潟湖的身份说话：人群的手机汇成一种声音，为争取法律人格的水体发声。",
+   "method": "Synchronised browser-based audio and light cues on participants' own smartphones, conducted live (The Smartphone Orchestra).",
+   "method_zh": "在参与者自己的手机上同步播放基于浏览器的声音与灯光提示，现场指挥（The Smartphone Orchestra）。",
+   "keywords": [
+    "Venice lagoon",
+    "rights of nature",
+    "waterbodies",
+    "smartphone orchestra",
+    "collective ritual"
+   ],
+   "shown_at": [
+    "Venice Immersive 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JfM0pfHVkAs"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2026/Schede_film/970x647/Ve_Immersive/la_laguna_parla.jpg?itok=zwQWuIim"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2026/venice-immersive/la-laguna-parla",
+   "collections": [
+    "venice-immersive"
+   ]
+  },
+  {
+   "id": "sarah-silverblatt-buser--collective-body",
+   "creator_ids": [
+    "sarah-silverblatt-buser"
+   ],
+   "title": "Collective Body",
+   "year": 2025,
+   "field": "river",
+   "sub": "earth",
+   "senses": [
+    "body",
+    "collective-sense"
+   ],
+   "medium": [
+    "vr",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "A multi-user VR dance experience set in a New Mexican storm: an algorithm analyses how each participant moves and assigns them one of sixteen avatars, each a natural element (earth, air, water or fire) with its own musical theme, before they meet and move with the others.",
+   "description_zh": "设定在新墨西哥暴风雨中的多人 VR 舞蹈体验：算法分析每位参与者的动作，为其分配十六种化身之一——每种都是一种自然元素（土、气、水或火）并配有音乐主题——随后与他人相遇、共同起舞。",
+   "idea_en": "Your way of moving decides which element you become: embodiment as earth, air, water or fire rather than as a human figure.",
+   "idea_zh": "你的动作方式决定你成为哪种元素：以土、气、水或火而非人形来具身。",
+   "method": "Full-body tracked social VR with movement classification into a 4×4 grid of elements and energy phases (solid, liquid, gas, plasma) driving avatars and music.",
+   "method_zh": "全身追踪的社交 VR，把动作分类到元素与能量相态（固、液、气、等离子）组成的 4×4 网格中，驱动化身与音乐。",
+   "keywords": [
+    "elements",
+    "dance",
+    "movement classification",
+    "phases of matter",
+    "social VR"
+   ],
+   "shown_at": [
+    "Venice Immersive 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=c1uOAEL7Do8"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2025/Schede_film/970x647/Ve_Immersive/collective_body.jpg?itok=Ff8l25Pv"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2025/venice-immersive/collective-body",
+   "collections": [
+    "venice-immersive"
+   ]
+  },
+  {
+   "id": "within--life-of-us",
+   "creator_ids": [
+    "within",
+    "chris-milk"
+   ],
+   "title": "Life of Us",
+   "year": 2017,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "fish",
+    "bird"
+   ],
+   "senses": [
+    "body",
+    "hearing"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A shared VR journey through evolution in which two participants embody a chain of creatures — single cell, fish, frog, pterodactyl, ape, human and beyond — with their voices modulated to match each body.",
+   "description_zh": "双人共享的 VR 进化之旅：两位参与者依次化身单细胞、鱼、青蛙、翼龙、猿、人类及更远的形态，声音也随每具身体变化。",
+   "idea_en": "Evolution as a sequence of bodies you wear with a friend; seeing the other person's creature tells you what you have become.",
+   "idea_zh": "进化是一连串与朋友一起穿上的身体；看到对方的生物形态，你就知道自己变成了什么。",
+   "method": "Real-time multi-user VR with tracked hands and real-time voice modulation for each creature.",
+   "method_zh": "实时多人 VR，手部追踪，并为每种生物实时变声。",
+   "keywords": [
+    "evolution",
+    "fish",
+    "frog",
+    "pterodactyl",
+    "voice modulation",
+    "social VR"
+   ],
+   "shown_at": [
+    "Sundance New Frontier 2017"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RpyFs6O-328"
+   },
+   "source_url": "https://www.with.in",
+   "collections": [
+    "sundance-new-frontier"
+   ]
+  },
+  {
+   "id": "leanne-allison--bear-71",
+   "creator_ids": [
+    "leanne-allison",
+    "jeremy-mendes"
+   ],
+   "title": "Bear 71",
+   "year": 2012,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "screen",
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "An interactive documentary narrated by a female grizzly in Banff National Park, known only by her tag number, whose life is seen through trail cameras and a surveillance map; later adapted for VR.",
+   "description_zh": "由班夫国家公园一头只以标号为名的雌性灰熊讲述的互动纪录片，她的一生通过红外相机和监控地图呈现；后改编为 VR。",
+   "idea_en": "The wild animal's view of being watched: the bear narrates while the user moves through the camera network that tracks her.",
+   "idea_zh": "野生动物被观看的视角：灰熊讲述，用户在追踪她的相机网络中移动。",
+   "method": "WebGL map of Banff populated with trail-camera footage; the 2017 VR version (NFB with Jam3) turns the map into a walkable space.",
+   "method_zh": "以红外相机影像构成的班夫 WebGL 地图；2017 年 VR 版（加拿大国家电影局与 Jam3）把地图变成可走动的空间。",
+   "keywords": [
+    "grizzly bear",
+    "Banff",
+    "trail cameras",
+    "surveillance",
+    "NFB"
+   ],
+   "shown_at": [
+    "Sundance New Frontier 2012",
+    "IDFA DocLab 2012"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=2cVhaMC5Iv8"
+   },
+   "source_url": "https://www.nfb.ca/interactive/bear_71/",
+   "collections": [
+    "sundance-new-frontier",
+    "idfa-doclab"
+   ]
+  },
+  {
+   "id": "diego-galafassi--breathe",
+   "creator_ids": [
+    "diego-galafassi"
+   ],
+   "title": "Breathe",
+   "year": 2020,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "breath",
+    "collective-sense"
+   ],
+   "medium": [
+    "mr",
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A social mixed-reality piece that makes each participant's breath visible and follows it as air that passes between people, forests and oceans around the planet.",
+   "description_zh": "社交混合现实作品：让每位参与者的呼吸显形，并追随它作为空气在人、森林与海洋之间环绕地球流动。",
+   "idea_en": "Your breath is not yours: becoming the air shows how every exhalation joins a planetary atmosphere.",
+   "idea_zh": "你的呼吸并不属于你：成为空气，看到每一次呼气都汇入地球的大气。",
+   "method": "Breath sensing drives particle visualisations in a shared mixed-reality space (Magic Leap / VR headsets).",
+   "method_zh": "呼吸感测驱动共享混合现实空间中的粒子可视化（Magic Leap / VR 头显）。",
+   "keywords": [
+    "breath",
+    "air",
+    "atmosphere",
+    "social AR",
+    "Magic Leap"
+   ],
+   "shown_at": [
+    "Sundance New Frontier 2020"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8-pVNx5rpgg"
+   },
+   "source_url": "https://voicesofvr.com/888-sundance-breathe-visualizes-how-breath-connects-us-to-each-other-in-social-ar-experience/",
+   "collections": [
+    "sundance-new-frontier"
+   ]
+  },
+  {
+   "id": "bianca-kennedy--animalia-sum",
+   "creator_ids": [
+    "bianca-kennedy",
+    "swan-collective"
+   ],
+   "title": "Animalia Sum",
+   "year": 2020,
+   "field": "insect",
+   "sub": "insect-other",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "film360"
+   ],
+   "kind": "artwork",
+   "description": "A comic VR mockumentary about a future in which insects are humanity's main protein: the viewer becomes a bug, then a farmer milking bugs, and watches a boxing match between a bug and a whale.",
+   "description_zh": "一部喜剧 VR 伪纪录片，设想昆虫成为人类主要蛋白质来源的未来：观众先成为一只虫，再成为给虫挤奶的农夫，还观看虫与鲸的拳击赛。",
+   "idea_en": "Humour as a way into insect bodies: switching roles between eater and eaten questions how we rank animals.",
+   "idea_zh": "以幽默进入昆虫的身体：在吃与被吃之间切换角色，质疑我们如何给动物排序。",
+   "method": "Hand-sculpted miniatures captured with photogrammetry, animated with a Perception Neuron suit, delivered as interactive 360° on Oculus Go.",
+   "method_zh": "手工微缩雕塑经摄影测量采集，用 Perception Neuron 动捕服制作动画，在 Oculus Go 上以互动 360° 呈现。",
+   "keywords": [
+    "insects",
+    "insect protein",
+    "mockumentary",
+    "photogrammetry",
+    "whale"
+   ],
+   "shown_at": [
+    "Sundance New Frontier 2020"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vCmypkilkEY"
+   },
+   "source_url": "https://voicesofvr.com/901-sundance-animalia-sum-blends-humor-with-a-unique-aesthetic-of-photogrammetry-captured-sculptures/",
+   "collections": [
+    "sundance-new-frontier"
+   ]
+  },
+  {
+   "id": "arnaud-colinart--notes-on-blindness-vr",
+   "creator_ids": [
+    "arnaud-colinart",
+    "amaury-la-burthe"
+   ],
+   "title": "Notes on Blindness: Into Darkness",
+   "year": 2016,
+   "field": "mole",
+   "sub": "reduced",
+   "also": [
+    "bat"
+   ],
+   "senses": [
+    "hearing",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "A VR adaptation of theologian John Hull's audio diaries about losing his sight: the world appears only as faint blue shapes where sound comes from — rain, wind, voices.",
+   "description_zh": "改编自神学家 John Hull 失明后录音日记的 VR 作品：世界只在声音传来的地方显现为淡蓝色轮廓——雨、风、人声。",
+   "idea_en": "A world built from sound instead of sight: rain on a garden 'gives a contour to everything'.",
+   "idea_zh": "一个由声音而非视觉构成的世界：落在花园里的雨“给一切勾出轮廓”。",
+   "method": "Binaural audio with real-time rendering where geometry is revealed only by sound sources; gaze interaction on mobile and PC VR.",
+   "method_zh": "双耳音频结合实时渲染，几何只在声源处显现；在移动与 PC VR 上以视线交互。",
+   "keywords": [
+    "blindness",
+    "John Hull",
+    "binaural",
+    "rain",
+    "Peter Middleton",
+    "James Spinney"
+   ],
+   "shown_at": [
+    "Sundance New Frontier 2016",
+    "Tribeca Film Festival 2016"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Fj1HFTT1Qfk"
+   },
+   "source_url": "https://www.notesonblindness.co.uk",
+   "collections": [
+    "sundance-new-frontier",
+    "tribeca-immersive"
+   ]
+  },
+  {
+   "id": "miri-chekhanovich--plastisapiens",
+   "creator_ids": [
+    "miri-chekhanovich",
+    "edith-jorisch"
+   ],
+   "title": "Plastisapiens",
+   "year": 2022,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "fish"
+   ],
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A surreal interactive VR eco-fiction in which the participant embodies animals and altered humans whose bodies have absorbed plastic and become more fluid.",
+   "description_zh": "超现实的互动 VR 生态小说：参与者化身体内吸收了塑料、身体变得更加流动的动物与变异人类。",
+   "idea_en": "Becoming a plastic-permeated body: embodiment used for speculative, feminist eco-fiction rather than empathy.",
+   "idea_zh": "成为被塑料渗透的身体：具身被用于思辨的女性主义生态小说，而不是同理心。",
+   "method": "Real-time VR with body-tracked avatars that deform and merge; produced by the NFB and DPT.",
+   "method_zh": "实时 VR，身体追踪的化身会变形与融合；加拿大国家电影局与 DPT 出品。",
+   "keywords": [
+    "plastic",
+    "plastisphere",
+    "Heather Davis",
+    "Donna Haraway",
+    "NFB",
+    "DPT"
+   ],
+   "shown_at": [
+    "Tribeca Immersive 2022",
+    "IDFA DocLab 2022"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=UKuUlpfUi68"
+   },
+   "source_url": "https://voicesofvr.com/1105-tribeca-xr-embodiment-experiments-in-a-surrealist-speculative-future-feminist-eco-fiction-on-plastics-permeating-the-body-in-plastisapians/",
+   "collections": [
+    "tribeca-immersive",
+    "idfa-doclab"
+   ]
+  },
+  {
+   "id": "adam-may--critical-distance",
+   "creator_ids": [
+    "adam-may",
+    "chris-campkin"
+   ],
+   "title": "Critical Distance",
+   "year": 2021,
+   "field": "fish",
+   "sub": "cetacean",
+   "also": [
+    "bat"
+   ],
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "mr"
+   ],
+   "kind": "artwork",
+   "description": "A mixed-reality encounter with Kiki, a five-year-old Southern Resident orca, and her pod in the Salish Sea, showing how the pod lives by sound and how ship noise disrupts it.",
+   "description_zh": "与萨利希海南方定居虎鲸 Kiki（五岁）及其族群相遇的混合现实体验，展示族群如何依靠声音生活、船舶噪声又如何干扰它们。",
+   "idea_en": "Seeing echolocation as sound in space: the orcas' acoustic world becomes visible around your body.",
+   "idea_zh": "把回声定位看成空间中的声音：虎鲸的声学世界在你身边显形。",
+   "method": "Holographic orcas on Microsoft HoloLens 2 with spatialised clicks and calls visualised as sound in space.",
+   "method_zh": "在 Microsoft HoloLens 2 上呈现全息虎鲸，空间化的咔嗒声与叫声被可视化为空间中的声音。",
+   "keywords": [
+    "orca",
+    "Southern Resident killer whales",
+    "echolocation",
+    "ship noise",
+    "HoloLens 2",
+    "Salish Sea"
+   ],
+   "shown_at": [
+    "Tribeca Immersive 2021",
+    "Smithsonian National Museum of Natural History",
+    "Canadian Museum of Nature 2024"
+   ],
+   "images": [
+    "https://www.vision3.tv/imageworks/projects/critical-distance/hero.jpg?w=1200&cache=1a8c406e"
+   ],
+   "source_url": "https://www.vision3.tv/projects/critical-distance",
+   "collections": [
+    "tribeca-immersive"
+   ]
+  },
+  {
+   "id": "jonah-king--honey-fungus",
+   "creator_ids": [
+    "jonah-king"
+   ],
+   "title": "Honey Fungus",
+   "year": 2025,
+   "field": "fungi",
+   "sub": "symbiosis",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A series of embodied VR experiments set inside a queer, sentient fungal network, mixing AI-generated field-research poetry with actions that cultivate intimacy with ecology.",
+   "description_zh": "一系列具身 VR 实验，发生在一个酷儿的、有感知的真菌网络中，把 AI 生成的野外研究诗与培养生态亲密感的动作结合起来。",
+   "idea_en": "Intimacy with fungi as a model for relating to ecology: the body is asked to touch, feed and entangle rather than observe.",
+   "idea_zh": "以与真菌的亲密作为与生态相处的模型：身体被要求去触碰、喂养与缠绕，而不是观看。",
+   "method": "Four-headset VR installation with embodied hand interactions and AI-remixed text (Stevens Institute of Technology, Hybrid Studio).",
+   "method_zh": "四头显 VR 装置，具身手部交互与 AI 混编文本（Stevens 理工学院、Hybrid Studio）。",
+   "keywords": [
+    "honey fungus",
+    "Armillaria",
+    "queer ecology",
+    "fungal network",
+    "AI poetry"
+   ],
+   "shown_at": [
+    "SXSW XR Experience 2025"
+   ],
+   "images": [
+    "https://images.stevens.edu/mviowpldu823/3ShJAmNI9K9uuEqoTm0pA3/6c5d44432a6df69cddf1227ccee796cd/king_1.png"
+   ],
+   "source_url": "https://www.stevens.edu/news/honeyfungus",
+   "collections": [
+    "sxsw-xr"
+   ]
+  },
+  {
+   "id": "chris-milk--treachery-of-sanctuary",
+   "creator_ids": [
+    "chris-milk"
+   ],
+   "title": "The Treachery of Sanctuary",
+   "year": 2012,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A three-panel interactive installation in which visitors' shadows disintegrate into birds, are pecked apart by birds, and finally sprout giant wings that let them take flight.",
+   "description_zh": "三联屏互动装置：观众的影子先碎成飞鸟，再被鸟啄散，最后长出巨大的翅膀起飞。",
+   "idea_en": "Birth, death and transfiguration as a bird: the participant's own silhouette turns into flight.",
+   "idea_zh": "以鸟完成诞生、死亡与变形：参与者自己的剪影化为飞行。",
+   "method": "Kinect depth sensing and custom software project real-time silhouettes onto three large screens above a reflecting pool.",
+   "method_zh": "Kinect 深度感测与定制软件把实时剪影投到反射水池上方的三块大屏。",
+   "keywords": [
+    "birds",
+    "wings",
+    "shadow",
+    "Kinect",
+    "The Creators Project"
+   ],
+   "shown_at": [
+    "The Creators Project San Francisco 2012"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=I5__9hq-yas"
+   },
+   "source_url": "http://milk.co/treachery",
+   "collections": []
+  },
+  {
+   "id": "momoko-seto--planet-infinity",
+   "creator_ids": [
+    "momoko-seto"
+   ],
+   "title": "PLANET ∞",
+   "year": 2017,
+   "field": "fungi",
+   "sub": "mycelium",
+   "also": [
+    "fish"
+   ],
+   "senses": [
+    "time-scale",
+    "vision"
+   ],
+   "medium": [
+    "film360"
+   ],
+   "kind": "film",
+   "description": "A 360° organic tale set after human extinction: the viewer, at the scale of tiny organisms, sees fungi and mould growing among giant dried insect bodies until rain floods the planet and giant carnivorous tadpoles appear.",
+   "description_zh": "360° 有机寓言，设定在人类灭绝之后：观众处在微小生物的尺度，看见真菌与霉菌在巨大的干枯昆虫尸体间生长，直到雨水淹没星球、巨型食肉蝌蚪出现。",
+   "idea_en": "A post-human planet seen at the scale of mould: macro time-lapse makes fungi and tadpoles the inhabitants of the world.",
+   "idea_zh": "以霉菌的尺度看一个后人类星球：微距延时让真菌与蝌蚪成为世界的居民。",
+   "method": "Macro and time-lapse photography of real fungi, mould and tadpoles composited into stereoscopic 360° video with 3D audio (mk2 VR).",
+   "method_zh": "对真实真菌、霉菌与蝌蚪进行微距与延时拍摄，合成为立体 360° 影片并配 3D 音频（mk2 VR 出品）。",
+   "keywords": [
+    "mould",
+    "fungi",
+    "tadpoles",
+    "time-lapse",
+    "macro",
+    "post-human"
+   ],
+   "shown_at": [
+    "Cannes Film Festival 2017 (VR)",
+    "Locarno Film Festival 2017 (Virtual Reality)"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gKcmHYc4BtA"
+   },
+   "source_url": "https://mk2films.com/en/film/planet-%E2%88%9E/",
+   "collections": []
+  },
+  {
+   "id": "holition--world-beneath-our-feet",
+   "creator_ids": [
+    "holition",
+    "george-monbiot"
+   ],
+   "title": "The World Beneath Our Feet",
+   "year": 2022,
+   "field": "mole",
+   "sub": "underground",
+   "also": [
+    "fungi"
+   ],
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "installation",
+    "dome"
+   ],
+   "kind": "artwork",
+   "description": "An in-the-round digital installation that transports visitors underground and zooms into soil to show the abundance of microscopic life inside it.",
+   "description_zh": "环形数字装置，把观众带到地下，不断放大土壤，展现其中丰富的微观生命。",
+   "idea_en": "Soil as a living world to revere like a coral reef: descending to the scale of soil organisms.",
+   "idea_zh": "土壤是一个像珊瑚礁一样值得珍视的活世界：下沉到土壤生物的尺度。",
+   "method": "Multi-screen surround projection of animated microscopic soil life, based on research for Monbiot's book Regenesis.",
+   "method_zh": "多屏环绕投影呈现土壤微观生命动画，基于 Monbiot 著作《Regenesis》的研究。",
+   "keywords": [
+    "soil",
+    "microorganisms",
+    "nematodes",
+    "Regenesis",
+    "Barbican"
+   ],
+   "shown_at": [
+    "Our Time on Earth, Barbican 2022"
+   ],
+   "images": [
+    "https://holition-com-prod.s3.amazonaws.com/attachments/cl4mm86zv7f8w0gr3vlzcuj0t-barbican-cover.full.jpg",
+    "https://holition-com-prod.s3.amazonaws.com/attachments/cl3uehhfz6mqu0gr3ycxh3ouh-barbican-otoe-04-4.max.jpg"
+   ],
+   "source_url": "https://holition.com/work/barbican-the-world-beneath-our-feet",
+   "collections": [
+    "barbican-our-time-on-earth-2022"
+   ]
+  },
+  {
+   "id": "institute-of-digital-fashion--queer-ecology",
+   "creator_ids": [
+    "institute-of-digital-fashion",
+    "brigitte-baptiste"
+   ],
+   "title": "Queer Ecology",
+   "year": 2022,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "body",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "An interactive body-mapped installation in which visitors face two celestial beings made of twigs and plant growth that move with their bodies; the figures merge with the person next to them, grow, die and dissolve into pollen or star dust.",
+   "description_zh": "互动身体映射装置：访客面对两个由枝条与植物生长构成的天体般的存在，它们随访客的身体移动；这些形体会与旁边的人融合，生长、死亡，并消散为花粉或星尘。",
+   "idea_en": "'There is nothing more queer than nature': your mirrored body becomes a plant being that grows, decays and merges beyond binary identity.",
+   "idea_zh": "“没有什么比自然更酷儿”：镜像中的身体成为会生长、衰败、与他人融合的植物存在，超越二元身份。",
+   "method": "Real-time body tracking (with Target3D) mapped onto generative 3D plant-bodies on a large screen, with growth and decay cycles.",
+   "method_zh": "实时身体追踪（与 Target3D 合作）映射到大屏上的生成式三维植物身体，带有生长与衰败的循环。",
+   "keywords": [
+    "queer ecology",
+    "plant body",
+    "body mapping",
+    "pollen",
+    "Brigitte Baptiste",
+    "Target3D"
+   ],
+   "shown_at": [
+    "Our Time on Earth, Barbican 2022"
+   ],
+   "images": [
+    "https://cms.showstudio.com/images/HNQBYufe-PrUaVHJzif27CRwecg=/478522/width-1440/IoDF_Queer_Ecology_at_Barbican_Our_Time_on_Earth_Exhibition___Still_1.jpg",
+    "https://cms.showstudio.com/images/ws4nDndy7DiRXRN3_Q6-n9euN8s=/478523/width-1440/86AFB5F8-87BE-4F2C-B39A-CE6AB8A498D3_1_201_a.jpeg"
+   ],
+   "source_url": "https://www.showstudio.com/news/institute-of-digital-fashion-imagine-a-planet-beyond-the-binary",
+   "collections": [
+    "barbican-our-time-on-earth-2022"
+   ]
+  },
+  {
+   "id": "victoria-vesna--noise-aquarium",
+   "creator_ids": [
+    "victoria-vesna"
+   ],
+   "title": "Noise Aquarium",
+   "year": 2016,
+   "field": "fish",
+   "sub": "reef",
+   "senses": [
+    "hearing",
+    "body"
+   ],
+   "medium": [
+    "installation",
+    "dome"
+   ],
+   "kind": "artwork",
+   "description": "An immersive audio-visual installation of magnified 3D-scanned plankton in an underwater world; visitors are invited to make disruptive noise and watch its impact on the creatures.",
+   "description_zh": "沉浸式视听装置：放大的三维扫描浮游生物处在水下世界中；访客被邀请制造干扰性噪声，并看到它对这些生物的影响。",
+   "idea_en": "Feeling noise pollution from the plankton's side: tiny drifters made huge and vulnerable to sound.",
+   "idea_zh": "从浮游生物一侧感受噪声污染：微小的漂流者被放大，在声音面前脆弱。",
+   "method": "3D scientific imaging of plankton on projection or dome displays with ocean noise recordings; visitor input (sound, and in some versions a balance board) disturbs the scene.",
+   "method_zh": "浮游生物的三维科学成像，以投影或穹顶呈现并配合海洋噪声录音；访客的输入（声音，部分版本还有平衡板）会扰动画面。",
+   "keywords": [
+    "plankton",
+    "ocean noise",
+    "3D scanning",
+    "balance board",
+    "UCLA Art|Sci"
+   ],
+   "shown_at": [
+    "Ars Electronica Deep Space 2018",
+    "Our Time on Earth, Barbican 2022"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=SVtkPaa-LM8"
+   },
+   "source_url": "https://victoriavesna.com",
+   "collections": [
+    "ars-electronica",
+    "barbican-our-time-on-earth-2022"
+   ]
+  },
+  {
+   "id": "superflux--refuge-for-resurgence",
+   "creator_ids": [
+    "superflux"
+   ],
+   "title": "Refuge for Resurgence",
+   "year": 2021,
+   "field": "animal",
+   "sub": "multispecies",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A multispecies banquet table with seats, crockery and cutlery designed for fourteen species — from humans to wolf, rat, pigeon, moss and fungi — set in a post-flood home.",
+   "description_zh": "一张多物种宴会桌，为十四个物种——从人类到狼、老鼠、鸽子、苔藓与真菌——设计了座位、餐具与刀叉，置于洪水过后的家中。",
+   "idea_en": "Taking a seat as one species among many: design that asks visitors to imagine the table from other animals' needs.",
+   "idea_zh": "作为众多物种之一入座：以设计邀请访客从其他动物的需要出发想象这张桌子。",
+   "method": "Hand-carved wooden table and custom ceramic, glass and metal tableware for each species.",
+   "method_zh": "手工雕刻的木桌，以及为每个物种定制的陶瓷、玻璃与金属餐具。",
+   "keywords": [
+    "multispecies",
+    "banquet",
+    "wolf",
+    "pigeon",
+    "moss",
+    "speculative design"
+   ],
+   "shown_at": [
+    "Venice Architecture Biennale 2021",
+    "Our Time on Earth, Barbican 2022"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=s637PPO3Wl4"
+   },
+   "source_url": "https://superflux.in",
+   "collections": [
+    "barbican-our-time-on-earth-2022"
+   ]
+  },
+  {
+   "id": "ant-farm--dolphin-embassy",
+   "creator_ids": [
+    "ant-farm"
+   ],
+   "title": "Dolphin Embassy",
+   "year": 1974,
+   "field": "fish",
+   "sub": "cetacean",
+   "senses": [
+    "hearing",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "A research project for a floating marine centre where humans and dolphins would meet and communicate on equal terms, documented in drawings, models and video.",
+   "description_zh": "一个为人与海豚平等相遇与交流而设计的漂浮海洋中心的研究计划，以图纸、模型与影像记录。",
+   "idea_en": "An embassy between species: architecture designed to meet dolphins in their medium rather than in a tank.",
+   "idea_zh": "物种之间的大使馆：让建筑在海豚的介质中与它们相遇，而不是在水族箱里。",
+   "method": "Speculative architecture with planned underwater listening and video systems; realised as drawings, models and expeditions (1974–78).",
+   "method_zh": "思辨建筑，构想了水下聆听与影像系统；以图纸、模型与考察（1974–78）呈现。",
+   "keywords": [
+    "dolphins",
+    "interspecies communication",
+    "speculative architecture",
+    "Doug Michels"
+   ],
+   "shown_at": [
+    "More than Human, Design Museum 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=29y1NB6ELao"
+   },
+   "source_url": "https://designmuseum.org/exhibitions/more-than-human",
+   "collections": [
+    "design-museum-more-than-human-2025"
+   ]
+  },
+  {
+   "id": "shimabuku--sculpture-for-octopuses",
+   "creator_ids": [
+    "shimabuku"
+   ],
+   "title": "Sculpture for Octopuses: Exploring for Their Favorite Colors",
+   "year": 2010,
+   "field": "octopus",
+   "sub": "cephalopod",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "Small glass balls in many colours made for octopuses, thrown into the sea from a fishing boat and later placed in a tank at Suma Aqualife Park, Kobe, so the artist could film which colours the animals chose.",
+   "description_zh": "为章鱼制作的多色小玻璃球，先从渔船上投入海中，后又放进神户须磨海洋世界的大水箱，艺术家拍下章鱼会选择哪些颜色。",
+   "idea_en": "Art whose audience is an octopus: the work is completed by the animal's perception and choice.",
+   "idea_zh": "以章鱼为观众的艺术：作品由动物的感知与选择来完成。",
+   "method": "Hand-made glass objects offered to octopuses, documented as a slideshow of their reactions.",
+   "method_zh": "为章鱼手工制作的玻璃物件，以幻灯片记录章鱼的反应。",
+   "keywords": [
+    "octopus",
+    "colour",
+    "glass",
+    "animal audience"
+   ],
+   "shown_at": [
+    "More than Human, Design Museum 2025",
+    "Animals & Us, Turner Contemporary 2016"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=90ogkcNM_AY"
+   },
+   "source_url": "https://designmuseum.org/exhibitions/more-than-human",
+   "collections": [
+    "design-museum-more-than-human-2025"
+   ]
+  },
+  {
+   "id": "es-devlin--forest-of-us",
+   "creator_ids": [
+    "es-devlin"
+   ],
+   "title": "Forest of Us",
+   "year": 2021,
+   "field": "tree",
+   "sub": "forest",
+   "also": [
+    "river"
+   ],
+   "senses": [
+    "breath",
+    "vision"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A mirrored walk-through installation whose branching forms reveal the likeness between the bronchial tree of human lungs and the branching of trees, with a soundscape of breath.",
+   "description_zh": "镜面步行装置，其分支形态揭示人类支气管树与树木枝杈之间的相似，并伴随呼吸声景。",
+   "idea_en": "Breathing with trees: the lungs are shown as an inverted tree that completes the one outside.",
+   "idea_zh": "与树一起呼吸：肺被呈现为一棵倒置的树，与外面的树彼此补全。",
+   "method": "Mirrored maze, projected light and spatial sound composed around breathing and photosynthesis.",
+   "method_zh": "镜面迷宫、投影光与围绕呼吸和光合作用创作的空间声音。",
+   "keywords": [
+    "lungs",
+    "bronchial tree",
+    "breath",
+    "photosynthesis",
+    "Superblue"
+   ],
+   "shown_at": [
+    "Every Wall is a Door, Superblue Miami 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9n-hBp3th4E"
+   },
+   "images": [
+    "https://cdn.sanity.io/images/5olj48ug/production/fa21c3ed3ccdd9b1423db475848878c60093cc26-4758x3244.jpg?rect=0,379,4758,2486&w=1200&h=627&fit=crop"
+   ],
+   "source_url": "https://esdevlin.com/work/forest-of-us",
+   "collections": []
+  },
+  {
+   "id": "wolfgang-buttress--the-hive",
+   "creator_ids": [
+    "wolfgang-buttress"
+   ],
+   "title": "The Hive",
+   "year": 2015,
+   "field": "insect",
+   "sub": "bee",
+   "senses": [
+    "hearing",
+    "touch",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "A 17-metre aluminium lattice sculpture whose 1,000 LED lights and sound pulse in real time with the vibrations of a live honeybee colony; visitors can bite on a stick to hear the bees by bone conduction.",
+   "description_zh": "一座 17 米高的铝制格架雕塑，1000 盏 LED 灯与声音随一个活蜂群的振动实时脉动；访客可咬住小木棒，通过骨传导听见蜜蜂。",
+   "idea_en": "Sensing a colony as one body: the hive's vibrations become light, sound and a signal felt through the skull.",
+   "idea_zh": "把蜂群当作一个身体来感知：蜂巢的振动变成光、声音，以及经由颅骨感受到的信号。",
+   "method": "Accelerometers in a hive at Kew stream vibration data that drive LEDs and a composed soundscape; bone-conduction listening posts.",
+   "method_zh": "邱园蜂箱中的加速度计传出振动数据，驱动 LED 与作曲声景；设有骨传导聆听点。",
+   "keywords": [
+    "honeybees",
+    "vibration",
+    "bone conduction",
+    "Kew",
+    "Martin Bencsik",
+    "Expo Milano"
+   ],
+   "shown_at": [
+    "Expo Milano 2015 UK Pavilion",
+    "Royal Botanic Gardens Kew 2016"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kEsq8GREX9A"
+   },
+   "source_url": "https://www.wolfgangbuttress.com",
+   "collections": []
+  }
+ ],
+ "leads": [
+  {
+   "name": "Texada (Josephine Anderson & Claire Sanford)",
+   "why": "IDFA DocLab 2023 VR doc contrasting human and geological time through a limestone quarry; no public trailer found.",
+   "link": "https://voicesofvr.com/1332-texada-tells-the-story-of-limestone-across-geologic-time-with-animation-and-360-video/",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "We Are Dead Animals (Tote Tiere Maarten)",
+   "why": "IDFA DocLab 2025 VR game: revive, eat and recombine photogrammetry-scanned dead animals; closer to mortality than becoming.",
+   "link": "https://festival.idfa.nl/en/film/2199a031-3ed2-4e9d-8701-0a0cef4ceebe/we-are-dead-animals/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "The Oracle: Ritual for the Future (for humans and non-humans) (Victorine van Alphen)",
+   "why": "IDFA DocLab 2025 360° ritual where the audience is overtaken by non-human (AI) entities; machine field candidate.",
+   "link": "https://festival.idfa.nl/en/film/c3aac403-e1f4-4044-bd52-0801cecb9baa/the-oracle:-ritual-for-the-future-(for-humans-and-non-humans)/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "David Attenborough's Conquest of the Skies (Alchemy Immersive)",
+   "why": "Venice Immersive 2023 VR180 series on the evolution of flight; shows rather than embodies.",
+   "link": "https://www.labiennale.org/en/cinema/2023/venice-immersive/david-attenborough%E2%80%99s-conquest-skies",
+   "found_via": "alchemy-immersive",
+   "status": "off_topic"
+  },
+  {
+   "name": "Metamorphic (Sensorium: John Fitzgerald, Matthew Niederhauser, Wesley Allsbrook, Elie Zananiri)",
+   "why": "Sundance 2020 social VR of context-dependent, shape-shifting Quill bodies; not clearly non-human.",
+   "link": "https://voicesofvr.com/902-sundance-metamorphic-explores-context-dependent-embodiment-social-dynamics-with-remixed-quill-art/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Empathy Creatures",
+   "why": "Venice Immersive 2025 AI-driven virtual bird that senses visitors; encounter rather than embodiment.",
+   "link": "https://www.labiennale.org/en/cinema/2025/venice-immersive/empathy-creatures",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Birdly (Somniacs)",
+   "why": "Full-body red-kite flight simulator shown at Sundance New Frontier, SXSW, GIFF Tous Écrans 2014 and SIGGRAPH 2014 Emerging Technologies; left to animals/HCI batches — add to sundance-new-frontier when it exists.",
+   "link": "https://dl.acm.org/doi/10.1145/2614066.2614101",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Pollinator Pathmaker: Perceptual Field (Alexandra Daisy Ginsberg)",
+   "why": "Design Museum More than Human 2025 tapestry of a garden from a pollinator's perception; add to design-museum-more-than-human-2025 when animals-art writes it.",
+   "link": "https://designmuseum.org/exhibitions/more-than-human",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Marcus Coates, Nature Calendar",
+   "why": "Design Museum More than Human 2025; Coates' becoming-animal works (Dawn Chorus, Journey to the Lower World) belong to animals-art.",
+   "link": "https://designmuseum.org/exhibitions/more-than-human",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Once a Glacier",
+   "why": "IDFA DocLab 2022 360° glacier piece with motion-capture dance and Indigenous poetry; visual only.",
+   "link": "https://voicesofvr.com/1154-visualizing-melting-glaciers-in-360-video-story-in-once-a-glacier-mixing-motion-capture-dance-and-indigenous-poetry/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Tónandi (Sigur Rós & Magic Leap Studios)",
+   "why": "Venice VR 2019 mixed-reality creatures that play music at your touch; interaction rather than embodiment.",
+   "link": "https://www.labiennale.org/en/cinema/2019/venice-virtual-reality/t%C3%B3nandi",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Future Botanica (Polymorf)",
+   "why": "IDFA DocLab / SXSW 2025 generative-AI plant ecosystems for future climates; design of plants, not becoming.",
+   "link": "https://voicesofvr.com/1514-creating-genai-flower-ecosystem-with-future-botanica-ar-app/",
+   "found_via": "polymorf",
+   "status": "off_topic"
+  },
+  {
+   "name": "Namoo (Erick Oh)",
+   "why": "Sundance 2021 animated VR in which a tree grows alongside one man's life; tree as metaphor.",
+   "link": "https://www.pastemagazine.com/movies/sundance-2021/sundance-2021-new-frontier",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Solwata (Felix Gaedtke & Gayatri Parameswaran)",
+   "why": "Venice Immersive 2026 mixed reality on sea-level rise in the Solomon Islands; human community perspective, no nonhuman embodiment.",
+   "link": "https://www.labiennale.org/en/cinema/2026/venice-immersive/solwata",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Disneynature's Wolf: an immersive experience (Silverback Films)",
+   "why": "Venice Immersive 2026 Arctic wolf film; observational wildlife film.",
+   "link": "https://www.labiennale.org/en/cinema/2026/venice-immersive/disneynature%E2%80%99s-wolf-immersive-experience",
+   "found_via": "seed",
+   "status": "off_topic"
+  }
+ ]
+}

@@ -1,0 +1,3095 @@
+{
+ "batch": "plants-fungi",
+ "creators": [
+  {
+   "id": "milica-zec",
+   "name": "Milica Zec",
+   "kind": "person",
+   "role": "Film director and VR storyteller",
+   "role_zh": "电影导演与 VR 叙事创作者",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Serbian-born director and editor who co-founded the VR studio New Reality Co. with Winslow Porter; directed Giant and Tree.",
+   "bio_zh": "出生于塞尔维亚的导演与剪辑师，与 Winslow Porter 共同创办 VR 工作室 New Reality Co.，执导了《Giant》与《Tree》。",
+   "why": "Tree is the best-known VR work in which the participant's own body becomes a rainforest tree.",
+   "why_zh": "《Tree》是最知名的让参与者身体变成一棵雨林之树的 VR 作品。",
+   "disciplines": [
+    "film",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.treeofficial.com"
+   },
+   "connected_to": [
+    "winslow-porter",
+    "xin-liu",
+    "yedan-qian"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "winslow-porter",
+   "name": "Winslow Porter",
+   "kind": "person",
+   "role": "Immersive producer and creative director",
+   "role_zh": "沉浸式制片人与创意总监",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Co-founder of New Reality Co.; co-created Tree with Milica Zec and later Forager, a multisensory VR life cycle of a mushroom.",
+   "bio_zh": "New Reality Co. 联合创始人；与 Milica Zec 共同创作《Tree》，之后又创作了多感官 VR 作品《Forager》，呈现蘑菇的一生。",
+   "why": "Has made two of the main multisensory VR works about becoming a tree and becoming a fungus.",
+   "why_zh": "创作了“成为树”与“成为真菌”两类题材中最重要的两部多感官 VR 作品。",
+   "disciplines": [
+    "film",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.treeofficial.com"
+   },
+   "connected_to": [
+    "milica-zec",
+    "elie-zananiri"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "xin-liu",
+   "name": "Xin Liu",
+   "kind": "person",
+   "role": "Artist and engineer, co-founder of slow immediate",
+   "role_zh": "艺术家与工程师，slow immediate 工作室联合创始人",
+   "based": "Boston, US",
+   "based_zh": "波士顿，美国",
+   "bio": "Artist-engineer and MIT Media Lab alumna whose studio slow immediate (with Gershon Dublon) makes works on perception, the body and the environment.",
+   "bio_zh": "艺术家兼工程师，MIT Media Lab 校友；她与 Gershon Dublon 创办的工作室 slow immediate 关注感知、身体与环境。",
+   "why": "Co-created TreeSense, an EMS-based VR system in which your arms feel like growing branches.",
+   "why_zh": "共同创作 TreeSense：借助肌肉电刺激，让你在 VR 中感到手臂正长成树枝。",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://slowimmediate.com"
+   },
+   "connected_to": [
+    "yedan-qian",
+    "gershon-dublon",
+    "milica-zec"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yedan-qian",
+   "name": "Yedan Qian",
+   "kind": "person",
+   "role": "Interaction designer",
+   "role_zh": "交互设计师",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥，美国",
+   "bio": "Designer and MIT Media Lab alumna who co-created TreeSense with Xin Liu.",
+   "bio_zh": "设计师，MIT Media Lab 校友，与 Xin Liu 共同创作 TreeSense。",
+   "why": "TreeSense showed how haptic stimulation can make a tree body feel like one's own.",
+   "why_zh": "TreeSense 展示了触觉刺激如何让一具树的身体被感受为自己的身体。",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [
+    "xin-liu"
+   ],
+   "discovered_via": "xin-liu"
+  },
+  {
+   "id": "elie-zananiri",
+   "name": "Elie Zananiri",
+   "kind": "person",
+   "role": "Creative technologist",
+   "role_zh": "创意技术专家",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Creative coder and technical director of Forager, who built its volumetric time-lapse pipeline for mushroom growth.",
+   "bio_zh": "创意编程者，《Forager》技术总监，为蘑菇生长搭建了体积化延时摄影管线。",
+   "why": "Made fungal growth time perceivable as a place you inhabit in VR.",
+   "why_zh": "让真菌的生长时间变成可以在 VR 中身处其中的空间。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "winslow-porter"
+   ],
+   "discovered_via": "winslow-porter"
+  },
+  {
+   "id": "jakob-kudsk-steensen",
+   "name": "Jakob Kudsk Steensen",
+   "kind": "person",
+   "role": "Artist working with real-time simulation and ecology",
+   "role_zh": "以实时模拟与生态为媒介的艺术家",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "bio": "Danish artist who builds game-engine simulations of forests, swamps and extinct habitats from fieldwork with biologists and sound artists.",
+   "bio_zh": "丹麦艺术家，基于与生物学家、声音艺术家合作的田野调查，用游戏引擎构建森林、沼泽与消逝栖息地的模拟。",
+   "why": "His immersive ecosystems put visitors at the scale and tempo of roots, trees and wetlands rather than human sightseeing.",
+   "why_zh": "他的沉浸式生态让观众处在根系、树木与湿地的尺度和节奏里，而不是以人的观光视角观看。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.jakobsteensen.com"
+   },
+   "connected_to": [
+    "matt-mccorkle"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "natalia-cabrera",
+   "name": "Natalia Cabrera",
+   "kind": "person",
+   "role": "XR director, co-founder of Nanai Studio",
+   "role_zh": "XR 导演，Nanai Studio 联合创始人",
+   "based": "Santiago, Chile",
+   "based_zh": "圣地亚哥，智利",
+   "bio": "Chilean filmmaker and media artist (NYU ITP) who co-founded Nanai Studio with Selva Gonzalez; directed Hypha and Symbiotica.",
+   "bio_zh": "智利电影人与媒体艺术家（NYU ITP 毕业），与 Selva Gonzalez 共同创办 Nanai Studio，执导《Hypha》与《Symbiotica》。",
+   "why": "Her VR works let the participant become a fungus and a lichen's microorganisms.",
+   "why_zh": "她的 VR 作品让参与者成为一株真菌，或成为地衣中的微生物。",
+   "disciplines": [
+    "film",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.nanai.studio"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tosca-teran",
+   "name": "Tosca Terán",
+   "kind": "person",
+   "role": "Bio-sonification and bioart artist (Nanotopia)",
+   "role_zh": "生物声音化与生物艺术家（Nanotopia）",
+   "based": "Toronto, Canada",
+   "based_zh": "多伦多，加拿大",
+   "bio": "Interdisciplinary artist who, as Nanotopia, turns the electrical activity of living mycelium into music and immersive worlds.",
+   "bio_zh": "跨学科艺术家，以 Nanotopia 之名把活体菌丝的电活动转化为音乐与沉浸式世界。",
+   "why": "Her works connect living fungi to VR and to human biosignals, so participants share a feedback loop with mycelium.",
+   "why_zh": "她把活体真菌接入 VR 与人的生物信号，让参与者与菌丝处在同一个反馈回路里。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.toscateran.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sasa-spacal",
+   "name": "Saša Spačal",
+   "kind": "person",
+   "role": "Artist working with fungi, soil and biofeedback",
+   "role_zh": "以真菌、土壤与生物反馈为媒介的艺术家",
+   "based": "Ljubljana, Slovenia",
+   "based_zh": "卢布尔雅那，斯洛文尼亚",
+   "bio": "Slovenian artist whose studio Agapea builds living installations linking human bodies with mycelium, microbes and soil.",
+   "bio_zh": "斯洛文尼亚艺术家，工作室 Agapea 打造把人体与菌丝、微生物和土壤连接起来的活体装置。",
+   "why": "Myconnect placed a visitor's heartbeat inside a human-fungus-human feedback loop, a founding work of mycohuman art.",
+   "why_zh": "《Myconnect》把观众的心跳放进人—真菌—人的反馈回路，是“菌-人”艺术的奠基作品之一。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.agapea.si"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "spela-petric",
+   "name": "Špela Petrič",
+   "kind": "person",
+   "role": "Bioartist working on plant-human relations",
+   "role_zh": "研究植物与人关系的生物艺术家",
+   "based": "Ljubljana, Slovenia / Amsterdam, Netherlands",
+   "based_zh": "卢布尔雅那，斯洛文尼亚／阿姆斯特丹，荷兰",
+   "bio": "Slovenian artist with a PhD in biomedicine whose performances and lab works stage kinship between human bodies and plants.",
+   "bio_zh": "斯洛文尼亚艺术家，拥有生物医学博士学位，以表演与实验室作品呈现人体与植物之间的亲缘。",
+   "why": "Her Confronting Vegetal Otherness series tests how a human can meet a plant on the plant's own terms.",
+   "why_zh": "她的“直面植物他者性”系列探索人如何以植物自己的方式与植物相遇。",
+   "disciplines": [
+    "art",
+    "science"
+   ],
+   "links": {
+    "site": "https://www.spelapetric.org"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "heather-barnett",
+   "name": "Heather Barnett",
+   "kind": "person",
+   "role": "Artist and researcher working with slime mould",
+   "role_zh": "以黏菌为媒介的艺术家与研究者",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Artist and educator at Central Saint Martins who has collaborated with the slime mould Physarum polycephalum since 2009.",
+   "bio_zh": "中央圣马丁学院的艺术家与教育者，自 2009 年起与多头绒泡菌合作。",
+   "why": "Being Slime Mould asks groups of people to move and decide together as a single-celled organism does.",
+   "why_zh": "《Being Slime Mould》让一群人像单细胞生物那样一起移动、一起做决定。",
+   "disciplines": [
+    "art",
+    "science"
+   ],
+   "links": {
+    "site": "https://heatherbarnett.co.uk"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "agnes-meyer-brandis",
+   "name": "Agnes Meyer-Brandis",
+   "kind": "person",
+   "role": "Artist working between art and science",
+   "role_zh": "游走于艺术与科学之间的艺术家",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "bio": "German artist and founder of the Research Raft for Subsurface Forschung, known for poetic scientific experiments with trees, clouds and moons.",
+   "bio_zh": "德国艺术家，“地下研究筏”（FFUR）创办者，以关于树、云与月亮的诗意科学实验著称。",
+   "why": "One Tree ID turns a single tree's chemical signature into a perfume that people wear, so a human can smell like that tree.",
+   "why_zh": "《One Tree ID》把一棵树的化学特征制成香水让人佩戴，让人闻起来像那棵树。",
+   "disciplines": [
+    "art",
+    "science"
+   ],
+   "links": {
+    "site": "http://onetreeid.ffur.de"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jenna-sutela",
+   "name": "Jenna Sutela",
+   "kind": "person",
+   "role": "Artist working with living media and machine learning",
+   "role_zh": "以活体媒介与机器学习创作的艺术家",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "bio": "Finnish artist who works with slime mould, bacteria and neural networks to explore interspecies and machine language.",
+   "bio_zh": "芬兰艺术家，与黏菌、细菌和神经网络合作，探索跨物种与机器的语言。",
+   "why": "Treats microbes as co-authors whose movement and chemistry become language and sound.",
+   "why_zh": "把微生物当作共同作者，让它们的运动与化学变化成为语言与声音。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://jennasutela.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eduardo-kac",
+   "name": "Eduardo Kac",
+   "kind": "person",
+   "role": "Bioart and telepresence artist",
+   "role_zh": "生物艺术与远程临场艺术家",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "bio": "Brazilian-American artist who coined the term transgenic art; known for GFP Bunny and the plantimal Edunia.",
+   "bio_zh": "巴西裔美国艺术家，提出“转基因艺术”一词，代表作包括《GFP Bunny》与“植物动物”Edunia。",
+   "why": "Edunia literally makes the artist part plant, a petunia expressing his own DNA.",
+   "why_zh": "Edunia 让艺术家真正成为植物的一部分：一株表达他本人 DNA 的矮牵牛。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.ekac.org"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jae-rhim-lee",
+   "name": "Jae Rhim Lee",
+   "kind": "person",
+   "role": "Artist and founder of Coeio",
+   "role_zh": "艺术家，Coeio 创始人",
+   "based": "Oakland, US",
+   "based_zh": "奥克兰，美国",
+   "bio": "Artist and MIT-trained designer behind the Infinity Burial Project, which trains mushrooms to decompose human bodies.",
+   "bio_zh": "艺术家与 MIT 出身的设计师，发起“无限葬礼计划”，训练蘑菇分解人体。",
+   "why": "Proposes becoming fungal food as the final transformation of the body.",
+   "why_zh": "把身体最终化为真菌的养料，视为身体最后的转化。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://coeio.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ben-joseph-andrews",
+   "name": "Ben Joseph Andrews",
+   "kind": "person",
+   "role": "Director and XR artist",
+   "role_zh": "导演与 XR 艺术家",
+   "based": "Melbourne, Australia",
+   "based_zh": "墨尔本，澳大利亚",
+   "bio": "Australian director who with producer Emma Roberts made Gondwana, a 24-hour durational VR simulation of the Daintree rainforest.",
+   "bio_zh": "澳大利亚导演，与制片人 Emma Roberts 共同创作《Gondwana》——一部为期 24 小时的丹翠雨林持续性 VR 模拟。",
+   "why": "Gondwana lets visitors live inside forest time, where one year passes every 14 minutes.",
+   "why_zh": "《Gondwana》让观众生活在森林的时间里：每 14 分钟过去一年。",
+   "disciplines": [
+    "film",
+    "art"
+   ],
+   "links": {
+    "site": "https://gondwanavr.com"
+   },
+   "connected_to": [
+    "emma-roberts"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "emma-roberts",
+   "name": "Emma Roberts",
+   "kind": "person",
+   "role": "XR producer",
+   "role_zh": "XR 制片人",
+   "based": "Melbourne, Australia",
+   "based_zh": "墨尔本，澳大利亚",
+   "bio": "Australian producer and co-creator of Gondwana VR.",
+   "bio_zh": "澳大利亚制片人，《Gondwana VR》的共同创作者。",
+   "why": "Co-designed a forest simulation driven by climate projections to 2090.",
+   "why_zh": "共同设计了一个由 2090 年气候预测驱动的森林模拟。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://gondwanavr.com"
+   },
+   "connected_to": [
+    "ben-joseph-andrews"
+   ],
+   "discovered_via": "ben-joseph-andrews"
+  },
+  {
+   "id": "scenocosme",
+   "name": "Scenocosme",
+   "kind": "studio",
+   "role": "Interactive art duo (Grégory Lasserre & Anaïs met den Ancxt)",
+   "role_zh": "互动艺术双人组（Grégory Lasserre 与 Anaïs met den Ancxt）",
+   "based": "Lyon, France",
+   "based_zh": "里昂，法国",
+   "bio": "French duo who since 2007 have made installations in which living plants sense human touch and answer with sound.",
+   "bio_zh": "法国艺术双人组，自 2007 年起创作让活体植物感知人的触摸并以声音回应的装置。",
+   "why": "Akousmaflore makes the plant's electrical sensitivity to a human body audible.",
+   "why_zh": "《Akousmaflore》让植物对人体的电感应变得可以听见。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "http://www.scenocosme.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bartholomaus-traubeck",
+   "name": "Bartholomäus Traubeck",
+   "kind": "person",
+   "role": "Media artist",
+   "role_zh": "媒体艺术家",
+   "based": "Vienna, Austria",
+   "based_zh": "维也纳，奥地利",
+   "bio": "German-born media artist who translates natural structures into sound and data.",
+   "bio_zh": "出生于德国的媒体艺术家，把自然结构转译为声音与数据。",
+   "why": "Years plays tree rings as music, making a tree's life history audible.",
+   "why_zh": "《Years》把年轮当作唱片播放，让一棵树的生命史变得可听。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://traubeck.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marcus-maeder",
+   "name": "Marcus Maeder",
+   "kind": "person",
+   "role": "Sound artist and acoustic ecologist",
+   "role_zh": "声音艺术家与声学生态学者",
+   "based": "Zurich, Switzerland",
+   "based_zh": "苏黎世，瑞士",
+   "bio": "Swiss sound artist and researcher at ZHdK and ETH who records and sonifies the inner sounds of trees and soils.",
+   "bio_zh": "瑞士声音艺术家，苏黎世艺术大学与苏黎世联邦理工学院研究者，录制并声音化树木与土壤内部的声音。",
+   "why": "Makes a tree's drought stress audible as the sound of its own water transport.",
+   "why_zh": "让树木的干旱压力以其自身输水的声音被听见。",
+   "disciplines": [
+    "art",
+    "science"
+   ],
+   "links": {
+    "site": "https://blog.zhdk.ch/marcusmaeder/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "edwina-portocarrero",
+   "name": "Edwina Portocarrero",
+   "kind": "person",
+   "role": "Designer and researcher",
+   "role_zh": "设计师与研究者",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥，美国",
+   "bio": "Designer and former MIT Media Lab researcher (Responsive Environments) who led ListenTree.",
+   "bio_zh": "设计师，前 MIT Media Lab（Responsive Environments 组）研究者，主导 ListenTree。",
+   "why": "ListenTree turns living trees into audio-haptic speakers that you hear by embracing the trunk.",
+   "why_zh": "ListenTree 把活树变成音频—触觉扬声器，人抱住树干才能听见。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "gershon-dublon"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gershon-dublon",
+   "name": "Gershon Dublon",
+   "kind": "person",
+   "role": "Artist and engineer, co-founder of slow immediate",
+   "role_zh": "艺术家与工程师，slow immediate 联合创始人",
+   "based": "Boston, US",
+   "based_zh": "波士顿，美国",
+   "bio": "Artist-engineer and MIT Media Lab PhD who builds sensor networks in wetlands and forests; co-founded slow immediate with Xin Liu.",
+   "bio_zh": "艺术家兼工程师，MIT Media Lab 博士，在湿地与森林中搭建传感器网络；与 Xin Liu 共同创办 slow immediate。",
+   "why": "Co-created ListenTree, where sound travels through tree wood into the listener's body.",
+   "why_zh": "共同创作 ListenTree：声音经由树木传入聆听者的身体。",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {
+    "site": "https://slowimmediate.com"
+   },
+   "connected_to": [
+    "xin-liu",
+    "edwina-portocarrero"
+   ],
+   "discovered_via": "xin-liu"
+  },
+  {
+   "id": "alex-metcalf",
+   "name": "Alex Metcalf",
+   "kind": "person",
+   "role": "Designer, Tree Listening Project",
+   "role_zh": "设计师，Tree Listening 项目",
+   "based": "UK",
+   "based_zh": "英国",
+   "bio": "British designer (RCA) who developed the Tree Listening installation in 2007 to amplify the sounds inside living trees.",
+   "bio_zh": "英国设计师（皇家艺术学院毕业），2007 年开发 Tree Listening 装置，放大活树内部的声音。",
+   "why": "Invites people to hear water moving through a tree from inside its canopy.",
+   "why_zh": "邀请人们在树冠中聆听水在树体内的流动。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://treelistening.co.uk"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "theresa-schubert",
+   "name": "Theresa Schubert",
+   "kind": "person",
+   "role": "Artist working with fungi and simulation",
+   "role_zh": "以真菌与模拟为媒介的艺术家",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "bio": "German artist whose installations treat fungi and other organisms as co-creators; part of the Mind the Fungi project at TU Berlin.",
+   "bio_zh": "德国艺术家，其装置把真菌等生物视为共同创作者；参与柏林工业大学的 Mind the Fungi 项目。",
+   "why": "Lets visitors grow and steer a simulated mycelium with their hands.",
+   "why_zh": "让观众用双手培育并引导一片模拟菌丝。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.theresaschubert.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "microbihome-salford",
+   "name": "MICROBIhOME (University of Salford)",
+   "kind": "lab",
+   "role": "Science-art microbiome project",
+   "role_zh": "微生物组科学艺术项目",
+   "based": "Salford, UK",
+   "based_zh": "索尔福德，英国",
+   "bio": "University of Salford project led by microbiologist Chloe James with artist Paul Miller, building immersive installations about the human microbiome.",
+   "bio_zh": "索尔福德大学项目，由微生物学家 Chloe James 与艺术家 Paul Miller 合作，打造关于人体微生物组的沉浸式装置。",
+   "why": "Shrinks visitors to the scale of bacteria and phages inside the body.",
+   "why_zh": "把观众缩小到体内细菌与噬菌体的尺度。",
+   "disciplines": [
+    "science",
+    "art"
+   ],
+   "links": {
+    "site": "https://hub.salford.ac.uk/microbihome/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pia-spangenberger",
+   "name": "Pia Spangenberger",
+   "kind": "person",
+   "role": "Researcher in educational technology and VR",
+   "role_zh": "教育技术与 VR 研究者",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "bio": "Researcher at TU Berlin studying immersive VR for environmental education.",
+   "bio_zh": "柏林工业大学研究者，研究沉浸式 VR 在环境教育中的应用。",
+   "why": "Ran the first controlled studies of embodying a tree in VR and its effect on nature relatedness.",
+   "why_zh": "开展了首批关于在 VR 中化身为树及其对自然联结感影响的对照实验。",
+   "disciplines": [
+    "hci",
+    "science"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yuting-xue",
+   "name": "Yuting Xue",
+   "kind": "person",
+   "role": "Media artist and researcher",
+   "role_zh": "媒体艺术家与研究者",
+   "based": "Hong Kong, China",
+   "based_zh": "香港，中国",
+   "bio": "Researcher working with Elke Reinhuber on immersive works about plant sensing and human-plant symbiosis.",
+   "bio_zh": "与 Elke Reinhuber 合作，研究关于植物感知与人-植物共生的沉浸式作品。",
+   "why": "Bend to asks participants to sense light as plants do, through phototropic bending.",
+   "why_zh": "《Bend to》让参与者像植物那样通过向光弯曲来感知光。",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lone-koefoed-hansen",
+   "name": "Lone Koefoed Hansen",
+   "kind": "person",
+   "role": "Interaction design researcher",
+   "role_zh": "交互设计研究者",
+   "based": "Aarhus, Denmark",
+   "based_zh": "奥胡斯，丹麦",
+   "bio": "Associate professor at Aarhus University working on critical and aesthetic interaction design.",
+   "bio_zh": "奥胡斯大学副教授，研究批判性与审美性交互设计。",
+   "why": "Studied how designed encounters (Plant Radio, Plant Sensorium) make people sensitive to plant lives.",
+   "why_zh": "研究设计出的相遇（Plant Radio、Plant Sensorium）如何让人对植物的生命变得敏感。",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "michelle-chang",
+   "name": "Michelle Chang",
+   "kind": "person",
+   "role": "Design researcher",
+   "role_zh": "设计研究者",
+   "based": "Pittsburgh, US",
+   "based_zh": "匹兹堡，美国",
+   "bio": "Researcher who with Lining Yao's Morphing Matter Lab mapped the design space of human-plant interaction.",
+   "bio_zh": "与 Lining Yao 的 Morphing Matter Lab 合作，梳理了人-植物交互的设计空间。",
+   "why": "Her survey maps how HCI couples plant sensing with human input and output.",
+   "why_zh": "她的综述梳理了 HCI 如何把植物的感知与人的输入输出耦合起来。",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "regine-rapp",
+   "name": "Regine Rapp",
+   "kind": "person",
+   "role": "Art historian and curator, Art Laboratory Berlin",
+   "role_zh": "艺术史学者与策展人，Art Laboratory Berlin",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "bio": "Co-director of Art Laboratory Berlin, which curated the Nonhuman Networks and Mind the Fungi programmes.",
+   "bio_zh": "Art Laboratory Berlin 联合总监，策划了 Nonhuman Networks 与 Mind the Fungi 等项目。",
+   "why": "Wrote the reference survey of artists who perform with fungi.",
+   "why_zh": "撰写了关于与真菌共同表演的艺术家的代表性综述。",
+   "disciplines": [
+    "theory",
+    "art"
+   ],
+   "links": {
+    "site": "https://artlaboratory-berlin.org"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ze-gao",
+   "name": "Ze Gao",
+   "kind": "person",
+   "role": "Media art researcher",
+   "role_zh": "媒体艺术研究者",
+   "based": "Hong Kong, China",
+   "based_zh": "香港，中国",
+   "bio": "Researcher in computational media art and digital ecology.",
+   "bio_zh": "研究计算媒体艺术与数字生态。",
+   "why": "Proposed a framework for plant-centred rather than human-centred metaverse art.",
+   "why_zh": "提出了以植物而非以人为中心的元宇宙艺术框架。",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ndemic-creations",
+   "name": "Ndemic Creations",
+   "kind": "studio",
+   "role": "Game studio",
+   "role_zh": "游戏工作室",
+   "based": "Bristol, UK",
+   "based_zh": "布里斯托，英国",
+   "bio": "Studio founded by James Vaughan, creator of the pathogen strategy game Plague Inc.",
+   "bio_zh": "由 James Vaughan 创办的工作室，病原体策略游戏《Plague Inc.》的开发者。",
+   "why": "Plague Inc. casts the player as a microbe evolving to spread.",
+   "why_zh": "《Plague Inc.》让玩家扮演一种为扩散而演化的微生物。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://www.ndemiccreations.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "amanita-design",
+   "name": "Amanita Design",
+   "kind": "studio",
+   "role": "Independent game studio",
+   "role_zh": "独立游戏工作室",
+   "based": "Brno, Czech Republic",
+   "based_zh": "布尔诺，捷克",
+   "bio": "Czech studio known for hand-drawn adventure games such as Machinarium and Botanicula.",
+   "bio_zh": "捷克工作室，以《Machinarium》《Botanicula》等手绘冒险游戏闻名。",
+   "why": "Botanicula is played as tiny plant creatures travelling through a tree.",
+   "why_zh": "《Botanicula》以一群微小的植物生物的身份，在一棵树中旅行。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://amanita-design.net"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "data-garden",
+   "name": "Data Garden",
+   "kind": "company",
+   "role": "Plant-music company",
+   "role_zh": "植物音乐公司",
+   "based": "Philadelphia, US",
+   "based_zh": "费城，美国",
+   "bio": "Company founded by Joe Patitucci that makes MIDI Sprout and PlantWave, devices that turn plant bioelectric signals into music.",
+   "bio_zh": "由 Joe Patitucci 创办的公司，推出 MIDI Sprout 与 PlantWave，把植物生物电信号转化为音乐的设备。",
+   "why": "Made listening to a plant's signals an everyday consumer practice.",
+   "why_zh": "让聆听植物信号成为一种日常的消费实践。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://plantwave.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "breakpoint-one",
+   "name": "Breakpoint One",
+   "kind": "company",
+   "role": "XR studio",
+   "role_zh": "XR 工作室",
+   "based": "Halle, Germany",
+   "based_zh": "哈雷，德国",
+   "bio": "German XR studio that made VR Plant Journey with the Leibniz Institute of Plant Genetics and Crop Plant Research (IPK).",
+   "bio_zh": "德国 XR 工作室，与莱布尼茨植物遗传与作物研究所（IPK）合作开发《VR Plant Journey》。",
+   "why": "Puts players inside a canola plant's roots, leaves and seeds.",
+   "why_zh": "把玩家放进油菜植株的根、叶与种子之中。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://breakpoint.one"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "milica-zec--tree",
+   "creator_ids": [
+    "milica-zec",
+    "winslow-porter"
+   ],
+   "title": "Tree",
+   "year": 2017,
+   "field": "tree",
+   "sub": "tree",
+   "senses": [
+    "body",
+    "touch",
+    "smell"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A room-scale VR experience in which you grow from a seed into a giant Amazon rainforest tree, your arms becoming branches, until the forest around you burns.",
+   "description_zh": "一部房间尺度的 VR 体验：你从一粒种子长成亚马孙雨林中的参天大树，手臂变成树枝，直到周围的森林被大火吞没。",
+   "idea_en": "Becoming a tree means feeling growth, rootedness and helplessness in your own body, not watching deforestation from outside.",
+   "idea_zh": "成为一棵树，是在自己的身体里感受生长、扎根与无力，而不是从外面旁观森林砍伐。",
+   "method": "HTC Vive headset with a haptic vest, subwoofer floor, fans, heat and scents of earth and smoke; participants first plant a real seed.",
+   "method_zh": "HTC Vive 头显配合触觉背心、低频地板、风扇、热源以及泥土和烟雾的气味；参与者进入前先亲手种下一粒真实的种子。",
+   "keywords": [
+    "Amazon rainforest",
+    "kapok tree",
+    "deforestation",
+    "haptic vest",
+    "scent",
+    "Rainforest Alliance",
+    "New Reality Co."
+   ],
+   "shown_at": [
+    "Sundance New Frontier 2017",
+    "Tribeca Film Festival 2017",
+    "World Economic Forum Davos",
+    "TED 2017"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ERffRXjTAqM"
+   },
+   "images": [
+    "https://docubase.mit.edu/wp-content/uploads/2018/11/Tree-02-Still.jpg",
+    "https://voicesofvr.com/wp-content/uploads/2020/01/tree-vr-1102x473.jpg"
+   ],
+   "source_url": "https://www.treeofficial.com"
+  },
+  {
+   "id": "xin-liu--treesense",
+   "creator_ids": [
+    "xin-liu",
+    "yedan-qian"
+   ],
+   "title": "TreeSense",
+   "year": 2016,
+   "field": "tree",
+   "sub": "tree",
+   "senses": [
+    "touch",
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "vr",
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A sensory VR system that turns you into a tree from seedling to full size to its felling; electrical muscle stimulation lets you feel branches growing and a bird landing on your arm.",
+   "description_zh": "一套感官 VR 系统，让你从幼苗长成大树直至被砍伐；肌肉电刺激让你感到树枝在生长、一只鸟落在你的手臂上。",
+   "idea_en": "Tactile illusions on the forearm are enough to make a branch feel like part of your own body.",
+   "idea_zh": "只需前臂上的触觉错觉，就能让一根树枝被感受为自己身体的一部分。",
+   "method": "VR headset with Leap Motion hand tracking and an EMS unit with electrodes on the forearms, timed to growth, wind, worms and birds.",
+   "method_zh": "VR 头显配合 Leap Motion 手部追踪，以及贴在前臂的肌肉电刺激电极，与生长、风、虫与鸟的事件同步。",
+   "keywords": [
+    "EMS",
+    "electrical muscle stimulation",
+    "Leap Motion",
+    "body ownership",
+    "MIT Media Lab"
+   ],
+   "shown_at": [
+    "MIT Media Lab exhibition 2016",
+    "Core77 Design Awards 2017 (Interaction, Student Runner-up)"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Kbx29NMgbOM"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5ad5566e96e76f1dbbd692b4/1526317496399-ZEEQEAU6E2P8234HYDD4/large.jpg",
+    "https://s3files.core77.com/blog/images/619606_75884_64289_roLeAXei2.jpg"
+   ],
+   "source_url": "https://slowimmediate.com/treesense"
+  },
+  {
+   "id": "jakob-kudsk-steensen--catharsis",
+   "creator_ids": [
+    "jakob-kudsk-steensen",
+    "matt-mccorkle"
+   ],
+   "title": "Catharsis",
+   "year": 2019,
+   "field": "tree",
+   "sub": "forest",
+   "senses": [
+    "time-scale",
+    "hearing",
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "screen",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "A large-scale simulation of an imaginary old-growth forest, undisturbed for centuries, which the camera traverses in one continuous shot from watery roots to the canopy.",
+   "description_zh": "一个大尺度的虚构原始森林模拟，数百年未受干扰；镜头以一个连续长镜头从湿润的根部穿行到树冠。",
+   "idea_en": "Moving vertically through a single forest, root to crown, gives the visitor the tree's axis and timescale instead of a walker's path.",
+   "idea_zh": "沿着一片森林从根到冠垂直穿行，给观众的是树的轴线与时间尺度，而不是行人的路线。",
+   "method": "Game-engine environment built from 3D textures and field recordings of North American forests with synchronised spatial audio by Matt McCorkle.",
+   "method_zh": "游戏引擎构建的环境，素材来自北美森林的 3D 纹理与野外录音，由 Matt McCorkle 制作同步空间音频。",
+   "keywords": [
+    "old-growth forest",
+    "roots",
+    "canopy",
+    "Unreal Engine",
+    "spatial audio",
+    "fieldwork"
+   ],
+   "shown_at": [
+    "Pinchuk Art Centre Kyiv 2019",
+    "Serpentine Galleries (Connect BTS) 2020"
+   ],
+   "video": {
+    "url": "https://vimeo.com/354440480"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1592830825054-H2OACWH4WCJIP1WQZI9R/HG4_3835.jpg",
+    "https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1580933640745-O2BZLKORG89FGFEYTAWW/6.jpg"
+   ],
+   "source_url": "https://www.jakobsteensen.com/catharsis"
+  },
+  {
+   "id": "jakob-kudsk-steensen--re-animated",
+   "creator_ids": [
+    "jakob-kudsk-steensen",
+    "matt-mccorkle"
+   ],
+   "title": "RE-ANIMATED",
+   "year": 2018,
+   "field": "tree",
+   "sub": "forest",
+   "also": [
+    "bird"
+   ],
+   "senses": [
+    "hearing",
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "vr",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A VR and video work that rebuilds the lost Kauaʻi forest habitat of the ʻōʻō, a bird declared extinct in 1987, around the last recording of its unanswered mating call.",
+   "description_zh": "一部 VR 与影像作品，围绕 1987 年宣告灭绝的考艾岛 ʻōʻō 鸟最后一段无人回应的求偶鸣叫，重建它失去的考艾岛森林栖息地。",
+   "idea_en": "An extinct ecosystem can be re-entered only as a distorted digital memory, heard through the call of its last inhabitant.",
+   "idea_zh": "一个灭绝的生态系统只能作为扭曲的数字记忆被重新进入，经由最后一只居民的叫声被听见。",
+   "method": "Photogrammetry and field recordings from Kauaʻi assembled into a real-time game-engine world, shown as room-scale VR and multichannel video.",
+   "method_zh": "把考艾岛的摄影测量与野外录音组装成实时游戏引擎世界，以房间尺度 VR 与多频道影像呈现。",
+   "keywords": [
+    "Kauaʻi ʻōʻō",
+    "extinction",
+    "Hawaii",
+    "photogrammetry",
+    "birdsong"
+   ],
+   "shown_at": [
+    "Future Generation Art Prize, Venice Biennale 2019",
+    "Tranen Contemporary Art Center"
+   ],
+   "video": {
+    "url": "https://vimeo.com/291992820"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1559670358502-6MH7CSTUHA5XIJ84S8L0/second+Venice+21.jpg"
+   ],
+   "source_url": "https://www.jakobsteensen.com/re-animated"
+  },
+  {
+   "id": "jakob-kudsk-steensen--the-deep-listener",
+   "creator_ids": [
+    "jakob-kudsk-steensen"
+   ],
+   "title": "The Deep Listener",
+   "year": 2019,
+   "field": "tree",
+   "sub": "forest",
+   "also": [
+    "bat",
+    "bird",
+    "insect"
+   ],
+   "senses": [
+    "hearing",
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "ar",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "An augmented reality walk through Hyde Park and Kensington Gardens that reveals five species usually beyond human notice: London plane trees, bats, parakeets, reedbeds and azure damselflies.",
+   "description_zh": "一次穿行海德公园与肯辛顿花园的增强现实漫步，揭示五种通常逃过人类注意的物种：伦敦悬铃木、蝙蝠、长尾鹦鹉、芦苇床与天蓝豆娘。",
+   "idea_en": "The park is re-heard through its nonhuman residents, with the London plane tree as the infrastructure everything else depends on.",
+   "idea_zh": "通过非人类居民重新聆听公园，伦敦悬铃木则是其余一切所依赖的基础设施。",
+   "method": "Smartphone AR app with location-triggered 3D models and spatial audio from recordings of each species, including ultrasonic bat calls made audible.",
+   "method_zh": "智能手机 AR 应用，按位置触发 3D 模型与各物种的空间音频录音，包括被转为可听范围的蝙蝠超声。",
+   "keywords": [
+    "London plane tree",
+    "bats",
+    "parakeets",
+    "reedbeds",
+    "damselfly",
+    "Hyde Park",
+    "Google Arts & Culture"
+   ],
+   "shown_at": [
+    "Serpentine Augmented Architecture commission 2019"
+   ],
+   "video": {
+    "url": "https://vimeo.com/351470817"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1614095935755-M0XR28UWTQMZZAGJ1EOJ/1.hero.png"
+   ],
+   "source_url": "https://www.jakobsteensen.com/the-deep-listener"
+  },
+  {
+   "id": "jakob-kudsk-steensen--pando-endo",
+   "creator_ids": [
+    "jakob-kudsk-steensen"
+   ],
+   "title": "Pando Endo",
+   "year": 2017,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "time-scale",
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A virtual root organism, built from photos of aspen bark, moss and roots, that grows through glass cabinets toward light while four virtual drones inspect it.",
+   "description_zh": "一个虚拟的根系生物，由白杨树皮、苔藓与根的照片构成，朝着光穿破玻璃柜生长，四架虚拟无人机在旁巡视。",
+   "idea_en": "A clonal root system (named after the aspen colony Pando) is shown as an agent that seeks light and breaks containment.",
+   "idea_zh": "一个克隆根系（以白杨克隆群 Pando 命名）被呈现为追光、突破围困的行动者。",
+   "method": "Real-time procedural simulation of textures and tentacle-like roots programmed to move toward light sources.",
+   "method_zh": "实时程序化模拟，纹理与触手般的根被编程为向光源移动。",
+   "keywords": [
+    "aspen",
+    "Pando",
+    "roots",
+    "phototropism",
+    "procedural simulation"
+   ],
+   "video": {
+    "url": "https://vimeo.com/242398982"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1519256845242-RUJXBP50XRS8WQQKCQCH/HighresScreenshot00000.jpg"
+   ],
+   "source_url": "https://www.jakobsteensen.com/pando-endo-1"
+  },
+  {
+   "id": "jakob-kudsk-steensen--boreal-dreams",
+   "creator_ids": [
+    "jakob-kudsk-steensen"
+   ],
+   "title": "Boreal Dreams",
+   "year": 2025,
+   "field": "tree",
+   "sub": "forest",
+   "senses": [
+    "time-scale",
+    "hearing"
+   ],
+   "medium": [
+    "installation",
+    "screen",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "A live simulation and online artwork that travels the boreal forest from North America to Scandinavia, linking changes in the forest to how humans sleep and dream.",
+   "description_zh": "一件实时模拟与线上作品，横越从北美到斯堪的纳维亚的北方针叶林，把森林的变化与人类的睡眠和梦联系起来。",
+   "idea_en": "The world's largest forest is presented as a regulator of light, heat and rest that humans share.",
+   "idea_zh": "世界最大的森林被呈现为人类共享的光、热与休息的调节者。",
+   "method": "Game-engine simulation with spatialised sound, plus an interactive online experience.",
+   "method_zh": "游戏引擎模拟配合空间化声音，并附有线上互动体验。",
+   "keywords": [
+    "boreal forest",
+    "taiga",
+    "sleep",
+    "dreams",
+    "live simulation"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1736942325438-DGP6W3X1FGRO6R5RSP6R/HighresScreenshot00186.png"
+   ],
+   "source_url": "https://www.jakobsteensen.com/boreal-dreams"
+  },
+  {
+   "id": "ben-joseph-andrews--gondwana",
+   "creator_ids": [
+    "ben-joseph-andrews",
+    "emma-roberts"
+   ],
+   "title": "Gondwana",
+   "year": 2022,
+   "field": "tree",
+   "sub": "forest",
+   "senses": [
+    "time-scale",
+    "hearing",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A 24-hour durational VR simulation of the Daintree rainforest in which one year passes every 14 minutes, running climate projections from 1990 to 2090.",
+   "description_zh": "一部为期 24 小时的丹翠雨林持续性 VR 模拟：每 14 分钟过去一年，运行 1990 年至 2090 年的气候预测。",
+   "idea_en": "You live inside the forest's timescale and watch it change; the longer audiences stay, the more resilient it becomes.",
+   "idea_zh": "你生活在森林的时间尺度里看着它变化；观众停留得越久，森林就越有韧性。",
+   "method": "Multiplayer real-time simulation of 40,000–50,000 forest assets over 30 virtual acres with generative sound from 40 hours of field recordings.",
+   "method_zh": "多人实时模拟，在 30 英亩虚拟空间中放置四五万个森林资产，并以 40 小时野外录音生成声音。",
+   "keywords": [
+    "Daintree",
+    "rainforest",
+    "climate projection",
+    "durational",
+    "generative sound"
+   ],
+   "shown_at": [
+    "Sundance New Frontier 2022",
+    "MIFF 2022",
+    "Wales Millennium Centre"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Gtzm-QQ9vhM"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5b66737e1137a610ce01c2e3/90b64393-a27c-4cb7-842d-5683b54d1186/Gondwana_Sunrise.png",
+    "https://voicesofvr.com/wp-content/uploads/2022/01/gondwana-vr-1102x473.jpg"
+   ],
+   "source_url": "https://gondwanavr.com"
+  },
+  {
+   "id": "breakpoint-one--vr-plant-journey",
+   "creator_ids": [
+    "breakpoint-one"
+   ],
+   "title": "VR Plant Journey",
+   "year": 2021,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "time-scale",
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "game",
+   "description": "A VR game set inside a canola plant: in three chapters (root, leaf, seed) you regulate nutrients, feed chloroplasts with CO2 and water, and grow the plant to flowering.",
+   "description_zh": "一款发生在油菜植株内部的 VR 游戏：在根、叶、种子三章中，你调节养分、把二氧化碳和水投给叶绿体，让植物长到开花。",
+   "idea_en": "Plant physiology becomes a set of tasks you perform from inside the plant's organs.",
+   "idea_zh": "植物生理变成了你在植物器官内部亲手完成的一系列任务。",
+   "method": "Room-scale VR game for PC VR and Meta Quest, developed with plant researchers at IPK Gatersleben.",
+   "method_zh": "面向 PC VR 与 Meta Quest 的房间尺度 VR 游戏，与 IPK 植物研究者合作开发。",
+   "keywords": [
+    "canola",
+    "photosynthesis",
+    "chloroplast",
+    "roots",
+    "IPK",
+    "education"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HUmYauXEclM"
+   },
+   "images": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1487650/header.jpg?t=1628582017"
+   ],
+   "source_url": "https://breakpoint.one/vr-plant-journey/"
+  },
+  {
+   "id": "amanita-design--botanicula",
+   "creator_ids": [
+    "amanita-design"
+   ],
+   "title": "Botanicula",
+   "year": 2012,
+   "field": "tree",
+   "sub": "plant",
+   "also": [
+    "fungi"
+   ],
+   "senses": [
+    "vision",
+    "hearing"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A point-and-click adventure played as five small plant creatures (a seed, a twig, a mushroom and others) who journey through a giant tree to save its last seed from parasites.",
+   "description_zh": "一款点击冒险游戏，玩家操控五个小小的植物生物（种子、小树枝、蘑菇等），穿越一棵巨树，从寄生虫手中救下它最后一粒种子。",
+   "idea_en": "The tree is a whole world seen at the scale of its seeds, leaves and fungi.",
+   "idea_zh": "这棵树是一个完整的世界，以种子、叶子与真菌的尺度被看见。",
+   "method": "Hand-drawn 2D adventure game with a soundtrack by DVA; PC, Mac and mobile.",
+   "method_zh": "手绘 2D 冒险游戏，配乐由 DVA 创作；支持 PC、Mac 与移动端。",
+   "keywords": [
+    "seed",
+    "tree",
+    "mushroom",
+    "parasites",
+    "point-and-click",
+    "DVA"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=UxeaS4Pq4EY"
+   },
+   "images": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/207690/header.jpg"
+   ],
+   "source_url": "https://amanita-design.net/games/botanicula.html"
+  },
+  {
+   "id": "agnes-meyer-brandis--one-tree-id",
+   "creator_ids": [
+    "agnes-meyer-brandis"
+   ],
+   "title": "One Tree ID – How To Become A Tree For Another Tree",
+   "year": 2019,
+   "field": "tree",
+   "sub": "tree",
+   "senses": [
+    "smell",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "The volatile organic compounds of one specific tree are collected and made into a perfume; visitors wear it next to the tree and so carry its chemical identity.",
+   "description_zh": "收集一棵特定树木释放的挥发性有机化合物并制成香水；观众在树旁涂上它，从而携带这棵树的化学身份。",
+   "idea_en": "Trees talk in scent; wearing a tree's scent lets a human join, speculatively, in that chemical conversation.",
+   "idea_zh": "树以气味交流；佩戴一棵树的气味，让人得以推测性地加入这场化学对话。",
+   "method": "Headspace sampling of the tree's VOCs, analysed with atmospheric chemists and recomposed by a perfumer into a wearable scent.",
+   "method_zh": "以顶空采样收集树的挥发性有机物，与大气化学家分析后由调香师重组为可佩戴的香水。",
+   "keywords": [
+    "VOC",
+    "volatile organic compounds",
+    "perfume",
+    "black pine",
+    "Himalayan cedar",
+    "stone pine",
+    "olfaction"
+   ],
+   "shown_at": [
+    "Ars Electronica Festival 2019",
+    "KONTEJNER Zagreb",
+    "Kersnikova Ljubljana"
+   ],
+   "video": {
+    "url": "https://vimeo.com/328989340"
+   },
+   "images": [
+    "https://ars.electronica.art/outofthebox/files/2019/08/One-Tree-ID-How-To-Becoma-A-Tree-For-Another-Tree-Agnes-Brandis.jpg",
+    "http://onetreeid.ffur.de/wp-content/uploads/2020/11/Start_1440x690_OneTreeID_5.jpg"
+   ],
+   "source_url": "http://onetreeid.ffur.de/"
+  },
+  {
+   "id": "scenocosme--akousmaflore",
+   "creator_ids": [
+    "scenocosme"
+   ],
+   "title": "Akousmaflore",
+   "year": 2007,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "touch",
+    "hearing"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A small garden of living plants that sing when touched or approached; each plant has its own voice and responds to the electrical charge of a visitor's body.",
+   "description_zh": "一座由活体植物组成的小花园，被触摸或靠近时会发声；每株植物都有自己的声音，回应观众身体的电荷。",
+   "idea_en": "Plants are sensitive to us all the time; the work makes that sensitivity audible.",
+   "idea_zh": "植物一直在感知我们；这件作品让这种感知变得可以听见。",
+   "method": "Capacitive sensing through the plants' own tissue triggers individual sound compositions.",
+   "method_zh": "通过植物自身组织进行电容感应，触发各自的声音作品。",
+   "keywords": [
+    "capacitive sensing",
+    "interactive plants",
+    "sound",
+    "touch"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1hae2Fwrqn8"
+   },
+   "source_url": "http://www.scenocosme.com/akousmaflore_en.htm"
+  },
+  {
+   "id": "bartholomaus-traubeck--years",
+   "creator_ids": [
+    "bartholomaus-traubeck"
+   ],
+   "title": "Years",
+   "year": 2011,
+   "field": "tree",
+   "sub": "tree",
+   "senses": [
+    "time-scale",
+    "hearing"
+   ],
+   "medium": [
+    "installation",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "A turntable that plays slices of tree trunk: a camera reads the year rings and a generative system turns their thickness and texture into piano music.",
+   "description_zh": "一台播放树干切片的唱机：摄像头读取年轮，生成系统把年轮的宽窄与纹理转化为钢琴音乐。",
+   "idea_en": "A tree's lifetime of growth becomes audible as a piece of music, one ring per year.",
+   "idea_zh": "一棵树一生的生长被听成一首乐曲，一圈年轮对应一年。",
+   "method": "Modified turntable with a camera and vvvv software mapping ring strength, thickness and growth rate to a harmonic scale.",
+   "method_zh": "改装唱机配合摄像头与 vvvv 软件，把年轮强度、厚度与生长速率映射到和声音阶上。",
+   "keywords": [
+    "tree rings",
+    "dendrochronology",
+    "turntable",
+    "vvvv",
+    "sonification"
+   ],
+   "video": {
+    "url": "https://vimeo.com/30501143"
+   },
+   "images": [
+    "https://traubeck.com/wp-content/uploads/2018/11/years_2-640x433.jpg"
+   ],
+   "source_url": "https://traubeck.com/works/years"
+  },
+  {
+   "id": "marcus-maeder--trees-pinus-sylvestris",
+   "creator_ids": [
+    "marcus-maeder"
+   ],
+   "title": "trees: Pinus sylvestris",
+   "year": 2015,
+   "field": "tree",
+   "sub": "tree",
+   "senses": [
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "installation",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "An installation that plays the acoustic emissions of a Scots pine in the Swiss Alps together with sonified measurements of its sap flow, trunk diameter and soil moisture.",
+   "description_zh": "一件装置，播放瑞士阿尔卑斯山一棵欧洲赤松的声发射，以及其树液流、树干直径与土壤湿度测量数据的声音化结果。",
+   "idea_en": "A thirsty tree makes sounds humans cannot hear; amplified, they let us listen to drought from inside the tree.",
+   "idea_zh": "口渴的树会发出人听不到的声音；放大后，我们得以从树的内部聆听干旱。",
+   "method": "Contact and ultrasonic sensors on the trunk plus ecophysiological sensors, from the SNSF research project 'trees: Rendering Ecophysiological Processes Audible'.",
+   "method_zh": "树干上的接触式与超声传感器加上生理生态传感器，来自瑞士国家科学基金项目“trees：让生理生态过程可听”。",
+   "keywords": [
+    "Scots pine",
+    "acoustic emissions",
+    "drought stress",
+    "sap flow",
+    "sonification",
+    "ZHdK",
+    "WSL"
+   ],
+   "shown_at": [
+    "COP21 Paris 2015"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0KfrcUQdpr4"
+   },
+   "source_url": "https://www.researchcatalogue.net/view/215961/215962"
+  },
+  {
+   "id": "edwina-portocarrero--listentree",
+   "creator_ids": [
+    "edwina-portocarrero",
+    "gershon-dublon"
+   ],
+   "title": "ListenTree",
+   "year": 2015,
+   "field": "tree",
+   "sub": "tree",
+   "senses": [
+    "hearing",
+    "touch"
+   ],
+   "medium": [
+    "installation",
+    "audio"
+   ],
+   "kind": "prototype",
+   "description": "Living trees fitted with bone-conduction transducers become near-silent speakers: a passer-by hears the voices inside a tree only when she embraces or leans on it.",
+   "description_zh": "装有骨传导换能器的活树成为几乎无声的扬声器：路人只有抱住或倚靠树干时，才能听见树里的声音。",
+   "idea_en": "Listening through the wood of a tree puts the listener in bodily contact with it; the tree becomes the medium.",
+   "idea_zh": "透过树木聆听，让聆听者与树发生身体接触；树成为媒介本身。",
+   "method": "Bone-conduction transducers attached to the tree (likely at the root flare) vibrate the wood; the sound is felt as much as heard, and content can be live environmental audio.",
+   "method_zh": "骨传导换能器固定在树上（可能在树根基部）使木材振动；声音既被听见也被感到，内容可以是实时的环境声音。",
+   "keywords": [
+    "bone conduction",
+    "audio-haptic",
+    "trees",
+    "MIT Media Lab",
+    "Responsive Environments"
+   ],
+   "shown_at": [
+    "CHI 2015"
+   ],
+   "video": {
+    "url": "https://vimeo.com/125915832"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5ad5566e96e76f1dbbd692b4/1526257603302-K52NIYW4XD2EGWO13ITZ/IMG_3569-2-edited.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2702613.2725437",
+    "doi": "10.1145/2702613.2725437",
+    "venue": "CHI EA 2015",
+    "title": "ListenTree: Audio-Haptic Display in the Natural Environment"
+   },
+   "source_url": "https://slowimmediate.com/listentree"
+  },
+  {
+   "id": "alex-metcalf--tree-listening",
+   "creator_ids": [
+    "alex-metcalf"
+   ],
+   "title": "Tree Listening",
+   "year": 2007,
+   "field": "tree",
+   "sub": "tree",
+   "senses": [
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "installation",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "A listening installation on a living tree: visitors put on headphones connected to the trunk and branches and hear the popping and crackling of water moving inside the tree.",
+   "description_zh": "一件装在活树上的聆听装置：观众戴上与树干和枝条相连的耳机，听树体内部水分流动时的噼啪声。",
+   "idea_en": "The tree's own drinking becomes audible to a human pressed close to it.",
+   "idea_zh": "让贴近树的人听见树自己“喝水”的声音。",
+   "method": "Sensitive contact microphones on branches and trunk amplify cavitation and water transport and route it to headphones.",
+   "method_zh": "枝干上的高灵敏接触式麦克风放大空穴化与输水的声音，并传到耳机中。",
+   "keywords": [
+    "contact microphone",
+    "xylem",
+    "cavitation",
+    "canopy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=u07Z7BnMenY"
+   },
+   "images": [
+    "https://treelistening.co.uk/wp-content/uploads/2025/09/sound-of-trees.png"
+   ],
+   "source_url": "https://treelistening.co.uk/"
+  },
+  {
+   "id": "spela-petric--skotopoiesis",
+   "creator_ids": [
+    "spela-petric"
+   ],
+   "title": "Confronting Vegetal Otherness: Skotopoiesis",
+   "year": 2015,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "time-scale",
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "A durational performance in which the artist stands facing germinating cress for hours, her shadow blanching the seedlings into a pale imprint of her body.",
+   "description_zh": "一场持续性表演：艺术家面对正在发芽的水芹站立数小时，她的影子让幼苗变白，形成她身体的苍白印记。",
+   "idea_en": "Communication with a plant happens through light and its absence, on the plant's timescale rather than ours.",
+   "idea_zh": "与植物的交流通过光与光的缺席发生，按植物而非人的时间尺度进行。",
+   "method": "Light projection onto cress; the artist's shadow triggers etiolation via phytochrome light sensors, while she herself shrinks slightly from standing.",
+   "method_zh": "光投射在水芹上；艺术家的影子经由植物的光敏色素引发黄化，而她自己也因久站而略微变矮。",
+   "keywords": [
+    "cress",
+    "etiolation",
+    "phytochrome",
+    "shadow",
+    "durational performance"
+   ],
+   "shown_at": [
+    "Trust Me, I'm an Artist (Kapelica Gallery) 2015",
+    "Prix Ars Electronica 2016 (Award of Distinction, Hybrid Art, series)"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5aeca48a506fbe863b23a8b6/1525552300442-FEP7QGQK17Y9ULKP8HCH/scotopoiesis_press_04.jpg"
+   ],
+   "source_url": "https://www.spelapetric.org/scotopoiesis/"
+  },
+  {
+   "id": "spela-petric--phytoteratology",
+   "creator_ids": [
+    "spela-petric"
+   ],
+   "title": "Confronting Vegetal Otherness: Phytoteratology",
+   "year": 2016,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "installation",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "Plant embryos of thale cress are grown in an artificial womb from tissue fed with steroid hormones extracted from the artist's urine, producing human-plant 'monsters'.",
+   "description_zh": "拟南芥的植物胚在人工子宫中培育，组织以从艺术家尿液中提取的类固醇激素喂养，生成人—植物“怪物”。",
+   "idea_en": "Kinship between human and plant is made molecular: the artist's hormones shape a plant body.",
+   "idea_zh": "人与植物的亲缘被落实到分子层面：艺术家的激素塑造了一个植物的身体。",
+   "method": "Somatic embryogenesis in sterile gel medium, supplemented with hormones isolated from the artist's urine.",
+   "method_zh": "在无菌凝胶培养基中进行体细胞胚胎发生，并添加从艺术家尿液中分离的激素。",
+   "keywords": [
+    "Arabidopsis",
+    "somatic embryogenesis",
+    "hormones",
+    "urine",
+    "bioart"
+   ],
+   "shown_at": [
+    "Prix Ars Electronica 2016 (Award of Distinction, Hybrid Art)"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5aeca48a506fbe863b23a8b6/1534189733741-1EUWR4JLBX43M635NE6J/MG_6180.jpg"
+   ],
+   "source_url": "https://www.spelapetric.org/phytoteratology/"
+  },
+  {
+   "id": "spela-petric--strange-encounters",
+   "creator_ids": [
+    "spela-petric"
+   ],
+   "title": "Confronting Vegetal Otherness: Strange Encounters",
+   "year": 2017,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "performance",
+    "installation"
+   ],
+   "kind": "performance",
+   "description": "The second piece of the series: a set of staged encounters that test the artist's own affective responses to plants as different as algae, grass and birch.",
+   "description_zh": "该系列的第二部作品：一组设计过的相遇，检验艺术家本人面对藻类、草与桦树等截然不同的植物时的情感反应。",
+   "idea_en": "Plant subjectivity is approached through human affect in specific encounters, not by claiming to know the plant.",
+   "idea_zh": "通过具体相遇中人的情感去接近植物的主体性，而不是声称了解植物。",
+   "method": "Live performative experiments with plants documented on video during a two-week exhibition.",
+   "method_zh": "为期两周的展览中与植物进行的现场表演性实验，并以影像记录。",
+   "keywords": [
+    "plant alterity",
+    "affect",
+    "performance",
+    "birch",
+    "algae"
+   ],
+   "video": {
+    "url": "https://vimeo.com/198560496"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5aeca48a506fbe863b23a8b6/1526322878983-UO0158JOGJKC9A2GFXYI/15877652_10154849002759603_1268027415_o.jpg"
+   ],
+   "source_url": "https://www.spelapetric.org/strange-encounters/"
+  },
+  {
+   "id": "spela-petric--deep-phytocracy",
+   "creator_ids": [
+    "spela-petric"
+   ],
+   "title": "Confronting Vegetal Otherness: Deep Phytocracy",
+   "year": 2019,
+   "field": "tree",
+   "sub": "forest",
+   "senses": [
+    "collective-sense",
+    "body"
+   ],
+   "medium": [
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "A participatory walk in urban wilderness in which the audience explores feral plant communities with 'recombinant tools' built from ecology, forestry, myth and politics.",
+   "description_zh": "一场在城市荒野中的参与式漫步，观众用由生态学、林学、神话与政治构成的“重组工具”探索野生植物群落。",
+   "idea_en": "Plant communities are treated as political bodies that govern space; humans learn to read their governance.",
+   "idea_zh": "植物群落被视为治理空间的政治体；人学习去解读它们的治理。",
+   "method": "Guided group performance with custom handheld objects and field exercises.",
+   "method_zh": "带领团体表演，配合定制的手持物件与野外练习。",
+   "keywords": [
+    "feral plants",
+    "phytopolitics",
+    "urban wilderness",
+    "participatory walk"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5aeca48a506fbe863b23a8b6/1558468356376-STD1MYWLNNX4I8GJ5UNH/_85A1325_Photo_Miha_Godec-3.jpg"
+   ],
+   "source_url": "https://www.spelapetric.org/deep-phytocracy-feral-songs/"
+  },
+  {
+   "id": "spela-petric--pl-ai",
+   "creator_ids": [
+    "spela-petric"
+   ],
+   "title": "PL'AI",
+   "year": 2020,
+   "field": "tree",
+   "sub": "plant",
+   "also": [
+    "robot"
+   ],
+   "senses": [
+    "time-scale",
+    "touch"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "Over several months, cress seedlings and an AI robot whose whole perceptual world is those plants play with each other, each shaping the other's behaviour and form.",
+   "description_zh": "在数月中，水芹幼苗与一台以这些植物为全部感知世界的 AI 机器人彼此“玩耍”，互相塑造对方的行为与形态。",
+   "idea_en": "Play is proposed as a shared condition of plants and machines, at plant speed.",
+   "idea_zh": "“玩耍”被提出为植物与机器共有的存在状态，并按植物的速度展开。",
+   "method": "Robot arm with camera and machine-learning model interacting with growing plants; documented as time-lapse.",
+   "method_zh": "配备摄像头与机器学习模型的机械臂与生长中的植物互动，以延时摄影记录。",
+   "keywords": [
+    "AI",
+    "robot",
+    "cress",
+    "play",
+    "time-lapse",
+    "Kersnikova"
+   ],
+   "shown_at": [
+    "Kersnikova Institute Ljubljana 2020"
+   ],
+   "video": {
+    "url": "https://vimeo.com/561021288"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5aeca48a506fbe863b23a8b6/1621255859914-VEJU1B7LODW2FEE7YDOR/KERSNIKOVA_Spela_Petric_PLAY_20201206_HanaJosic-48.jpg"
+   ],
+   "source_url": "https://www.spelapetric.org/plai/"
+  },
+  {
+   "id": "spela-petric--humalga",
+   "creator_ids": [
+    "spela-petric"
+   ],
+   "title": "Humalga: Towards the Human Spore",
+   "year": 2013,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A speculative art-research project, with Robertina Šebjanič, proposing a genetically hybridised human-alga species that alternates between human and algal generations.",
+   "description_zh": "与 Robertina Šebjanič 合作的思辨性艺术研究项目，提出一种人与藻类基因杂交的物种，在人类世代与藻类世代之间交替。",
+   "idea_en": "Imagines humans surviving collapse by becoming, every other generation, a simple photosynthetic organism.",
+   "idea_zh": "设想人类通过每隔一代成为简单的光合生物来度过崩溃。",
+   "method": "Speculative biotech proposal presented through laboratory props, diagrams and texts.",
+   "method_zh": "以实验室道具、图解与文本呈现的思辨生物技术提案。",
+   "keywords": [
+    "algae",
+    "human spore",
+    "xenogenesis",
+    "speculative design",
+    "Robertina Šebjanič"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5aeca48a506fbe863b23a8b6/1534193649598-TEPJUL8Q67UC8QHP04UM/humalga-03.jpg"
+   ],
+   "source_url": "https://www.spelapetric.org/humalga/"
+  },
+  {
+   "id": "eduardo-kac--edunia",
+   "creator_ids": [
+    "eduardo-kac"
+   ],
+   "title": "Natural History of the Enigma (Edunia)",
+   "year": 2009,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A 'plantimal': a genetically engineered petunia that expresses the artist's own DNA in the red veins of its petals.",
+   "description_zh": "一种“植物动物”：经基因改造的矮牵牛，在花瓣的红色脉纹中表达艺术家本人的 DNA。",
+   "idea_en": "The artist becomes partly plant; the line between human and flower is drawn in a single gene.",
+   "idea_zh": "艺术家部分地成为植物；人与花的界限由一个基因划出。",
+   "method": "An immunoglobulin gene sequence isolated from the artist's blood was inserted into petunia and expressed only in the flower veins.",
+   "method_zh": "从艺术家血液中分离的一段免疫球蛋白基因序列被导入矮牵牛，只在花脉中表达。",
+   "keywords": [
+    "transgenic art",
+    "petunia",
+    "plantimal",
+    "DNA",
+    "Weisman Art Museum"
+   ],
+   "shown_at": [
+    "Weisman Art Museum 2009",
+    "Prix Ars Electronica 2009 Golden Nica (Hybrid Art)"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=dJmsSmM_9ns"
+   },
+   "images": [
+    "https://www.ekac.org/kac.nat.hist.enigma.01.jpg"
+   ],
+   "source_url": "https://www.ekac.org/nat.hist.enig.html"
+  },
+  {
+   "id": "spela-petric--reading-lips",
+   "creator_ids": [
+    "spela-petric"
+   ],
+   "title": "Institute for Inconspicuous Languages: Reading Lips",
+   "year": 2018,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "An attempt to hold a conversation with a ficus tree: computer vision reads the opening and closing of the stomata on its leaves, and the human answers with a code of light.",
+   "description_zh": "一次与榕树对话的尝试：计算机视觉读取其叶片气孔的开合，人则以光的编码回应。",
+   "idea_en": "A plant's 'lips' (stomata) are treated as a language; conversing with it takes years at the plant's pace.",
+   "idea_zh": "植物的“嘴唇”（气孔）被当作一种语言；与它对话需要按植物的节奏花上数年。",
+   "method": "Microscope camera and computer-vision model tracking stomatal aperture on Ficus benjamina leaves, paired with controllable light signals.",
+   "method_zh": "显微摄像头与计算机视觉模型追踪垂叶榕叶片气孔的开合，并与可控的光信号配对。",
+   "keywords": [
+    "Ficus benjamina",
+    "stomata",
+    "computer vision",
+    "light code",
+    "interspecies language",
+    "Kapelica Gallery"
+   ],
+   "shown_at": [
+    "Kapelica Gallery / Kersnikova 2018",
+    "European ARTificial Intelligence Lab"
+   ],
+   "video": {
+    "url": "https://vimeo.com/457493103"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5aeca48a506fbe863b23a8b6/1600016130132-1NOFOTHIQXG2OIOKVMUM/190418+E%CC%82pela+Petriu%CC%88+-+Nociceptor_branje+ustnic_foto.miha.fras_030.JPG"
+   ],
+   "source_url": "https://www.spelapetric.org/institute-for-inconspicuous-languages/"
+  },
+  {
+   "id": "data-garden--plantwave",
+   "creator_ids": [
+    "data-garden"
+   ],
+   "title": "PlantWave",
+   "year": 2019,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "hearing"
+   ],
+   "medium": [
+    "wearable",
+    "audio"
+   ],
+   "kind": "product",
+   "description": "A consumer device that clips electrodes to a plant's leaves and turns its changing electrical signals into music in real time through a phone app.",
+   "description_zh": "一款消费级设备：把电极夹在植物叶片上，经由手机应用把植物不断变化的电信号实时转化为音乐。",
+   "idea_en": "Plant music as an everyday way of tuning in to a plant's physiology, at home or outdoors.",
+   "idea_zh": "把植物音乐当作日常中调频植物生理状态的方式，无论在家还是户外。",
+   "method": "Electrodes measure variations in the plant's conductivity; the signal is graphed as a wave and mapped to pitches and instruments; successor to the MIDI Sprout (2015).",
+   "method_zh": "电极测量植物导电性的变化，信号被绘成波形并映射到音高与乐器；是 MIDI Sprout（2015）的后续产品。",
+   "keywords": [
+    "plant music",
+    "bioelectric signals",
+    "sonification",
+    "MIDI Sprout",
+    "Data Garden"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=j_EyNEbdELI"
+   },
+   "images": [
+    "http://plantwave.com/cdn/shop/files/plantwave.png?v=1678040631"
+   ],
+   "source_url": "https://plantwave.com/"
+  },
+  {
+   "id": "pia-spangenberger--becoming-nature",
+   "creator_ids": [
+    "pia-spangenberger"
+   ],
+   "title": "Becoming nature: effects of embodying a tree in immersive virtual reality on nature relatedness",
+   "year": 2022,
+   "field": "tree",
+   "sub": "tree",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "An experiment (N = 28) in which participants embodied a tree through its life, in immersive VR or on a desktop screen, with small branch movements via controllers.",
+   "description_zh": "一项实验（N = 28）：参与者在沉浸式 VR 或桌面屏幕中化身为一棵树经历其一生，并可用手柄做出轻微的树枝动作。",
+   "idea_en": "Only VR participants described the experience in the first person as the tree, and only they reflected on their role as humans toward nature.",
+   "idea_zh": "只有 VR 组的参与者以树的第一人称描述体验，也只有他们反思了人对自然的角色。",
+   "method": "HMD vs. desktop between-subjects study measuring nature relatedness, perspective-taking and immersion with mixed methods.",
+   "method_zh": "头显与桌面的组间实验，以混合方法测量自然联结感、观点采择与沉浸感。",
+   "keywords": [
+    "tree embodiment",
+    "nature relatedness",
+    "perspective-taking",
+    "immersion"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-05184-0/MediaObjects/41598_2022_5184_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41598-022-05184-0",
+    "doi": "10.1038/s41598-022-05184-0",
+    "venue": "Scientific Reports 2022",
+    "title": "Becoming nature: effects of embodying a tree in immersive virtual reality on nature relatedness"
+   },
+   "source_url": "https://www.nature.com/articles/s41598-022-05184-0"
+  },
+  {
+   "id": "pia-spangenberger--embodying-nature-multisensory",
+   "creator_ids": [
+    "pia-spangenberger"
+   ],
+   "title": "Embodying nature in immersive virtual reality: Are multisensory stimuli vital to affect nature connectedness and pro-environmental behaviour?",
+   "year": 2024,
+   "field": "tree",
+   "sub": "tree",
+   "senses": [
+    "multisensory",
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "A follow-up study on embodying a tree in VR that tests whether added multisensory stimuli change nature connectedness and pro-environmental behaviour.",
+   "description_zh": "关于在 VR 中化身为树的后续研究，检验加入多感官刺激是否会改变自然联结感与亲环境行为。",
+   "idea_en": "Asks which senses matter when a human is asked to feel like a tree.",
+   "idea_zh": "追问：当人被要求感受自己是一棵树时，哪些感官真正重要。",
+   "method": "Controlled VR experiment comparing visual-only and multisensory tree embodiment conditions.",
+   "method_zh": "对照 VR 实验，比较仅视觉与多感官两种化身为树的条件。",
+   "keywords": [
+    "tree embodiment",
+    "multisensory",
+    "nature connectedness",
+    "pro-environmental behaviour"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.compedu.2023.104964",
+    "doi": "10.1016/j.compedu.2023.104964",
+    "venue": "Computers & Education 2024",
+    "title": "Embodying nature in immersive virtual reality: Are multisensory stimuli vital to affect nature connectedness and pro-environmental behaviour?"
+   },
+   "source_url": "https://doi.org/10.1016/j.compedu.2023.104964"
+  },
+  {
+   "id": "yuting-xue--bend-to",
+   "creator_ids": [
+    "yuting-xue"
+   ],
+   "title": "Bend to",
+   "year": 2025,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "body",
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "An immersive work set in a future of strong UV radiation where participants track and anticipate how plants bend toward and away from light, using their own hand and body position.",
+   "description_zh": "一件设定在紫外辐射增强的未来的沉浸式作品，参与者用自己的手和身体位置去追随、预判植物如何向光或背光弯曲。",
+   "idea_en": "Phototropism becomes a proprioceptive sense the participant shares with the plant.",
+   "idea_zh": "向光性成为参与者与植物共享的本体感觉。",
+   "method": "3D scans and time-lapse photography of real plants' light responses played back in VR with hand tracking.",
+   "method_zh": "把真实植物对光反应的 3D 扫描与延时摄影在 VR 中回放，并结合手部追踪。",
+   "keywords": [
+    "phototropism",
+    "proprioception",
+    "UV",
+    "time-lapse",
+    "3D scanning",
+    "post-human"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3698061.3726945",
+    "doi": "10.1145/3698061.3726945",
+    "venue": "C&C 2025",
+    "title": "Bend to: Explore the Proprioceptive Interaction Between Plants and Post-humans in an Immersive Experience"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/3698061.3726945"
+  },
+  {
+   "id": "lone-koefoed-hansen--plant-sensorium",
+   "creator_ids": [
+    "lone-koefoed-hansen"
+   ],
+   "title": "Encountering Human-Plant Relations (Plant Radio, Plant Sensorium)",
+   "year": 2024,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "multisensory",
+    "hearing"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "paper",
+   "description": "A study of two design experiments, Plant Radio and Plant Sensorium, and the kinds of sensibility toward plants that arose when people interacted with them.",
+   "description_zh": "研究两个设计实验——Plant Radio 与 Plant Sensorium——以及人们与之互动时对植物产生的各种感受力。",
+   "idea_en": "Design can tune human attention to plants rather than simulate being one.",
+   "idea_zh": "设计可以调校人对植物的注意力，而不是模拟成为植物。",
+   "method": "Interviews and observations around two interactive plant installations.",
+   "method_zh": "围绕两件互动植物装置进行访谈与观察。",
+   "keywords": [
+    "Plant Radio",
+    "Plant Sensorium",
+    "more-than-human",
+    "sensibility"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3643834.3661586",
+    "doi": "10.1145/3643834.3661586",
+    "venue": "DIS 2024",
+    "title": "Encountering Human-Plant Relations: a Discussion of How Interaction Design Can encourage Human Sensibility to More-than-human Plants"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/3643834.3661586"
+  },
+  {
+   "id": "michelle-chang--human-plant-interaction",
+   "creator_ids": [
+    "michelle-chang"
+   ],
+   "title": "Patterns and Opportunities for the Design of Human-Plant Interaction",
+   "year": 2022,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "touch",
+    "multisensory"
+   ],
+   "medium": [
+    "installation",
+    "wearable"
+   ],
+   "kind": "paper",
+   "description": "A survey of human-plant interaction projects across HCI, art, architecture and bioengineering, organised by system architecture, plant I/O coupling and scale.",
+   "description_zh": "一篇综述，梳理 HCI、艺术、建筑与生物工程中的人-植物交互项目，按系统架构、植物输入输出耦合与尺度分类。",
+   "idea_en": "Plants are sensors and actuators in their own right; the survey maps how designs couple their senses with ours.",
+   "idea_zh": "植物本身就是传感器与执行器；这篇综述梳理设计如何把它们的感官与我们的连接起来。",
+   "method": "Systematic review and design-space analysis.",
+   "method_zh": "系统综述与设计空间分析。",
+   "keywords": [
+    "human-plant interaction",
+    "survey",
+    "plant sensing",
+    "design space"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3532106.3533555",
+    "doi": "10.1145/3532106.3533555",
+    "venue": "DIS 2022",
+    "title": "Patterns and Opportunities for the Design of Human-Plant Interaction"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/3532106.3533555"
+  },
+  {
+   "id": "ze-gao--plant-centric-metaverse",
+   "creator_ids": [
+    "ze-gao"
+   ],
+   "title": "Plant-Centric Metaverse: A Biocentric-Creation Framework for Ecological Art and Digital Symbiosis",
+   "year": 2025,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "collective-sense"
+   ],
+   "medium": [
+    "vr",
+    "screen"
+   ],
+   "kind": "paper",
+   "description": "Proposes the Biocentric-Creation Transformation Ideology framework and tests it on bio-art, NFT and VR ecosystem case studies from 2013 to 2023.",
+   "description_zh": "提出“生物中心创作转化理念”（BCTI）框架，并以 2013—2023 年的生物艺术、NFT 与 VR 生态案例加以检验。",
+   "idea_en": "Moves digital ecological art from human-centred narratives toward plant agency and plant-algorithm co-creation.",
+   "idea_zh": "推动数字生态艺术从以人为中心的叙事转向植物的能动性与植物-算法共创。",
+   "method": "Framework building with multimodal case-study analysis.",
+   "method_zh": "框架构建与多模态案例分析。",
+   "keywords": [
+    "plant agency",
+    "metaverse",
+    "bio-art",
+    "digital symbiosis"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2508.04391",
+    "arxiv": "2508.04391",
+    "venue": "arXiv 2025",
+    "title": "Plant-Centric Metaverse: A Biocentric-Creation Framework for Ecological Art and Digital Symbiosis"
+   },
+   "source_url": "https://arxiv.org/abs/2508.04391"
+  },
+  {
+   "id": "winslow-porter--forager",
+   "creator_ids": [
+    "winslow-porter",
+    "elie-zananiri"
+   ],
+   "title": "Forager",
+   "year": 2023,
+   "field": "fungi",
+   "sub": "mycelium",
+   "senses": [
+    "time-scale",
+    "smell",
+    "touch"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A multisensory VR story in which you begin as a spore, spread as mycelium through a rotting stump and burst out as a mushroom, over the four stages of a fungus's life.",
+   "description_zh": "一部多感官 VR 故事：你从一粒孢子开始，化作菌丝在腐朽的树桩中蔓延，最后破土成为一朵蘑菇，经历真菌一生的四个阶段。",
+   "idea_en": "Fungal time is compressed into minutes and made spatial, so growth and decomposition are lived from inside.",
+   "idea_zh": "真菌的时间被压缩到几分钟并变成空间，生长与分解都从内部被经历。",
+   "method": "Volumetric time-lapse of real mushrooms (automated photogrammetry rendered as voxels) in a game engine, with scent, wind haptics and SubPac bass haptics.",
+   "method_zh": "在游戏引擎中呈现真实蘑菇的体积化延时摄影（自动摄影测量、以体素渲染），配合气味、风的触感与 SubPac 低频触觉。",
+   "keywords": [
+    "mushroom",
+    "spore",
+    "mycelium",
+    "volumetric time-lapse",
+    "photogrammetry",
+    "voxels",
+    "scent",
+    "SubPac"
+   ],
+   "shown_at": [
+    "SXSW 2023",
+    "SIGGRAPH 2023 Immersive Pavilion"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Vw_c_7Hw-DQ"
+   },
+   "images": [
+    "https://voicesofvr.com/wp-content/uploads/2023/04/forager-950x534.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3588027.3603531",
+    "doi": "10.1145/3588027.3603531",
+    "venue": "SIGGRAPH 2023 Immersive Pavilion",
+    "title": "Forager"
+   },
+   "source_url": "https://voicesofvr.com/1189-forager-volumetric-timelapse-of-mushroom-growth-hits-a-sweet-spot-of-touch-smell-immersive-storytelling/"
+  },
+  {
+   "id": "natalia-cabrera--hypha",
+   "creator_ids": [
+    "natalia-cabrera"
+   ],
+   "title": "Hypha",
+   "year": 2020,
+   "field": "fungi",
+   "sub": "mycelium",
+   "senses": [
+    "body",
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A VR story in which you embody the full life cycle of a mushroom: a spore from space finds water, grows underground as hyphae and mycelium, cleans toxic soil and fruits as a mushroom whose cap and gills block your view.",
+   "description_zh": "一部 VR 故事，让你化身蘑菇的完整一生：来自太空的孢子找到水，在地下长成菌丝与菌丝体，净化有毒土壤，最后结成子实体，菌盖和菌褶遮住你的视线。",
+   "idea_en": "Being a fungus means having a branching body that feeds, connects to roots and repairs soil.",
+   "idea_zh": "成为真菌，意味着拥有一副分枝的身体：进食、连接树根、修复土壤。",
+   "method": "Six-DoF VR with hand tracking that turns the arms into stringy branching limbs; developed by Nanai Studio with Sebastian Gonzalez and Juan Ferrer.",
+   "method_zh": "六自由度 VR 配合手部追踪，把手臂变成细长分枝的肢体；由 Nanai Studio 与 Sebastian Gonzalez、Juan Ferrer 共同开发。",
+   "keywords": [
+    "mushroom",
+    "spore",
+    "hypha",
+    "mycelium",
+    "bioremediation",
+    "Chile",
+    "Nanai Studio"
+   ],
+   "shown_at": [
+    "Sundance New Frontier 2020"
+   ],
+   "video": {
+    "url": "https://vimeo.com/356115943"
+   },
+   "images": [
+    "https://docubase.mit.edu/wp-content/uploads/2020/07/hypha.jpg",
+    "https://images.squarespace-cdn.com/content/v1/654d529f2df68e6aa2c35f5b/51192710-fec7-41a0-8952-03fbfd50760d/Hypha_6.png"
+   ],
+   "source_url": "https://docubase.mit.edu/project/hypha/"
+  },
+  {
+   "id": "natalia-cabrera--symbiotica",
+   "creator_ids": [
+    "natalia-cabrera"
+   ],
+   "title": "Symbiotica",
+   "year": 2021,
+   "field": "fungi",
+   "sub": "symbiosis",
+   "senses": [
+    "collective-sense",
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A multi-user VR experience in which participants embody different microorganisms and cooperate, from primitive cells onward, to discover what lichen, a collective of many species, has to tell humanity.",
+   "description_zh": "一部多人 VR 体验：参与者化身不同的微生物，从原始细胞开始彼此协作，去发现地衣这一由多个物种组成的集体想对人类说的话。",
+   "idea_en": "Symbiosis is learned by being one of the partners, not by watching the whole.",
+   "idea_zh": "共生要通过成为其中一方伙伴来学习，而不是旁观整体。",
+   "method": "Online multi-user hub accessible by VR headset, PC, phone or tablet.",
+   "method_zh": "可通过 VR 头显、电脑、手机或平板进入的线上多人空间。",
+   "keywords": [
+    "lichen",
+    "microorganisms",
+    "symbiosis",
+    "multi-user",
+    "Nanai Studio"
+   ],
+   "shown_at": [
+    "CPH:DOX 2021",
+    "NewImages Festival 2022"
+   ],
+   "images": [
+    "https://xrmust.com/wp-content/uploads/2023/04/XRMust_symbiotica_Poster.jpg"
+   ],
+   "source_url": "https://xrmust.com/all-experiences/symbiotica/"
+  },
+  {
+   "id": "tosca-teran--mycelia",
+   "creator_ids": [
+    "tosca-teran"
+   ],
+   "title": "Mycelia",
+   "year": 2021,
+   "field": "fungi",
+   "sub": "mycelium",
+   "senses": [
+    "hearing",
+    "collective-sense"
+   ],
+   "medium": [
+    "vr",
+    "performance",
+    "audio"
+   ],
+   "kind": "performance",
+   "description": "A live VRChat performance in which the electrical activity of living mycelium drives music and an audio-reactive world, interpreted by a full-body-tracked dancer.",
+   "description_zh": "一场 VRChat 现场表演：活体菌丝的电活动驱动音乐与声音反应式的虚拟世界，并由全身动捕的舞者诠释。",
+   "idea_en": "The fungus becomes a performer whose signals shape a shared virtual space.",
+   "idea_zh": "真菌成为表演者，它的信号塑造出一个共享的虚拟空间。",
+   "method": "Bio-sonification modules turn micro-fluctuations in the mycelium's conductivity into MIDI for synthesizers, streamed into a VRChat world built with Sara Lisa Vogl (_ROOT_) and the Metaverse Crew.",
+   "method_zh": "生物声音化模块把菌丝电导率的微小波动转为 MIDI 驱动合成器，并接入与 Sara Lisa Vogl（_ROOT_）和 Metaverse Crew 共建的 VRChat 世界。",
+   "keywords": [
+    "mycelium",
+    "biodata",
+    "sonification",
+    "VRChat",
+    "MIDI",
+    "Nanotopia",
+    "_ROOT_"
+   ],
+   "shown_at": [
+    "AMAZE Festival 2021",
+    "Raindance Immersive 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=J4je5bzyx6s"
+   },
+   "images": [
+    "https://voicesofvr.com/wp-content/uploads/2021/11/mycelia-1000x473.jpg",
+    "https://mycelialive.wordpress.com/wp-content/uploads/2021/11/mycelia_poster_festival.jpg"
+   ],
+   "source_url": "https://mycelialive.wordpress.com/"
+  },
+  {
+   "id": "tosca-teran--symbiosis-dysbiosis",
+   "creator_ids": [
+    "tosca-teran"
+   ],
+   "title": "Symbiosis/\\Dysbiosis",
+   "year": 2021,
+   "field": "fungi",
+   "sub": "mycelium",
+   "also": [
+    "tree"
+   ],
+   "senses": [
+    "touch",
+    "hearing",
+    "collective-sense"
+   ],
+   "medium": [
+    "vr",
+    "mr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A mixed reality installation in which you touch living mycelium that is also visible in VR; its biodata changes the sound, birdsong and look of a virtual forest around you.",
+   "description_zh": "一件混合现实装置：你触摸的活体菌丝同时出现在 VR 中；它的生物数据改变你周围虚拟森林的声音、鸟鸣与样貌。",
+   "idea_en": "Touching the fungus is how you enter its world; the forest responds to the organism, not only to you.",
+   "idea_zh": "触摸真菌就是进入它的世界的方式；森林回应的是这个生物，而不只是你。",
+   "method": "Electrodes on living mycelium feed custom biosensing instruments (with Lorena Salomé) that drive sound and a VR forest built from point clouds of Canadian forests, co-developed with Sara Lisa Vogl and Brendan Lehman.",
+   "method_zh": "活体菌丝上的电极连接定制生物传感乐器（与 Lorena Salomé 合作），驱动声音以及由加拿大森林点云构建的 VR 森林；与 Sara Lisa Vogl、Brendan Lehman 共同开发。",
+   "keywords": [
+    "mycelium",
+    "biodata",
+    "point cloud",
+    "boreal forest",
+    "mixed reality",
+    "Goethe-Institut New Nature"
+   ],
+   "shown_at": [
+    "Goethe-Institut New Nature 2021",
+    "FIVARS 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3uySqCqE-A4"
+   },
+   "images": [
+    "https://fivars.net/wp-content/uploads/2025/05/Symbiosis-Dysbiosis-Terrarium-landscape-1024x576.png",
+    "https://fivars.net/wp-content/uploads/2025/05/Symbiosis-Dysbiosis-underground2.jpg"
+   ],
+   "source_url": "https://fivars.net/stories/official-selections-2025/symbiosis-dysbiosis/"
+  },
+  {
+   "id": "tosca-teran--sentience",
+   "creator_ids": [
+    "tosca-teran"
+   ],
+   "title": "Symbiosis/\\Dysbiosis: Sentience",
+   "year": 2024,
+   "field": "fungi",
+   "sub": "mycelium",
+   "senses": [
+    "collective-sense",
+    "hearing",
+    "multisensory"
+   ],
+   "medium": [
+    "vr",
+    "installation",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "An expanded-reality open-world mushroom adventure in which real-time fungal biodata and the EEG of guests together shape an evolving soundscape and forest.",
+   "description_zh": "一场扩展现实的开放世界蘑菇冒险：实时真菌生物数据与来宾的脑电共同塑造一片不断演变的声音景观与森林。",
+   "idea_en": "Human brain signals and fungal signals are mixed in one loop, so the visitor becomes one node of a mycelial network.",
+   "idea_zh": "人的脑电信号与真菌信号在同一回路中混合，访客成为菌丝网络中的一个节点。",
+   "method": "Living mycelium wired to a custom synthesizer, EEG headsets on guests, VR world plus projection-mapped floor and walls; co-directed with Brendan Lehman.",
+   "method_zh": "活体菌丝接入定制合成器，来宾佩戴脑电头带，配合 VR 世界与投影映射的地面和墙面；与 Brendan Lehman 联合执导。",
+   "keywords": [
+    "mycelium",
+    "EEG",
+    "biodata",
+    "open world",
+    "projection mapping"
+   ],
+   "shown_at": [
+    "Venice Immersive 2024"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0PzZXrqncsY"
+   },
+   "images": [
+    "https://voicesofvr.com/wp-content/uploads/2024/09/symbiosisdysbiosis-sentience-970x546.jpg"
+   ],
+   "source_url": "https://voicesofvr.com/1432-combining-biodata-with-open-world-mushroom-adventure-with-symbiosis-dysbiosis-sentience/"
+  },
+  {
+   "id": "tosca-teran--forest-undersound",
+   "creator_ids": [
+    "tosca-teran"
+   ],
+   "title": "Forest UnderSound",
+   "year": 2021,
+   "field": "fungi",
+   "sub": "mycelium",
+   "also": [
+    "tree"
+   ],
+   "senses": [
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "installation",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "A year-long installation whose generative soundscape is played by living fungi and plant roots, changing with the seasons as they grow.",
+   "description_zh": "一件为期一年的装置，其生成式声音景观由活体真菌与植物根系演奏，并随着它们的生长在四季中变化。",
+   "idea_en": "The underground network becomes an audible musician on its own seasonal timescale.",
+   "idea_zh": "地下网络成为一位按自身季节时间演奏、可被听见的乐手。",
+   "method": "Electrodes on mycelium and roots read bioelectric fluctuations that control analog and digital synthesizers in real time; recordings made at each equinox.",
+   "method_zh": "菌丝与根系上的电极读取生物电波动，实时控制模拟与数字合成器；在每个分点与至点录音。",
+   "keywords": [
+    "mycelium",
+    "roots",
+    "bioelectricity",
+    "synthesizer",
+    "seasons"
+   ],
+   "shown_at": [
+    "Prix Ars Electronica 2021 (Honorary Mention, Digital Musics & Sound Art)",
+    "The Museum Kitchener 2021",
+    "Fermynwoods Contemporary Art 2023"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=d1NVurUmtZk"
+   },
+   "source_url": "https://www.toscateran.com/forest-undersound"
+  },
+  {
+   "id": "tosca-teran--mycorrhizal-rhythm-machine",
+   "creator_ids": [
+    "tosca-teran"
+   ],
+   "title": "The Mycorrhizal Rhythm Machine",
+   "year": 2021,
+   "field": "fungi",
+   "sub": "mycelium",
+   "also": [
+    "tree"
+   ],
+   "senses": [
+    "hearing",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "An interactive sculpture that turns a grow room into a fungus-and-sprout music generator: biodata from roots of mycorrhizal plants triggers actuators that strum and rattle.",
+   "description_zh": "一件互动雕塑，把一间种植室变成真菌与嫩芽的音乐生成器：来自菌根植物根部的生物数据触发会拨弦与摇响的执行器。",
+   "idea_en": "The fungus-root partnership is heard as rhythm, a symbiosis you can listen to.",
+   "idea_zh": "真菌与根的伙伴关系被听成节奏，一种可以聆听的共生。",
+   "method": "Electrodes in the roots of endo- and ectomycorrhizal plants send biodata to microcontrollers driving mechanical actuators.",
+   "method_zh": "内生与外生菌根植物根部的电极把生物数据发送到微控制器，驱动机械执行器。",
+   "keywords": [
+    "mycorrhiza",
+    "roots",
+    "actuators",
+    "biodata",
+    "NAISA"
+   ],
+   "shown_at": [
+    "NAISA North 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ez_keTa5-Mg"
+   },
+   "source_url": "https://www.toscateran.com/mycorrhizal-rhythm-machine"
+  },
+  {
+   "id": "sasa-spacal--myconnect",
+   "creator_ids": [
+    "sasa-spacal"
+   ],
+   "title": "Myconnect",
+   "year": 2013,
+   "field": "fungi",
+   "sub": "mycelium",
+   "senses": [
+    "touch",
+    "hearing",
+    "breath"
+   ],
+   "medium": [
+    "installation",
+    "wearable"
+   ],
+   "kind": "artwork",
+   "description": "A visitor lies in a closed wooden capsule wearing a heartbeat sensor, headphones and vibration motors; their heartbeat passes through living mycelium and returns to the body transformed as sound, light and touch.",
+   "description_zh": "观众躺进封闭的木制舱体，佩戴心跳传感器、耳机与振动马达；心跳信号流经活体菌丝，再以声音、光与触感的形式变形后回到身体。",
+   "idea_en": "A human-fungus-human feedback loop: you feel your own body as modulated by another organism.",
+   "idea_zh": "人—真菌—人的反馈回路：你感到自己的身体正被另一种生物调制。",
+   "method": "Heart-rate sensor drives a signal through oyster or shiitake mycelium whose changing electrical resistance offsets it in time; output via headphones, lights and vibration motors. With Mirjan Švagelj and Anil Podgornik.",
+   "method_zh": "心率传感器驱动信号流经平菇或香菇菌丝，其电阻变化使信号产生时间偏移，再通过耳机、灯光与振动马达输出。与 Mirjan Švagelj、Anil Podgornik 合作。",
+   "keywords": [
+    "mycelium",
+    "biofeedback",
+    "heartbeat",
+    "Pleurotus",
+    "shiitake",
+    "capsule",
+    "interspecies communication"
+   ],
+   "shown_at": [
+    "Art Laboratory Berlin (Nonhuman Networks)"
+   ],
+   "video": {
+    "url": "https://vimeo.com/238714637"
+   },
+   "images": [
+    "https://www.agapea.si/wp-content/uploads/2015/05/S3D3092-WB2.jpg",
+    "https://www.agapea.si/wp-content/uploads/2015/05/S3D2572-1024x683.jpg"
+   ],
+   "source_url": "https://www.agapea.si/en/projects/myconnect"
+  },
+  {
+   "id": "sasa-spacal--mycophone-unison",
+   "creator_ids": [
+    "sasa-spacal"
+   ],
+   "title": "Mycophone_unison",
+   "year": 2015,
+   "field": "fungi",
+   "sub": "symbiosis",
+   "senses": [
+    "hearing",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "A living sound instrument in which fungi, bacteria and other microbial communities, like those that make up the human microbiome, generate sound together.",
+   "description_zh": "一件活体声音乐器：真菌、细菌等微生物群落——如同构成人体微生物组的那些——共同生成声音。",
+   "idea_en": "The body is not one but many; the instrument lets you hear a microbial multitude as a single voice.",
+   "idea_zh": "身体不是一个而是许多；这件乐器让你把微生物的众多听成一个声音。",
+   "method": "Sensors read electrical changes in living microbial cultures and translate them into sound in real time.",
+   "method_zh": "传感器读取活体微生物培养物的电变化，并实时转化为声音。",
+   "keywords": [
+    "microbiome",
+    "fungi",
+    "bacteria",
+    "sound instrument",
+    "Karen Barad"
+   ],
+   "video": {
+    "url": "https://vimeo.com/205934235"
+   },
+   "images": [
+    "https://www.agapea.si/wp-content/uploads/2015/05/mycophone_unison_1_0.jpg"
+   ],
+   "source_url": "https://www.agapea.si/en/projects/mycophone_unison"
+  },
+  {
+   "id": "sasa-spacal--earthlink",
+   "creator_ids": [
+    "sasa-spacal"
+   ],
+   "title": "Earthlink",
+   "year": 2018,
+   "field": "fungi",
+   "sub": "microbe",
+   "also": [
+    "river"
+   ],
+   "senses": [
+    "breath",
+    "smell"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A system of installations about breathing with the planet; in one of them, Inspiration, visitors inhale the soil 'happiness bacterium' Mycobacterium vaccae in a rhythm set by resuscitator bags.",
+   "description_zh": "一组关于与地球共同呼吸的装置；其中《Inspiration》让观众按复苏气囊设定的节奏吸入土壤中的“快乐细菌”母牛分枝杆菌。",
+   "idea_en": "Breathing is an exchange with soil microbes; the work makes that exchange technologically dosed and felt.",
+   "idea_zh": "呼吸是与土壤微生物的交换；这件作品让这种交换被技术化地定量并被身体感受到。",
+   "method": "Breathing stations with living soil cultures and resuscitator bags pacing inhalation and exhalation.",
+   "method_zh": "配有活体土壤培养物与复苏气囊的呼吸装置，控制吸气与呼气的节奏。",
+   "keywords": [
+    "Mycobacterium vaccae",
+    "soil",
+    "breath",
+    "microbiome",
+    "Rosi Braidotti"
+   ],
+   "shown_at": [
+    "Match Gallery, Museum and Galleries of Ljubljana 2018"
+   ],
+   "video": {
+    "url": "https://vimeo.com/411971525"
+   },
+   "images": [
+    "https://www.agapea.si/wp-content/uploads/2019/02/Inspirij_II_Miha-Godec.jpg",
+    "https://www.agapea.si/wp-content/uploads/2019/02/Biomi_II_Miha-Godec.jpg"
+   ],
+   "source_url": "https://www.agapea.si/en/projects/earthlink"
+  },
+  {
+   "id": "sasa-spacal--symbiome",
+   "creator_ids": [
+    "sasa-spacal"
+   ],
+   "title": "Symbiome – Economy of Symbiosis",
+   "year": 2016,
+   "field": "fungi",
+   "sub": "symbiosis",
+   "also": [
+    "tree"
+   ],
+   "senses": [
+    "hearing",
+    "breath"
+   ],
+   "medium": [
+    "installation",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "A hydroponic chamber in which red clover and root-nodule bacteria trade carbon and nitrogen; the exchange sets the rhythm of dripping water, whose ripples are turned into sound, and visitors' breath feeds the clover.",
+   "description_zh": "一个水培舱，红三叶草与根瘤菌在其中交换碳与氮；这种交换决定滴水的节奏，水面的涟漪被转化为声音，观众的呼吸也为三叶草提供二氧化碳。",
+   "idea_en": "Symbiosis is heard as a continuous negotiation, and the visitor's breath becomes part of it.",
+   "idea_zh": "共生被听成一场持续的协商，观众的呼吸也成为其中一部分。",
+   "method": "Indirect measurements of the plant-bacteria exchange control a water drip; ripples are sensed and synthesised in real time through phase modulation. With microbiologist Mirjan Švagelj.",
+   "method_zh": "对植物与细菌交换的间接测量控制滴水；涟漪被感测并以相位调制实时合成为声音。与微生物学家 Mirjan Švagelj 合作。",
+   "keywords": [
+    "red clover",
+    "Rhizobiaceae",
+    "root nodules",
+    "nitrogen fixation",
+    "hydroponics",
+    "sound"
+   ],
+   "shown_at": [
+    "Museum of Contemporary Art Metelkova (MSUM) Ljubljana 2016"
+   ],
+   "video": {
+    "url": "https://vimeo.com/243696887"
+   },
+   "images": [
+    "https://www.agapea.si/wp-content/uploads/2017/01/Najavna-fotka_I_HD.jpg"
+   ],
+   "source_url": "https://www.agapea.si/en/projects/symbiome-the-economy-of-symbiosis"
+  },
+  {
+   "id": "heather-barnett--being-slime-mould",
+   "creator_ids": [
+    "heather-barnett"
+   ],
+   "title": "Being Slime Mould",
+   "year": 2013,
+   "field": "fungi",
+   "sub": "slime",
+   "also": [
+    "octopus"
+   ],
+   "senses": [
+    "collective-sense",
+    "body"
+   ],
+   "medium": [
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "A participatory experiment in which a group of strangers tries to behave as the single-celled slime mould Physarum polycephalum: moving as one body, exploring, and deciding without a leader.",
+   "description_zh": "一场参与式实验：一群陌生人尝试像单细胞黏菌多头绒泡菌那样行动——作为一个身体移动、探索，并在没有领导者的情况下做决定。",
+   "idea_en": "To feel collective intelligence without a brain, humans enact it with their own bodies.",
+   "idea_zh": "为了感受没有大脑的集体智能，人们用自己的身体把它演出来。",
+   "method": "Rule-based group enactment in a physical space, with food sources and obstacles, devised with Daniel Grushkin.",
+   "method_zh": "在实体空间中依规则进行的集体演绎，设置食物来源与障碍，与 Daniel Grushkin 共同设计。",
+   "keywords": [
+    "Physarum polycephalum",
+    "collective intelligence",
+    "participatory",
+    "enactment",
+    "BioDesign"
+   ],
+   "shown_at": [
+    "BioDesign, Het Nieuwe Instituut Rotterdam 2013"
+   ],
+   "images": [
+    "https://heatherbarnett.co.uk/wp-content/uploads/2015/07/Being-Slime-Mould-Enactment-2013-%C2%A9-film-still-by-Tim-Grabham-2-495x400.jpg",
+    "https://heatherbarnett.co.uk/wp-content/uploads/2015/07/Being-Sliem-Mould-BOM-1-495x400.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1201/9781003339540-3",
+    "doi": "10.1201/9781003339540-3",
+    "venue": "Slime Mould in Arts and Architecture (2022)",
+    "title": "Many-Headed: Co-creating with the Collective"
+   },
+   "source_url": "https://heatherbarnett.co.uk/work/being-slime-mould/"
+  },
+  {
+   "id": "jenna-sutela--nimiia-cetii",
+   "creator_ids": [
+    "jenna-sutela"
+   ],
+   "title": "nimiia cétiï",
+   "year": 2018,
+   "field": "fungi",
+   "sub": "microbe",
+   "also": [
+    "robot"
+   ],
+   "senses": [
+    "hearing",
+    "vision"
+   ],
+   "medium": [
+    "screen",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "An audiovisual work in which a neural network learns from recordings of a channelled 'Martian' language and footage of Bacillus subtilis bacteria, producing a new language spoken between machine, microbe and human.",
+   "description_zh": "一件视听作品：神经网络学习一种通灵“火星语”的录音与枯草芽孢杆菌的影像，生成一种在机器、微生物与人之间使用的新语言。",
+   "idea_en": "The movement of bacteria is treated as a voice that a machine can learn to speak with.",
+   "idea_zh": "细菌的运动被当作一种声音，机器可以学会用它说话。",
+   "method": "Machine learning trained on 19th-century Martian language audio (Hélène Smith) and microscope footage of Bacillus subtilis nattō.",
+   "method_zh": "以 19 世纪 Hélène Smith 的“火星语”音频与纳豆枯草芽孢杆菌显微影像训练机器学习模型。",
+   "keywords": [
+    "Bacillus subtilis",
+    "neural network",
+    "Martian language",
+    "Hélène Smith",
+    "interspecies communication"
+   ],
+   "shown_at": [
+    "Somerset House Studios / Google Arts & Culture 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NaoZV7jPo10"
+   },
+   "images": [
+    "https://admin.somersethouse.org.uk/images/2VSzwd-SKAaTJvtSbRePm9TYN1U=/956/width-600/JennaSutela_CO4YzSr5JUTwlIFU.jpg"
+   ],
+   "source_url": "https://www.somersethouse.org.uk/whats-on/jenna-sutela-nimiia-cetii"
+  },
+  {
+   "id": "jae-rhim-lee--infinity-burial-suit",
+   "creator_ids": [
+    "jae-rhim-lee"
+   ],
+   "title": "Infinity Burial Suit",
+   "year": 2011,
+   "field": "fungi",
+   "sub": "mycelium",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "artwork",
+   "description": "A burial suit embroidered with mushroom spores that are trained to decompose the wearer's body and neutralise its toxins after death.",
+   "description_zh": "一件绣有蘑菇孢子的寿衣，这些真菌被训练在人死后分解穿着者的身体并中和其中的毒素。",
+   "idea_en": "The last becoming of the body is to be taken up by fungi and returned to soil.",
+   "idea_zh": "身体最后的“成为”，是被真菌吸收、回归土壤。",
+   "method": "Suit with a spore-infused netting; the artist trained mushrooms on her own hair, skin and nails to recognise human tissue.",
+   "method_zh": "寿衣上附有含孢子的网状结构；艺术家用自己的头发、皮肤与指甲训练蘑菇识别人体组织。",
+   "keywords": [
+    "mushroom",
+    "burial",
+    "decomposition",
+    "spores",
+    "Coeio",
+    "death"
+   ],
+   "shown_at": [
+    "TEDGlobal 2011"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_7rS_d1fiUc"
+   },
+   "source_url": "https://coeio.com"
+  },
+  {
+   "id": "theresa-schubert--sound-for-fungi",
+   "creator_ids": [
+    "theresa-schubert"
+   ],
+   "title": "Sound for Fungi. Homage to Indeterminacy",
+   "year": 2020,
+   "field": "fungi",
+   "sub": "mycelium",
+   "senses": [
+    "touch",
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A generative simulation of growing mycelium, based on experiments that exposed fungal hyphae to sound; visitors steer its growth with their hands.",
+   "description_zh": "一个生长中菌丝的生成式模拟，基于让真菌菌丝暴露在声音中的实验；观众用双手引导它的生长。",
+   "idea_en": "Fungal growth responds to sound and touch, and so does the simulation, making the visitor a force in the mycelium's world.",
+   "idea_zh": "真菌的生长会回应声音与触摸，模拟也一样，访客由此成为菌丝世界中的一种力量。",
+   "method": "Simulation (with Sage Jenson) derived from treating arboreal mushroom mycelium with sound at 80–440 Hz; hand-tracking sensor for interaction.",
+   "method_zh": "与 Sage Jenson 合作的模拟，源自以 80—440 赫兹声音处理树生蘑菇菌丝的实验；以手部追踪传感器互动。",
+   "keywords": [
+    "mycelium",
+    "hyphae",
+    "sound",
+    "simulation",
+    "hand tracking",
+    "Mind the Fungi",
+    "Sage Jenson"
+   ],
+   "shown_at": [
+    "Futurium Berlin (Mind the Fungi) 2020",
+    "Experimenta Life Forms 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zzrYc4v5bjE"
+   },
+   "images": [
+    "https://www.theresaschubert.com/wp-content/uploads/2021/06/ExperimentaLifeForms_TheresaSchubert_Remi_Sound-for-fungi-1.jpg"
+   ],
+   "source_url": "https://www.theresaschubert.com/works/sound-for-fungi/"
+  },
+  {
+   "id": "microbihome-salford--microbihome",
+   "creator_ids": [
+    "microbihome-salford"
+   ],
+   "title": "MICROBIhOME",
+   "year": 2018,
+   "field": "fungi",
+   "sub": "microbe",
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "installation",
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A mixed-media installation about the human microbiome; in its VR lung, visitors are inhaled into the airways and watch bacteriophages attack bacteria at microbial scale.",
+   "description_zh": "一件关于人体微生物组的混合媒介装置；在其中的 VR 肺部体验里，观众被“吸入”气道，在微生物尺度上看噬菌体攻击细菌。",
+   "idea_en": "Shrinking the visitor to bacterial scale makes the body an ecosystem you are inside.",
+   "idea_zh": "把观众缩小到细菌的尺度，身体就成了你身处其中的生态系统。",
+   "method": "Mobile VR headsets within an immersive installation built with artist Paul Miller and Reflex Arc from microbiology research at the University of Salford.",
+   "method_zh": "基于索尔福德大学微生物学研究，与艺术家 Paul Miller 及 Reflex Arc 合作制作的沉浸式装置，内含移动 VR 头显体验。",
+   "keywords": [
+    "microbiome",
+    "bacteriophage",
+    "biofilm",
+    "lung",
+    "Paul Miller",
+    "Chloe James"
+   ],
+   "shown_at": [
+    "Manchester Science Festival 2018",
+    "Manchester Science Festival 2019",
+    "Royal Society Summer Science Exhibition"
+   ],
+   "video": {
+    "url": "https://vimeo.com/296994011"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/573e23a5c2ea51d838c57506/1549825000876-FJ0VJKELBEMH6SSYIDAD/MBH-pics-7.jpg"
+   ],
+   "source_url": "https://hub.salford.ac.uk/microbihome/"
+  },
+  {
+   "id": "jakob-kudsk-steensen--liminal-lands",
+   "creator_ids": [
+    "jakob-kudsk-steensen"
+   ],
+   "title": "Liminal Lands",
+   "year": 2021,
+   "field": "fungi",
+   "sub": "microbe",
+   "also": [
+    "river"
+   ],
+   "senses": [
+    "time-scale",
+    "hearing",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A multiplayer VR installation built from fieldwork in the salt marshes of the Camargue, moving between micro and macro scales of algae, salt crystals and foam.",
+   "description_zh": "一件多人 VR 装置，基于在卡马格盐沼的田野调查，在藻类、盐晶与泡沫的微观与宏观尺度之间穿梭。",
+   "idea_en": "Perception is scaled down to the slow, microbial processes of a salt landscape humans cannot normally sense.",
+   "idea_zh": "把感知缩小到盐地景观中缓慢的微生物过程，这些过程通常超出人的感官。",
+   "method": "Visual and sound recordings from the Salin de Giraud rendered in a real-time game-engine world, shown as multiplayer VR and 2D video.",
+   "method_zh": "把在吉罗盐场采集的影像与声音做成实时游戏引擎世界，以多人 VR 与 2D 影像呈现。",
+   "keywords": [
+    "Camargue",
+    "salt marsh",
+    "microbial",
+    "Rhône delta",
+    "LUMA Arles"
+   ],
+   "shown_at": [
+    "LUMA Arles 2021"
+   ],
+   "video": {
+    "url": "https://vimeo.com/591022554"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1706361881595-EZ08BL6M3S2CREH2J5KP/jks21_liminallands_foam7_web.jpg"
+   ],
+   "source_url": "https://www.jakobsteensen.com/liminal-lands"
+  },
+  {
+   "id": "regine-rapp--mycohuman-performances",
+   "creator_ids": [
+    "regine-rapp"
+   ],
+   "title": "On mycohuman performances: fungi in current artistic research",
+   "year": 2019,
+   "field": "fungi",
+   "sub": "mycelium",
+   "senses": [
+    "collective-sense"
+   ],
+   "medium": [
+    "performance",
+    "installation"
+   ],
+   "kind": "paper",
+   "description": "A survey of artists who perform with fungi, including Saša Spačal's Myconnect and Theresa Schubert's forest walks, framed as mycohuman performance.",
+   "description_zh": "一篇综述，梳理与真菌共同表演的艺术家，包括 Saša Spačal 的《Myconnect》与 Theresa Schubert 的森林漫步，并以“菌-人表演”加以框定。",
+   "idea_en": "Fungi appear in these works as co-performers rather than material.",
+   "idea_zh": "在这些作品中，真菌是共同表演者，而非材料。",
+   "method": "Art-historical analysis of works shown at Art Laboratory Berlin and elsewhere.",
+   "method_zh": "对 Art Laboratory Berlin 等处展出作品的艺术史分析。",
+   "keywords": [
+    "mycohuman",
+    "fungi",
+    "bioart",
+    "Art Laboratory Berlin",
+    "survey"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1186/s40694-019-0085-6",
+    "doi": "10.1186/s40694-019-0085-6",
+    "venue": "Fungal Biology and Biotechnology 2019",
+    "title": "On mycohuman performances: fungi in current artistic research"
+   },
+   "source_url": "https://fungalbiolbiotech.biomedcentral.com/articles/10.1186/s40694-019-0085-6"
+  },
+  {
+   "id": "ndemic-creations--plague-inc",
+   "creator_ids": [
+    "ndemic-creations"
+   ],
+   "title": "Plague Inc.",
+   "year": 2012,
+   "field": "fungi",
+   "sub": "microbe",
+   "senses": [
+    "collective-sense",
+    "time-scale"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A strategy game in which you play a pathogen, such as a bacterium, virus or fungus, evolving transmission and symptoms to spread across the world.",
+   "description_zh": "一款策略游戏：你扮演一种病原体——细菌、病毒或真菌——演化传播方式与症状，扩散至全世界。",
+   "idea_en": "The world seen from a microbe's point of view is a map of hosts, routes and climates.",
+   "idea_zh": "从微生物的视角看，世界是一张由宿主、路线与气候组成的地图。",
+   "method": "Epidemiological simulation on mobile and PC; players pick traits from an evolution tree.",
+   "method_zh": "移动端与 PC 上的流行病学模拟；玩家从演化树中选择特征。",
+   "keywords": [
+    "pathogen",
+    "bacteria",
+    "virus",
+    "fungus",
+    "epidemic simulation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pSat_gLDXPc"
+   },
+   "images": [
+    "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246620/4c67f0dc09d833b843cf5c3834d95bef246ccd49/header.jpg?t=1779100239"
+   ],
+   "source_url": "https://store.steampowered.com/app/246620/Plague_Inc_Evolved/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Lichen Metaverse (Doo-Sung Yoo, Lichen Likers, Ohio State)",
+   "why": "Real-time VR platform for learning from lichen symbiosis, shown in Sympoiesis 2025; no stable media found.",
+   "link": "https://u.osu.edu/livingartecolab/sympoiesis-2025/",
+   "found_via": "natalia-cabrera",
+   "status": "no_media"
+  },
+  {
+   "name": "Mite's-eye lichen VR (William Martinez, ASU)",
+   "why": "Student VR that shows the world of lichens from a mite's perspective.",
+   "link": "https://news.asu.edu/20240514-science-and-technology-love-lichens",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Green Rhythms (Yuting Xue & Elke Reinhuber, TEI 2026)",
+   "why": "Follow-up to Bend to on symbiotic human-plant interaction; abstract not available to classify.",
+   "link": "https://doi.org/10.1145/3731459.3779145",
+   "found_via": "yuting-xue",
+   "status": "open"
+  },
+  {
+   "name": "MYCELIUM (Karoline Winzer)",
+   "why": "Human-circuit installation where touching participants act as a mycelial network; year unclear.",
+   "link": "https://www.karolinewinzer.com/mycelium",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Future Botanica (Polymorf)",
+   "why": "AR app for designing speculative ecosystems with AI; about designing nature rather than becoming it.",
+   "link": "https://polymorf.nl/future-botanica/",
+   "found_via": "polymorf",
+   "status": "off_topic"
+  },
+  {
+   "name": "Awavena (Lynette Wallworth)",
+   "why": "VR with a Yawanawa shaman in the Amazon; forest vision but not a plant perspective.",
+   "link": "https://www.barbican.org.uk/whats-on/2021/event/lynette-wallworth-awavena",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Giant (Milica Zec & Winslow Porter)",
+   "why": "VR about a family in a war zone; human perspective, out of scope.",
+   "link": "https://www.newrealityco.com",
+   "found_via": "milica-zec",
+   "status": "off_topic"
+  },
+  {
+   "name": "Thrive (Revolutionary Games Studio)",
+   "why": "Open-source evolution game starting as a microbe; first public release year unclear (Steam 2021).",
+   "link": "https://www.revolutionarygamesstudio.com/",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Elowan (Harpreet Sareen, MIT Media Lab)",
+   "why": "Plant-robot hybrid that moves toward light; plant cyborg rather than human perspective (may belong to machine-cyborg batch).",
+   "link": "https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Jenna Sutela, From Hierarchy to Holarchy / Many-Headed (Physarum works)",
+   "why": "Slime mould performances and exhibitions since 2015; artist site is JS-rendered, no media extracted.",
+   "link": "https://jennasutela.com/",
+   "found_via": "jenna-sutela",
+   "status": "no_media"
+  },
+  {
+   "name": "Heather Barnett, The Physarum Experiments",
+   "why": "Long-running collaboration with slime mould (films, TED talk); observational rather than embodied.",
+   "link": "https://heatherbarnett.co.uk/work/the-physarum-experiments/",
+   "found_via": "heather-barnett",
+   "status": "open"
+  },
+  {
+   "name": "Saša Spačal, Symbiome / Syncness / Mycophone_emergence",
+   "why": "Further microbe and fungus biofeedback installations by Spačal.",
+   "link": "https://www.agapea.si/en/projects/symbiome-the-economy-of-symbiosis",
+   "found_via": "sasa-spacal",
+   "status": "open"
+  },
+  {
+   "name": "Tosca Terán, Do Mushrooms Dream of Electric Humans? / Myco-Sound Dome / Mycelia in Space",
+   "why": "Further fungal bio-sonification works listed on the artist's site.",
+   "link": "https://www.toscateran.com/",
+   "found_via": "tosca-teran",
+   "status": "open"
+  },
+  {
+   "name": "Jakob Kudsk Steensen, Terratic Animism (2017)",
+   "why": "Room-scale VR winter forest; weaker plant perspective.",
+   "link": "https://www.jakobsteensen.com/terratic-animism",
+   "found_via": "jakob-kudsk-steensen",
+   "status": "open"
+  },
+  {
+   "name": "The Body VR: Journey Inside a Cell",
+   "why": "Educational VR at cell scale; tour rather than perspective.",
+   "link": "https://store.steampowered.com/app/451980/The_Body_VR_Journey_Inside_a_Cell/",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Symbioverse (Nicole Condon-Shih, 2025)",
+   "why": "AR installation on lichen symbiosis shown in Sympoiesis.",
+   "link": "https://u.osu.edu/livingartecolab/sympoiesis-2025/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Towards Eco-Embodiment (Kreimeier et al., ISMAR 2023)",
+   "why": "VR for climate change awareness; unclear whether it embodies a plant.",
+   "link": "https://doi.org/10.1109/ismar-adjunct60411.2023.00130",
+   "found_via": "pia-spangenberger",
+   "status": "open"
+  },
+  {
+   "name": "Hortum machina, B (Interactive Architecture Lab, UCL)",
+   "why": "Geodesic mobile garden steered by its plants' electrophysiology; plant agency, unclear human perspective.",
+   "link": "https://www.youtube.com/watch?v=8Qk3BeolyiA",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Agar.io (Matheus Valadares, 2015)",
+   "why": "Browser game where the player is a cell absorbing other cells; no official media page found.",
+   "link": "https://agar.io",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Špela Petrič, Plant Sex Consultancy",
+   "why": "Plant-centred design of reproductive augmentations for plants; year not confirmed.",
+   "link": "https://www.spelapetric.org/plant-sex-consultancy/",
+   "found_via": "spela-petric",
+   "status": "open"
+  },
+  {
+   "name": "FungiSync (Reality Design Lab)",
+   "why": "Mixed reality mycorrhizal ritual; covered by the portfolio batch.",
+   "link": "https://arxiv.org/html/2603.09272v1",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Treehugger: Wawona / Of the Oak (Marshmallow Laser Feast)",
+   "why": "Tree-perspective works covered by the mlf batch.",
+   "link": "https://www.marshmallowlaserfeast.com",
+   "found_via": "seed",
+   "status": "duplicate"
+  }
+ ]
+}

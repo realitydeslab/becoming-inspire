@@ -1,0 +1,119 @@
+[
+ {
+  "id": "mlf-works-of-nature",
+  "type": "exhibition",
+  "en": "Marshmallow Laser Feast: Works of Nature",
+  "zh": "Marshmallow Laser Feast：自然之作",
+  "desc_en": "MLF's first solo exhibition (ACMI, Melbourne, 2023–24), a journey through a single breath from an Amazonian tree to the body and the stars; toured as Breathe | Mauri Ora (Te Papa, 2025–26) and All That Is Unseen (Media Majlis, 2026–27).",
+  "desc_zh": "MLF 首个个展（墨尔本 ACMI，2023–24），以一次呼吸为线索，从亚马孙的树走到身体再到星辰；巡展为 Breathe | Mauri Ora（Te Papa，2025–26）与 All That Is Unseen（Media Majlis，2026–27）。",
+  "url": "https://www.acmi.net.au/whats-on/marshmallow-laser-feast-works-of-nature/"
+ },
+ {
+  "id": "sundance-new-frontier",
+  "type": "festival",
+  "en": "Sundance New Frontier",
+  "zh": "圣丹斯电影节“新前沿”单元",
+  "desc_en": "Sundance Film Festival's programme for VR, installation and emerging media.",
+  "desc_zh": "圣丹斯电影节面向 VR、装置与新媒体的展映单元。",
+  "url": "https://www.sundance.org/"
+ },
+ {
+  "id": "tribeca-storyscapes",
+  "type": "award",
+  "en": "Tribeca Storyscapes Award",
+  "zh": "翠贝卡电影节 Storyscapes 奖",
+  "desc_en": "Tribeca Film Festival's award for interactive and immersive storytelling (Storyscapes, 2013–2018).",
+  "desc_zh": "翠贝卡电影节颁给互动与沉浸式叙事作品的奖项（Storyscapes 单元，2013–2018）。",
+  "url": "https://tribecafilm.com"
+ },
+ {
+  "id": "cannes-immersive",
+  "type": "festival",
+  "en": "Cannes Immersive Competition",
+  "zh": "戛纳电影节沉浸式竞赛单元",
+  "desc_en": "Festival de Cannes competition for immersive works, launched in 2024.",
+  "desc_zh": "戛纳电影节于 2024 年设立的沉浸式作品竞赛单元。",
+  "url": "https://competitionimmersive.festival-cannes.com/en/"
+ },
+ {
+  "id": "nsmm-supersenses-2017",
+  "type": "exhibition",
+  "en": "Supersenses (National Science and Media Museum, 2017)",
+  "zh": "超级感官（英国国家科学与媒体博物馆，2017）",
+  "desc_en": "Group exhibition in Bradford on the many ways the world can be perceived, from animal senses to unusual sights, sounds, tastes and smells.",
+  "desc_zh": "在布拉德福德举办的群展，探讨感知世界的多种方式，从动物感官到不寻常的视觉、声音、味道与气味。",
+  "url": "https://www.scienceandmediamuseum.org.uk/what-was-on/supersenses"
+ },
+ {
+  "id": "watershed-sentients-2026",
+  "type": "exhibition",
+  "en": "Sentients (Watershed, Bristol, 2026)",
+  "zh": "Sentients（布里斯托 Watershed，2026）",
+  "desc_en": "Group exhibition of works that invite audiences to imagine the world from perspectives beyond their own, from an owl's vision to a river or a wildfire.",
+  "desc_zh": "群展汇集邀请观众从自身以外的视角想象世界的作品，从猫头鹰的视觉到河流与山火。",
+  "url": "https://www.watershed.co.uk/whatson/14147/sentients"
+ },
+ {
+  "id": "barbican-our-time-on-earth",
+  "type": "exhibition",
+  "en": "Our Time on Earth (Barbican, 2022)",
+  "zh": "我们在地球上的时间（巴比肯，2022）",
+  "desc_en": "Barbican exhibition of art, design and science imagining futures for all species in the climate emergency; toured to Québec and Salem.",
+  "desc_zh": "巴比肯艺术中心的展览，以艺术、设计与科学想象气候危机中所有物种的未来；巡展至魁北克与塞勒姆。",
+  "url": "https://www.barbican.org.uk/whats-on/2022/event/our-time-on-earth"
+ },
+ {
+  "id": "nobel-fungi-in-art-and-science",
+  "type": "exhibition",
+  "en": "Fungi – In Art and Science (Nobel Prize Museum, 2023–24)",
+  "zh": "真菌——艺术与科学中（诺贝尔奖博物馆，2023–24）",
+  "desc_en": "Stockholm exhibition exploring fungi through artworks, design, fashion and current research.",
+  "desc_zh": "斯德哥尔摩的展览，通过艺术作品、设计、时尚与前沿研究探索真菌。",
+  "url": "https://nobelprizemuseum.se/en/fungi-in-art-and-science/"
+ },
+ {
+  "id": "somerset-house-soil-2025",
+  "type": "exhibition",
+  "en": "SOIL: The World at Our Feet (Somerset House, 2025)",
+  "zh": "土壤：我们脚下的世界（萨默塞特宫，2025）",
+  "desc_en": "London exhibition of artists and thinkers on the life and power of soil.",
+  "desc_zh": "伦敦的展览，汇集艺术家与思想者关于土壤生命与力量的作品。",
+  "url": "https://www.somersethouse.org.uk/whats-on/soil"
+ },
+ {
+  "id": "emergence-shifting-landscapes-2023",
+  "type": "exhibition",
+  "en": "Shifting Landscapes (Emergence Magazine, London, 2023)",
+  "zh": "Shifting Landscapes（Emergence Magazine，伦敦，2023）",
+  "desc_en": "Nine artists on our entanglement with the biosphere, from the smallest stirrings of life in soil to forests on the move.",
+  "desc_zh": "九位艺术家探讨我们与生物圈的纠缠，从土壤中最细微的生命到迁移中的森林。",
+  "url": "https://emergencemagazine.org/londonexhibition/"
+ },
+ {
+  "id": "artscience-into-the-ocean-2026",
+  "type": "exhibition",
+  "en": "Into the Ocean: Journey Beneath (ArtScience Museum, 2026)",
+  "zh": "深入海洋：向下之旅（艺术科学博物馆，2026）",
+  "desc_en": "ArtScience Museum and OceanX exhibition descending through the sea, with works by MLF, Marco Barotti, Jana Winderen, Robertina Šebjanič, Lachlan Turczan, Sissel Tolaas and others.",
+  "desc_zh": "新加坡艺术科学博物馆与 OceanX 合作的展览，带观众向深海下潜，参展者包括 MLF、Marco Barotti、Jana Winderen、Robertina Šebjanič、Lachlan Turczan、Sissel Tolaas 等。",
+  "url": "https://www.marinabaysands.com/museum/exhibitions/into-the-ocean.html"
+ },
+ {
+  "id": "mit-sensing-oceans-2026",
+  "type": "exhibition",
+  "en": "Sensing Oceans (MIT Museum, 2026–27)",
+  "zh": "感知海洋（MIT 博物馆，2026–27）",
+  "desc_en": "Exhibition on how humans extend perception below the ocean surface, with underwater sensors, animal-inspired robots and immersive artworks.",
+  "desc_zh": "关于人类如何把感知延伸到海面之下的展览，展出水下传感设备、仿生机器人与沉浸式艺术作品。",
+  "url": "https://mitmuseum.mit.edu/announcements/mit-museum-to-unlock-mysteries-of-our-ocean-planet-in-new-thematic-season-launching-september-2026"
+ },
+ {
+  "id": "artscience-more-than-human-2026",
+  "type": "exhibition",
+  "en": "More than Human (ArtScience Museum, 2026–27)",
+  "zh": "超越人类（艺术科学博物馆，2026–27）",
+  "desc_en": "ArtScience Museum Singapore exhibition on more-than-human life, including MLF's Poetics of Soil.",
+  "desc_zh": "新加坡艺术科学博物馆关于超越人类生命的展览，展出 MLF 的《Poetics of Soil》等作品。",
+  "url": "https://marshmallowlaserfeast.com/exhibitions/"
+ }
+]

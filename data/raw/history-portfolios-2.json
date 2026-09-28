@@ -1,0 +1,974 @@
+{
+ "batch": "history-portfolios-2",
+ "creators": [
+  {
+   "id": "sputniko",
+   "name": "Sputniko!",
+   "kind": "person",
+   "role": "Artist working in speculative and critical design",
+   "role_zh": "从事思辨与批判设计的艺术家",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "British-Japanese artist (Hiromi Ozaki) whose videos and devices, first made at the Royal College of Art, question how emerging technologies shape bodies, gender and society; later an associate professor at the MIT Media Lab and Tokyo University of the Arts.",
+   "bio_zh": "英日混血艺术家（尾崎博美），最早在皇家艺术学院创作影像与装置，探讨新兴技术如何塑造身体、性别与社会；后任 MIT 媒体实验室与东京艺术大学副教授。",
+   "why": "Crowbot Jenny imagines a girl who builds a device to speak crow, an early design-fiction take on talking to another species through a machine.",
+   "why_zh": "《乌鸦机器人珍妮》设想一个女孩造出会说乌鸦语的装置，是较早用设计虚构探讨借机器与他者物种对话的作品。",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {
+    "site": "https://sputniko.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "studio-above-and-below",
+   "name": "Studio Above&Below",
+   "kind": "studio",
+   "role": "Art and technology studio working with XR and environmental data",
+   "role_zh": "以 XR 与环境数据创作的艺术科技工作室",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Founded by Daria Jelonek and Perry-James Sugden after the Royal College of Art; they build AR sculptures, domes and mixed-reality pieces driven by live air, tide and soil data.",
+   "bio_zh": "由 Daria Jelonek 与 Perry-James Sugden 在皇家艺术学院毕业后创立，用实时空气、潮汐与土壤数据驱动 AR 雕塑、穹顶与混合现实作品。",
+   "why": "Their works turn sensor data from air, water and soil into spaces people can stand inside, a data-driven route to perceiving non-living and microbial worlds.",
+   "why_zh": "他们把空气、水与土壤的传感数据变成人可以置身其中的空间，是以数据感知非生命与微生物世界的一条路径。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.studioaboveandbelow.com/",
+    "vimeo": "https://vimeo.com/studioaboveandbelow"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "keiken",
+   "name": "Keiken",
+   "kind": "studio",
+   "role": "Artist collective working with game engines, haptics and world-building",
+   "role_zh": "以游戏引擎、触觉技术与世界构建创作的艺术家团体",
+   "based": "London, UK and Berlin, Germany",
+   "based_zh": "伦敦，英国；柏林，德国",
+   "bio": "Founded in 2015 by Tanya Cruz, Hana Omori and Isabel Ramos; Keiken (Japanese for 'experience') builds game worlds, AR filters and wearable haptic 'wombs' that imagine posthuman bodies and forms of empathy.",
+   "bio_zh": "2015 年由 Tanya Cruz、Hana Omori 与 Isabel Ramos 创立；Keiken（日语“体验”）制作游戏世界、AR 滤镜与可穿戴触觉“子宫”，想象后人类的身体与共情方式。",
+   "why": "Their haptic wearables let visitors feel sounds of other beings on the belly, treating the body as a sensor for consciousnesses beyond the human.",
+   "why_zh": "他们的触觉可穿戴装置让观众在腹部感受其他生命的声音，把身体当作感知非人意识的传感器。",
+   "disciplines": [
+    "art",
+    "games"
+   ],
+   "links": {
+    "site": "https://keiken.cloud/",
+    "vimeo": "https://vimeo.com/keiken"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "jakob-kudsk-steensen--tongues-of-verglas",
+   "creator_ids": [
+    "jakob-kudsk-steensen"
+   ],
+   "title": "Tongues of Verglas / Les Langues de Verglas",
+   "year": 2022,
+   "field": "river",
+   "sub": "water",
+   "also": [
+    "tree",
+    "fungi"
+   ],
+   "senses": [
+    "time-scale",
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A 24-minute looping simulation of the Arolla glacier's ice cave that travels from the glacial 'tongue' into a 3D-scanned Arolla pine, a drop of its sap and the wolf lichen living inside it.",
+   "description_zh": "一段 24 分钟循环的模拟影像：从阿罗拉冰川的冰洞“冰舌”出发，进入一棵三维扫描的阿罗拉松、一滴树液，以及生活在其中的狼地衣。",
+   "idea_en": "Scale is the doorway: the camera shrinks from glacier to lichen so that ice, tree and symbiont read as one living body.",
+   "idea_zh": "尺度就是入口：镜头从冰川一路缩小到地衣，让冰、树与共生体像同一个活的身体。",
+   "method": "Photogrammetry and macro scans from two weeks of fieldwork at 2,300 m, assembled into a real-time Unreal Engine simulation.",
+   "method_zh": "在海拔 2300 米两周野外工作中采集的摄影测量与微距扫描，在 Unreal Engine 中组成实时模拟。",
+   "keywords": [
+    "glacier",
+    "Arolla",
+    "lichen",
+    "sap",
+    "photogrammetry",
+    "slow media",
+    "Unreal Engine"
+   ],
+   "shown_at": [
+    "MIRE Project, Geneva 2022",
+    "Yet It Moves!, Copenhagen Contemporary 2023",
+    "Teylers Museum 2023"
+   ],
+   "video": {
+    "url": "https://vimeo.com/742306931"
+   },
+   "images": [
+    "https://i.vimeocdn.com/video/1493577233-2d5a8f61d2f82964814ba9c7be1bb64c24ec31817ed31b1aec6bfebd6011fded-d_1280x720"
+   ],
+   "source_url": "https://www.jakobsteensen.com/tongues-of-verglas-les-langues-de-verglas"
+  },
+  {
+   "id": "jakob-kudsk-steensen--aquaphobia",
+   "creator_ids": [
+    "jakob-kudsk-steensen"
+   ],
+   "title": "Aquaphobia",
+   "year": 2017,
+   "field": "river",
+   "sub": "water",
+   "also": [
+    "fungi"
+   ],
+   "senses": [
+    "body",
+    "hearing"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A room-scale VR piece in which a morphing water microbe leads you through a virtual Red Hook park and pier, from mud tunnels to a bridge over future flood water, while the landscape narrates a breakup with you.",
+   "description_zh": "房间尺度的 VR 作品：一个不断变形的水中微生物带你穿过虚拟的红钩公园与码头，从泥土隧道走到未来洪水之上的桥，而景观本身在向你讲述一段分手。",
+   "idea_en": "The water speaks as a jilted lover and reminds you that most of your body is water too, turning fear of water into kinship.",
+   "idea_zh": "水以被抛弃的恋人口吻说话，提醒你身体大部分也是水，把对水的恐惧变成亲缘。",
+   "method": "HTC Vive room-scale VR built from satellite images and photographed soil, clay and rock textures, with spatial narration.",
+   "method_zh": "用卫星图像与拍摄的土壤、黏土、岩石纹理搭建的 HTC Vive 房间尺度 VR，配合空间化旁白。",
+   "keywords": [
+    "water",
+    "microbe",
+    "Red Hook",
+    "Brooklyn",
+    "sea level rise",
+    "room-scale VR"
+   ],
+   "video": {
+    "url": "https://vimeo.com/244699310"
+   },
+   "images": [
+    "https://static1.squarespace.com/static/573604122b8ddea9122c6ee9/t/5f9d99e01e3be610d60cac43/1589207723451/1.jpg?format=1500w"
+   ],
+   "source_url": "https://www.jakobsteensen.com/aquaphobia"
+  },
+  {
+   "id": "somniacs--birdly-reef-dive",
+   "creator_ids": [
+    "somniacs"
+   ],
+   "title": "Birdly: Reef Dive",
+   "year": 2020,
+   "field": "fish",
+   "sub": "reef",
+   "also": [
+    "animal"
+   ],
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A multiplayer Birdly edition in which your avatar is a manta ray gliding through a coral reef among schools of fish and dolphins.",
+   "description_zh": "支持多人的 Birdly 版本：你的化身是一只蝠鲼，在珊瑚礁中与鱼群和海豚一同滑行。",
+   "idea_en": "Wing-flapping becomes the slow sweep of a manta's fins, showing how one embodiment rig can carry a person between air and water bodies.",
+   "idea_zh": "扇翅变成蝠鲼胸鳍的缓慢划动，说明同一套具身装置可以让人在空中与水中的身体之间切换。",
+   "method": "Birdly motion platform and headset with a networked reef scene so several riders swim together.",
+   "method_zh": "Birdly 动态平台与头显，联网的珊瑚礁场景让多位骑乘者一起游动。",
+   "keywords": [
+    "manta ray",
+    "coral reef",
+    "dolphin",
+    "multiplayer",
+    "Birdly"
+   ],
+   "video": {
+    "url": "https://vimeo.com/832370872"
+   },
+   "images": [
+    "https://birdlyvr.com/wp-content/uploads/sites/3/2023/05/reef-dive.jpg"
+   ],
+   "source_url": "https://birdlyvr.com/reef-dive/"
+  },
+  {
+   "id": "jiabao-li--chthulucene",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Chthulucene",
+   "year": 2022,
+   "field": "octopus",
+   "sub": "cephalopod",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "performance",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A speculative project set in a flooded future where octopuses inherit the Earth; humans try to connect with them by learning their movements through an 'interspecies metamorphosis' of the body.",
+   "description_zh": "设定在海平面上升、章鱼继承地球的未来的思辨项目；人类尝试通过身体的“跨物种变形”学习章鱼的动作，与它们建立联系。",
+   "idea_en": "Becoming octopus means shifting from a central brain and eyes to distributed intelligence and touch, and designing an extinction the next species might remember kindly.",
+   "idea_zh": "成为章鱼意味着从中央大脑与视觉转向分布式智能与触觉，并为人类设计一个让下一个物种温柔记起的退场。",
+   "method": "Movement studies, costume and photographic series in which performers imitate octopus locomotion; likely staged as images and video rather than XR.",
+   "method_zh": "以动作研究、服装与摄影系列呈现，表演者模仿章鱼的运动方式；可能以图像与影像而非 XR 呈现。",
+   "keywords": [
+    "octopus",
+    "Chthulucene",
+    "Donna Haraway",
+    "distributed intelligence",
+    "metamorphosis"
+   ],
+   "shown_at": [
+    "Venice Architecture Biennale, European Cultural Centre 2023",
+    "Ecological Soup, Currents New Media 2023"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1646285074576-8A956ZPPTEIUAVV09FKB/Jiabao+Li+Chthulucene1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1646290524890-B05S64LZ44Q1H89IJPMA/Jiabao+Li+Chthulucene2.jpg"
+   ],
+   "source_url": "https://www.jiabaoli.org/chthulucene",
+   "also": []
+  },
+  {
+   "id": "jiabao-li--once-a-glacier",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Once a Glacier",
+   "year": 2022,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "time-scale",
+    "hearing"
+   ],
+   "medium": [
+    "vr",
+    "film360"
+   ],
+   "kind": "film",
+   "description": "An interactive 15-minute VR film about a girl who keeps a piece of glacier ice in her freezer as she grows up, while its parent glacier disappears within her lifetime.",
+   "description_zh": "一部 15 分钟的互动 VR 影片：一个女孩在成长中把一块冰川冰存放在冰箱里，而它的母冰川在她有生之年消失。",
+   "idea_en": "Pairing a human life with the life of a piece of ice makes glacial time, once slow and now fast, something a viewer can feel.",
+   "idea_zh": "把一个人的一生与一块冰的一生并置，让曾经缓慢、如今飞快的冰川时间变得可以被感受。",
+   "method": "Glacier forms modelled from satellite data of the Matanuska Glacier and sound recorded on Alaskan glaciers, in an interactive PC VR build.",
+   "method_zh": "依据马塔努斯卡冰川卫星数据建模的冰川形态，配合在阿拉斯加冰川上录制的声音，制作为互动 PC VR。",
+   "keywords": [
+    "glacier",
+    "Matanuska",
+    "Alaska",
+    "Iñupiaq",
+    "glacial time",
+    "climate"
+   ],
+   "shown_at": [
+    "IDFA DocLab",
+    "SXSW XR 2023",
+    "Raindance Immersive",
+    "Cannes World Film Festival (Best VR Short)"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=S1iY-nFp7EE"
+   },
+   "images": [
+    "https://static1.squarespace.com/static/58688c8a6a496327e937e35b/t/622070b1dbbc750b6fe171e3/1646293174606/Jiabao+Li+Once+a+Glacier.jpg?format=1500w"
+   ],
+   "source_url": "https://www.jiabaoli.org/once-a-glacier",
+   "collections": [
+    "idfa-doclab",
+    "sxsw-xr"
+   ],
+   "also": []
+  },
+  {
+   "id": "jiabao-li--the-long-fall",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "The Long Fall: A Descent into the Ocean's Living Memory",
+   "year": 2025,
+   "field": "fish",
+   "sub": "reef",
+   "also": [
+    "fungi"
+   ],
+   "senses": [
+    "time-scale",
+    "hearing",
+    "vision"
+   ],
+   "medium": [
+    "dome",
+    "performance",
+    "audio"
+   ],
+   "kind": "performance",
+   "description": "A 15-minute audiovisual performance that drops the audience from the White Cliffs of Dover down the ocean's water column, drifting with individual plankton cells as they die and sink as marine snow.",
+   "description_zh": "一场 15 分钟的视听表演，让观众从多佛白崖坠入海洋水柱，与单个浮游生物细胞一起漂流，直到它们死去、化作海洋雪下沉。",
+   "idea_en": "The audience takes the point of view of plankton falling endlessly downward, the microscopic labour that sinks a large share of Earth's carbon.",
+   "idea_zh": "观众站在浮游生物的视角无尽下坠，体会这些微小生命如何把地球大量的碳沉入深海。",
+   "method": "Microscopy datasets from Stanford's Prakash Lab (PlanktonScope, Gravity Machine) rendered for immersive projection, with a live low-frequency score.",
+   "method_zh": "使用斯坦福 Prakash 实验室的显微数据（PlanktonScope、Gravity Machine）制作沉浸式投影，并配以现场低频配乐。",
+   "keywords": [
+    "plankton",
+    "marine snow",
+    "carbon cycle",
+    "Manu Prakash",
+    "PlanktonScope",
+    "Ars Electronica Deep Space"
+   ],
+   "shown_at": [
+    "Ars Electronica Deep Space 8K",
+    "Fusebox Festival, Austin 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=84QXfKdI4xg"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1748490664246-Z163ZARKTZSD744BGG89/The+Long+Fall+Jiabao+Li+1.jpg"
+   ],
+   "source_url": "https://www.jiabaoli.org/long-fall",
+   "collections": [
+    "ars-electronica"
+   ]
+  },
+  {
+   "id": "jiabao-li--squeeker-the-mouse-coach",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Squeeker: The Mouse Coach",
+   "year": 2023,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "installation",
+    "screen",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "An app, running programme and installation in which a pet mouse's smart running wheel sets your training: when the mouse runs you are prompted to run, and matching its distance earns it a treat and you social-media scrolling time.",
+   "description_zh": "一个应用、跑步计划与装置：宠物鼠的智能跑轮决定你的训练，老鼠一跑你就收到提醒去跑，跑到与它相同的距离，它得到零食，你得到刷社交媒体的时间。",
+   "idea_en": "Reversing the lab-mouse relationship, the human body is trained on a mouse's daily half-marathon rhythm.",
+   "idea_zh": "颠倒实验鼠与人的关系：人的身体按照老鼠每天“半程马拉松”的节奏接受训练。",
+   "method": "Sensor-equipped running wheel linked to a mobile app that matches human running distance to the mouse's and unlocks scroll distance.",
+   "method_zh": "装有传感器的跑轮连接手机应用，把人的跑步距离与老鼠的距离匹配，并解锁相应的滑屏距离。",
+   "keywords": [
+    "mouse",
+    "lab animal",
+    "running wheel",
+    "habit loop",
+    "IDFA DocLab"
+   ],
+   "shown_at": [
+    "IDFA DocLab"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=UvfkYPLJAaw"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/03dabe22-2bce-40aa-9646-b4c1157818b1/Jiabao+Li+Squeeker+Mouse+Coach+1.jpeg"
+   ],
+   "source_url": "https://www.jiabaoli.org/mouse-coach",
+   "collections": [
+    "idfa-doclab"
+   ],
+   "also": []
+  },
+  {
+   "id": "melodie-mousset--hanahana",
+   "creator_ids": [
+    "melodie-mousset"
+   ],
+   "title": "HanaHana",
+   "year": 2018,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A VR sculpture garden where hands sprout from your fingertips and every surface you touch; you grow towers and forests of hands, and a later edition lets up to ten people share the world as vaporous avatars.",
+   "description_zh": "一座 VR 雕塑花园：手从你的指尖和你触碰的每个表面长出来，你用手堆出塔与森林；后来的版本最多让十个人以雾状化身共享这个世界。",
+   "idea_en": "The body keeps multiplying outward: your hands become the building material of the world, a playful study of extra limbs and a self without edges.",
+   "idea_zh": "身体不断向外增殖：你的手成了世界的建材，是对额外肢体与无边界自我的轻松探索。",
+   "method": "Hand-tracked room-scale VR with procedurally growing hand meshes; developed with the Laboratory of Cognitive Neuroscience at EPFL (likely).",
+   "method_zh": "手部追踪的房间尺度 VR，手的网格按程序生长；可能与 EPFL 认知神经科学实验室合作开发。",
+   "keywords": [
+    "hands",
+    "extra limbs",
+    "embodiment",
+    "Kusama",
+    "multiplayer",
+    "EPFL"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Sf5B_iZrf0o"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/Sf5B_iZrf0o/hqdefault.jpg"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=Sf5B_iZrf0o",
+   "also": []
+  },
+  {
+   "id": "tomas-saraceno--free-the-air",
+   "creator_ids": [
+    "tomas-saraceno"
+   ],
+   "title": "Free the Air: How to hear the universe in a spider/web",
+   "year": 2022,
+   "field": "insect",
+   "sub": "insect-other",
+   "also": [
+    "bat"
+   ],
+   "senses": [
+    "hearing",
+    "touch",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "Visitors lie together on a net suspended inside a vast sphere and listen, and feel through the body, a composition made from the vibrations of a spider and its web.",
+   "description_zh": "观众一起躺在悬于巨大球体中的网上，聆听并用身体感受一段由蜘蛛与蛛网的振动制成的音乐。",
+   "idea_en": "The audience lies in the web's position: sound arrives as vibration through the net, the way a spider reads its world.",
+   "idea_zh": "观众躺在蛛网的位置上：声音以振动的形式经由网传来，就像蜘蛛读取它的世界。",
+   "method": "A spherical chamber with a suspended net and low-frequency sound derived from recorded web vibrations, played through a multichannel system.",
+   "method_zh": "带悬挂网的球形空间，多声道系统播放由蛛网振动录音转化的低频声音。",
+   "keywords": [
+    "spider",
+    "web",
+    "vibration",
+    "sonification",
+    "The Shed",
+    "Particular Matter(s)"
+   ],
+   "shown_at": [
+    "The Shed, New York 2022"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=EG6_8boQQ-w"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/EG6_8boQQ-w/hqdefault.jpg"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=EG6_8boQQ-w"
+  },
+  {
+   "id": "sasa-spacal--sonoseismic-earth",
+   "creator_ids": [
+    "sasa-spacal"
+   ],
+   "title": "Sonoseismic Earth",
+   "year": 2015,
+   "field": "river",
+   "sub": "planet",
+   "senses": [
+    "hearing",
+    "touch"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A responsive kinetic globe that cracks and darkens as visitors approach, filling the room with the infrasound of earthquakes felt in the body rather than heard.",
+   "description_zh": "一个会回应的动态地球仪：观众走近时它开裂、变暗，房间里充满地震的次声，与其说是听见，不如说是用身体感受。",
+   "idea_en": "A planetary perspective delivered as vibration: human proximity drives the seismic shifts, so the visitor feels the planet respond to them.",
+   "idea_zh": "以振动传达的行星视角：人的靠近驱动地震变化，观众能感到地球在回应自己。",
+   "method": "Proximity sensors drive seismographic animation on a kinetic globe and infrasonic speakers.",
+   "method_zh": "接近传感器驱动动态地球仪上的地震图动画与次声扬声器。",
+   "keywords": [
+    "Earth",
+    "infrasound",
+    "earthquake",
+    "Anthropocene",
+    "Ida Hiršenfelder",
+    "Aksioma"
+   ],
+   "shown_at": [
+    "Festival Mfru Kiblix 2015, Maribor",
+    "Aksioma, Ljubljana 2017",
+    "Device_art 6.018, Zagreb 2018"
+   ],
+   "video": {
+    "url": "https://vimeo.com/247492932"
+   },
+   "images": [
+    "https://www.agapea.si/wp-content/uploads/2015/12/11_aksioma_spacal-hirsenfelder_sonoseismic-earth_img_9571_32258997414_o.jpg"
+   ],
+   "source_url": "https://www.agapea.si/en/projects/earth-a-sonoseismic-instrument",
+   "also": []
+  },
+  {
+   "id": "sasa-spacal--touchscaping",
+   "creator_ids": [
+    "sasa-spacal"
+   ],
+   "title": "Touchscaping",
+   "year": 2017,
+   "field": "mole",
+   "sub": "underground",
+   "senses": [
+    "touch",
+    "hearing"
+   ],
+   "medium": [
+    "performance",
+    "installation"
+   ],
+   "kind": "performance",
+   "description": "A living sculpture in which the artist touches a nest of earthworms; sensors turn the contact into pulsing sound and a projected landscape that grows from the encounter.",
+   "description_zh": "一件活体雕塑：艺术家触摸一窝蚯蚓，传感器把接触转化为脉动的声音与随之生长的投影景观。",
+   "idea_en": "Landscape is made by touch between species: the worms' soil world becomes audible and visible only through contact.",
+   "idea_zh": "景观由物种之间的触碰生成：蚯蚓的土壤世界只有在接触时才被听见、看见。",
+   "method": "Touch sensors on the worm nest drive generative sound and animation projected around the performer.",
+   "method_zh": "蚯蚓巢上的触觉传感器驱动生成式声音与投影在表演者周围的动画。",
+   "keywords": [
+    "earthworm",
+    "soil",
+    "touch",
+    "Slavko Glamočanin",
+    "Tivoli Greenhouse"
+   ],
+   "shown_at": [
+    "Tivoli Greenhouse, University Botanic Gardens Ljubljana 2017",
+    "Layer House, Kranj 2017"
+   ],
+   "images": [
+    "https://www.agapea.si/wp-content/uploads/2017/07/20170419_photo_matic_zorman_8002.jpg",
+    "https://www.agapea.si/wp-content/uploads/2017/08/20170419_photo_matic_zorman_7994.jpg"
+   ],
+   "source_url": "https://www.agapea.si/en/projects/toucscaping",
+   "also": []
+  },
+  {
+   "id": "spela-petric--plant-sex-consultancy",
+   "creator_ids": [
+    "spela-petric"
+   ],
+   "title": "PSX Consultancy (Plant Sex Consultancy)",
+   "year": 2014,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "prototype",
+   "description": "A speculative design consultancy that treats plants as clients and designs reproductive aids for them, objects that hover between medical devices and erotic hardware.",
+   "description_zh": "一个把植物当作客户的思辨设计咨询机构，为植物设计生殖辅助用品，这些物件介于医疗器械与情趣用品之间。",
+   "idea_en": "Human-centred design is turned on plants: the designer has to 'feel into' a client with no voice and no first-person report.",
+   "idea_zh": "把以人为中心的设计方法用到植物身上：设计师必须“设身处地”体会一个没有声音、无法自述的客户。",
+   "method": "Biofiction prototypes based on pollination biology, presented as a consultancy with objects and documentation.",
+   "method_zh": "依据传粉生物学制作的生物虚构原型，以咨询机构的形式展出物件与文档。",
+   "keywords": [
+    "plant",
+    "pollination",
+    "speculative design",
+    "BIO50",
+    "Pei-Ying Lin",
+    "Dimitrios Stamatis",
+    "Jasmina Weiss"
+   ],
+   "shown_at": [
+    "BIO50, Museum of Architecture and Design, Ljubljana 2014"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5aeca48a506fbe863b23a8b6/1534191081939-DQXHKQECKO7IZYFVDMP4/IMG_2824.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5aeca48a506fbe863b23a8b6/1534191167722-257XI6LQZSXY2K4OZ9T6/IMG_2732.jpg"
+   ],
+   "source_url": "https://www.spelapetric.org/plant-sex-consultancy/",
+   "also": []
+  },
+  {
+   "id": "sputniko--crowbot-jenny",
+   "creator_ids": [
+    "sputniko"
+   ],
+   "title": "Crowbot Jenny",
+   "year": 2010,
+   "field": "bird",
+   "sub": "avian-senses",
+   "senses": [
+    "hearing"
+   ],
+   "medium": [
+    "wearable",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A music video and wearable device about a solitary girl who prefers animals to people and builds the Crowbot, an instrument that reproduces crow calls so she can talk to her army of crows.",
+   "description_zh": "一部音乐影像与可穿戴装置：一个比起人更喜欢动物的孤独女孩，造出能复现乌鸦叫声的“乌鸦机器人”，与她的乌鸦大军交谈。",
+   "idea_en": "Speaking another species' language through a prosthetic voice box: the device lets the human enter the crows' acoustic society.",
+   "idea_zh": "借一个假体发声器说另一个物种的语言：装置让人进入乌鸦的声音社会。",
+   "method": "Wearable call-synthesising device developed with advice from crow researcher Nicola Clayton (Cambridge), presented with a pop music video.",
+   "method_zh": "在剑桥大学乌鸦研究者 Nicola Clayton 的建议下开发的可穿戴叫声合成装置，配合流行音乐影像展出。",
+   "keywords": [
+    "crow",
+    "birdsong",
+    "interspecies communication",
+    "Nicola Clayton",
+    "design fiction"
+   ],
+   "shown_at": [
+    "Talk to Me, MoMA New York 2011",
+    "14th Japan Media Arts Festival 2011",
+    "Tokyo Art Meeting Transformation, MOT 2010"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rdU1F54FEOU"
+   },
+   "images": [
+    "https://storage.googleapis.com/production-os-assets/assets/18f187ff-8e8a-4f0d-9634-d7808c54c4d1"
+   ],
+   "source_url": "https://sputniko.com/Crowbot-Jenny",
+   "also": []
+  },
+  {
+   "id": "anagram--messages-to-a-post-human-earth",
+   "creator_ids": [
+    "anagram"
+   ],
+   "title": "Messages to a Post Human Earth",
+   "year": 2021,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "hearing",
+    "multisensory"
+   ],
+   "medium": [
+    "ar",
+    "audio",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "A two-person audio and AR journey through a garden or forest that asks what plants, rather than people, would witness after humans are gone, drawing on Monica Gagliano's plant-memory research and a Stanisław Lem essay.",
+   "description_zh": "一段两人同行的音频与 AR 旅程，在花园或森林中想象人类消失之后由植物而非人来见证什么，取材自 Monica Gagliano 的植物记忆研究与 Stanisław Lem 的一篇文章。",
+   "idea_en": "Plants as the hearing, sensing witnesses of a post-human Earth; the two partners' synchronised actions become a choreography for each other and for the plants.",
+   "idea_zh": "植物是后人类地球上能听、能感的见证者；两位同伴同步的动作成为彼此与植物之间的编舞。",
+   "method": "Location-based binaural narration and AR overlays on a handheld device with physical props, designed for two synchronised participants.",
+   "method_zh": "手持设备上的定位双耳旁白与 AR 叠加，配合实物道具，为两位同步的参与者设计。",
+   "keywords": [
+    "plant intelligence",
+    "Mimosa",
+    "Monica Gagliano",
+    "Stanisław Lem",
+    "nuclear semiotics",
+    "binaural"
+   ],
+   "shown_at": [
+    "Orleans House Gallery, London"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=w4mP6QDA7Ak"
+   },
+   "images": [
+    "https://weareanagram.co.uk/wp-content/uploads/2023/12/mtaphe.png"
+   ],
+   "source_url": "https://weareanagram.co.uk/project/messages-to-a-post-human-earth/",
+   "also": []
+  },
+  {
+   "id": "studio-above-and-below--digital-atmosphere",
+   "creator_ids": [
+    "studio-above-and-below"
+   ],
+   "title": "Digital Atmosphere",
+   "year": 2020,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "vision",
+    "breath"
+   ],
+   "medium": [
+    "ar",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A public sculpture with a built-in air-quality sensor whose AR layer, seen through a phone, changes form and colour as pollution in the surrounding air changes.",
+   "description_zh": "一座内置空气质量传感器的公共雕塑，透过手机看到的 AR 层会随周围空气污染的变化而改变形态与颜色。",
+   "idea_en": "Gives the invisible air a visible body and a voice, so a passer-by perceives the atmosphere they are breathing.",
+   "idea_zh": "给看不见的空气一个可见的身体与声音，让路人感知自己正在呼吸的大气。",
+   "method": "An 'Atmo' air-quality sensor streams readings to a mobile AR app that deforms a virtual sculpture anchored to the physical one.",
+   "method_zh": "“Atmo”空气质量传感器把读数传给手机 AR 应用，使锚定在实体雕塑上的虚拟雕塑随之变形。",
+   "keywords": [
+    "air quality",
+    "pollution",
+    "AR sculpture",
+    "sensor",
+    "Broadway Near Now"
+   ],
+   "shown_at": [
+    "Near Now Fellowship, Broadway Nottingham 2020"
+   ],
+   "video": {
+    "url": "https://vimeo.com/463156008"
+   },
+   "images": [
+    "https://www.studioaboveandbelow.com/media/2026/08/Studio-AboveBelow-DigitalAtmosphere.webp"
+   ],
+   "source_url": "https://www.studioaboveandbelow.com/work/digital-atmosphere",
+   "also": []
+  },
+  {
+   "id": "studio-above-and-below--semi-diurnal-spaces",
+   "creator_ids": [
+    "studio-above-and-below"
+   ],
+   "title": "Semi-Diurnal Spaces",
+   "year": 2022,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "dome"
+   ],
+   "kind": "artwork",
+   "description": "A site-specific fulldome installation in South Wales where live tide, wind and humidity data from the Bristol Channel shape a flowing particle sculpture around the audience.",
+   "description_zh": "位于南威尔士的在地穹顶装置：布里斯托尔海峡的实时潮汐、风与湿度数据塑造环绕观众流动的粒子雕塑。",
+   "idea_en": "Sitting inside the dome you feel the channel's twice-daily tidal rhythm as the pace of the space around you.",
+   "idea_zh": "坐在穹顶中，你能把海峡一天两次的潮汐节律感受为周遭空间的节奏。",
+   "method": "Real-time tidal and atmospheric data drive gravity, viscosity and flow in an NVIDIA FleX particle simulation projected in a dome.",
+   "method_zh": "实时潮汐与气象数据驱动 NVIDIA FleX 粒子模拟中的重力、黏度与流速，投影于穹顶。",
+   "keywords": [
+    "tide",
+    "Bristol Channel",
+    "Severn Estuary",
+    "fulldome",
+    "NVIDIA FleX",
+    "Wales"
+   ],
+   "video": {
+    "url": "https://vimeo.com/714540362"
+   },
+   "images": [
+    "https://i.vimeocdn.com/video/1440159997-9a486cacf8e1963922d9667a4084d7bbcc34777c2e3b295a31ab187754b1080a-d_1280x720"
+   ],
+   "source_url": "https://www.studioaboveandbelow.com/work/semi-diurnal-spaces",
+   "also": []
+  },
+  {
+   "id": "studio-above-and-below--entangled-landscape",
+   "creator_ids": [
+    "studio-above-and-below"
+   ],
+   "title": "Entangled Landscape",
+   "year": 2023,
+   "field": "fungi",
+   "sub": "mycelium",
+   "also": [
+    "tree"
+   ],
+   "senses": [
+    "vision",
+    "collective-sense"
+   ],
+   "medium": [
+    "mr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A meditative mixed-reality piece that renders the microscopic exchange of resources in soil as a digital sculpture, driven by two neural networks trained on mycorrhizal mutualism and live environmental data from Flanders.",
+   "description_zh": "一件冥想式混合现实作品，把土壤中微观的资源交换呈现为数字雕塑，由两个以菌根互利关系训练的神经网络与来自佛兰德斯的实时环境数据驱动。",
+   "idea_en": "Makes the cooperative underground network of fungi and roots perceptible at human scale, so collaboration becomes something you watch grow or fail.",
+   "idea_zh": "把真菌与根系在地下的合作网络放大到人的尺度，让合作变成可以看着生长或失败的东西。",
+   "method": "Two neural networks trained on mutualistic interactions respond to live soil and weather data and render in mixed reality; developed with soil scientists.",
+   "method_zh": "两个以互利互动训练的神经网络对实时土壤与天气数据作出反应，在混合现实中渲染；与土壤科学家合作开发。",
+   "keywords": [
+    "mycorrhiza",
+    "soil",
+    "mutualism",
+    "neural network",
+    "Flanders",
+    "mixed reality"
+   ],
+   "video": {
+    "url": "https://vimeo.com/800511752"
+   },
+   "images": [
+    "https://i.vimeocdn.com/video/1614942915-e8fe40e0506ee8865990ede23f0b4be8cc884726be5aa110b90c4ba9d94f1e78-d_1280x720"
+   ],
+   "source_url": "https://www.studioaboveandbelow.com/work/entangled-landscape"
+  },
+  {
+   "id": "keiken--morphogenic-angels-chapter-1",
+   "creator_ids": [
+    "keiken"
+   ],
+   "title": "Morphogenic Angels: Chapter 1",
+   "year": 2023,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "fish"
+   ],
+   "senses": [
+    "touch",
+    "hearing",
+    "body"
+   ],
+   "medium": [
+    "installation",
+    "game",
+    "wearable"
+   ],
+   "kind": "artwork",
+   "description": "A video-game installation set 1,000 years ahead, when humans have become 'Angels' able to embody other kinds of consciousness; visitors wear a haptic 'womb' on the belly that vibrates with sounds shifting between underwater mammals, sandstorms and space.",
+   "description_zh": "一件设定在一千年后的电子游戏装置：人类已变成能体现其他意识形态的“天使”；观众在腹部戴上触觉“子宫”，它随着在水下哺乳动物、沙暴与太空之间切换的声音振动。",
+   "idea_en": "The belly becomes a listening organ: haptics are used as 'tools of consciousness' to feel beings you cannot see or understand.",
+   "idea_zh": "腹部成了聆听的器官：触觉被当作“意识的工具”，去感受看不见、也无法理解的存在。",
+   "method": "Game-engine world and CGI film in a black-sand set, with Keiken's wearable haptic womb synced to headphone audio.",
+   "method_zh": "黑沙布景中的游戏引擎世界与 CGI 影片，配合 Keiken 自制、与耳机声音同步的可穿戴触觉子宫。",
+   "keywords": [
+    "haptic womb",
+    "posthuman",
+    "whale song",
+    "world-building",
+    "HAU Hebbel am Ufer"
+   ],
+   "shown_at": [
+    "HAU Hebbel am Ufer, Berlin 2023",
+    "PHI Montreal 2025",
+    "BredaPhoto 2026",
+    "Baltic Centre for Contemporary Art 2026"
+   ],
+   "video": {
+    "url": "https://vimeo.com/851219516"
+   },
+   "images": [
+    "https://keiken.cloud/wp-content/uploads/2023/08/keiken-Morphogenic-Angels-2023-Hau-Berlin-Lowres-10.jpg"
+   ],
+   "source_url": "https://keiken.cloud/work/morphogenic-angels-chapter-1/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Jakob Kudsk Steensen — Primal Tourism (2016) and RE-WILDLING (2018)",
+   "why": "Primal Tourism's camera switches between human, animal and drone movement; RE-WILDLING imagines the reintroduced Hawaiian crow as a sentient flying entity. Both are screen/game works with weak first-person becoming.",
+   "link": "https://www.jakobsteensen.com/primal-tourism-1",
+   "found_via": "jakob-kudsk-steensen",
+   "status": "open"
+  },
+  {
+   "name": "Jiabao Li — Squid Map, ANIMO: WildLife Priority Mode",
+   "why": "Squid Map builds a sand playground for lab squid; ANIMO proposes a wildlife-priority mode for self-driving cars. About animals, not becoming them.",
+   "link": "https://www.jiabaoli.org/squid-map",
+   "found_via": "jiabao-li",
+   "status": "off_topic"
+  },
+  {
+   "name": "Keiken — Liquid Perception (2026)",
+   "why": "New installation on non-verbal and interspecies communication worn through a haptic heart device; first prototype October 2026, no documentation yet.",
+   "link": "https://keiken.cloud/",
+   "found_via": "keiken",
+   "status": "no_media"
+  },
+  {
+   "name": "Anagram — Amorphous",
+   "why": "Multiplayer AR/VR piece in which participants inhabit alternate-limbed bodies; still in development.",
+   "link": "https://weareanagram.co.uk/project/amorphous/",
+   "found_via": "anagram",
+   "status": "no_media"
+  },
+  {
+   "name": "Studio Above&Below — Meditative Cohabitation (2023), Latent Listening",
+   "why": "Multispecies bioacoustic screen installations (Brussels biotope; Perth bird chorus seen by AI). Perceptual translation, weaker embodiment.",
+   "link": "https://www.studioaboveandbelow.com/work/meditative-cohabitation",
+   "found_via": "studio-above-and-below",
+   "status": "open"
+  },
+  {
+   "name": "Birdly World (Somniacs, 2024)",
+   "why": "Global flight edition with portals to micro-experiences as alternate avatars; mostly human-scale sightseeing.",
+   "link": "https://birdlyvr.com/birdly-world/",
+   "found_via": "somniacs",
+   "status": "open"
+  },
+  {
+   "name": "Saša Spačal — Meta_bolus (2018)",
+   "why": "Installation about smelling geosmin from Streptomyces bacteria and antibiotic resistance; scent-based sensing of microbes.",
+   "link": "https://www.agapea.si/en/projects/meta_bolus-2",
+   "found_via": "sasa-spacal",
+   "status": "open"
+  },
+  {
+   "name": "Lynette Wallworth — Hidden/Depths",
+   "why": "UV-torch installation of bioluminescent deep-sea specimens at ArtScience Museum; perceptual but not embodied.",
+   "link": "https://lynettewallworth.com/works/hidden-depths",
+   "found_via": "lynette-wallworth",
+   "status": "open"
+  },
+  {
+   "name": "Jonathon Keats — Honeybee Ballet (2008), Cinema Botanica / Pornography for Plants (2007)",
+   "why": "Works made for bee and plant audiences rather than letting humans become them.",
+   "link": "https://en.wikipedia.org/wiki/Jonathon_Keats",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Ani Liu",
+   "why": "Networked Sensorium swaps vision between two humans; Biota Beats sonifies human microbiome cultures. No clear more-than-human embodiment.",
+   "link": "https://ani-liu.com/",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Kuang-Yi Ku",
+   "why": "Bio-design projects (Tiger Penis Project, Fellatio Modification Project, Atlas of Queer Anatomy) borrow animal traits for human bodies but are speculative objects, not perceptual works; site offline.",
+   "link": "https://www.youtube.com/watch?v=AQgkizKwVhg",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Pinar Yoldas",
+   "why": "An Ecosystem of Excess imagines plastic-digesting organisms; speculative biology, not becoming.",
+   "link": "http://www.pinaryoldas.info/",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Revital Cohen & Tuur Van Balen; Anicka Yi; Rachel Rossin; Ferryman Collective; Nexus Studios; Emissive",
+   "why": "Checked portfolios; no work found where the participant becomes or perceives as a nonhuman.",
+   "link": "",
+   "found_via": "seed",
+   "status": "off_topic"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "winslow-porter--forager": {
+  "images": [
+   "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2023/Schede_film/970x647/Ve_Immersive/porter-gra.jpg?itok=5DLfU6OX"
+  ]
+ },
+ "tosca-teran--sentience": {
+  "images": [
+   "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2024/Schede_film/970x647/Ve_Immersive/symbiosis-dysbiosis.jpg?itok=FPo8HeFR"
+  ]
+ },
+ "tosca-teran--mycelia": {
+  "images": [
+   "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2021/Schede_film/970x647/Venice_VR_Expanded/mycelia.jpg?itok=XGt_dNhR"
+  ],
+  "video": {
+   "url": "https://www.youtube.com/watch?v=FpKTw7dGUUI"
+  }
+ },
+ "eliza-mcnitt--spheres": {
+  "images": [
+   "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2018/Schede_film/970x647/Venice-VR/spheres.jpg?itok=EusW57yV"
+  ]
+ },
+ "milica-zec--tree": {
+  "images": [
+   "https://s3-us-west-2.amazonaws.com/treeofficial/img/desktop-tree-backup.png"
+  ]
+ },
+ "tender-claws--face-jumping": {
+  "images": [
+   "https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2025/Schede_film/970x647/Ve_Immersive/face_jumping.jpg?itok=OnaLq0ZU"
+  ],
+  "video": {
+   "url": "https://www.youtube.com/watch?v=cdrUGLVcZps"
+  }
+ },
+ "natalia-cabrera--hypha": {
+  "video": {
+   "url": "https://www.youtube.com/watch?v=UEkAzlBTEq4"
+  }
+ },
+ "ben-joseph-andrews--gondwana": {
+  "video": {
+   "url": "https://www.youtube.com/watch?v=fH6ruj_rEy8"
+  }
+ }
+}

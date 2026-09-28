@@ -1,0 +1,944 @@
+{
+ "batch": "animals-art",
+ "creators": [],
+ "works": [
+  {
+   "id": "tender-claws--face-jumping",
+   "creator_ids": [
+    "tender-claws"
+   ],
+   "title": "Face Jumping",
+   "year": 2025,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "robot"
+   ],
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A surreal VR piece in which meeting another character's gaze lets you jump into their body, moving between strangers, animals and objects on a journey of rebirth.",
+   "description_zh": "一件超现实 VR 作品：与另一个角色目光相接，你就能跳进它的身体，在陌生人、动物和物体之间穿行，完成一段重生之旅。",
+   "idea_en": "Eye contact is the doorway between bodies: to become another, you first have to look it in the eye.",
+   "idea_zh": "目光接触是身体之间的门：要成为他者，先要与它对视。",
+   "method": "Uses the eye tracking of Meta Quest Pro to detect mutual gaze and trigger perspective swaps.",
+   "method_zh": "利用 Meta Quest Pro 的眼动追踪检测对视并触发视角切换。",
+   "keywords": [
+    "eye tracking",
+    "gaze",
+    "perspective swap",
+    "Quest Pro",
+    "rebirth"
+   ],
+   "shown_at": [
+    "SXSW 2025 XR",
+    "Venice Immersive 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=SNT_MuIJ8aY"
+   },
+   "images": [
+    "https://static.labiennale.org/files/styles/full_screen_slide/public/cinema/2025/Schede_film/970x647/Ve_Immersive/face_jumping.jpg?itok=m12qWn8f"
+   ],
+   "source_url": "https://www.labiennale.org/en/cinema/2025/venice-immersive/face-jumping",
+   "collections": [
+    "venice-immersive",
+    "sxsw-xr"
+   ]
+  },
+  {
+   "id": "brenda-laurel--placeholder",
+   "creator_ids": [
+    "brenda-laurel",
+    "rachel-strickland"
+   ],
+   "title": "Placeholder",
+   "year": 1993,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "bird",
+    "insect",
+    "fish"
+   ],
+   "senses": [
+    "vision",
+    "body",
+    "hearing"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A two-person VR work in filmed landscapes of Banff where participants could take on the body of a spirit animal, Spider, Snake, Fish or Crow, gaining its way of seeing, moving and speaking, and leave spoken 'voicemarks' for others.",
+   "description_zh": "一件两人 VR 作品，场景是拍摄的班夫地景，参与者可以化身为蜘蛛、蛇、鱼或乌鸦等灵兽，获得它观看、移动和说话的方式，并为他人留下语音“声标”。",
+   "idea_en": "Each creature is a different perceptual and locomotor rule set, which makes embodiment a matter of senses and movement, not appearance.",
+   "idea_zh": "每种生物都是一套不同的感知与移动规则，让化身关乎感官和运动，而不是外表。",
+   "method": "Head-mounted displays, 3D spatial audio, hand-held controllers and voice filters; Crow flies with flapping arms and Snake sees in infrared-like colour.",
+   "method_zh": "头戴显示器、三维空间音频、手持控制器和变声滤镜；乌鸦靠振臂飞行，蛇以类似红外的色彩观看。",
+   "keywords": [
+    "crow",
+    "snake",
+    "spider",
+    "fish",
+    "Banff Centre",
+    "Interval Research",
+    "voicemarks"
+   ],
+   "shown_at": [
+    "Banff Centre for the Arts 1993"
+   ],
+   "images": [
+    "https://image.jimcdn.com/app/cms/image/transf/none/path/s1cb8d6527de0e9b6/image/ifd4c0c7fa4d79286/version/1571836952/image.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/192593.192637",
+    "doi": "10.1145/192593.192637",
+    "venue": "ACM Multimedia 1994",
+    "title": "PLACEHOLDER: Landscape and Narrative in Virtual Environments"
+   },
+   "source_url": "https://www.tauzero.com/Brenda_Laurel/Severed_Heads/CGQ_Placeholder.html"
+  },
+  {
+   "id": "chris-woebken--animal-superpowers",
+   "creator_ids": [
+    "chris-woebken",
+    "kenichi-okada"
+   ],
+   "title": "Animal Superpowers",
+   "year": 2008,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "insect",
+    "bird",
+    "bat"
+   ],
+   "senses": [
+    "vision",
+    "magnetic",
+    "body"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A set of wearable devices for children: an ant apparatus that magnifies vision 50 times through hand-mounted microscopes, a bird device that vibrates toward a chosen direction, and a giraffe device that lowers the voice and raises the eyes by 30 cm; bat goggles for hearing ultrasound followed in 2015.",
+   "description_zh": "一组给儿童的可穿戴设备：用手上的显微镜把视觉放大 50 倍的“蚂蚁装置”、朝选定方向振动的“鸟装置”、把声音压低并把视线抬高 30 厘米的“长颈鹿装置”；2015 年又加入可以听见超声的“蝙蝠护目镜”。",
+   "idea_en": "Each device borrows one animal sense and fits it to a child's body and play, so curiosity becomes the interface.",
+   "idea_zh": "每个装置借用一种动物感官，并适配儿童的身体和游戏，让好奇心成为界面。",
+   "method": "Hand-mounted microscope cameras feeding a head display, a GPS unit driving vibration, voice pitch shifting with raised stilts, and an ultrasonic bat detector.",
+   "method_zh": "手持显微摄像头连接头部显示、GPS 驱动振动、变声配合加高底座，以及超声波蝙蝠探测器。",
+   "keywords": [
+    "ant",
+    "bird",
+    "giraffe",
+    "bat",
+    "magnetoreception",
+    "microscope",
+    "children",
+    "Royal College of Art"
+   ],
+   "shown_at": [
+    "Design and the Elastic Mind, MoMA New York 2008"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=L9oTcez2CXU"
+   },
+   "images": [
+    "https://freight.cargo.site/t/original/i/ad1784c02faa9d2afb6614fa878b4982436d2d58292e1349ebee13b3d8c6a682/2232862656_cba3f094c1_o.jpg",
+    "https://freight.cargo.site/t/original/i/067d74e44844e7aca2661cd3baab576aa3fb852d9130e7525a1d6fce5ad67c0d/animals3.jpg"
+   ],
+   "source_url": "https://www.chriswoebken.com/animal-superpowers"
+  },
+  {
+   "id": "bernie-krause--the-great-animal-orchestra",
+   "creator_ids": [
+    "bernie-krause",
+    "united-visual-artists"
+   ],
+   "title": "The Great Animal Orchestra",
+   "year": 2016,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "bird",
+    "insect",
+    "bat"
+   ],
+   "senses": [
+    "hearing",
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "A dark room where recordings of wild habitats, from Borneo to Zimbabwe to California, play in surround sound while their spectrograms scroll across the walls, showing how each species occupies its own band of the soundscape.",
+   "description_zh": "一间暗室，来自婆罗洲、津巴布韦到加州等野外栖息地的录音以环绕声播放，频谱图在墙上滚动，显示每个物种如何占据声景中的一个频段。",
+   "idea_en": "Listening to a habitat as an orchestra reveals the soundscape as a shared, divided space among species.",
+   "idea_zh": "把栖息地当作乐团来听，声景便显现为物种共享又分隔的空间。",
+   "method": "Five decades of Krause's field recordings rendered by UVA as real-time spectrogram projections with multichannel sound.",
+   "method_zh": "Krause 五十年的田野录音，由 UVA 转化为实时频谱投影与多声道声音。",
+   "keywords": [
+    "biophony",
+    "soundscape ecology",
+    "spectrogram",
+    "field recording",
+    "Fondation Cartier"
+   ],
+   "shown_at": [
+    "Fondation Cartier pour l'art contemporain Paris 2016",
+    "Exploratorium San Francisco"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=o1SnSv0OQdY"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Bernie_Krause"
+  },
+  {
+   "id": "jiabao-li--what-makes-us-most-human",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "What makes us most Human is also so Animal",
+   "year": 2026,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "bat"
+   ],
+   "senses": [
+    "smell",
+    "breath"
+   ],
+   "medium": [
+    "performance",
+    "installation"
+   ],
+   "kind": "performance",
+   "description": "A performance and blind tasting in which visitors drink a line-up of milks and guess their source: the artist's own, cow, goat, sheep, water buffalo, camel, horse, yak, donkey, bat and coyote.",
+   "description_zh": "一场表演与盲品：观众品尝一排奶并猜测来源，包括艺术家本人、牛、山羊、绵羊、水牛、骆驼、马、牦牛、驴、蝙蝠和郊狼的奶。",
+   "idea_en": "Crossing the species line through taste: breastfeeding makes the artist most human precisely because it makes her a mammal.",
+   "idea_zh": "通过味觉跨越物种界线：哺乳让艺术家最像人，正因为它让她成为哺乳动物。",
+   "method": "Milk samples from eleven mammals served blind, framed by a live performance about motherhood and artificial intelligence.",
+   "method_zh": "十一种哺乳动物的奶以盲品方式呈现，配合一场关于母职与人工智能的现场表演。",
+   "keywords": [
+    "milk",
+    "mammal",
+    "breastfeeding",
+    "taste",
+    "bat",
+    "coyote"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8k3acKrF-o8"
+   },
+   "source_url": "https://www.jiabaoli.org/what-makes-us-most-human-is-also-so-animal"
+  },
+  {
+   "id": "emma-davie--becoming-animal",
+   "creator_ids": [
+    "emma-davie",
+    "peter-mettler"
+   ],
+   "title": "Becoming Animal",
+   "year": 2018,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "multisensory",
+    "time-scale"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "film",
+   "description": "A documentary made with philosopher David Abram in Grand Teton National Park that slows the viewer down to listen and look at elk, ravens, insects and weather as sensing beings.",
+   "description_zh": "一部与哲学家 David Abram 在大提顿国家公园合作拍摄的纪录片，让观众慢下来，把麋鹿、渡鸦、昆虫和天气当作有感知的存在去听、去看。",
+   "idea_en": "Becoming animal begins with recovering our own animal senses, as Abram argues, rather than with technology.",
+   "idea_zh": "正如 Abram 所说，成为动物始于找回我们自己的动物感官，而不是始于技术。",
+   "method": "Long takes, close sound recording and Abram's voice-over on sensory phenomenology.",
+   "method_zh": "长镜头、近距离录音，以及 Abram 关于感官现象学的旁白。",
+   "keywords": [
+    "David Abram",
+    "Grand Teton",
+    "elk",
+    "raven",
+    "phenomenology",
+    "CPH:DOX"
+   ],
+   "shown_at": [
+    "CPH:DOX 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Oia7EQupIZY"
+   },
+   "source_url": "https://www.youtube.com/watch?v=Oia7EQupIZY"
+  },
+  {
+   "id": "thomas-thwaites--goatman",
+   "creator_ids": [
+    "thomas-thwaites"
+   ],
+   "title": "GoatMan",
+   "year": 2016,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "body",
+    "smell"
+   ],
+   "medium": [
+    "wearable",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "The designer built prosthetic legs, a helmet and an attempt at an artificial rumen, then crossed the Swiss Alps on all fours with a herd of goats for several days.",
+   "description_zh": "设计师制作了假肢腿、头盔并尝试做人工瘤胃，然后四肢着地，与一群山羊一起在瑞士阿尔卑斯山中走了几天。",
+   "idea_en": "Becoming animal hits the body's limits at once: pain, cold, gait and digestion decide how far you get.",
+   "idea_zh": "成为动物立刻撞上身体的极限：疼痛、寒冷、步态和消化决定了你能走多远。",
+   "method": "Custom front and hind leg prostheses made with prosthetist Glyn Heath, a protective helmet, and consultation with neuroscientists and goat behaviour experts.",
+   "method_zh": "与假肢师 Glyn Heath 合作定制的前后腿假肢、防护头盔，并咨询神经科学家与山羊行为专家。",
+   "keywords": [
+    "goat",
+    "prosthetics",
+    "Alps",
+    "quadrupedal",
+    "rumen",
+    "Ig Nobel Prize"
+   ],
+   "shown_at": [
+    "Ig Nobel Prize in Biology 2016",
+    "Nature–Design Triennial, Cooper Hewitt 2019"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-IPub-Fipz8"
+   },
+   "images": [
+    "https://www.thomasthwaites.com/folio5/wp-content/uploads/2016/03/Goat8-Thomas_Thwaites-photo-Tim_Bowditch.jpg",
+    "https://www.thomasthwaites.com/folio5/wp-content/uploads/2016/03/Goat14-Thomas_Thwaites-photo-Tim_Bowditch.jpg"
+   ],
+   "source_url": "https://www.thomasthwaites.com/a-holiday-from-being-human-goatman/"
+  },
+  {
+   "id": "charles-foster--being-a-beast",
+   "creator_ids": [
+    "charles-foster"
+   ],
+   "title": "Being a Beast",
+   "year": 2016,
+   "field": "animal",
+   "sub": "wild",
+   "also": [
+    "bird"
+   ],
+   "senses": [
+    "smell",
+    "multisensory"
+   ],
+   "medium": [
+    "performance"
+   ],
+   "kind": "publication",
+   "description": "A book recording the author's attempts to live as a badger in a Welsh hillside sett, an otter, an urban fox, a red deer hunted by hounds and a migrating swift.",
+   "description_zh": "一本书，记录作者尝试以獾（住在威尔士山坡的獾穴里）、水獭、城市狐狸、被猎犬追逐的马鹿和迁徙的雨燕的方式生活。",
+   "idea_en": "Without any device, becoming animal means re-training smell, sleep, diet and fear, and admitting what cannot be reached.",
+   "idea_zh": "不借助任何设备，成为动物意味着重新训练嗅觉、睡眠、饮食和恐惧，并承认哪些无法抵达。",
+   "method": "Immersive field practice: sleeping underground, eating worms, crawling on all fours, and drawing on sensory biology and neuroscience.",
+   "method_zh": "沉浸式的田野实践：睡在地下、吃蚯蚓、四肢爬行，并借助感官生物学和神经科学。",
+   "keywords": [
+    "badger",
+    "otter",
+    "fox",
+    "red deer",
+    "swift",
+    "Ig Nobel Prize"
+   ],
+   "shown_at": [
+    "Ig Nobel Prize in Biology 2016"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=TIzqzrDQedY"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Charles_Foster_(writer)"
+  },
+  {
+   "id": "art-oriente-objet--may-the-horse-live-in-me",
+   "creator_ids": [
+    "art-oriente-objet"
+   ],
+   "title": "May the Horse Live in Me",
+   "year": 2011,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "body",
+    "breath"
+   ],
+   "medium": [
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "Marion Laval-Jeantet was injected with horse blood plasma after months of immune preparation, then walked beside a horse on hoof-like stilts, communicating with it.",
+   "description_zh": "Marion Laval-Jeantet 在数月的免疫准备后被注射了马的血浆，随后踩着形如马蹄的高跷与一匹马并肩行走、交流。",
+   "idea_en": "Becoming-animal moves inside the body: horse immunoglobulins change the artist's sleep, fear and sense of self.",
+   "idea_zh": "“成为动物”进入身体内部：马的免疫球蛋白改变了艺术家的睡眠、恐惧与自我感。",
+   "method": "Gradual exposure to horse immunoglobulins under medical supervision, a final plasma injection, and a public performance with custom stilt-hooves.",
+   "method_zh": "在医疗监护下逐步接触马的免疫球蛋白，最后注射血浆，并穿着定制马蹄高跷进行公开表演。",
+   "keywords": [
+    "horse",
+    "blood plasma",
+    "immunoglobulin",
+    "bio art",
+    "Kapelica Gallery"
+   ],
+   "shown_at": [
+    "Kapelica Gallery Ljubljana 2011",
+    "VIDA 14.0 (third prize) 2012"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yx_E4DUWXbE"
+   },
+   "source_url": "https://www.paris-art.com/que-le-cheval-vive-en-moi/"
+  },
+  {
+   "id": "maja-smrekar--ecce-canis",
+   "creator_ids": [
+    "maja-smrekar"
+   ],
+   "title": "K-9_topology: Ecce Canis",
+   "year": 2014,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "smell"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "Serotonin extracted from the blood of the artist and her dog Byron was turned into a scent that fills a spherical cave next to the laboratory machine that separated it.",
+   "description_zh": "从艺术家和她的狗 Byron 的血液中提取的血清素被制成一种气味，充满一个球形洞穴，洞穴旁是分离它的实验设备。",
+   "idea_en": "Human and dog meet in a shared molecule; the gallery is entered through smell, the dog's leading sense.",
+   "idea_zh": "人与狗在一种共享的分子中相遇；观众通过嗅觉进入展厅，而嗅觉正是狗的主导感官。",
+   "method": "High-performance liquid chromatography separated serotonin fractions from platelet-rich plasma, which were then developed into an odour.",
+   "method_zh": "用高效液相色谱从富血小板血浆中分离血清素组分，再制成气味。",
+   "keywords": [
+    "dog",
+    "serotonin",
+    "odour",
+    "HPLC",
+    "co-evolution",
+    "K-9_topology"
+   ],
+   "shown_at": [
+    "Prix Ars Electronica 2017 (Golden Nica, Hybrid Art, K-9_topology)"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5c326f997c9327edb6347bf8/1575227420980-BZIGFQFH9X8CSEG1TXDO/01_K-9_topology_ECCE+CANIS.jpg"
+   ],
+   "source_url": "https://www.majasmrekar.org/ekce-canis",
+   "collections": [
+    "ars-electronica"
+   ]
+  },
+  {
+   "id": "maja-smrekar--i-hunt-nature-and-culture-hunts-me",
+   "creator_ids": [
+    "maja-smrekar"
+   ],
+   "title": "K-9_topology: I Hunt Nature and Culture Hunts Me",
+   "year": 2014,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body",
+    "smell"
+   ],
+   "medium": [
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "After a residency at Jacana Wildlife Studios in France, the artist performed inside an enclosure with wolves and wolfdogs, building trust through body language rather than training.",
+   "description_zh": "在法国 Jacana Wildlife Studios 驻留后，艺术家在围栏中与狼和狼犬一起表演，靠身体语言而非训练建立信任。",
+   "idea_en": "Meeting the wolf as the dog's ancestor asks what domestication removed from both species.",
+   "idea_zh": "把狼当作狗的祖先去相遇，追问驯化从两个物种身上拿走了什么。",
+   "method": "Weeks of ethologist-guided contact with a wolf pack, then a live performance followed by a public discussion.",
+   "method_zh": "在动物行为学家指导下与狼群接触数周，随后现场表演并举行公开讨论。",
+   "keywords": [
+    "wolf",
+    "wolfdog",
+    "Jacana Wildlife Studios",
+    "Joseph Beuys",
+    "Donna Haraway",
+    "K-9_topology"
+   ],
+   "shown_at": [
+    "Rencontres Bandits-Mages 2014",
+    "Prix Ars Electronica 2017 (Golden Nica, Hybrid Art, K-9_topology)"
+   ],
+   "video": {
+    "url": "https://vimeo.com/111946213"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5c326f997c9327edb6347bf8/1547908448070-C8AMJ5OR3T2CYJARJBLH/01_I+HUNT+NATURE+AND+CULTURE+HUNTS+ME.jpg"
+   ],
+   "source_url": "https://www.majasmrekar.org/k9-topology-i-hunt-nature-and-culture-hunts-me",
+   "collections": [
+    "ars-electronica"
+   ]
+  },
+  {
+   "id": "maja-smrekar--hybrid-family",
+   "creator_ids": [
+    "maja-smrekar"
+   ],
+   "title": "K-9_topology: Hybrid Family",
+   "year": 2016,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "breath",
+    "body"
+   ],
+   "medium": [
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "After three months of seclusion with her dogs, the artist induced lactation through breast pumping and diet and breastfed a puppy named Ada in a public performance.",
+   "description_zh": "在与她的狗隐居三个月后，艺术家通过吸乳和饮食诱导泌乳，并在公开表演中给一只名叫 Ada 的幼犬哺乳。",
+   "idea_en": "Becoming-animal through hormones: prolactin and oxytocin make a cross-species family at the level of the body.",
+   "idea_zh": "通过激素成为动物：催乳素与催产素在身体层面构成一个跨物种家庭。",
+   "method": "Systematic breast pumping to stimulate the pituitary gland, a galactagogue diet, and a durational performance documented in photographs with Manuel Vason.",
+   "method_zh": "系统吸乳刺激垂体、催乳饮食，以及与 Manuel Vason 合作用照片记录的长时表演。",
+   "keywords": [
+    "dog",
+    "puppy",
+    "lactation",
+    "prolactin",
+    "oxytocin",
+    "K-9_topology"
+   ],
+   "shown_at": [
+    "Berlin 2016",
+    "Prix Ars Electronica 2017 (Golden Nica, Hybrid Art, K-9_topology)"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5c326f997c9327edb6347bf8/1575463206163-6D6W7CEJ7DBLDNJJW29I/03_K9%2BHYBRID%2BFAMILY.jpg"
+   ],
+   "source_url": "https://www.majasmrekar.org/k-9topology-hybrid-family",
+   "collections": [
+    "ars-electronica"
+   ]
+  },
+  {
+   "id": "oleg-kulik--man-dog",
+   "creator_ids": [
+    "oleg-kulik"
+   ],
+   "title": "Man-Dog performances",
+   "year": 1994,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "A series of performances in which the artist, naked and on a leash, acted as a dog, barking and biting visitors, from Moscow in 1994 to 'I Bite America and America Bites Me' at Deitch Projects, New York, in 1997.",
+   "description_zh": "一系列表演：艺术家赤身、拴着狗链扮演狗，吠叫并咬观众，从 1994 年的莫斯科到 1997 年在纽约 Deitch Projects 的《I Bite America and America Bites Me》。",
+   "idea_en": "Becoming dog as social provocation: the animal body exposes the violence and limits of the human community around it.",
+   "idea_zh": "作为社会挑衅的“成为狗”：动物身体暴露出周围人类群体的暴力与界限。",
+   "method": "Durational live performance with leash, cage and audience interaction, documented in photographs and video.",
+   "method_zh": "长时现场表演，使用狗链、笼子和与观众的互动，以照片和影像记录。",
+   "keywords": [
+    "dog",
+    "Mad Dog",
+    "Deitch Projects",
+    "Alexander Brener",
+    "performance art"
+   ],
+   "shown_at": [
+    "Moscow 1994",
+    "Deitch Projects New York 1997"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=M2CZyLjtIVk"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Oleg_Kulik"
+  },
+  {
+   "id": "marcus-coates--journey-to-the-lower-world",
+   "creator_ids": [
+    "marcus-coates"
+   ],
+   "title": "Journey to the Lower World",
+   "year": 2004,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body",
+    "hearing"
+   ],
+   "medium": [
+    "performance",
+    "screen"
+   ],
+   "kind": "performance",
+   "description": "Wearing a deer skin, the artist performed a shamanic journey in the flat of residents of a Liverpool tower block due for demolition, calling like animals to seek advice from the spirit world, and filmed it.",
+   "description_zh": "艺术家披着鹿皮，在利物浦一栋即将拆除的高层住宅居民家中进行萨满之旅，模仿动物鸣叫向灵界求教，并拍摄成片。",
+   "idea_en": "Animal voice and costume become a practical tool to speak to a community's problem from outside the human frame.",
+   "idea_zh": "动物的声音与装扮成为一种实用工具，从人的框架之外回应社区的问题。",
+   "method": "A Siberian Yakut-inspired ritual with animal skin and vocal imitation, performed live and presented as a single-channel video.",
+   "method_zh": "受西伯利亚雅库特启发的仪式，使用动物皮与声音模仿，现场表演后以单频道影像呈现。",
+   "keywords": [
+    "shamanism",
+    "red deer",
+    "vocal imitation",
+    "Sheil Park",
+    "Liverpool"
+   ],
+   "shown_at": [
+    "Liverpool 2004"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=FAUWVKxiG2s"
+   },
+   "source_url": "https://www.marcuscoates.co.uk/"
+  },
+  {
+   "id": "rachel-mayeri--primate-cinema-apes-as-family",
+   "creator_ids": [
+    "rachel-mayeri"
+   ],
+   "title": "Primate Cinema: Apes as Family",
+   "year": 2012,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "screen",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A film made for the chimpanzees of Edinburgh Zoo, with human actors in ape costumes playing a family drama; the gallery version shows the film beside footage of the chimps watching it.",
+   "description_zh": "一部为爱丁堡动物园黑猩猩拍摄的电影，由穿猿类服装的人类演员演出一段家庭剧；展览版本把影片与黑猩猩观看它的画面并置。",
+   "idea_en": "Designing for chimpanzee attention forces the filmmaker to guess what another species finds meaningful to watch.",
+   "idea_zh": "为黑猩猩的注意力设计，迫使电影人去猜测另一个物种觉得什么值得看。",
+   "method": "Scripted with primatologists and tested on the chimpanzees' own viewing screen; two-channel video installation.",
+   "method_zh": "与灵长类学家共同编写剧本，在黑猩猩自己的屏幕上测试；以双频道影像装置呈现。",
+   "keywords": [
+    "chimpanzee",
+    "Edinburgh Zoo",
+    "film for animals",
+    "primatology",
+    "Arts Catalyst"
+   ],
+   "shown_at": [
+    "Arts Catalyst London 2012"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4871rINIAeQ"
+   },
+   "images": [
+    "https://rachelmayeri.com/wp-content/uploads/2025/06/denise-with-remote-16x9-wide.jpg"
+   ],
+   "source_url": "http://rachelmayeri.com/primate-cinema"
+  },
+  {
+   "id": "austin-stewart--second-livestock",
+   "creator_ids": [
+    "austin-stewart"
+   ],
+   "title": "Second Livestock",
+   "year": 2014,
+   "field": "animal",
+   "sub": "companion",
+   "also": [
+    "bird"
+   ],
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A speculative project proposing VR headsets and omnidirectional treadmills for battery-farmed chickens, so that caged birds could roam a virtual free-range farm.",
+   "description_zh": "一个思辨项目，为笼养鸡设计 VR 头显和全向跑步机，让笼中的鸡在虚拟的散养农场里漫游。",
+   "idea_en": "Putting the headset on the animal exposes VR's promise of freedom as a way of keeping bodies confined.",
+   "idea_zh": "把头显戴到动物头上，暴露出 VR 的“自由”承诺也可能是一种让身体继续被关押的方式。",
+   "method": "Mock-ups of a chicken-sized headset and treadmill with a simple virtual pasture, presented as installation, website and video.",
+   "method_zh": "鸡尺寸头显和跑步机的模型，配一片简单的虚拟牧场，以装置、网站和影像呈现。",
+   "keywords": [
+    "chicken",
+    "battery cage",
+    "factory farming",
+    "Second Life",
+    "omnidirectional treadmill"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=oRFSsNegE24"
+   },
+   "source_url": "https://www.isea-symposium-archives.org/art-events/austin-stewart-second-livestock/"
+  },
+  {
+   "id": "animal-equality--ianimal",
+   "creator_ids": [
+    "animal-equality"
+   ],
+   "title": "iAnimal",
+   "year": 2016,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "film360"
+   ],
+   "kind": "film",
+   "description": "A series of 360° films shot inside farms and slaughterhouses at the height of the animals, pigs, chickens and dairy cows, so that viewers stand where the animals stand.",
+   "description_zh": "一系列在农场和屠宰场内部、以动物（猪、鸡和奶牛）的高度拍摄的 360° 影片，让观众站在动物所站的位置。",
+   "idea_en": "A critical counterpoint: the 360° camera offers the animal's vantage point but not its senses, and relies on witness rather than embodiment.",
+   "idea_zh": "一件批判性的对照作品：360° 相机提供动物的位置，却不提供它的感官，依靠的是目击而不是化身。",
+   "method": "360° cameras placed at animal eye level in industrial farms, with celebrity narration and headset screenings in public spaces.",
+   "method_zh": "在工业化农场里把 360° 相机放在动物视线高度，配名人旁白，并在公共场所用头显放映。",
+   "keywords": [
+    "pig",
+    "chicken",
+    "dairy cow",
+    "factory farming",
+    "360 video",
+    "animal rights"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=53CAL47OWxo"
+   },
+   "source_url": "https://animalequality.org/"
+  },
+  {
+   "id": "baobab-studios--invasion",
+   "creator_ids": [
+    "baobab-studios"
+   ],
+   "title": "Invasion!",
+   "year": 2016,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "film360"
+   ],
+   "kind": "film",
+   "description": "An animated VR short in which you are a small white rabbit on a frozen lake when two aliens land; looking down, you see your own furry body.",
+   "description_zh": "一部动画 VR 短片：两个外星人降落时，你是冰湖上的一只小白兔；低头就能看到自己毛茸茸的身体。",
+   "idea_en": "The simplest embodiment cue, seeing an animal body where your own should be, is enough to shift how the scene addresses you.",
+   "idea_zh": "最简单的化身线索，也就是在自己身体的位置看到一个动物身体，就足以改变场景与你的关系。",
+   "method": "Real-time animated VR in which the viewer's camera is placed in a rabbit avatar, with characters reacting to the viewer.",
+   "method_zh": "实时动画 VR，观众的镜头被放在兔子化身中，角色会对观众做出反应。",
+   "keywords": [
+    "rabbit",
+    "animation",
+    "aliens",
+    "avatar",
+    "Eric Darnell"
+   ],
+   "shown_at": [
+    "Tribeca Film Festival 2016"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=SZ0fKW5PttM"
+   },
+   "source_url": "https://www.baobabstudios.com/",
+   "collections": [
+    "tribeca-immersive"
+   ]
+  },
+  {
+   "id": "laurie-anderson--music-for-dogs",
+   "creator_ids": [
+    "laurie-anderson"
+   ],
+   "title": "Music for Dogs",
+   "year": 2010,
+   "field": "animal",
+   "sub": "companion",
+   "also": [
+    "bat"
+   ],
+   "senses": [
+    "hearing"
+   ],
+   "medium": [
+    "performance",
+    "audio"
+   ],
+   "kind": "performance",
+   "description": "An outdoor concert composed for dogs, with sounds in the canine hearing range, performed on the forecourt of the Sydney Opera House for an audience of dogs and their owners.",
+   "description_zh": "一场为狗创作的户外音乐会，包含狗听觉范围内的声音，在悉尼歌剧院前广场为狗和它们的主人演出。",
+   "idea_en": "Composing for another species' hearing means writing partly in frequencies the human audience cannot perceive.",
+   "idea_zh": "为另一个物种的听觉作曲，意味着部分地用人类听众感知不到的频率写作。",
+   "method": "Live electronic and violin performance with high-frequency content above human hearing, amplified outdoors.",
+   "method_zh": "现场电子与小提琴演奏，包含高于人类听觉的高频内容，在户外扩音。",
+   "keywords": [
+    "dog",
+    "hearing range",
+    "high frequency",
+    "Sydney Opera House",
+    "Vivid Sydney"
+   ],
+   "shown_at": [
+    "Vivid Sydney 2010",
+    "Times Square New York 2016"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3bS2Kuhe6tk"
+   },
+   "source_url": "https://laurieanderson.com/"
+  },
+  {
+   "id": "dominic-wilcox--art-for-dogs",
+   "creator_ids": [
+    "dominic-wilcox"
+   ],
+   "title": "Art for Dogs",
+   "year": 2016,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "smell",
+    "vision"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "An exhibition of interactive sculptures designed for dogs: a giant food bowl filled with ball-pit balls, a car-window simulator with scents blowing past and a moving landscape, and a fountain of water leaping between bowls.",
+   "description_zh": "一场为狗设计的交互雕塑展：装满海洋球的巨大食盆、带吹过气味和移动风景的车窗模拟器，以及在碗之间跳跃的喷泉。",
+   "idea_en": "The gallery is designed around a dog's sensory priorities: smell first, blue-yellow colour vision, low eye level and play.",
+   "idea_zh": "展厅围绕狗的感官优先级设计：嗅觉优先、蓝黄色视觉、低视线和玩耍。",
+   "method": "Mechanical sculptures with scent fans, ball pits and water jets, coloured for dichromatic canine vision and built at dog height.",
+   "method_zh": "带气味风扇、海洋球池和喷水装置的机械雕塑，为狗的二色视觉配色，并按狗的高度搭建。",
+   "keywords": [
+    "dog",
+    "dichromatic vision",
+    "scent",
+    "exhibition for animals",
+    "interactive sculpture"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=h7hpI0OodAY"
+   },
+   "source_url": "https://www.dominicwilcox.com/"
+  },
+  {
+   "id": "sam-easterson--animal-cams",
+   "creator_ids": [
+    "sam-easterson"
+   ],
+   "title": "Animal-Cams",
+   "year": 1998,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "insect",
+    "bird",
+    "mole"
+   ],
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "screen",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "An ongoing library of short videos shot by small cameras attached to animals, from a sheep, bison, wolf and turkey to a tarantula and scorpion, plus Burrow-Cams placed inside dens and burrows.",
+   "description_zh": "一个持续扩充的短片库，由绑在动物身上的小型相机拍摄，从绵羊、野牛、狼和火鸡到狼蛛和蝎子，另有放进洞穴和地道里的 Burrow-Cams。",
+   "idea_en": "The camera rides the animal's gait and height, so the viewer feels its rhythm of movement even without its senses.",
+   "idea_zh": "相机随动物的步态和高度移动，即使没有它的感官，观众也能感到它运动的节奏。",
+   "method": "Modified miniature security cameras fixed temporarily with adhesive, rubber bands or harnesses, with the help of animal handlers and wildlife experts.",
+   "method_zh": "改装的微型监控相机，在驯养员和野生动物专家协助下，用胶粘、橡皮筋或挽具临时固定。",
+   "keywords": [
+    "sheep",
+    "bison",
+    "wolf",
+    "tarantula",
+    "scorpion",
+    "burrow",
+    "animal-borne camera",
+    "Walker Art Center"
+   ],
+   "shown_at": [
+    "Walker Art Center Minneapolis 1998",
+    "Grand Arts Kansas City 2003",
+    "Nature Holds My Camera, Indianapolis Museum of Art",
+    "Videonale 14 Bonn 2013"
+   ],
+   "images": [
+    "https://www.grandarts.com/past_projects/2003/images/2003_01_sm01.jpg",
+    "https://www.lightwork.org/uploads/2016/01/UVP_SamEasterson_BURROWCAMS_BetweenSpecies_WP-572x321.jpg"
+   ],
+   "source_url": "https://www.grandarts.com/past_projects/2003/2003_01.html"
+  },
+  {
+   "id": "jonathon-keats--honeybee-ballet",
+   "creator_ids": [
+    "jonathon-keats"
+   ],
+   "title": "The Honeybee Ballet",
+   "year": 2008,
+   "field": "insect",
+   "sub": "bee",
+   "senses": [
+    "collective-sense",
+    "body"
+   ],
+   "medium": [
+    "performance",
+    "installation"
+   ],
+   "kind": "performance",
+   "description": "A ballet choreographed for honeybees: by planting flowers in chosen patterns on a university farm, the artist set the routes the foragers would report, so the bees' own waggle dances in the hive performed his choreography.",
+   "description_zh": "一出为蜜蜂编排的芭蕾：艺术家在大学农场按选定图案种花，决定采集蜂会汇报的路线，于是蜂巢里蜜蜂自己的摇摆舞就跳出了他的编舞。",
+   "idea_en": "Instead of making humans dance like bees, the work writes in the bees' own language, the waggle dance, by shaping what they perceive.",
+   "idea_zh": "作品不是让人像蜜蜂一样跳舞，而是通过塑造蜜蜂所感知的东西，用它们自己的语言，也就是摇摆舞来写作。",
+   "method": "Flower plantings arranged by distance and direction from the hive to 'compose' the waggle dances that foragers perform to recruit nestmates.",
+   "method_zh": "按照与蜂巢的距离和方向布置花丛，以此“谱写”采集蜂招募同伴时跳的摇摆舞。",
+   "keywords": [
+    "honeybee",
+    "waggle dance",
+    "choreography",
+    "Chico State University",
+    "Yerba Buena Center for the Arts"
+   ],
+   "shown_at": [
+    "Yerba Buena Center for the Arts 2008"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3OPKKbW85Jg"
+   },
+   "source_url": "https://rhizome.org/community/13178/"
+  }
+ ],
+ "leads": []
+}

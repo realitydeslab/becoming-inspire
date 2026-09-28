@@ -1,0 +1,3136 @@
+{
+ "batch": "hci-animal",
+ "creators": [
+  {
+   "id": "andrey-krekhov",
+   "name": "Andrey Krekhov",
+   "kind": "person",
+   "role": "Games and VR researcher, University of Duisburg-Essen",
+   "based": "Duisburg, Germany",
+   "bio": "Andrey Krekhov studies avatars, locomotion and body ownership in VR games with Sebastian Cmentowski, Katharina Emmerich and Jens Krüger.",
+   "why": "His papers were the first systematic studies showing that players can feel ownership of animal bodies such as bats, spiders, rhinos and birds.",
+   "disciplines": [
+    "hci",
+    "games"
+   ],
+   "links": {
+    "scholar": "https://scholar.google.com/citations?user=Tna0VtEAAAAJ"
+   },
+   "role_zh": "游戏与虚拟现实研究者，杜伊斯堡-埃森大学",
+   "bio_zh": "Andrey Krekhov 与 Sebastian Cmentowski、Katharina Emmerich、Jens Krüger 一起研究 VR 游戏中的化身、移动方式与身体所有感。",
+   "why_zh": "他的论文最早系统地证明：玩家可以对蝙蝠、蜘蛛、犀牛、鸟等动物身体产生所有感。",
+   "based_zh": "杜伊斯堡，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "daniel-pimentel",
+   "name": "Daniel Pimentel",
+   "kind": "person",
+   "role": "Immersive media researcher, University of Oregon",
+   "based": "Eugene, Oregon, USA",
+   "bio": "Daniel Pimentel studies how embodying threatened wildlife in VR and AR changes empathy and conservation behaviour.",
+   "why": "His sea-turtle studies are among the few controlled experiments linking animal embodiment to real pro-environmental action.",
+   "disciplines": [
+    "hci",
+    "science"
+   ],
+   "links": {},
+   "role_zh": "沉浸式媒体研究者，俄勒冈大学",
+   "bio_zh": "Daniel Pimentel 研究在 VR 与 AR 中化身为濒危野生动物如何改变人的共情与保护行为。",
+   "why_zh": "他的海龟研究是少数把动物化身与真实环保行动联系起来的对照实验之一。",
+   "based_zh": "尤金，俄勒冈州，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rachel-mcdonnell",
+   "name": "Rachel McDonnell",
+   "kind": "person",
+   "role": "Professor of Creative Technologies, Trinity College Dublin",
+   "based": "Dublin, Ireland",
+   "bio": "Rachel McDonnell leads research on virtual humans, avatars and perception at Trinity College Dublin's graphics group.",
+   "why": "Her group builds the motion-mapping and feedback methods that make it possible to drive a dog or eagle avatar with a human body.",
+   "disciplines": [
+    "hci",
+    "science"
+   ],
+   "links": {},
+   "role_zh": "都柏林圣三一学院创意技术教授",
+   "bio_zh": "Rachel McDonnell 在都柏林圣三一学院图形组领导关于虚拟人、化身与感知的研究。",
+   "why_zh": "她的团队开发动作映射与反馈方法，让人能用自己的身体驱动狗或鹰的化身。",
+   "based_zh": "都柏林，爱尔兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yu-lun-hsu",
+   "name": "Yu-Lun Hsu",
+   "kind": "person",
+   "role": "HCI researcher, National Taiwan University",
+   "based": "Taipei, Taiwan",
+   "bio": "Yu-Lun Hsu and colleagues designed AnimalSense, a VR game about the senses of animals.",
+   "why": "AnimalSense turns echolocation, electroreception and panoramic vision into playable mechanics.",
+   "disciplines": [
+    "hci",
+    "games"
+   ],
+   "links": {},
+   "role_zh": "人机交互研究者，台湾大学",
+   "bio_zh": "Yu-Lun Hsu 与同事设计了 AnimalSense，一款关于动物感官的 VR 游戏。",
+   "why_zh": "AnimalSense 把回声定位、电感受和全景视觉变成可玩的游戏机制。",
+   "based_zh": "台北，台湾",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kevin-ponto",
+   "name": "Kevin Ponto",
+   "kind": "person",
+   "role": "VR researcher, Wisconsin Institute for Discovery, University of Wisconsin–Madison",
+   "based": "Madison, Wisconsin, USA",
+   "bio": "Kevin Ponto works on virtual environments for science and learning, with David Gagnon's Field Day Lab.",
+   "why": "Waddle, made with his team, is a full-body penguin embodiment built for museum-style informal learning.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "虚拟现实研究者，威斯康星大学麦迪逊分校发现研究所",
+   "bio_zh": "Kevin Ponto 与 David Gagnon 的 Field Day Lab 合作，研究用于科学与学习的虚拟环境。",
+   "why_zh": "他的团队制作的 Waddle 是为博物馆式非正式学习设计的全身企鹅化身体验。",
+   "based_zh": "麦迪逊，威斯康星州，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tampere-gamification-group",
+   "name": "Gamification Group, Tampere University",
+   "kind": "lab",
+   "role": "Games research group, Tampere University",
+   "based": "Tampere, Finland",
+   "bio": "Juho Hamari's Gamification Group studies games, VR and play, including Oğuz 'Oz' Buruk's work on embodied and more-than-human play.",
+   "why": "The group's animal-embodiment prototypes treat moving as a small forest mammal as a design problem.",
+   "disciplines": [
+    "hci",
+    "games"
+   ],
+   "links": {},
+   "role_zh": "游戏研究团队，坦佩雷大学",
+   "bio_zh": "Juho Hamari 领导的游戏化研究组研究游戏、VR 与玩，其中包括 Oğuz 'Oz' Buruk 关于具身与超越人类之游戏的研究。",
+   "why_zh": "该团队的动物化身原型把“像一只森林小型哺乳动物那样移动”当作设计问题来处理。",
+   "based_zh": "坦佩雷，芬兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tangjun-qu",
+   "name": "Tangjun Qu",
+   "kind": "person",
+   "role": "HCI researcher, Shandong University",
+   "based": "Jinan, China",
+   "bio": "Tangjun Qu and colleagues study the Proteus effect of non-human avatars in VR.",
+   "why": "Their work measures whether an animal hand changes the gestures of the real hand.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "人机交互研究者，山东大学",
+   "bio_zh": "Tangjun Qu 与同事研究 VR 中非人类化身带来的普罗透斯效应。",
+   "why_zh": "他们的研究测量动物之手是否会改变真实之手的手势。",
+   "based_zh": "济南，中国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "omar-a-khan",
+   "name": "Omar A. Khan",
+   "kind": "person",
+   "role": "VR researcher, University of Calgary",
+   "based": "Calgary, Canada",
+   "bio": "Omar A. Khan studies avatar embodiment, locomotion and haptics for non-human bodies in VR.",
+   "why": "His studies ask what a gorilla gait or a pair of dog ears needs to feel like one's own.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "虚拟现实研究者，卡尔加里大学",
+   "bio_zh": "Omar A. Khan 研究 VR 中非人类身体的化身、移动方式与触觉。",
+   "why_zh": "他的研究追问：大猩猩的步态或一对狗耳朵需要怎样才会感觉属于自己。",
+   "based_zh": "卡尔加里，加拿大",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "perttu-hamalainen",
+   "name": "Perttu Hämäläinen",
+   "kind": "person",
+   "role": "Professor of computer games, Aalto University",
+   "based": "Espoo, Finland",
+   "bio": "Perttu Hämäläinen studies movement-based games, exergames and simulated characters.",
+   "why": "His lab maps unusual human postures onto animal bodies, such as a tiger driven by a person lying on their back.",
+   "disciplines": [
+    "games",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "计算机游戏教授，阿尔托大学",
+   "bio_zh": "Perttu Hämäläinen 研究基于身体动作的游戏、健身游戏与模拟角色。",
+   "why_zh": "他的实验室把不寻常的人体姿势映射到动物身体上，比如由仰躺的人驱动的老虎。",
+   "based_zh": "埃斯波，芬兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "xinmiao-lan",
+   "name": "Xinmiao Lan",
+   "kind": "person",
+   "role": "Communication researcher, University of Amsterdam",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Xinmiao Lan studies avatars and the Proteus effect with Zeph van Berlo.",
+   "why": "Tested whether non-humanlike avatars change behaviour the way human avatars do.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {},
+   "role_zh": "传播学研究者，阿姆斯特丹大学",
+   "bio_zh": "Xinmiao Lan 与 Zeph van Berlo 研究化身与普罗透斯效应。",
+   "why_zh": "检验了非人形化身是否会像人形化身一样改变行为。",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "erin-ryan",
+   "name": "Erin B. Ryan",
+   "kind": "person",
+   "role": "Animal welfare researcher, University of British Columbia",
+   "based": "Vancouver, Canada",
+   "bio": "Erin Ryan works in Daniel Weary's Animal Welfare Program on how people take the perspective of farm animals.",
+   "why": "Brings animal point-of-view video into welfare decision-making.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {},
+   "role_zh": "动物福利研究者，不列颠哥伦比亚大学",
+   "bio_zh": "Erin Ryan 在 Daniel Weary 的动物福利项目中研究人如何站在农场动物的角度思考。",
+   "why_zh": "把动物视角的影像带入动物福利决策。",
+   "based_zh": "温哥华，加拿大",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yao-xu",
+   "name": "Yao Xu",
+   "kind": "person",
+   "role": "HCI researcher",
+   "based": "China",
+   "bio": "Yao Xu and colleagues built iStrayPaws, a VR perspective-taking system about stray animals.",
+   "why": "Moves VR perspective-taking from farm and wild animals to the urban stray.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "人机交互研究者",
+   "bio_zh": "Yao Xu 与同事制作了 iStrayPaws，一个关于流浪动物的 VR 换位体验系统。",
+   "why_zh": "把 VR 换位体验从农场与野生动物扩展到城市流浪动物。",
+   "based_zh": "中国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "iffa-nurlatifah",
+   "name": "Iffa Nurlatifah",
+   "kind": "person",
+   "role": "Digital media artist and researcher, Multimedia University",
+   "based": "Cyberjaya, Malaysia",
+   "bio": "Iffa Nurlatifah creates VR films from non-human viewpoints.",
+   "why": "Filmed a VR experience at a chicken's eye height to test empathy.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {},
+   "role_zh": "数字媒体艺术家与研究者，多媒体大学",
+   "bio_zh": "Iffa Nurlatifah 创作以非人类视角拍摄的 VR 影片。",
+   "why_zh": "在鸡的眼睛高度拍摄 VR 体验，用来检验共情。",
+   "based_zh": "赛城，马来西亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shengdong-zhao",
+   "name": "Shengdong Zhao",
+   "kind": "person",
+   "role": "HCI professor, City University of Hong Kong",
+   "based": "Hong Kong, China",
+   "bio": "Shengdong Zhao leads the Synteraction Lab, working on heads-up and embodied interaction.",
+   "why": "His lab's projects extend the virtual body, from appended virtual limbs to a howling wolf.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "人机交互教授，香港城市大学",
+   "bio_zh": "Shengdong Zhao 领导 Synteraction Lab，研究抬头式与具身交互。",
+   "why_zh": "他的实验室项目延展虚拟身体，从附加的虚拟肢体到会嚎叫的狼。",
+   "based_zh": "香港，中国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pingting-chen",
+   "name": "Pingting Chen",
+   "kind": "person",
+   "role": "Interaction design researcher",
+   "based": "China",
+   "bio": "Pingting Chen and colleagues designed ZooWear, animal-ear wearables for zoo visitors.",
+   "why": "Uses haptic cues on the head to let visitors feel an animal's alarm and prey responses.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "交互设计研究者",
+   "bio_zh": "Pingting Chen 与同事设计了 ZooWear，一种供动物园游客佩戴的动物耳朵可穿戴设备。",
+   "why_zh": "用头部的触觉提示让游客感受动物的警觉与猎物反应。",
+   "based_zh": "中国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anastassia-andreasen",
+   "name": "Anastassia Andreasen",
+   "kind": "person",
+   "role": "VR and sound researcher, Aalborg University Copenhagen",
+   "based": "Copenhagen, Denmark",
+   "bio": "Anastassia Andreasen worked in Stefania Serafin's Multisensory Experience Lab on bat embodiment and echolocation in VR.",
+   "why": "Her studies are the most complete research series on becoming a bat in VR: body, wings, flight and sonar.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "虚拟现实与声音研究者，奥尔堡大学哥本哈根校区",
+   "bio_zh": "Anastassia Andreasen 在 Stefania Serafin 的多感官体验实验室研究 VR 中的蝙蝠化身与回声定位。",
+   "why_zh": "她的研究是 VR 中“成为蝙蝠”最完整的系列：身体、翅膀、飞行与声呐。",
+   "based_zh": "哥本哈根，丹麦",
+   "connected_to": [
+    "stefania-serafin"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "stefania-serafin",
+   "name": "Stefania Serafin",
+   "kind": "person",
+   "role": "Professor of sonic interaction design, Aalborg University Copenhagen",
+   "based": "Copenhagen, Denmark",
+   "bio": "Stefania Serafin leads the Multisensory Experience Lab, working on sound, haptics and embodiment in VR.",
+   "why": "Her lab ran early studies on owning virtual wings and a bat body.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "声音交互设计教授，奥尔堡大学哥本哈根校区",
+   "bio_zh": "Stefania Serafin 领导多感官体验实验室，研究 VR 中的声音、触觉与具身。",
+   "why_zh": "她的实验室较早研究了对虚拟翅膀和蝙蝠身体的所有感。",
+   "based_zh": "哥本哈根，丹麦",
+   "connected_to": [
+    "anastassia-andreasen"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shizuko-hiryu",
+   "name": "Shizuko Hiryu",
+   "kind": "person",
+   "role": "Bat biologist, Doshisha University",
+   "based": "Kyoto, Japan",
+   "bio": "Shizuko Hiryu studies bat echolocation and flight; her lab also builds echolocation training for humans.",
+   "why": "Uses real bat pulse designs to teach people to hear space.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {},
+   "role_zh": "蝙蝠生物学家，同志社大学",
+   "bio_zh": "Shizuko Hiryu 研究蝙蝠的回声定位与飞行；她的实验室也为人类开发回声定位训练。",
+   "why_zh": "用真实蝙蝠的声脉冲设计来教人“听见空间”。",
+   "based_zh": "京都，日本",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "danyang-peng",
+   "name": "Danyang Peng",
+   "kind": "person",
+   "role": "HCI researcher, Keio University Graduate School of Media Design",
+   "based": "Yokohama, Japan",
+   "bio": "Danyang Peng designs haptic navigation inspired by animal senses.",
+   "why": "Proposed biomimetic empathy: feeling space the way an echolocating animal does.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "人机交互研究者，庆应义塾大学媒体设计研究科",
+   "bio_zh": "Danyang Peng 设计受动物感官启发的触觉导航。",
+   "why_zh": "提出“仿生共情”：像回声定位动物那样感知空间。",
+   "based_zh": "横滨，日本",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jan-waligorski",
+   "name": "Jan Waligórski",
+   "kind": "person",
+   "role": "Philosopher of cognition",
+   "based": "Poland",
+   "bio": "Jan Waligórski writes on embodiment, VR and the perspectives of other animals.",
+   "why": "Asks what VR can and cannot tell us about being a bat.",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "role_zh": "认知哲学研究者",
+   "bio_zh": "Jan Waligórski 撰写关于具身、VR 与其他动物视角的论文。",
+   "why_zh": "追问 VR 能与不能告诉我们成为蝙蝠是什么样子。",
+   "based_zh": "波兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ronny-andrade",
+   "name": "Ronny Andrade",
+   "kind": "person",
+   "role": "Accessibility and HCI researcher, University of Melbourne",
+   "based": "Melbourne, Australia",
+   "bio": "Ronny Andrade works with expert blind echolocators to design echolocation-based virtual environments.",
+   "why": "Grounds VR echolocation in the practice of people who actually echolocate.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "无障碍与人机交互研究者，墨尔本大学",
+   "bio_zh": "Ronny Andrade 与盲人回声定位专家合作设计基于回声定位的虚拟环境。",
+   "why_zh": "让 VR 回声定位扎根于真正使用回声定位的人的实践。",
+   "based_zh": "墨尔本，澳大利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dean-waters",
+   "name": "Dean A. Waters",
+   "kind": "person",
+   "role": "Bat biologist, University of Leeds / York",
+   "based": "UK",
+   "bio": "Dean Waters studies bat echolocation and built early bat-sonar models for human navigation in virtual worlds.",
+   "why": "His 'virtual bat' work (2001, 2007) is the first VR study of bat sonar for people.",
+   "disciplines": [
+    "science",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "蝙蝠生物学家，利兹大学 / 约克大学",
+   "bio_zh": "Dean Waters 研究蝙蝠回声定位，并较早地为虚拟世界中的人类导航构建蝙蝠声呐模型。",
+   "why_zh": "他的“虚拟蝙蝠”研究（2001、2007）是最早面向人的蝙蝠声呐 VR 研究。",
+   "based_zh": "英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "leslie-kay",
+   "name": "Leslie Kay",
+   "kind": "person",
+   "role": "Engineer, inventor of ultrasonic mobility aids (1922–2020)",
+   "based": "Christchurch, New Zealand",
+   "bio": "Leslie Kay designed the Sonic Torch and binaural Sonicguide, air-sonar aids for blind people, from the 1960s.",
+   "why": "His bat-inspired spectacles are the origin of wearable echolocation.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {},
+   "role_zh": "工程师，超声波助行器发明者（1922–2020）",
+   "bio_zh": "Leslie Kay 自 1960 年代起设计了 Sonic Torch 与双耳 Sonicguide，为盲人设计的空气声呐辅助设备。",
+   "why_zh": "他受蝙蝠启发的声呐眼镜是可穿戴回声定位的源头。",
+   "based_zh": "基督城，新西兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jascha-sohl-dickstein",
+   "name": "Jascha Sohl-Dickstein",
+   "kind": "person",
+   "role": "Machine learning researcher; former neuroscience researcher at UC Berkeley",
+   "based": "San Francisco, USA",
+   "bio": "Jascha Sohl-Dickstein built the Sonic Eye ultrasonic echolocation headset with Michael DeWeese's lab.",
+   "why": "The device slows down ultrasonic echoes so human ears can hear a bat's world.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {},
+   "role_zh": "机器学习研究者；曾在加州大学伯克利分校从事神经科学研究",
+   "bio_zh": "Jascha Sohl-Dickstein 与 Michael DeWeese 实验室一起制作了 Sonic Eye 超声波回声定位头戴设备。",
+   "why_zh": "该设备把超声波回声放慢，让人耳能听见蝙蝠的世界。",
+   "based_zh": "旧金山，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lore-thaler",
+   "name": "Lore Thaler",
+   "kind": "person",
+   "role": "Psychologist, Durham University",
+   "based": "Durham, UK",
+   "bio": "Lore Thaler studies human click-based echolocation and teaches it to blind and sighted people.",
+   "why": "Her research shows that echolocation is a learnable human skill with its own brain signature.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {},
+   "role_zh": "心理学家，杜伦大学",
+   "bio_zh": "Lore Thaler 研究人类弹舌回声定位，并把它教给盲人与明眼人。",
+   "why_zh": "她的研究表明，回声定位是人可以学会的技能，并在大脑中留下自己的印记。",
+   "based_zh": "达勒姆，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "samira-poudratchi",
+   "name": "Samira Poudratchi",
+   "kind": "person",
+   "role": "Game researcher, Tabriz Islamic Art University",
+   "based": "Tabriz, Iran",
+   "bio": "Samira Poudratchi designs audio games for navigation.",
+   "why": "BatSight uses a sonar headset to play a maze by ear.",
+   "disciplines": [
+    "games"
+   ],
+   "links": {},
+   "role_zh": "游戏研究者，大不里士伊斯兰艺术大学",
+   "bio_zh": "Samira Poudratchi 设计用于导航的音频游戏。",
+   "why_zh": "BatSight 用声呐头戴设备让人靠耳朵走迷宫。",
+   "based_zh": "大不里士，伊朗",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mie-egeberg",
+   "name": "Mie C. S. Egeberg",
+   "kind": "person",
+   "role": "Medialogy researcher, Aalborg University",
+   "based": "Aalborg, Denmark",
+   "bio": "Mie Egeberg and colleagues, with Martin Kraus, studied ownership of virtual wings.",
+   "why": "Showed that movement, more than touch, makes wings feel like one's own.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "媒体学研究者，奥尔堡大学",
+   "bio_zh": "Mie Egeberg 与同事在 Martin Kraus 指导下研究对虚拟翅膀的所有感。",
+   "why_zh": "证明让翅膀感觉属于自己的关键是动作，而不是触碰。",
+   "based_zh": "奥尔堡，丹麦",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "taiwoo-park",
+   "name": "Taiwoo Park",
+   "kind": "person",
+   "role": "HCI researcher, Michigan State University",
+   "based": "East Lansing, USA",
+   "bio": "Taiwoo Park's lab designed JediFlight, a wing-based VR flying game.",
+   "why": "Explores controlling an arm and a wing at once with one human arm.",
+   "disciplines": [
+    "hci",
+    "games"
+   ],
+   "links": {},
+   "role_zh": "人机交互研究者，密歇根州立大学",
+   "bio_zh": "Taiwoo Park 的实验室设计了以翅膀飞行的 VR 游戏 JediFlight。",
+   "why_zh": "探索用一只人类手臂同时控制手臂与翅膀。",
+   "based_zh": "东兰辛，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "akimi-oyanagi",
+   "name": "Akimi Oyanagi",
+   "kind": "person",
+   "role": "VR researcher, Toyohashi University of Technology / University of Tokyo",
+   "based": "Japan",
+   "bio": "Akimi Oyanagi studies body ownership of bird avatars and their psychological effects.",
+   "why": "Showed that becoming a bird reduces fear of heights in VR.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "虚拟现实研究者，丰桥技术科学大学 / 东京大学",
+   "bio_zh": "Akimi Oyanagi 研究对鸟类化身的身体所有感及其心理效应。",
+   "why_zh": "证明在 VR 中变成鸟可以减轻恐高。",
+   "based_zh": "日本",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "seungwoo-je",
+   "name": "Seungwoo Je",
+   "kind": "person",
+   "role": "HCI researcher, Southern University of Science and Technology",
+   "based": "Shenzhen, China",
+   "bio": "Seungwoo Je leads the Immersive Design Group, working on haptic devices for VR.",
+   "why": "HapticWings gives virtual wings a felt weight on the back.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "人机交互研究者，南方科技大学",
+   "bio_zh": "Seungwoo Je 领导沉浸式设计组，研究 VR 触觉设备。",
+   "why_zh": "HapticWings 让虚拟翅膀在背上有可感的重量。",
+   "based_zh": "深圳，中国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bernhard-riecke",
+   "name": "Bernhard E. Riecke",
+   "kind": "person",
+   "role": "Professor, iSpace Lab, Simon Fraser University",
+   "based": "Vancouver, Canada",
+   "bio": "Bernhard Riecke studies self-motion, locomotion and transformative experiences in VR.",
+   "why": "His lab has built a series of embodied flying interfaces, from leaning and perching to dream-like flight.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "西蒙菲莎大学 iSpace 实验室教授",
+   "bio_zh": "Bernhard Riecke 研究 VR 中的自我运动感、移动方式与转化性体验。",
+   "why_zh": "他的实验室做了一系列具身飞行界面：倾身、栖坐，直到梦一般的飞行。",
+   "based_zh": "温哥华，加拿大",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "neven-elsayed",
+   "name": "Neven A. M. ElSayed",
+   "kind": "person",
+   "role": "AR researcher, University of South Australia",
+   "based": "Adelaide, Australia",
+   "bio": "Neven ElSayed works on situated visualization in augmented reality.",
+   "why": "Borrowed bird and snake vision as filters for seeing data in the world.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "增强现实研究者，南澳大学",
+   "bio_zh": "Neven ElSayed 研究增强现实中的情境可视化。",
+   "why_zh": "借用鸟类与蛇类的视觉作为在现实中看数据的滤镜。",
+   "based_zh": "阿德莱德，澳大利亚",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "soroosh-mashal",
+   "name": "Soroosh Mashal",
+   "kind": "person",
+   "role": "Game and VR researcher, University of Passau",
+   "based": "Passau, Germany",
+   "bio": "Soroosh Mashal studies how people imagine wings and flying movements in VR.",
+   "why": "Surveyed how people expect wings to attach to their own body.",
+   "disciplines": [
+    "hci",
+    "games"
+   ],
+   "links": {},
+   "role_zh": "游戏与虚拟现实研究者，帕绍大学",
+   "bio_zh": "Soroosh Mashal 研究人们如何想象 VR 中的翅膀与飞行动作。",
+   "why_zh": "调查了人们期待翅膀如何长在自己身上。",
+   "based_zh": "帕绍，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shuran-fan",
+   "name": "Shuran Fan",
+   "kind": "person",
+   "role": "Design researcher",
+   "based": "China",
+   "bio": "Shuran Fan designs more-than-human wearables for everyday nature.",
+   "why": "Perch, a sparrow-like shoulder robot, lends the wearer a bird's attention.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "设计研究者",
+   "bio_zh": "Shuran Fan 设计面向日常自然的超越人类可穿戴设备。",
+   "why_zh": "Perch 是一只像麻雀的肩上机器人，把鸟的注意力借给佩戴者。",
+   "based_zh": "中国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "vera-vasas",
+   "name": "Vera Vasas",
+   "kind": "person",
+   "role": "Sensory ecologist, Queen Mary University of London / George Mason University",
+   "based": "London, UK",
+   "bio": "Vera Vasas works with Daniel Hanley on cameras and software that record colour as animals see it.",
+   "why": "Their system produces moving images of how bees and birds see ultraviolet colour.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {},
+   "role_zh": "感官生态学家，伦敦玛丽女王大学 / 乔治梅森大学",
+   "bio_zh": "Vera Vasas 与 Daniel Hanley 合作开发按动物视觉记录颜色的相机与软件。",
+   "why_zh": "他们的系统能生成蜜蜂和鸟类所见紫外色彩的动态影像。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anatole-lecuyer",
+   "name": "Anatole Lécuyer",
+   "kind": "person",
+   "role": "Research director, Inria Rennes (Hybrid team)",
+   "based": "Rennes, France",
+   "bio": "Anatole Lécuyer leads Inria's Hybrid team on VR, haptics and brain–computer interfaces.",
+   "why": "His team gave people 360° vision (FlyVIZ) and six-fingered hands.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "Inria 雷恩研究主任（Hybrid 团队）",
+   "bio_zh": "Anatole Lécuyer 领导 Inria 的 Hybrid 团队，研究 VR、触觉与脑机接口。",
+   "why_zh": "他的团队让人拥有 360° 视野（FlyVIZ）和六指之手。",
+   "based_zh": "雷恩，法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "fumio-mizuno",
+   "name": "Fumio Mizuno",
+   "kind": "person",
+   "role": "Engineer, Tohoku Institute of Technology",
+   "based": "Sendai, Japan",
+   "bio": "Fumio Mizuno built Virtual Chameleon, a wearable that lets each eye look in a different direction.",
+   "why": "Gives humans the independent eye movements of a chameleon.",
+   "disciplines": [
+    "science",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "工程师，东北工业大学",
+   "bio_zh": "Fumio Mizuno 制作了 Virtual Chameleon，一种让左右眼各看一个方向的可穿戴设备。",
+   "why_zh": "让人拥有变色龙那样各自独立转动的双眼。",
+   "based_zh": "仙台，日本",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "barbara-schuler",
+   "name": "Barbara Schuler",
+   "kind": "person",
+   "role": "Interaction designer, Zurich University of the Arts",
+   "based": "Zurich, Switzerland",
+   "bio": "Barbara Schuler and colleagues made a multisensory VR experience of being a hunting spider.",
+   "why": "Translates a spider's airflow and vibration senses into fans and haptics.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "交互设计师，苏黎世艺术大学",
+   "bio_zh": "Barbara Schuler 与同事制作了一个成为狩猎蜘蛛的多感官 VR 体验。",
+   "why_zh": "把蜘蛛对气流与振动的感知转译为风扇与触觉。",
+   "based_zh": "苏黎世，瑞士",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "martin-kocur",
+   "name": "Martin Kocur",
+   "kind": "person",
+   "role": "HCI researcher, University of Applied Sciences Upper Austria",
+   "based": "Hagenberg, Austria",
+   "bio": "Martin Kocur studies avatar embodiment and its effects on perception and performance.",
+   "why": "Compared ways to drive an eight-legged spider body in VR.",
+   "disciplines": [
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "人机交互研究者，上奥地利应用科技大学",
+   "bio_zh": "Martin Kocur 研究化身具身及其对感知与表现的影响。",
+   "why_zh": "比较了在 VR 中驱动八条腿蜘蛛身体的几种方式。",
+   "based_zh": "哈根贝格，奥地利",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shuai-zou",
+   "name": "Shuai Zou",
+   "kind": "person",
+   "role": "Media artist and researcher, HKUST (Guangzhou)",
+   "based": "Guangzhou, China",
+   "bio": "Shuai Zou and colleagues in Zeyu Wang's lab made The Dream of Zhuang Zhou.",
+   "why": "Brings Zhuangzi's butterfly dream into multispecies VR.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {},
+   "role_zh": "媒体艺术家与研究者，香港科技大学（广州）",
+   "bio_zh": "Shuai Zou 与 Zeyu Wang 实验室的同事创作了《庄周梦蝶》VR。",
+   "why_zh": "把庄子的蝴蝶之梦带入多物种 VR。",
+   "based_zh": "广州，中国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ehud-ahissar",
+   "name": "Ehud Ahissar",
+   "kind": "person",
+   "role": "Neuroscientist, Weizmann Institute of Science",
+   "based": "Rehovot, Israel",
+   "bio": "Ehud Ahissar studies active touch in rats and humans.",
+   "why": "His lab fitted people with artificial whiskers to feel like a rat.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {},
+   "role_zh": "神经科学家，魏茨曼科学研究所",
+   "bio_zh": "Ehud Ahissar 研究大鼠与人的主动触觉。",
+   "why_zh": "他的实验室给人装上人造胡须，让人像大鼠一样感知。",
+   "based_zh": "雷霍沃特，以色列",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tony-prescott",
+   "name": "Tony J. Prescott",
+   "kind": "person",
+   "role": "Professor of cognitive robotics, University of Sheffield",
+   "based": "Sheffield, UK",
+   "bio": "Tony Prescott builds whiskered robots and biomimetic touch based on rodents.",
+   "why": "The Tactile Helmet turns rodent whisking into a wearable sense for people in the dark.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {},
+   "role_zh": "认知机器人学教授，谢菲尔德大学",
+   "bio_zh": "Tony Prescott 基于啮齿动物研制带胡须的机器人与仿生触觉。",
+   "why_zh": "Tactile Helmet 把啮齿动物的扫须动作变成黑暗中人可佩戴的感官。",
+   "based_zh": "谢菲尔德，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "stanford-vhil--embodying-animals-cow-coral",
+   "creator_ids": [
+    "stanford-vhil"
+   ],
+   "title": "Experiencing Nature: Embodying a Cow and a Coral",
+   "year": 2016,
+   "field": "animal",
+   "sub": "companion",
+   "also": [
+    "fish"
+   ],
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Three experiments in which participants became a cow walking to a slaughterhouse or a coral on an acidifying reef, on all fours with a haptic prod, compared with watching the same on video.",
+   "description_zh": "三项实验中，参与者四肢着地、在触觉刺激下成为一头走向屠宰场的牛，或酸化礁石上的一株珊瑚，并与只看同样内容的视频进行比较。",
+   "idea_en": "Being the animal, not watching it, raised feelings of connection with nature and concern that lasted a week.",
+   "idea_zh": "是“成为”动物而不是“观看”动物，让人与自然的连结感和关切提升，并持续一周。",
+   "method": "Head-mounted display with full-body tracking; participants crawl on hands and knees while a stick touches them in sync with the virtual cattle prod.",
+   "method_zh": "头戴显示器加全身追踪；参与者手膝着地爬行，研究者用棍子同步触碰其身体，对应虚拟赶牛棒的戳刺。",
+   "keywords": [
+    "cow",
+    "coral",
+    "inclusion of nature in self",
+    "Sun Joo Grace Ahn",
+    "Jeremy Bailenson",
+    "ocean acidification"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=aQke1eQHSAA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1111/jcc4.12173",
+    "doi": "10.1111/jcc4.12173",
+    "venue": "Journal of Computer-Mediated Communication 2016",
+    "title": "Experiencing Nature: Embodying Animals in Immersive Virtual Environments Increases Inclusion of Nature in Self and Involvement With Nature"
+   }
+  },
+  {
+   "id": "andrey-krekhov--vr-animals",
+   "creator_ids": [
+    "andrey-krekhov"
+   ],
+   "title": "VR Animals: Surreal Body Ownership in VR Games",
+   "year": 2018,
+   "field": "animal",
+   "sub": "multispecies",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "paper",
+   "description": "A first exploratory study of playing as three animals in VR with five control schemes, from a third-person companion view to first-person full-body tracking.",
+   "description_zh": "首个在 VR 中扮演三种动物的探索性研究，比较了五种控制方式，从第三人称伙伴视角到第一人称全身追踪。",
+   "idea_en": "Body ownership is not limited to human-shaped avatars: players can feel an animal body as theirs.",
+   "idea_zh": "身体所有感并不限于人形化身：玩家可以把动物身体感受为自己的身体。",
+   "method": "HTC Vive with full-body trackers mapping human limbs to animal limbs; compared with controller and companion modes.",
+   "method_zh": "HTC Vive 加全身追踪器，把人的四肢映射到动物四肢，并与手柄控制和伙伴模式比较。",
+   "keywords": [
+    "body ownership",
+    "animal avatar",
+    "Sebastian Cmentowski",
+    "Jens Krüger",
+    "CHI PLAY"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3270316.3271531",
+    "doi": "10.1145/3270316.3271531",
+    "venue": "CHI PLAY 2018 Extended Abstracts",
+    "title": "VR Animals: Surreal Body Ownership in Virtual Reality Games"
+   }
+  },
+  {
+   "id": "andrey-krekhov--animal-body-ownership",
+   "creator_ids": [
+    "andrey-krekhov"
+   ],
+   "title": "The Illusion of Animal Body Ownership",
+   "year": 2019,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "insect",
+    "bat"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "paper",
+   "description": "Players controlled a virtual spider, bat and other creatures with different body-tracking mappings and reported how much the body felt like their own.",
+   "description_zh": "玩家用不同的身体追踪映射控制虚拟蜘蛛、蝙蝠等生物，并报告这些身体有多像自己的。",
+   "idea_en": "Non-humanoid bodies can produce ownership as strong as, and sometimes stronger than, a human avatar.",
+   "idea_zh": "非人形身体可以产生与人形化身同样强、有时甚至更强的所有感。",
+   "method": "Full-body tracking with mappings of human arms and legs onto eight spider legs or bat wings, viewed in a virtual mirror.",
+   "method_zh": "全身追踪，把人的手臂和腿映射到蜘蛛的八条腿或蝙蝠的翅膀上，并在虚拟镜子中观看。",
+   "keywords": [
+    "spider",
+    "bat",
+    "body ownership",
+    "IEEE CoG",
+    "Sebastian Cmentowski"
+   ],
+   "images": [
+    "https://ar5iv.labs.arxiv.org/html/1907.05220/assets/figures/modes.jpg",
+    "https://ar5iv.labs.arxiv.org/html/1907.05220/assets/figures/scene.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/cig.2019.8848005",
+    "doi": "10.1109/cig.2019.8848005",
+    "arxiv": "1907.05220",
+    "venue": "IEEE Conference on Games (CoG) 2019",
+    "title": "The Illusion of Animal Body Ownership and Its Potential for Virtual Reality Games"
+   }
+  },
+  {
+   "id": "andrey-krekhov--beyond-human",
+   "creator_ids": [
+    "andrey-krekhov"
+   ],
+   "title": "Beyond Human: Animals as an Escape from Stereotype Avatars",
+   "year": 2019,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "bird",
+    "insect"
+   ],
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "paper",
+   "description": "Players became a scorpion, a rhino and a bird, each with its own body parts and abilities, such as a stinging tail or flight.",
+   "description_zh": "玩家分别成为蝎子、犀牛和鸟，每种动物都有自己的身体部件和能力，比如会蛰人的尾巴或飞行。",
+   "idea_en": "Game mechanics can be built from what an animal body can do, not from human templates.",
+   "idea_zh": "游戏机制可以从动物身体能做什么出发来设计，而不是套用人的模板。",
+   "method": "Room-scale VR with body-tracked mappings of extra body parts (tail, wings) and animal-specific senses and movement.",
+   "method_zh": "房间尺度 VR，把额外身体部件（尾巴、翅膀）通过身体追踪进行映射，并加入各动物特有的感官与移动方式。",
+   "keywords": [
+    "scorpion",
+    "rhino",
+    "bird",
+    "CHI PLAY",
+    "nonhumanoid avatar"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=fa2Ivv14GL4"
+   },
+   "images": [
+    "https://ar5iv.labs.arxiv.org/html/1907.07466/assets/figures/teaser.jpg",
+    "https://ar5iv.labs.arxiv.org/html/1907.07466/assets/figures/scorpion.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3311350.3347172",
+    "doi": "10.1145/3311350.3347172",
+    "arxiv": "1907.07466",
+    "venue": "CHI PLAY 2019",
+    "title": "Beyond Human: Animals as an Escape from Stereotype Avatars in Virtual Reality Games"
+   }
+  },
+  {
+   "id": "andrey-krekhov--animal-avatars-attitude",
+   "creator_ids": [
+    "andrey-krekhov"
+   ],
+   "title": "Playing for a Better Future: Animal Avatars and Attitudes",
+   "year": 2024,
+   "field": "animal",
+   "sub": "wild",
+   "also": [
+    "insect"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "paper",
+   "description": "A study (N=78) in which people played as a fox in Endling or a bee in Bee Simulator, then took implicit attitude tests about animals.",
+   "description_zh": "一项研究（N=78）中，参与者在 Endling 中扮演狐狸或在 Bee Simulator 中扮演蜜蜂，然后接受关于动物的内隐态度测试。",
+   "idea_en": "Playing as an animal can shift implicit attitudes towards wildlife, as avatar swaps do for human groups.",
+   "idea_zh": "扮演动物能改变人对野生动物的内隐态度，就像化身互换对人类群体的效果一样。",
+   "method": "Commercial games played on screen, followed by implicit association tests and questionnaires.",
+   "method_zh": "在屏幕上玩商业游戏，随后进行内隐联想测验与问卷。",
+   "keywords": [
+    "fox",
+    "bee",
+    "Endling",
+    "Bee Simulator",
+    "Katharina Emmerich",
+    "implicit attitudes"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3677096",
+    "doi": "10.1145/3677096",
+    "venue": "Proceedings of the ACM on HCI (CHI PLAY) 2024",
+    "title": "Playing for a Better Future: How Animal Avatars Influence the Attitude of Players"
+   }
+  },
+  {
+   "id": "rachel-mcdonnell--now-i-wanna-be-a-dog",
+   "creator_ids": [
+    "rachel-mcdonnell"
+   ],
+   "title": "Now I Wanna Be a Dog",
+   "year": 2023,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "body",
+    "hearing",
+    "touch"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Participants embodied a dog in VR and moved on all fours while hearing paw steps and feeling vibrations under their hands.",
+   "description_zh": "参与者在 VR 中化身为一只狗，四肢着地移动，同时听到爪子落地的声音并在手下感受到振动。",
+   "idea_en": "Sound and touch can make up for the mismatch between a human body and a dog body.",
+   "idea_zh": "声音和触觉可以弥补人的身体与狗的身体之间的不匹配。",
+   "method": "Head-mounted display with hand and body tracking; footstep audio and audio-tactile actuators under the hands.",
+   "method_zh": "头戴显示器加手部与身体追踪；脚步声音频与手下的音频触觉振动器。",
+   "keywords": [
+    "dog",
+    "quadruped",
+    "audio-tactile feedback",
+    "Mauricio Flores Vargas",
+    "Trinity College Dublin",
+    "ISMAR"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/ismar59233.2023.00107",
+    "doi": "10.1109/ismar59233.2023.00107",
+    "venue": "IEEE ISMAR 2023",
+    "title": "Now I Wanna Be a Dog: Exploring the Impact of Audio and Tactile Feedback on Animal Embodiment"
+   }
+  },
+  {
+   "id": "rachel-mcdonnell--neurodog",
+   "creator_ids": [
+    "rachel-mcdonnell"
+   ],
+   "title": "NeuroDog: Quadruped Embodiment with Neural Networks",
+   "year": 2023,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "A system that turns a person's movement into natural dog motion in real time, so that a VR user can walk, sit and play as a dog.",
+   "description_zh": "一个把人的动作实时转换为自然狗类动作的系统，让 VR 用户能以狗的身体行走、坐下和玩耍。",
+   "idea_en": "A believable animal body needs animal motion, not a human skeleton stretched onto four legs.",
+   "idea_zh": "可信的动物身体需要动物的运动方式，而不是把人的骨架拉到四条腿上。",
+   "method": "Neural network trained on dog motion capture maps tracked human poses to quadruped animation instead of inverse kinematics.",
+   "method_zh": "用狗的动作捕捉数据训练神经网络，把追踪到的人体姿态映射为四足动物动画，而非逆向运动学。",
+   "keywords": [
+    "dog",
+    "quadruped",
+    "motion retargeting",
+    "Dónal Egan",
+    "Darren Cosker",
+    "SCA"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3606936",
+    "doi": "10.1145/3606936",
+    "venue": "Proceedings of the ACM on Computer Graphics and Interactive Techniques (SCA) 2023",
+    "title": "NeuroDog: Quadruped Embodiment using Neural Networks"
+   }
+  },
+  {
+   "id": "rachel-mcdonnell--dog-code",
+   "creator_ids": [
+    "rachel-mcdonnell"
+   ],
+   "title": "Dog Code: Human to Quadruped Embodiment",
+   "year": 2024,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "A deep-learning method that maps human motion to high-quality dog motion through a shared codebook, for real-time VR embodiment.",
+   "description_zh": "一种通过共享码本把人的动作映射为高质量狗类动作的深度学习方法，用于实时 VR 化身。",
+   "idea_en": "Translate between bodies through a shared vocabulary of movement rather than joint by joint.",
+   "idea_zh": "通过共享的动作“词汇”在身体之间转译，而不是逐个关节对应。",
+   "method": "Rule-based retargeting to an intermediate skeleton, then finite scalar quantization to a codebook shared by human and dog motion.",
+   "method_zh": "先用基于规则的重定向映射到中间骨架，再用有限标量量化构建人与狗动作共享的码本。",
+   "keywords": [
+    "dog",
+    "quadruped",
+    "motion codebook",
+    "Donal Egan",
+    "MIG"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3677388.3696339",
+    "doi": "10.1145/3677388.3696339",
+    "venue": "ACM SIGGRAPH Motion, Interaction and Games (MIG) 2024",
+    "title": "Dog Code: Human to Quadruped Embodiment using Shared Codebooks"
+   }
+  },
+  {
+   "id": "rachel-mcdonnell--eagle-actor-training",
+   "creator_ids": [
+    "rachel-mcdonnell"
+   ],
+   "title": "Virtual Animal Embodiment for Actor Training",
+   "year": 2024,
+   "field": "bird",
+   "sub": "flight",
+   "also": [
+    "animal"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "performance"
+   ],
+   "kind": "paper",
+   "description": "A real-time system that lets actors drive a photorealistic eagle avatar with their own bodies as part of movement training.",
+   "description_zh": "一个实时系统，让演员用自己的身体驱动写实的鹰化身，作为形体训练的一部分。",
+   "idea_en": "Animal work in acting, long done through imagination, can be done inside the animal's body.",
+   "idea_zh": "表演训练中的“动物练习”过去靠想象完成，现在可以在动物的身体里完成。",
+   "method": "Motion capture of the actor retargeted to an eagle rig and shown in a head-mounted display.",
+   "method_zh": "对演员进行动作捕捉，重定向到鹰的骨骼并在头戴显示器中呈现。",
+   "keywords": [
+    "eagle",
+    "actor training",
+    "animal exercise",
+    "Alberto Jovane",
+    "IEEE VR"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/vrw62533.2024.00083",
+    "doi": "10.1109/vrw62533.2024.00083",
+    "venue": "IEEE VR 2024 Workshops",
+    "title": "Virtual Animal Embodiment for Actor Training"
+   }
+  },
+  {
+   "id": "yu-lun-hsu--animalsense",
+   "creator_ids": [
+    "yu-lun-hsu"
+   ],
+   "title": "AnimalSense",
+   "year": 2024,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "bat",
+    "fish",
+    "insect"
+   ],
+   "senses": [
+    "echolocation",
+    "electric",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "prototype",
+   "description": "A VR game with levels in which players use a bat's echolocation, an eel's electroreception and a jumping spider's panoramic vision to solve challenges.",
+   "description_zh": "一款 VR 游戏，各关卡中玩家要使用蝙蝠的回声定位、鳗鱼的电感受和跳蛛的全景视觉来完成挑战。",
+   "idea_en": "Learn an animal sense by having to use it.",
+   "idea_zh": "通过“不得不用”来学会一种动物感官。",
+   "method": "Sensory substitution and remapping in VR: echoes rendered as spatial sound and visuals, electric fields as haptics, panoramic vision compressed into the headset view.",
+   "method_zh": "在 VR 中做感官替代与重映射：回声呈现为空间声音与图像，电场呈现为触觉，全景视觉压缩进头显视野。",
+   "keywords": [
+    "bat",
+    "eel",
+    "jumping spider",
+    "echolocation",
+    "electroreception",
+    "panoramic vision",
+    "CHI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=OycDmP3hobQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3613905.3648102",
+    "doi": "10.1145/3613905.3648102",
+    "venue": "CHI 2024 Extended Abstracts",
+    "title": "AnimalSense: Understanding Beyond-human Sensory Capabilities of Animals via VR Games"
+   }
+  },
+  {
+   "id": "tampere-gamification-group--pine-cone-prowl",
+   "creator_ids": [
+    "tampere-gamification-group"
+   ],
+   "title": "Pine Cone Prowl: Embodying a Flying Squirrel",
+   "year": 2024,
+   "field": "animal",
+   "sub": "wild",
+   "also": [
+    "tree"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "prototype",
+   "description": "A VR game in which the player is a flying squirrel gliding between trees in a Finnish forest.",
+   "description_zh": "一款 VR 游戏，玩家成为一只飞鼠，在芬兰森林的树木之间滑翔。",
+   "idea_en": "Gliding, not flying: design the body around one small mammal's way of moving.",
+   "idea_zh": "是滑翔而不是飞行：围绕一种小型哺乳动物的移动方式来设计身体。",
+   "method": "Head-mounted VR with arm gestures for spreading the gliding membrane (likely controller-based).",
+   "method_zh": "头戴式 VR，用手臂动作展开滑翔膜（很可能基于手柄）。",
+   "keywords": [
+    "flying squirrel",
+    "forest",
+    "Laura D. Cosio",
+    "Oğuz 'Oz' Buruk",
+    "Mindtrek"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3681716.3690625",
+    "doi": "10.1145/3681716.3690625",
+    "venue": "Academic Mindtrek 2024",
+    "title": "Pine Cone Prowl: Embodying a Flying Squirrel"
+   }
+  },
+  {
+   "id": "tangjun-qu--becoming-an-animal-proteus",
+   "creator_ids": [
+    "tangjun-qu"
+   ],
+   "title": "Becoming an Animal? Proteus Effect and Hand Gestures",
+   "year": 2024,
+   "field": "animal",
+   "sub": "multispecies",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Participants wore human or animal hands in VR; a gesture-recognition model measured whether their real hands started to move like the animal's.",
+   "description_zh": "参与者在 VR 中戴上人手或动物之手；手势识别模型测量他们的真实之手是否开始像动物那样动。",
+   "idea_en": "The body you wear can reshape the body you have, down to hand posture.",
+   "idea_zh": "你所穿戴的身体会重塑你本来的身体，甚至细到手的姿势。",
+   "method": "Hand tracking in a headset with three animal hand models; a trained classifier scores gesture consistency with each avatar.",
+   "method_zh": "头显中的手部追踪，配三种动物手部模型；训练好的分类器为手势与各化身的一致性打分。",
+   "keywords": [
+    "Proteus effect",
+    "animal hands",
+    "gesture recognition",
+    "ISMAR"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/ismar62088.2024.00093",
+    "doi": "10.1109/ismar62088.2024.00093",
+    "venue": "IEEE ISMAR 2024",
+    "title": "Becoming An Animal? Exploring Proteus Effect Based on Human-avatar Hand Gesture Consistency"
+   }
+  },
+  {
+   "id": "omar-a-khan--gorilla-locomotion",
+   "creator_ids": [
+    "omar-a-khan"
+   ],
+   "title": "\"I look like a gorilla, but don't move like one!\"",
+   "year": 2025,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Participants moved as a human or a gorilla avatar using either human arm-swing or gorilla-like arm-roll locomotion.",
+   "description_zh": "参与者以人或大猩猩化身移动，分别使用人的摆臂或类似大猩猩的手臂滚动方式前进。",
+   "idea_en": "An animal body feels more one's own when its gait matches its form.",
+   "idea_zh": "当步态与外形相符时，动物身体更让人觉得是自己的。",
+   "method": "Head-mounted VR with controller-based arm-swing and arm-roll locomotion techniques in a 2×2 study.",
+   "method_zh": "头戴式 VR，采用基于手柄的摆臂与手臂滚动两种移动技术，2×2 实验设计。",
+   "keywords": [
+    "gorilla",
+    "locomotion",
+    "avatar congruence",
+    "Kangsoo Kim",
+    "IEEE VR"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/vrw66409.2025.00247",
+    "doi": "10.1109/vrw66409.2025.00247",
+    "venue": "IEEE VR 2025 Workshops",
+    "title": "\"I look like a gorilla, but don't move like one!\": Impact of Avatar-Locomotion Congruence in Virtual Reality"
+   }
+  },
+  {
+   "id": "omar-a-khan--dog-ears",
+   "creator_ids": [
+    "omar-a-khan"
+   ],
+   "title": "Having Dog Ears \"for Real\"",
+   "year": 2026,
+   "field": "animal",
+   "sub": "companion",
+   "also": [
+    "octopus"
+   ],
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "wearable"
+   ],
+   "kind": "paper",
+   "description": "Participants touched virtual dog ears on their heads with vibrotactile gloves, a physical headband, both or neither.",
+   "description_zh": "参与者用振动手套、实体头带、两者兼有或两者皆无的方式触摸头上的虚拟狗耳朵。",
+   "idea_en": "Social VR users already wear animal parts; touch is what makes them part of the body.",
+   "idea_zh": "社交 VR 用户早已佩戴动物部件；让它们成为身体一部分的是触觉。",
+   "method": "Survey of social VR communities, then a 2×2 within-subjects study with vibrotactile gloves (active haptics) and a headband with ear props (passive haptics).",
+   "method_zh": "先对社交 VR 社群做问卷，再进行 2×2 被试内实验：振动手套（主动触觉）与带耳朵道具的头带（被动触觉）。",
+   "keywords": [
+    "dog ears",
+    "social VR",
+    "haptics",
+    "Tiffany D. Do",
+    "non-human body parts"
+   ],
+   "images": [
+    "https://ar5iv.labs.arxiv.org/html/2606.26364/assets/figures/teaser.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2606.26364",
+    "arxiv": "2606.26364",
+    "venue": "arXiv 2026",
+    "title": "Having Dog Ears \"for Real\": Effects of Active and Passive Haptics on Embodying Non-Human Body Parts in VR"
+   }
+  },
+  {
+   "id": "perttu-hamalainen--become-the-beast",
+   "creator_ids": [
+    "perttu-hamalainen"
+   ],
+   "title": "Become the Beast",
+   "year": 2026,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "installation"
+   ],
+   "kind": "prototype",
+   "description": "An exergame in which the player lies on the floor and cycles arms and legs to run as a tiger.",
+   "description_zh": "一款健身游戏：玩家仰躺在地上，交替摆动手臂和腿，像老虎一样奔跑。",
+   "idea_en": "A quadruped body can be driven by a human lying on their back, turning abdominal exercise into animal gait.",
+   "idea_zh": "人仰躺时也能驱动四足身体，把腹部锻炼变成动物的步态。",
+   "method": "Overhead Kinect depth sensing of the supine player's limbs mapped to a tiger's four-legged locomotion on a screen.",
+   "method_zh": "用架在上方的 Kinect 深度传感器捕捉仰躺玩家的四肢，映射为屏幕上老虎的四足奔跑。",
+   "keywords": [
+    "tiger",
+    "quadruped",
+    "exergame",
+    "Kinect",
+    "Shamit Ahmed",
+    "Aalto University"
+   ],
+   "images": [
+    "https://arxiv.org/html/2603.15428v2/Source/Images/teaserFinal.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2603.15428",
+    "arxiv": "2603.15428",
+    "venue": "arXiv 2026",
+    "title": "Become the Beast: Exploring Human-Quadruped Locomotion for Exergames"
+   }
+  },
+  {
+   "id": "ke-ma--enfacing-an-ape",
+   "creator_ids": [
+    "ke-ma"
+   ],
+   "title": "Enfacing an Ape",
+   "year": 2018,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "paper",
+   "description": "Participants controlled a virtual face with their own face movements while it morphed into an ape's face.",
+   "description_zh": "参与者用自己的面部动作控制一张虚拟的脸，这张脸逐渐变形为猿的脸。",
+   "idea_en": "People can take another species' face as their own, and traits flow both ways: they rated themselves less intelligent and apes more emotional.",
+   "idea_zh": "人可以把另一个物种的脸当作自己的脸，而且特征会双向流动：他们觉得自己没那么聪明，也觉得猿更有情感。",
+   "method": "Face tracking drives a virtual face in or out of sync, which is then morphed into an ape face (enfacement illusion).",
+   "method_zh": "面部追踪同步或不同步地驱动虚拟面孔，再把它变形为猿脸（“化脸”错觉）。",
+   "keywords": [
+    "ape",
+    "enfacement",
+    "Bernhard Hommel",
+    "Roberta Sellaro",
+    "feature migration"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s00426-018-1048-x",
+    "doi": "10.1007/s00426-018-1048-x",
+    "venue": "Psychological Research 2019",
+    "title": "Personality assimilation across species: enfacing an ape reduces own intelligence and increases emotion attribution to apes"
+   }
+  },
+  {
+   "id": "erin-ryan--cow-calf-perspective",
+   "creator_ids": [
+    "erin-ryan"
+   ],
+   "title": "Taking the Perspective of Dairy Cows",
+   "year": 2026,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "film360",
+    "screen"
+   ],
+   "kind": "paper",
+   "description": "University students learned about cow–calf separation either from a verbal description or from immersive video filmed from the animals' point of view, then discussed it in focus groups.",
+   "description_zh": "大学生通过口头描述，或通过从动物视角拍摄的沉浸式影像了解奶牛母子分离，然后在焦点小组中讨论。",
+   "idea_en": "Point-of-view footage lets animals' experiences enter human decisions about their welfare.",
+   "idea_zh": "动物视角的影像让动物的经验进入人类关于其福利的决策。",
+   "method": "Video recorded at cow and calf eye height, compared with text; thematic analysis of focus-group transcripts.",
+   "method_zh": "在母牛与小牛眼睛高度录制影像，与文字对照；对焦点小组记录做主题分析。",
+   "keywords": [
+    "dairy cow",
+    "calf",
+    "point of view",
+    "animal welfare",
+    "Daniel M. Weary"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/awf.2026.10078",
+    "doi": "10.1017/awf.2026.10078",
+    "venue": "Animal Welfare 2026",
+    "title": "Facilitating perspective-taking with animals in human decision-making"
+   }
+  },
+  {
+   "id": "yao-xu--istraypaws",
+   "creator_ids": [
+    "yao-xu"
+   ],
+   "title": "iStrayPaws",
+   "year": 2024,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "body",
+    "multisensory"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "prototype",
+   "description": "A first-person VR journey as a stray cat or dog facing rain, hunger and illness in the city.",
+   "description_zh": "以第一人称在 VR 中成为一只流浪猫或流浪狗，在城市里面对雨、饥饿与疾病。",
+   "idea_en": "Empathy for urban animals through living a day of their hardship at their height.",
+   "idea_zh": "在它们的高度经历一天的艰难，以此对城市动物产生共情。",
+   "method": "Head-mounted VR at animal eye height with audio-visual and kinesthetic feedback for weather, hunger and injury.",
+   "method_zh": "在动物眼睛高度的头戴式 VR，用视听与动觉反馈表现天气、饥饿与受伤。",
+   "keywords": [
+    "stray cat",
+    "stray dog",
+    "perspective-taking",
+    "empathy",
+    "VRST"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3641825.3687729",
+    "doi": "10.1145/3641825.3687729",
+    "venue": "ACM VRST 2024",
+    "title": "iStrayPaws: Immersing in a Stray Animal's World through First-Person VR to Bridge Human-Animal Empathy"
+   }
+  },
+  {
+   "id": "daniel-pimentel--festival-ar-vr-embodiment",
+   "creator_ids": [
+    "daniel-pimentel"
+   ],
+   "title": "AR and VR Animal Embodiment at a Beach Festival",
+   "year": 2025,
+   "field": "fish",
+   "sub": "aquatic",
+   "also": [
+    "animal"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "ar",
+    "vr",
+    "game"
+   ],
+   "kind": "paper",
+   "description": "A field study at a beach music festival where 99 attendees played custom AR and VR games in which they became threatened wildlife and saw threats on their own virtual bodies.",
+   "description_zh": "一项在海滩音乐节进行的实地研究：99 名观众玩定制的 AR 与 VR 游戏，化身为濒危野生动物，并在自己的虚拟身体上看到威胁。",
+   "idea_en": "Animal embodiment can leave the lab: AR and VR produce different kinds of connection in public settings.",
+   "idea_zh": "动物化身可以走出实验室：在公共场合，AR 和 VR 会带来不同类型的连结。",
+   "method": "Custom mobile AR and headset VR games compared in the field with surveys on embodiment and conservation intent.",
+   "method_zh": "在现场比较定制的手机 AR 游戏与头显 VR 游戏，并用问卷测量化身感与保护意愿。",
+   "keywords": [
+    "sea turtle",
+    "wildlife",
+    "music festival",
+    "field study",
+    "conservation"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1177/14614448251346153",
+    "doi": "10.1177/14614448251346153",
+    "venue": "New Media & Society 2025",
+    "title": "Uses and effects of AR- and VR-based animal embodiment: A field study at a beach music festival"
+   }
+  },
+  {
+   "id": "iffa-nurlatifah--chicken-eye-vr",
+   "creator_ids": [
+    "iffa-nurlatifah"
+   ],
+   "title": "A Chicken's-Eye VR Film",
+   "year": 2023,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "film360"
+   ],
+   "kind": "film",
+   "description": "An immersive VR film shot from the height and viewpoint of a chicken, tested for its effect on empathy towards non-human beings.",
+   "description_zh": "一部从鸡的高度与视角拍摄的沉浸式 VR 影片，用来检验它对非人类生命共情的影响。",
+   "idea_en": "Lowering the camera to a farm animal's eye can change who the viewer identifies with.",
+   "idea_zh": "把镜头降到农场动物的眼睛高度，会改变观众认同的对象。",
+   "method": "360° camera placed at chicken eye level, viewed in a headset, with before-and-after empathy measures.",
+   "method_zh": "把 360° 摄像机放在鸡的眼睛高度，在头显中观看，前后测量共情水平。",
+   "keywords": [
+    "chicken",
+    "360 video",
+    "empathy",
+    "ARTECH"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3632776.3632804",
+    "doi": "10.1145/3632776.3632804",
+    "venue": "ARTECH 2023",
+    "title": "Virtual Reality in Empathy Towards Non-Human Being"
+   }
+  },
+  {
+   "id": "shengdong-zhao--wolfborn",
+   "creator_ids": [
+    "shengdong-zhao"
+   ],
+   "title": "Wolfborn",
+   "year": 2026,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "hearing",
+    "body",
+    "breath"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "prototype",
+   "description": "A VR demo in which users embody a wolf and release stress by howling, without making any audible sound.",
+   "description_zh": "一个 VR 演示，用户化身为一只狼，通过嚎叫释放压力，却不必发出任何可听见的声音。",
+   "idea_en": "Becoming an animal can lend us its voice: a howl we could not make as ourselves.",
+   "idea_zh": "成为动物可以借来它的声音：一声我们作为自己发不出的嚎叫。",
+   "method": "Pseudo-vocalization combining breath or throat gestures with visual, auditory and tactile feedback of the wolf's howl.",
+   "method_zh": "伪发声机制：把呼吸或喉部动作与狼嚎的视觉、听觉和触觉反馈结合起来。",
+   "keywords": [
+    "wolf",
+    "howling",
+    "catharsis",
+    "pseudo-vocalization",
+    "Xingyu Zhou",
+    "DIS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3802974.3808033",
+    "doi": "10.1145/3802974.3808033",
+    "venue": "DIS 2026 Companion",
+    "title": "Wolfborn: Silent Emotional Catharsis and Empathy via Pseudo-Vocalized Embodiment"
+   }
+  },
+  {
+   "id": "pingting-chen--zoowear",
+   "creator_ids": [
+    "pingting-chen"
+   ],
+   "title": "ZooWear",
+   "year": 2025,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "touch",
+    "hearing"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "Head-mounted cartoon animal ears that vibrate with patterns simulating how an animal reacts to predators and prey while visitors walk through a zoo.",
+   "description_zh": "卡通动物耳朵头戴设备，在游客参观动物园时以不同振动模式模拟动物对捕食者与猎物的反应。",
+   "idea_en": "Wearing an animal's ears lets you feel its place in the food chain.",
+   "idea_zh": "戴上动物的耳朵，就能感受到它在食物链中的位置。",
+   "method": "Head-worn ears with vibrotactile actuators triggered by location in the zoo; field study with visitors.",
+   "method_zh": "带振动马达的头戴耳朵，根据游客在动物园中的位置触发；与游客进行实地研究。",
+   "keywords": [
+    "animal ears",
+    "zoo",
+    "food chain",
+    "haptics",
+    "perspective-taking"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/10447318.2025.2583471",
+    "doi": "10.1080/10447318.2025.2583471",
+    "venue": "International Journal of Human–Computer Interaction 2025",
+    "title": "ZooWear: Animal-Inspired Head-Mounted Haptic Interfaces to Augment the Zoo Experience"
+   }
+  },
+  {
+   "id": "shuai-zou--dream-of-zhuang-zhou",
+   "creator_ids": [
+    "shuai-zou"
+   ],
+   "title": "The Dream of Zhuang Zhou",
+   "year": 2025,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "fish",
+    "insect",
+    "bird"
+   ],
+   "senses": [
+    "vision",
+    "multisensory"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A VR experience built on Zhuangzi's butterfly dream in which the visitor passes between the perspectives of a human, a fish, a butterfly and a bird in a Chinese landscape.",
+   "description_zh": "一件基于庄子“蝴蝶梦”的 VR 作品，观众在中国山水中穿行于人、鱼、蝴蝶与鸟的视角之间。",
+   "idea_en": "Transformative embodiment (wuhua): each species builds a different world from the same landscape.",
+   "idea_zh": "“物化”：每个物种从同一片山水中建构出不同的世界。",
+   "method": "3D Gaussian Splatting reconstruction of a landscape rendered with species-specific visual and cognitive mappings.",
+   "method_zh": "用 3D 高斯泼溅重建山水，再以各物种特有的视觉与认知映射进行渲染。",
+   "keywords": [
+    "Zhuangzi",
+    "butterfly dream",
+    "fish",
+    "butterfly",
+    "bird",
+    "Gaussian Splatting",
+    "SIGGRAPH Asia Art Papers"
+   ],
+   "shown_at": [
+    "SIGGRAPH Asia 2025"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3757369.3767609",
+    "doi": "10.1145/3757369.3767609",
+    "venue": "SIGGRAPH Asia 2025 Art Papers",
+    "title": "The Dream of Zhuang Zhou: Entangled Agencies in Multispecies Virtual Reality"
+   }
+  },
+  {
+   "id": "daniel-pimentel--embodying-sea-turtles",
+   "creator_ids": [
+    "daniel-pimentel"
+   ],
+   "title": "Embodying Loggerhead Sea Turtles",
+   "year": 2022,
+   "field": "fish",
+   "sub": "aquatic",
+   "also": [
+    "animal"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Four experiments in which participants became a loggerhead sea turtle in VR and felt plastic pollution affecting their own body.",
+   "description_zh": "四项实验中，参与者在 VR 中成为一只蠵龟，并感到塑料污染作用在自己的身体上。",
+   "idea_en": "Being one threatened animal can reverse 'compassion fade', the drop in concern as the number of victims grows.",
+   "idea_zh": "成为一只受威胁的动物，可以逆转“同情消退”——受害者越多、关切越少的现象。",
+   "method": "Head-mounted VR with first-person turtle body; measures of donations and conservation behaviour after exposure.",
+   "method_zh": "头戴式 VR 中的第一人称海龟身体；体验后测量捐款与保护行为。",
+   "keywords": [
+    "loggerhead sea turtle",
+    "Caretta caretta",
+    "compassion fade",
+    "plastic pollution",
+    "Sri Kalyanaraman"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-10268-y/MediaObjects/41598_2022_10268_Fig1_HTML.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41598-022-10268-y",
+    "doi": "10.1038/s41598-022-10268-y",
+    "venue": "Scientific Reports 2022",
+    "title": "The effects of embodying wildlife in virtual reality on conservation behaviors"
+   }
+  },
+  {
+   "id": "kevin-ponto--waddle",
+   "creator_ids": [
+    "kevin-ponto"
+   ],
+   "title": "Waddle",
+   "year": 2023,
+   "field": "fish",
+   "sub": "aquatic",
+   "also": [
+    "bird"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "prototype",
+   "description": "A narrative VR experience in which the user becomes an Adélie penguin, waddling, swimming and raising a chick in Antarctica.",
+   "description_zh": "一个叙事性 VR 体验，用户成为一只阿德利企鹅，在南极蹒跚行走、游泳并养育幼崽。",
+   "idea_en": "Direct embodiment as a learning medium: knowing a species by living its year.",
+   "idea_zh": "以直接化身作为学习媒介：通过过完一个物种的一年来认识它。",
+   "method": "Standalone headset with body-driven penguin movement and story chapters; pre/post tests of learning and empathy.",
+   "method_zh": "一体机头显，用身体驱动企鹅动作并配合故事章节；前后测量学习与共情。",
+   "keywords": [
+    "Adélie penguin",
+    "Antarctica",
+    "informal learning",
+    "Field Day Lab",
+    "David Gagnon",
+    "VRST"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zFYsVHj2qwQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3611659.3617211",
+    "doi": "10.1145/3611659.3617211",
+    "venue": "ACM VRST 2023",
+    "title": "Waddle: using virtual penguin embodiment as a vehicle for empathy and informal learning"
+   }
+  },
+  {
+   "id": "anastassia-andreasen--virtual-bat",
+   "creator_ids": [
+    "anastassia-andreasen"
+   ],
+   "title": "What Is It Like to Be a Virtual Bat?",
+   "year": 2018,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "A VR system in which the participant has a bat's body, flies with their arms as wings and navigates a dark cave by emitting calls and hearing echoes.",
+   "description_zh": "一个 VR 系统，参与者拥有蝙蝠的身体，以手臂为翼飞行，并在黑暗洞穴中发出叫声、聆听回声来导航。",
+   "idea_en": "Nagel's question turned into a design brief: combine a bat body with bat hearing.",
+   "idea_zh": "把内格尔的问题变成设计任务：把蝙蝠的身体与蝙蝠的听觉结合起来。",
+   "method": "Head-mounted display with arm tracking for wing flapping and real-time spatial audio echoes rendered with HRTFs.",
+   "method_zh": "头戴显示器加手臂追踪实现扇翅，用 HRTF 实时渲染空间音频回声。",
+   "keywords": [
+    "bat",
+    "echolocation",
+    "Thomas Nagel",
+    "Navigate as a Bat",
+    "Michele Geronazzo",
+    "ArtsIT"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=uB2ApqoNzzU"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1007/978-3-030-06134-0_57",
+    "doi": "10.1007/978-3-030-06134-0_57",
+    "venue": "ArtsIT 2018 (LNICST 2019)",
+    "title": "What Is It Like to Be a Virtual Bat?"
+   }
+  },
+  {
+   "id": "anastassia-andreasen--bat-agency",
+   "creator_ids": [
+    "anastassia-andreasen"
+   ],
+   "title": "Agency and the Virtual Bat Body",
+   "year": 2018,
+   "field": "bat",
+   "sub": "bat-life",
+   "also": [
+    "bird"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Participants flew as a virtual bat under four conditions, from full control of wings and movement to passive, involuntary flight.",
+   "description_zh": "参与者在四种条件下以虚拟蝙蝠身份飞行，从完全控制翅膀与移动，到被动、非自主的飞行。",
+   "idea_en": "Owning a bat body depends on being the one who flies it.",
+   "idea_zh": "要拥有蝙蝠的身体，关键在于自己就是驾驭它飞行的那个人。",
+   "method": "Head-mounted VR with arm-tracked wings; within-subject comparison of voluntary and involuntary locomotion.",
+   "method_zh": "头戴式 VR，手臂追踪驱动翅膀；被试内比较自主与非自主移动。",
+   "keywords": [
+    "bat",
+    "agency",
+    "body ownership",
+    "flight",
+    "IEEE VR"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/vr.2018.8446448",
+    "doi": "10.1109/vr.2018.8446448",
+    "venue": "IEEE VR 2018 (poster)",
+    "title": "Agency Enhances Body Ownership Illusion of Being a Virtual Bat"
+   }
+  },
+  {
+   "id": "anastassia-andreasen--bat-wings-touch",
+   "creator_ids": [
+    "anastassia-andreasen"
+   ],
+   "title": "Touching the Wings of a Virtual Bat",
+   "year": 2018,
+   "field": "bat",
+   "sub": "bat-life",
+   "also": [
+    "bird"
+   ],
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "While seeing an object touch a bat's wing, participants felt a touch on their arm at matching or increasingly shifted positions.",
+   "description_zh": "参与者看到物体触碰蝙蝠翅膀的同时，手臂上也被触碰，触碰位置与所见一致或逐步偏移。",
+   "idea_en": "A wing is not an arm: touch can be remapped across different anatomy, up to a point.",
+   "idea_zh": "翅膀不是手臂：触觉可以跨越不同的解剖结构重新映射，但有限度。",
+   "method": "Visuo-tactile stimulation with 0%, 50% and 70% spatial deviation between real arm and virtual wing touch points.",
+   "method_zh": "视触刺激，真实手臂与虚拟翅膀触碰点之间的空间偏差为 0%、50% 和 70%。",
+   "keywords": [
+    "bat",
+    "wings",
+    "visuo-tactile",
+    "body ownership",
+    "IEEE VR"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/vr.2018.8446569",
+    "doi": "10.1109/vr.2018.8446569",
+    "venue": "IEEE VR 2018 (poster)",
+    "title": "Spatial Asynchronous Visuo-Tactile Stimuli Influence Ownership of Virtual Wings"
+   }
+  },
+  {
+   "id": "anastassia-andreasen--echo-navigation-training",
+   "creator_ids": [
+    "anastassia-andreasen"
+   ],
+   "title": "Auditory Feedback for Navigation with Echoes",
+   "year": 2019,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "vr",
+    "audio"
+   ],
+   "kind": "paper",
+   "description": "A training procedure in which sighted people learn to navigate a virtual maze by echoes alone, and the orientation strategies they develop.",
+   "description_zh": "一套训练流程，让明眼人只靠回声在虚拟迷宫中导航，并研究他们形成的定向策略。",
+   "idea_en": "Echolocation can be learned in VR as a navigation skill, not only simulated as an effect.",
+   "idea_zh": "回声定位可以在 VR 中作为导航技能被学会，而不仅仅是被模拟的效果。",
+   "method": "Real-time acoustic rendering of self-produced clicks and their reflections in a virtual maze over headphones.",
+   "method_zh": "通过耳机实时渲染自发的弹舌声及其在虚拟迷宫中的反射。",
+   "keywords": [
+    "echolocation",
+    "navigation",
+    "training",
+    "Michele Geronazzo",
+    "IEEE TVCG"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Z8ndSJDbSok"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/tvcg.2019.2898787",
+    "doi": "10.1109/tvcg.2019.2898787",
+    "venue": "IEEE TVCG 2019 (IEEE VR 2019)",
+    "title": "Auditory Feedback for Navigation with Echoes in Virtual Environments: Training Procedure and Orientation Strategies"
+   }
+  },
+  {
+   "id": "dean-waters--bat-modelled-sonar",
+   "creator_ids": [
+    "dean-waters"
+   ],
+   "title": "Bat-Modelled Sonar in Virtual Environments",
+   "year": 2007,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "vr",
+    "audio"
+   ],
+   "kind": "paper",
+   "description": "A bat biologist's model of bat sonar used as a navigation tool for people moving through virtual environments, following his 2001 'virtual bat'.",
+   "description_zh": "一位蝙蝠生物学家把蝙蝠声呐模型用作人在虚拟环境中移动的导航工具，延续了他 2001 年的“虚拟蝙蝠”研究。",
+   "idea_en": "Early proof that bat-style echo processing can guide human movement in VR.",
+   "idea_zh": "早期证据：蝙蝠式的回声处理可以引导人在 VR 中移动。",
+   "method": "Synthetic frequency-modulated calls and echoes computed from the virtual geometry, played binaurally (details from abstract-level sources; likely desktop VR).",
+   "method_zh": "根据虚拟场景几何计算合成的调频叫声与回声，以双耳方式播放（细节依据摘要级资料；很可能是桌面 VR）。",
+   "keywords": [
+    "bat",
+    "sonar",
+    "virtual bat",
+    "Husam Abulula",
+    "IJHCS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.ijhcs.2007.06.001",
+    "doi": "10.1016/j.ijhcs.2007.06.001",
+    "venue": "International Journal of Human-Computer Studies 2007",
+    "title": "Using bat-modelled sonar as a navigational tool in virtual environments"
+   }
+  },
+  {
+   "id": "shizuko-hiryu--bat-echolocation-training",
+   "creator_ids": [
+    "shizuko-hiryu"
+   ],
+   "title": "Training Humans in Bat Echolocation",
+   "year": 2023,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "audio"
+   ],
+   "kind": "paper",
+   "description": "A training system in which sighted people listen to simulated echoes of bat-like FM pulses and learn to locate objects, with eye tracking recording where they look.",
+   "description_zh": "一个训练系统：明眼人聆听模拟的类蝙蝠调频脉冲回声并学习定位物体，眼动仪记录他们看向哪里。",
+   "idea_en": "Borrow the bat's own call design, not human clicks, to teach people to hear space.",
+   "idea_zh": "借用蝙蝠自己的叫声设计，而不是人的弹舌声，来教人听见空间。",
+   "method": "Binaural echoes of downward linear FM pulses simulated with finite-difference time-domain acoustics, presented over headphones with an eye tracker.",
+   "method_zh": "用时域有限差分声学模拟向下线性调频脉冲的双耳回声，通过耳机播放并配合眼动仪。",
+   "keywords": [
+    "bat",
+    "FM pulse",
+    "echolocation training",
+    "Miyoko Tsumaki",
+    "Doshisha University"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2302.08794",
+    "arxiv": "2302.08794",
+    "venue": "arXiv 2023",
+    "title": "Build a training interface to install the bat's echolocation skills in humans"
+   }
+  },
+  {
+   "id": "danyang-peng--echosense",
+   "creator_ids": [
+    "danyang-peng"
+   ],
+   "title": "EchoSense",
+   "year": 2025,
+   "field": "bat",
+   "sub": "echolocation",
+   "also": [
+    "mole"
+   ],
+   "senses": [
+    "echolocation",
+    "touch"
+   ],
+   "medium": [
+    "vr",
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A frontal haptic display that lets VR users feel the space in front of them as an echolocating animal might, while navigating without sight.",
+   "description_zh": "一种正面触觉显示装置，让 VR 用户在看不见的情况下，像回声定位动物那样感受前方的空间。",
+   "idea_en": "Biomimetic empathy: understand an animal by borrowing its way of sensing.",
+   "idea_zh": "仿生共情：借用动物的感知方式来理解它。",
+   "method": "Wearable vibrotactile array on the torso or face driven by distances in the virtual scene (details likely).",
+   "method_zh": "佩戴在躯干或面部的振动阵列，由虚拟场景中的距离驱动（细节为推测）。",
+   "keywords": [
+    "echolocation",
+    "haptic navigation",
+    "biomimetic empathy",
+    "Giulia Barbareschi",
+    "UbiComp"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3714394.3754428",
+    "doi": "10.1145/3714394.3754428",
+    "venue": "UbiComp/ISWC 2025 Companion",
+    "title": "EchoSense: Frontal Haptic Navigation in VR towards Biomimetic Empathy"
+   }
+  },
+  {
+   "id": "jan-waligorski--bat-in-vr",
+   "creator_ids": [
+    "jan-waligorski"
+   ],
+   "title": "What Is It Like to Be a Bat in Virtual Reality?",
+   "year": 2023,
+   "field": "bat",
+   "sub": "echolocation",
+   "also": [
+    "foundations"
+   ],
+   "senses": [
+    "echolocation",
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "A philosophical paper on whether VR embodiment with altered senses, such as echolocation, can bring us closer to another animal's perspective.",
+   "description_zh": "一篇哲学论文，讨论带有改变感官（如回声定位）的 VR 化身能否让我们更接近另一种动物的视角。",
+   "idea_en": "VR can approach, but never close, the gap Nagel described.",
+   "idea_zh": "VR 可以接近、但永远无法弥合内格尔所说的鸿沟。",
+   "method": "Conceptual analysis drawing on phenomenology, embodiment research and existing bat VR studies.",
+   "method_zh": "借助现象学、具身研究与现有蝙蝠 VR 研究进行概念分析。",
+   "keywords": [
+    "Thomas Nagel",
+    "bat",
+    "phenomenology",
+    "virtual embodiment",
+    "Avant"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.26913/avant.202302",
+    "doi": "10.26913/avant.202302",
+    "venue": "Avant 2023",
+    "title": "Jak to jest być nietoperzem w wirtualnej rzeczywistości? (What is it like to be a bat in virtual reality?)"
+   }
+  },
+  {
+   "id": "ronny-andrade--echolocation-virtual-environments",
+   "creator_ids": [
+    "ronny-andrade"
+   ],
+   "title": "Echolocation-Enabled Virtual Environments",
+   "year": 2022,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "vr",
+    "audio",
+    "game"
+   ],
+   "kind": "paper",
+   "description": "Expert blind echolocators helped design and test virtual environments that can be explored by clicking and listening to echoes.",
+   "description_zh": "盲人回声定位专家参与设计并测试可以通过弹舌与聆听回声来探索的虚拟环境。",
+   "idea_en": "People who already echolocate are the best designers of echolocation in VR.",
+   "idea_zh": "已经在使用回声定位的人，是设计 VR 回声定位的最佳人选。",
+   "method": "Participatory design with focus groups and two prototype iterations of acoustic ray-traced echoes in a game engine.",
+   "method_zh": "通过焦点小组进行参与式设计，并在游戏引擎中做了两轮声线追踪回声原型迭代。",
+   "keywords": [
+    "echolocation",
+    "blind",
+    "accessibility",
+    "participatory design",
+    "TACCESS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3516448",
+    "doi": "10.1145/3516448",
+    "venue": "ACM Transactions on Accessible Computing 2022",
+    "title": "A Participatory Design Approach to Creating Echolocation-Enabled Virtual Environments"
+   }
+  },
+  {
+   "id": "leslie-kay--binaural-sonar-aid",
+   "creator_ids": [
+    "leslie-kay"
+   ],
+   "title": "Binaural Sonar Aid (Sonicguide)",
+   "year": 1974,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "product",
+   "description": "Spectacles that emit ultrasound and turn its echoes into audible tones in each ear, letting blind wearers hear the distance and direction of objects.",
+   "description_zh": "一副发射超声波的眼镜，把回声转换成两耳中可听的音调，让盲人佩戴者听出物体的距离和方向。",
+   "idea_en": "The first wearable that gave people a bat-like air sonar.",
+   "idea_zh": "第一种让人拥有类蝙蝠空气声呐的可穿戴设备。",
+   "method": "Frequency-modulated ultrasonic transmitter with two receivers; echo delay mapped to pitch and interaural level to direction.",
+   "method_zh": "调频超声波发射器加两个接收器；回声延迟映射为音高，两耳强度差映射为方向。",
+   "keywords": [
+    "Sonicguide",
+    "Sonic Torch",
+    "ultrasound",
+    "blind mobility",
+    "bat"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1049/ree.1974.0148",
+    "doi": "10.1049/ree.1974.0148",
+    "venue": "Radio and Electronic Engineer 1974",
+    "title": "A sonar aid to enhance spatial perception of the blind: engineering design and evaluation"
+   }
+  },
+  {
+   "id": "jascha-sohl-dickstein--sonic-eye",
+   "creator_ids": [
+    "jascha-sohl-dickstein"
+   ],
+   "title": "Sonic Eye: A Device for Human Ultrasonic Echolocation",
+   "year": 2015,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A headset that sends ultrasonic chirps, records the echoes with microphones in artificial bat-like ears, slows them down and plays them to the wearer.",
+   "description_zh": "一个头戴设备：发出超声波啁啾，用装在仿蝙蝠耳廓里的麦克风录下回声，放慢后播放给佩戴者。",
+   "idea_en": "Hear the echoes a bat hears, slowed to human speed, with the ear shapes doing spatial work.",
+   "idea_zh": "听见蝙蝠听到的回声，放慢到人的速度，让耳廓的形状完成空间定位。",
+   "method": "Ultrasonic emitter, stereo microphones in artificial pinnae, and time-stretching to bring echoes into the audible range.",
+   "method_zh": "超声波发射器、装在人工耳廓中的立体声麦克风，以及把回声拉伸到可听范围的时间伸展处理。",
+   "keywords": [
+    "ultrasound",
+    "artificial pinnae",
+    "Sonic Eye",
+    "Michael DeWeese",
+    "Santani Teng"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=md-VkLDwYzc"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/tbme.2015.2393371",
+    "doi": "10.1109/tbme.2015.2393371",
+    "venue": "IEEE Transactions on Biomedical Engineering 2015",
+    "title": "A Device for Human Ultrasonic Echolocation"
+   }
+  },
+  {
+   "id": "lore-thaler--echolocation-in-humans",
+   "creator_ids": [
+    "lore-thaler"
+   ],
+   "title": "Echolocation in Humans: An Overview",
+   "year": 2016,
+   "field": "bat",
+   "sub": "echolocation",
+   "also": [
+    "foundations"
+   ],
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "audio"
+   ],
+   "kind": "paper",
+   "description": "A review of research on blind people who echolocate with mouth clicks, including the brain changes seen in expert echolocators.",
+   "description_zh": "一篇综述，回顾关于用弹舌进行回声定位的盲人的研究，包括回声定位专家大脑中的变化。",
+   "idea_en": "Echolocation is not only for bats and dolphins; it is a human skill that recruits visual cortex.",
+   "idea_zh": "回声定位不只属于蝙蝠和海豚；它是人的技能，而且会调用视觉皮层。",
+   "method": "Literature review of behavioural, acoustic and neuroimaging studies of click-based echolocation.",
+   "method_zh": "对弹舌回声定位的行为、声学与神经影像研究进行文献综述。",
+   "keywords": [
+    "human echolocation",
+    "mouth clicks",
+    "blindness",
+    "Melvyn Goodale",
+    "neuroplasticity"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/wcs.1408",
+    "doi": "10.1002/wcs.1408",
+    "venue": "WIREs Cognitive Science 2016",
+    "title": "Echolocation in humans: an overview"
+   }
+  },
+  {
+   "id": "samira-poudratchi--batsight",
+   "creator_ids": [
+    "samira-poudratchi"
+   ],
+   "title": "BatSight",
+   "year": 2024,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "wearable",
+    "game",
+    "ar"
+   ],
+   "kind": "prototype",
+   "description": "An audio game in which blindfolded players walk through a physical maze guided by a sonar headset that turns obstacles into musical sounds.",
+   "description_zh": "一款音频游戏：蒙眼玩家戴着声呐头戴设备在实体迷宫中行走，障碍物被转换成音乐声音。",
+   "idea_en": "Play as a bat: navigate a real space by ear alone.",
+   "idea_zh": "像蝙蝠一样玩：只靠耳朵在真实空间中导航。",
+   "method": "Head-mounted ultrasonic distance sensors mapped to musical cues over headphones, in an AR-style physical maze.",
+   "method_zh": "头戴超声波测距传感器，通过耳机映射为音乐提示，在类 AR 的实体迷宫中进行。",
+   "keywords": [
+    "sonar headset",
+    "audio game",
+    "maze",
+    "blindfold",
+    "serious games"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.17083/ijsg.v11i1.718",
+    "doi": "10.17083/ijsg.v11i1.718",
+    "venue": "International Journal of Serious Games 2024",
+    "title": "BatSight: A Navigation Game to Map Environmental Information into Audio Cues"
+   }
+  },
+  {
+   "id": "stefania-serafin--wings-and-flying",
+   "creator_ids": [
+    "stefania-serafin"
+   ],
+   "title": "Wings and Flying in Immersive VR",
+   "year": 2015,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "body",
+    "hearing"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Participants flew an obstacle course with virtual wings, flapping by shoulder movement or with a game controller, with varying self-produced wing sounds.",
+   "description_zh": "参与者带着虚拟翅膀飞越障碍赛道，通过肩部动作或游戏手柄扇翅，并听到不同程度的自发翅膀声。",
+   "idea_en": "Wings feel owned when the shoulders do the flapping; sound adds little.",
+   "idea_zh": "由肩膀来扇动时，翅膀才会被感到是自己的；声音的作用不大。",
+   "method": "Motion-tracked avatar with wings in a head-mounted display; shoulder-driven versus controller-driven flight, with an earlier study (Audio Mostly 2014) on wing sounds.",
+   "method_zh": "头戴显示器中带翅膀的动作追踪化身；比较肩部驱动与手柄驱动飞行，另有 2014 年 Audio Mostly 关于翅膀声音的前期研究。",
+   "keywords": [
+    "wings",
+    "flight",
+    "Erik Sikström",
+    "Amalia de Götzen",
+    "body ownership",
+    "IEEE VR"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/vr.2015.7223405",
+    "doi": "10.1109/vr.2015.7223405",
+    "venue": "IEEE VR 2015",
+    "title": "Wings and flying in immersive VR — Controller type, sound effects and experienced ownership and agency"
+   }
+  },
+  {
+   "id": "mie-egeberg--virtual-wings",
+   "creator_ids": [
+    "mie-egeberg"
+   ],
+   "title": "Extending the Human Body with Virtual Wings",
+   "year": 2016,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Participants controlled a humanoid avatar with a pair of wings under visuomotor, visuotactile or no synchronous feedback.",
+   "description_zh": "参与者控制一个带一对翅膀的人形化身，分别在视动同步、视触同步或无同步反馈的条件下进行。",
+   "idea_en": "Moving the wings, not being touched on them, is what makes them part of the body.",
+   "idea_zh": "让翅膀成为身体一部分的是动起来，而不是被触碰。",
+   "method": "Head-mounted VR with tracked arms driving wing motion; visuotactile strokes on the back in one condition.",
+   "method_zh": "头戴式 VR，追踪手臂驱动翅膀动作；其中一个条件在背部施加视触同步抚触。",
+   "keywords": [
+    "wings",
+    "body extension",
+    "Martin Kraus",
+    "VRIC"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2927929.2927940",
+    "doi": "10.1145/2927929.2927940",
+    "venue": "Virtual Reality International Conference (VRIC) 2016",
+    "title": "Extending the human body in virtual reality: effect of sensory feedback on agency and ownership of virtual wings"
+   }
+  },
+  {
+   "id": "taiwoo-park--jediflight",
+   "creator_ids": [
+    "taiwoo-park"
+   ],
+   "title": "JediFlight",
+   "year": 2018,
+   "field": "bird",
+   "sub": "flight",
+   "also": [
+    "octopus"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "prototype",
+   "description": "A VR game in which each arm controls both a wing and a hand at once, so the player flies while interacting with the world.",
+   "description_zh": "一款 VR 游戏：每只手臂同时控制一只翅膀和一只手，玩家边飞边与世界互动。",
+   "idea_en": "One human limb can drive two virtual limbs if the mapping splits elbow and hand.",
+   "idea_zh": "只要把肘与手的映射分开，一条人类肢体就能驱动两条虚拟肢体。",
+   "method": "Hand and elbow trackers: elbow position drives the wing, hand position drives the hand.",
+   "method_zh": "手部与肘部追踪器：肘部位置驱动翅膀，手部位置驱动手。",
+   "keywords": [
+    "wings",
+    "flight",
+    "limb mapping",
+    "Jungpil Yoon",
+    "CHI PLAY"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3270316.3273043",
+    "doi": "10.1145/3270316.3273043",
+    "venue": "CHI PLAY 2018 Extended Abstracts",
+    "title": "JediFlight: Design and Evaluation of Wing-Based Flying Experience in Virtual Reality"
+   }
+  },
+  {
+   "id": "akimi-oyanagi--transformation-to-a-bird",
+   "creator_ids": [
+    "akimi-oyanagi"
+   ],
+   "title": "Transformation to a Bird",
+   "year": 2019,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Participants with fear of heights flew in VR with either a bird avatar or a human avatar.",
+   "description_zh": "有恐高感的参与者在 VR 中分别以鸟或人的化身飞行。",
+   "idea_en": "Becoming a bird changes how height feels: the Proteus effect of a body that belongs in the sky.",
+   "idea_zh": "变成鸟会改变人对高度的感受：这是一个属于天空的身体带来的普罗透斯效应。",
+   "method": "Head-mounted VR flight with a first-person bird body; fear of heights measured by questionnaire and physiology.",
+   "method_zh": "头戴式 VR 飞行，第一人称鸟类身体；用问卷与生理指标测量恐高。",
+   "keywords": [
+    "bird avatar",
+    "fear of heights",
+    "Proteus effect",
+    "Ren Ohmura"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3313950.3313976",
+    "doi": "10.1145/3313950.3313976",
+    "venue": "ICIGP 2019",
+    "title": "Transformation to a bird: overcoming the height of fear by inducing the proteus effect of the bird avatar"
+   }
+  },
+  {
+   "id": "akimi-oyanagi--bird-avatar-ownership",
+   "creator_ids": [
+    "akimi-oyanagi"
+   ],
+   "title": "Body Ownership of a Bird Avatar",
+   "year": 2018,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "body",
+    "hearing"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "Experiments on which bird features, such as flapping, a short body and wing sounds, make a bird avatar feel like one's own.",
+   "description_zh": "一系列实验，研究哪些鸟类特征（扇翅、短小的身体、翅膀声）会让鸟类化身感觉像自己的身体。",
+   "idea_en": "Specific animal features, not just synchrony, build ownership of a non-human body.",
+   "idea_zh": "构建对非人类身体的所有感，靠的不只是同步，还有具体的动物特征。",
+   "method": "Head-mounted VR with arm-tracked flapping and flapping sounds; ownership compared between bird and human avatars.",
+   "method_zh": "头戴式 VR，手臂追踪扇翅并伴有扇翅声；比较鸟类与人类化身的所有感。",
+   "keywords": [
+    "bird avatar",
+    "body ownership",
+    "flapping"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.17706/jcp.13.6.596-602",
+    "doi": "10.17706/jcp.13.6.596-602",
+    "venue": "Journal of Computers 2018",
+    "title": "Conditions for Inducing Sense of Body Ownership to Bird Avatar in Virtual Environment"
+   }
+  },
+  {
+   "id": "seungwoo-je--hapticwings",
+   "creator_ids": [
+    "seungwoo-je"
+   ],
+   "title": "HapticWings",
+   "year": 2025,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A backpack that shifts weight across the back so that flapping or folding virtual wings is felt as a moving load.",
+   "description_zh": "一个背包式装置，让重量在背部移动，使扇动或收起虚拟翅膀被感受为移动的负荷。",
+   "idea_en": "Extra body parts feel real when they have weight.",
+   "idea_zh": "额外的身体部件有了重量，才会感觉真实。",
+   "method": "Back-worn 2D weight-shifting mechanism synchronised with wing animation in VR; three user studies.",
+   "method_zh": "背负式二维重量移动机构，与 VR 中的翅膀动画同步；进行了三项用户研究。",
+   "keywords": [
+    "wings",
+    "weight shifting",
+    "haptics",
+    "Immersive Design Group",
+    "DIS"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=O6CCWw-jXak"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3715336.3735755",
+    "doi": "10.1145/3715336.3735755",
+    "venue": "ACM DIS 2025",
+    "title": "HapticWings: Enhancing the Experience of Extra Wing Motions in Virtual Reality through Dynamic 2D Weight Shifting"
+   }
+  },
+  {
+   "id": "bernhard-riecke--kinect-flying",
+   "creator_ids": [
+    "bernhard-riecke"
+   ],
+   "title": "Embodied Flying with Kinect",
+   "year": 2016,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "prototype",
+   "description": "A VR game in which participants fly by body gestures tracked by a Kinect, with a study of which gestures and forms people choose for flying.",
+   "description_zh": "一款 VR 游戏，参与者用 Kinect 追踪的身体姿势飞行，并研究人们会选择哪些姿势与形态来飞。",
+   "idea_en": "Ask people how they would fly with their bodies before deciding what they become.",
+   "idea_zh": "在决定人要变成什么之前，先问问他们想怎样用身体飞。",
+   "method": "Microsoft Kinect body tracking mapped to flight controls in a head-mounted display.",
+   "method_zh": "Microsoft Kinect 身体追踪映射为头戴显示器中的飞行控制。",
+   "keywords": [
+    "flying",
+    "Kinect",
+    "natural user interface",
+    "Xin Tong",
+    "Diane Gromala",
+    "iSpace Lab"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/mixra.2016.7858996",
+    "doi": "10.1109/mixra.2016.7858996",
+    "venue": "IEEE Mixed Reality Art (MRA) 2016",
+    "title": "Exploring embodied experience of flying in a virtual reality game with kinect"
+   }
+  },
+  {
+   "id": "bernhard-riecke--perch-to-fly",
+   "creator_ids": [
+    "bernhard-riecke"
+   ],
+   "title": "Perch to Fly",
+   "year": 2019,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "prototype",
+   "description": "A flying interface in which the user sits in a flexible 'perching' stance and steers flight with their lower body.",
+   "description_zh": "一种飞行界面：用户以灵活的“栖坐”姿势坐着，用下半身控制飞行方向。",
+   "idea_en": "A bird's perch as interface: the legs, not the hands, steer flight.",
+   "idea_zh": "以鸟的栖木为界面：由腿而不是手来驾驭飞行。",
+   "method": "Flexible perching stool with leg and body leaning tracked to control VR flight; compared with sitting and standing.",
+   "method_zh": "可摆动的栖坐凳，追踪腿部与身体倾斜来控制 VR 飞行；与坐姿和站姿比较。",
+   "keywords": [
+    "perching",
+    "flying locomotion",
+    "Yaying Zhang",
+    "Thecla Schiphorst",
+    "DIS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3322276.3322357",
+    "doi": "10.1145/3322276.3322357",
+    "venue": "ACM DIS 2019",
+    "title": "Perch to Fly: Embodied Virtual Reality Flying Locomotion with a Flexible Perching Stance"
+   }
+  },
+  {
+   "id": "bernhard-riecke--virtual-transcendent-dream",
+   "creator_ids": [
+    "bernhard-riecke"
+   ],
+   "title": "Virtual Transcendent Dream",
+   "year": 2022,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "body",
+    "breath"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "prototype",
+   "description": "A VR flying experience modelled on flying dreams, in which participants fly with their bodies through dream-like landscapes.",
+   "description_zh": "一个以飞行之梦为原型的 VR 飞行体验，参与者用身体飞过梦境般的风景。",
+   "idea_en": "Embodied flight can evoke the empowerment and self-transcendence of flying dreams.",
+   "idea_zh": "具身飞行能唤起飞行之梦中的力量感与自我超越感。",
+   "method": "Head-mounted VR with leaning-based embodied flight and self-motion cues, compared with a controller interface.",
+   "method_zh": "头戴式 VR，基于倾身的具身飞行加自我运动线索，与手柄界面比较。",
+   "keywords": [
+    "flying dream",
+    "self-transcendence",
+    "Pinyao Liu",
+    "Ekaterina Stepanova",
+    "CHI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=TOJN18MxFsM"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3491102.3517677",
+    "doi": "10.1145/3491102.3517677",
+    "venue": "CHI 2022",
+    "title": "Virtual Transcendent Dream: Empowering People through Embodied Flying in Virtual Reality"
+   }
+  },
+  {
+   "id": "soroosh-mashal--flying-perception",
+   "creator_ids": [
+    "soroosh-mashal"
+   ],
+   "title": "Do You Feel Like Flying?",
+   "year": 2020,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "paper",
+   "description": "A survey of how people imagine wings attached to their bodies and which movements they make to fly, used to build a winged-avatar flight prototype.",
+   "description_zh": "一项调查，研究人们如何想象长在身上的翅膀以及飞行时会做的动作，并据此制作带翅膀化身的飞行原型。",
+   "idea_en": "Most people already imagine wings on their backs; design flight around that body image.",
+   "idea_zh": "大多数人早已想象翅膀长在背上；飞行设计应围绕这种身体意象展开。",
+   "method": "Questionnaire with 76 participants, motion analysis of imagined flight, and a VR prototype with wing avatar (Valkyrie Project).",
+   "method_zh": "76 人问卷、想象飞行的动作分析，以及带翅膀化身的 VR 原型（Valkyrie Project）。",
+   "keywords": [
+    "wings",
+    "flight",
+    "Valkyrie Project",
+    "Gerold Hoelzl",
+    "Matthias Kranz"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/mcg.2020.2997870",
+    "doi": "10.1109/mcg.2020.2997870",
+    "venue": "IEEE Computer Graphics and Applications 2020",
+    "title": "Do You Feel Like Flying? A Study of Flying Perception in Virtual Reality for Future Game Development"
+   }
+  },
+  {
+   "id": "neven-elsayed--horus-eye",
+   "creator_ids": [
+    "neven-elsayed"
+   ],
+   "title": "HORUS EYE: Bird and Snake Vision for AR",
+   "year": 2016,
+   "field": "bird",
+   "sub": "avian-senses",
+   "also": [
+    "animal"
+   ],
+   "senses": [
+    "vision",
+    "thermal"
+   ],
+   "medium": [
+    "ar"
+   ],
+   "kind": "prototype",
+   "description": "An AR visualization technique that filters the live scene the way a bird's or snake's vision might, to highlight data of interest in the world.",
+   "description_zh": "一种 AR 可视化技术，像鸟或蛇的视觉那样过滤实时画面，以突出现实中值得关注的数据。",
+   "idea_en": "Animal vision as a lens for seeing what humans cannot.",
+   "idea_zh": "把动物视觉当作透镜，看见人看不见的东西。",
+   "method": "Video see-through AR with image filters inspired by raptor acuity and snake infrared sensing, driven by user queries.",
+   "method_zh": "视频透视 AR，采用受猛禽视觉敏锐度与蛇类红外感知启发的图像滤镜，由用户查询驱动。",
+   "keywords": [
+    "bird vision",
+    "snake vision",
+    "infrared",
+    "Horus",
+    "Ross T. Smith",
+    "Bruce H. Thomas",
+    "ISMAR"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8mg1VngCdpA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/ismar-adjunct.2016.0077",
+    "doi": "10.1109/ismar-adjunct.2016.0077",
+    "venue": "IEEE ISMAR 2016 Adjunct",
+    "title": "HORUS EYE: See the Invisible Bird and Snake Vision for Augmented Reality Information Visualization"
+   }
+  },
+  {
+   "id": "shuran-fan--perch-bird-perception",
+   "creator_ids": [
+    "shuran-fan"
+   ],
+   "title": "Seeing with a Bird's Perception",
+   "year": 2026,
+   "field": "bird",
+   "sub": "avian-senses",
+   "also": [
+    "robot"
+   ],
+   "senses": [
+    "vision",
+    "hearing",
+    "touch"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A nature walk with Perch, a sparrow-like robot worn on the shoulder that translates birds' patterns of attention into subtle cues to the wearer.",
+   "description_zh": "一次自然漫步：佩戴在肩上的麻雀形机器人 Perch 把鸟类的注意模式转换成给佩戴者的细微提示。",
+   "idea_en": "Share a bird's attention to notice the nature already around you.",
+   "idea_zh": "借用鸟的注意力，去注意身边早已存在的自然。",
+   "method": "Zoomorphic wearable robot with multimodal cues (movement, sound, vibration) triggered by environmental events.",
+   "method_zh": "拟动物形可穿戴机器人，以动作、声音、振动等多模态提示回应环境中的事件。",
+   "keywords": [
+    "sparrow",
+    "zoomorphic wearable",
+    "Perch",
+    "everyday nature",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772363.3798350",
+    "doi": "10.1145/3772363.3798350",
+    "venue": "CHI 2026 Extended Abstracts",
+    "title": "Seeing with a Bird's Perception: Designing a Wearable Experience to Reorient Attention to Everyday Nature"
+   }
+  },
+  {
+   "id": "vera-vasas--animal-view-video",
+   "creator_ids": [
+    "vera-vasas"
+   ],
+   "title": "Animal-View Video Camera",
+   "year": 2024,
+   "field": "insect",
+   "sub": "bee",
+   "also": [
+    "bird"
+   ],
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "prototype",
+   "description": "A camera system and software that record video in the colours bees, birds and other animals see, including ultraviolet.",
+   "description_zh": "一套相机系统与软件，按蜜蜂、鸟类等动物所见的颜色（包括紫外）录制影像。",
+   "idea_en": "Moving images of another animal's colour world, accurate to its photoreceptors.",
+   "idea_zh": "按照另一种动物的光感受器准确呈现其色彩世界的动态影像。",
+   "method": "Beam-splitter camera recording UV and visible channels simultaneously, converted to animal photoreceptor catches in Python.",
+   "method_zh": "用分光相机同时录制紫外与可见光通道，再用 Python 转换为动物光感受器的响应量。",
+   "keywords": [
+    "bee vision",
+    "bird vision",
+    "ultraviolet",
+    "Daniel Hanley",
+    "PLOS Biology"
+   ],
+   "images": [
+    "https://journals.plos.org/plosbiology/article/figure/image?size=inline&id=10.1371/journal.pbio.3002444.g001"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1371/journal.pbio.3002444",
+    "doi": "10.1371/journal.pbio.3002444",
+    "venue": "PLOS Biology 2024",
+    "title": "Recording animal-view videos of the natural world using a novel camera system and software package"
+   }
+  },
+  {
+   "id": "anatole-lecuyer--flyviz",
+   "creator_ids": [
+    "anatole-lecuyer"
+   ],
+   "title": "FlyVIZ: 360° Vision",
+   "year": 2012,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "insect"
+   ],
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "wearable",
+    "vr"
+   ],
+   "kind": "prototype",
+   "description": "A helmet that gives the wearer real-time 360° vision of their surroundings, like the panoramic sight of a fly or a prey animal.",
+   "description_zh": "一个头盔，让佩戴者实时拥有周围环境的 360° 视野，就像苍蝇或猎物动物的全景视觉。",
+   "idea_en": "Humans can adapt to eyes in the back of their heads.",
+   "idea_zh": "人可以适应“脑后长眼”。",
+   "method": "Panoramic camera on top of the head, with omnidirectional images remapped into a head-mounted display's field of view.",
+   "method_zh": "头顶全景摄像机，把全向图像重新映射到头戴显示器的视野中。",
+   "keywords": [
+    "360° vision",
+    "panoramic",
+    "Jérôme Ardouin",
+    "Inria",
+    "VRST",
+    "SIGGRAPH Emerging Technologies"
+   ],
+   "shown_at": [
+    "SIGGRAPH 2016 Emerging Technologies"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5Dm0wH9TDjw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2407336.2407344",
+    "doi": "10.1145/2407336.2407344",
+    "venue": "ACM VRST 2012",
+    "title": "FlyVIZ: a novel display device to provide humans with 360° vision by coupling catadioptric camera with HMD"
+   }
+  },
+  {
+   "id": "fumio-mizuno--virtual-chameleon",
+   "creator_ids": [
+    "fumio-mizuno"
+   ],
+   "title": "Virtual Chameleon",
+   "year": 2009,
+   "field": "animal",
+   "sub": "reptile",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A wearable system with two independently steered cameras that shows each eye a different view, controlled by the wearer.",
+   "description_zh": "一种可穿戴系统：两台可独立转向的摄像机分别为左右眼显示不同画面，由佩戴者控制。",
+   "idea_en": "Try seeing like a chameleon, with two eyes that look different ways at once.",
+   "idea_zh": "试着像变色龙一样看：两只眼睛同时看向不同方向。",
+   "method": "Two motorised cameras steered by hand-held trackers, each feeding one side of a head-mounted display.",
+   "method_zh": "两台电动摄像机由手持追踪器分别控制方向，各自输出到头戴显示器的一侧。",
+   "keywords": [
+    "chameleon",
+    "independent eyes",
+    "binocular rivalry",
+    "Tomoaki Hayasaka",
+    "Takami Yamaguchi"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/978-3-642-03904-1_48",
+    "doi": "10.1007/978-3-642-03904-1_48",
+    "venue": "IFMBE Proceedings 2009",
+    "title": "Virtual Chameleon - A System to Provide Different Views to Both Eyes"
+   }
+  },
+  {
+   "id": "barbara-schuler--spiders-perspective",
+   "creator_ids": [
+    "barbara-schuler"
+   ],
+   "title": "The Spider's Perspective",
+   "year": 2026,
+   "field": "insect",
+   "sub": "insect-other",
+   "senses": [
+    "touch",
+    "hearing",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "prototype",
+   "description": "A multisensory VR experience in which visitors become a hunting spider exploring an oak tree for prey, sensing airflow from fans and vibrations through haptics.",
+   "description_zh": "一个多感官 VR 体验，观众成为一只在橡树上寻找猎物的狩猎蜘蛛，通过风扇感受气流、通过触觉感受振动。",
+   "idea_en": "Arthropod conservation through the spider's own senses: air, vibration and sight.",
+   "idea_zh": "通过蜘蛛自己的感官——气流、振动与视觉——来推动节肢动物保护。",
+   "method": "Head-mounted VR with fans for airflow, haptic vibration, spatial sound, walking and jumping via controllers and a rotating chair.",
+   "method_zh": "头戴式 VR，配风扇产生气流、触觉振动、空间声音，用手柄行走与跳跃，并使用旋转椅。",
+   "keywords": [
+    "hunting spider",
+    "oak tree",
+    "airflow",
+    "vibration",
+    "biodiversity",
+    "IMX"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3788851.3815016",
+    "doi": "10.1145/3788851.3815016",
+    "venue": "ACM IMX 2026",
+    "title": "The Spiders Perspective: A Multisensory VR Experience to Foster Small Animal Conservation"
+   }
+  },
+  {
+   "id": "martin-kocur--embodying-virtual-spiders",
+   "creator_ids": [
+    "martin-kocur"
+   ],
+   "title": "Controlling Virtual Spiders",
+   "year": 2025,
+   "field": "insect",
+   "sub": "insect-other",
+   "also": [
+    "octopus"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "A study comparing four ways to drive an eight-legged spider avatar: controller, hands, half-body and full-body control.",
+   "description_zh": "一项研究，比较驱动八条腿蜘蛛化身的四种方式：手柄、双手、半身与全身控制。",
+   "idea_en": "An alien anatomy needs its own control scheme; there is no neutral mapping.",
+   "idea_zh": "陌生的解剖结构需要自己的控制方案；并不存在中立的映射。",
+   "method": "Head-mounted VR with controller, hand-tracking and body-tracking mappings to spider legs.",
+   "method_zh": "头戴式 VR，把手柄、手部追踪与身体追踪分别映射到蜘蛛的腿。",
+   "keywords": [
+    "spider",
+    "control methods",
+    "Philipp Thayer",
+    "VRST"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3756884.3765989",
+    "doi": "10.1145/3756884.3765989",
+    "venue": "ACM VRST 2025",
+    "title": "Investigating How to Control Virtual Spiders While Embodying Them in Virtual Reality"
+   }
+  },
+  {
+   "id": "ehud-ahissar--what-is-it-like-to-be-a-rat",
+   "creator_ids": [
+    "ehud-ahissar"
+   ],
+   "title": "What Is It Like to Be a Rat?",
+   "year": 2010,
+   "field": "mole",
+   "sub": "touch",
+   "also": [
+    "animal"
+   ],
+   "senses": [
+    "touch"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "paper",
+   "description": "Blindfolded participants wore artificial whiskers on their fingers and learned to locate objects by whisking, as rats do.",
+   "description_zh": "蒙眼参与者在手指上戴上人造胡须，学习像大鼠一样通过扫动胡须来定位物体。",
+   "idea_en": "Active touch through whiskers is learnable by humans within minutes.",
+   "idea_zh": "人可以在几分钟内学会通过胡须进行主动触觉。",
+   "method": "Plastic whiskers fixed to the fingertips; hand motion and contact timing recorded during localisation tasks.",
+   "method_zh": "把塑料胡须固定在指尖；在定位任务中记录手的运动与接触时间。",
+   "keywords": [
+    "rat",
+    "whiskers",
+    "active touch",
+    "Avraham Saig",
+    "Amos Arieli",
+    "EuroHaptics"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/978-3-642-14064-8_43",
+    "doi": "10.1007/978-3-642-14064-8_43",
+    "venue": "EuroHaptics 2010",
+    "title": "What Is It Like to Be a Rat? Sensory Augmentation Study"
+   }
+  },
+  {
+   "id": "tony-prescott--tactile-helmet",
+   "creator_ids": [
+    "tony-prescott"
+   ],
+   "title": "The Tactile Helmet",
+   "year": 2013,
+   "field": "mole",
+   "sub": "touch",
+   "also": [
+    "robot"
+   ],
+   "senses": [
+    "touch"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A helmet with distance sensors that vibrate on the head, inspired by rodent whiskers, to help firefighters feel walls in smoke.",
+   "description_zh": "一个带测距传感器的头盔，受啮齿动物胡须启发在头部产生振动，帮助消防员在浓烟中感知墙壁。",
+   "idea_en": "Whisker-like distal touch as a new sense for moving in the dark.",
+   "idea_zh": "类胡须的远距离触觉，成为在黑暗中移动的新感官。",
+   "method": "Ultrasonic rangefinders around a helmet mapped to vibrotactile actuators on the head.",
+   "method_zh": "头盔四周的超声波测距仪，映射到头部的振动触觉器。",
+   "keywords": [
+    "whiskers",
+    "rodent",
+    "firefighters",
+    "vibrotactile",
+    "Living Machines",
+    "Craig Bertram"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/978-3-642-39802-5_3",
+    "doi": "10.1007/978-3-642-39802-5_3",
+    "venue": "Living Machines 2013",
+    "title": "Sensory Augmentation with Distal Touch: The Tactile Helmet Project"
+   }
+  }
+ ],
+ "leads": [
+  {
+   "name": "Navigate as a Bat (Andreasen et al., SMC 2018)",
+   "why": "Real-time echolocation system in VR; Zenodo record only (no Crossref DOI), merged into the 'virtual bat' work.",
+   "link": "https://zenodo.org/records/1422555",
+   "found_via": "anastassia-andreasen",
+   "status": "duplicate"
+  },
+  {
+   "name": "Birdly paper (Rheiner, SIGGRAPH 2014 E-Tech)",
+   "why": "DOI 10.1145/2614066.2614101 belongs to animals-art work somniacs--birdly; add it there as paper.",
+   "link": "https://doi.org/10.1145/2614066.2614101",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Hummingbird (Tsoupikova et al., SIGGRAPH 2022 Immersive Pavilion)",
+   "why": "Live theatre + VR adventure at EVL; unclear whether participants embody hummingbirds.",
+   "link": "https://doi.org/10.1145/3532834.3536213",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Me, the Elephant, and the Virtual World (Park, Jang, Bolter 2025)",
+   "why": "VR copresence with wildlife (Eyes of the Wild); being with animals, not becoming them.",
+   "link": "https://doi.org/10.1145/3748632",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Kay's Sonic Torch / Sonicguide images",
+   "why": "Historical photos of Leslie Kay's ultrasonic spectacles would give the 1974 work a visual.",
+   "link": "https://en.wikipedia.org/wiki/Leslie_Kay_(engineer)",
+   "found_via": "leslie-kay",
+   "status": "no_media"
+  },
+  {
+   "name": "Virtual bat (Waters & Abulula, ICAD 2001)",
+   "why": "First 'virtual bat' echolocation-in-VR paper; precursor of the 2007 IJHCS article.",
+   "link": "https://scholar.google.com/scholar?q=%22The+virtual+bat%3A+Echolocation+in+virtual+reality%22",
+   "found_via": "dean-waters",
+   "status": "open"
+  }
+ ]
+}

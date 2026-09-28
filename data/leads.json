@@ -1,1 +1,898 @@
-[]
+[
+ {
+  "name": "The Spider's Perspective (IMX 2026)",
+  "why": "Multisensory VR as a hunting spider (airflow fans, vibration haptics, spider colour vision) for museums; an academic paper, so left to the HCI batch.",
+  "link": "https://dl.acm.org/doi/10.1145/3788851.3815016",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "animals-art"
+ },
+ {
+  "name": "The Forest That Breathes Us (Jennifer Abbott, 2024)",
+  "why": "VR through a Douglas fir, a coyote and a humpback whale with Suzanne Simard; mainly a forest work, better placed in the plants batch.",
+  "link": "https://djwa.ca/creative-artistic-work/forest-that-breathes-us-vr-installation/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "animals-art"
+ },
+ {
+  "name": "Border Birds (Dries & Bieke Depoorter, 2022)",
+  "why": "AI detects birds crossing surveillance cameras at disputed borders; IDFA DocLab 2022. About birds seen by machines, not bird perception.",
+  "link": "https://www.idfa.nl/en/film/6248d87a-5d21-4ecc-b9a5-622a57c8d734/border-birds/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "animals-art"
+ },
+ {
+  "name": "We Are Dead Animals (Tote Tiere Maarten, IDFA DocLab 2025)",
+  "why": "Re-animates roadkill and hunted animals as collectible cards in a virtual paradise; animal as being, not perception.",
+  "link": "https://festival.idfa.nl/en/film/2199a031-3ed2-4e9d-8701-0a0cef4ceebe/we-are-dead-animals/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "animals-art"
+ },
+ {
+  "name": "Honeybee VR (Meta Quest)",
+  "why": "Consumer VR inside a beehive following foragers; developer not identified.",
+  "link": "https://www.meta.com/experiences/honeybee-vr/4190889024357615/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "animals-art"
+ },
+ {
+  "name": "Marco Barotti, Swans / Woodpeckers",
+  "why": "Kinetic animal-like sculptures reacting to environmental data; sensory translation but not animal perception.",
+  "link": "https://www.marcobarotti.com/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "animals-art"
+ },
+ {
+  "name": "Terike Haapoja, Community (2007)",
+  "why": "Thermal-camera video of animal bodies losing heat after death; thermal perception of animal bodies.",
+  "link": "https://www.terikehaapoja.net/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "animals-art"
+ },
+ {
+  "name": "Blast Theory, Cat Royale (2023)",
+  "why": "A utopia for cats with a robot arm, designed around cat behaviour; likely in the HCI-animal batch.",
+  "link": "https://www.blasttheory.co.uk/projects/cat-royale/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "animals-art"
+ },
+ {
+  "name": "Rachel Mayeri, Primate Cinema: How to Act Like an Animal (2014)",
+  "why": "Humans in ape suits learning chimpanzee behaviour; companion to Apes as Family.",
+  "link": "https://rachelmayeri.com/",
+  "found_via": "rachel-mayeri",
+  "status": "open",
+  "batch": "animals-art"
+ },
+ {
+  "name": "Becoming Animal (MASS MoCA, 2005)",
+  "why": "Group exhibition on human-animal boundaries (Mark Dion, Motohiko Odani, Brian Jungen and others); non-XR works, could become a collection.",
+  "link": "https://massmoca.org/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "animals-art"
+ },
+ {
+  "name": "We Are Dead Animals (Tote Tiere Maarten)",
+  "why": "IDFA DocLab 2025 VR game: revive, eat and recombine photogrammetry-scanned dead animals; closer to mortality than becoming.",
+  "link": "https://festival.idfa.nl/en/film/2199a031-3ed2-4e9d-8701-0a0cef4ceebe/we-are-dead-animals/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "festivals"
+ },
+ {
+  "name": "The Oracle: Ritual for the Future (for humans and non-humans) (Victorine van Alphen)",
+  "why": "IDFA DocLab 2025 360° ritual where the audience is overtaken by non-human (AI) entities; machine field candidate.",
+  "link": "https://festival.idfa.nl/en/film/c3aac403-e1f4-4044-bd52-0801cecb9baa/the-oracle:-ritual-for-the-future-(for-humans-and-non-humans)/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "festivals"
+ },
+ {
+  "name": "Metamorphic (Sensorium: John Fitzgerald, Matthew Niederhauser, Wesley Allsbrook, Elie Zananiri)",
+  "why": "Sundance 2020 social VR of context-dependent, shape-shifting Quill bodies; not clearly non-human.",
+  "link": "https://voicesofvr.com/902-sundance-metamorphic-explores-context-dependent-embodiment-social-dynamics-with-remixed-quill-art/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "festivals"
+ },
+ {
+  "name": "Marcus Coates, Nature Calendar",
+  "why": "Design Museum More than Human 2025; Coates' becoming-animal works (Dawn Chorus, Journey to the Lower World) belong to animals-art.",
+  "link": "https://designmuseum.org/exhibitions/more-than-human",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "festivals"
+ },
+ {
+  "name": "Once a Glacier",
+  "why": "IDFA DocLab 2022 360° glacier piece with motion-capture dance and Indigenous poetry; visual only.",
+  "link": "https://voicesofvr.com/1154-visualizing-melting-glaciers-in-360-video-story-in-once-a-glacier-mixing-motion-capture-dance-and-indigenous-poetry/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "festivals"
+ },
+ {
+  "name": "Proteus (Ed Key & David Kanaga, 2013)",
+  "why": "Island exploration where sound responds to the landscape; the player is a disembodied perceiver rather than a nonhuman being.",
+  "link": "http://www.visitproteus.com",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "games"
+ },
+ {
+  "name": "Paper Beast (Pixel Reef / Eric Chahi, 2020)",
+  "why": "VR ecosystem of paper creatures; player observes and shapes rather than embodies them.",
+  "link": "https://www.pixelreef.fr/paper-beast/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "games"
+ },
+ {
+  "name": "Animal Company (Wooster Games, 2023)",
+  "why": "Social VR scavenging game with Gorilla Tag-style arm locomotion as small animals; derivative of Gorilla Tag.",
+  "link": "https://www.animalcompanyvr.com/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "games"
+ },
+ {
+  "name": "I Am Chameleon (Shift Logic Solutions, 2026)",
+  "why": "Multiplayer VR hide-and-seek where players paint themselves to blend into surfaces.",
+  "link": "https://www.meta.com/experiences/1218791921314709/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "games"
+ },
+ {
+  "name": "Spiders (Soaring Roc Studio)",
+  "why": "VR game where the player appears to be a spider; not verified.",
+  "link": "https://www.youtube.com/watch?v=pvf4k69Sgk8",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "games"
+ },
+ {
+  "name": "Everything is Crab (Odd Dreams Digital, 2026)",
+  "why": "Animal-evolution roguelite; not yet reviewed.",
+  "link": "https://store.steampowered.com/app/3526710/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "games"
+ },
+ {
+  "name": "Spirit of the North 2 (Infuse Studio, 2025)",
+  "why": "Sequel with a fox and a raven companion.",
+  "link": "https://store.steampowered.com/app/1778840/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "games"
+ },
+ {
+  "name": "Bee Simulator: The Hive (VARSAV, 2025)",
+  "why": "Sequel to Bee Simulator with colony building.",
+  "link": "https://store.steampowered.com/app/3348910/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "games"
+ },
+ {
+  "name": "Isopod: A Webbed Spin-off (Sbug Games, 2025)",
+  "why": "Spin-off where the player is an isopod.",
+  "link": "https://store.steampowered.com/app/2053910/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "games"
+ },
+ {
+  "name": "Octodad (DePaul University student game, 2010)",
+  "why": "Original free student version of Octodad.",
+  "link": "https://store.steampowered.com/app/224480/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "games"
+ },
+ {
+  "name": "Ecco the Dolphin: Defender of the Future (Appaloosa, 2000)",
+  "why": "3D Ecco sequel for Dreamcast with echolocation and a science-fiction story.",
+  "link": "https://en.wikipedia.org/wiki/Ecco_the_Dolphin:_Defender_of_the_Future",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "games"
+ },
+ {
+  "name": "Hohokum (Honeyslug, 2014)",
+  "why": "Play as a kite-like, snake-shaped creature; abstract rather than animal.",
+  "link": "https://en.wikipedia.org/wiki/Hohokum",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "games"
+ },
+ {
+  "name": "Goat Simulator 3 (Coffee Stain North, 2022)",
+  "why": "Sequel; adds little beyond the original for this gallery.",
+  "link": "https://www.goatsimulator3.com/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "games"
+ },
+ {
+  "name": "Robert Zhao Renhui — camera-trap works (Seeing Forest, Trying to Remember a Forest)",
+  "why": "Singapore forest images triggered by animals themselves; possible 'animal as photographer' counterpoint.",
+  "link": "",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "global"
+ },
+ {
+  "name": "Eduardo Kac — Essay Concerning Human Understanding (1994)",
+  "why": "Telematic dialogue between a canary and a philodendron; interspecies but no participant embodiment.",
+  "link": "https://www.ekac.org/essay-info.html",
+  "found_via": "eduardo-kac",
+  "status": "open",
+  "batch": "global"
+ },
+ {
+  "name": "Electric South (Cape Town) New Dimensions Lab catalogue",
+  "why": "Largest African XR programme; project pages were not reachable, no nonhuman-perspective work confirmed.",
+  "link": "https://electricsouth.org/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "global"
+ },
+ {
+  "name": "Hiroo Iwata — Media Vehicle / Torus Treadmill",
+  "why": "Other body-relocation devices by the same artist.",
+  "link": "https://www.designboom.com/technology/hiroo-iwatadevice-art/",
+  "found_via": "hiroo-iwata",
+  "status": "open",
+  "batch": "global"
+ },
+ {
+  "name": "Kaohsiung Film Festival 2024 — 尋山 Seeking the Mountain",
+  "why": "Kaohsiung VR Film Lab original in which the visitor's senses travel through mountain landscapes; director and media not found.",
+  "link": "https://www.kff.tw/content/VR-ORIGINAL-NEWS",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "global"
+ },
+ {
+  "name": "Singing Chen: The Clouds Are Two Thousand Meters Up (Venice Immersive 2025)",
+  "why": "Taiwanese free-roaming VR based on Wu Ming-Yi's story about the clouded leopard and the Rukai origin myth; check whether the visitor ever takes the leopard's body or view.",
+  "link": "https://www.labiennale.org/en/cinema/2025/venice-immersive/clouds-are-two-thousand-meters",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "global"
+ },
+ {
+  "name": "Jooyoung Oh: Young Bird Care Center (2023)",
+  "why": "Companion work to Kestrel Drone at Busan MoCA Platform 2023, about technology from the viewpoint of fledgling birds.",
+  "link": "https://k-artist.com/Artist_Works.php?tab_num=tab1&artist_num=170&works_num=1015",
+  "found_via": "jooyoung-oh",
+  "status": "open",
+  "batch": "global"
+ },
+ {
+  "name": "Zheng Mahler: The Twenty-Three Thousand Sexes of Schizophyllum Commune and Other Stories (M+, 2026)",
+  "why": "AI-animated films in which 38 Lantau mushroom species narrate their own traits; companion to Mushroom Clouds.",
+  "link": "https://www.mplus.org.hk/en/exhibitions/zheng-mahler-twenty-three-thousand-sexes-of-schizophyllum-commune/",
+  "found_via": "zheng-mahler",
+  "status": "open",
+  "batch": "global"
+ },
+ {
+  "name": "Musashino Art University: 環世界展 (Umwelt exhibition)",
+  "why": "Student and researcher exhibition built on Uexküll and Toshitaka Hidaka to let visitors feel how other organisms perceive; may contain individual becoming works.",
+  "link": "https://vcd.musabi.ac.jp/web/?p=16224",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "global"
+ },
+ {
+  "name": "アニマルめがねラボ (Animal Glasses Lab), Kids Design Award 2019",
+  "why": "Japanese educational VR for children to see through animal vision; needs details and media.",
+  "link": "https://kidsdesignaward.jp/search/detail_190041",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "global"
+ },
+ {
+  "name": "Rejane Cantoni & Leonardo Crescenti — SOLO (2010)",
+  "why": "Borderline: a floor of linked seesaw plates that reproduces a water surface, with each step acting like a stone dropped into it; the body disturbs 'water' but does not become it.",
+  "link": "https://www.cantoni-crescenti.com.br/soil-about",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "global"
+ },
+ {
+  "name": "Huni Kuin: Yube Baitana (Guilherme Meneses with the Huni Kuin of Rio Jordão, 2016)",
+  "why": "Brazilian game co-made with the Huni Kuin; twins conceived by the boa Yube inherit her powers. Whether the player actually takes animal form is unverified.",
+  "link": "https://www.youtube.com/watch?v=Y0l7KV_OACE",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "global"
+ },
+ {
+  "name": "Diana Domingues — VRAquarium (2005)",
+  "why": "Stereoscopic VR/AR installation that immerses the visitor in a real aquarium hybridised with virtual fish; closer to entering a fish world than becoming a fish. Needs media.",
+  "link": "https://files.cercomp.ufg.br/weby/up/779/o/texto-_Greice_Antolini.doc",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "global"
+ },
+ {
+  "name": "Sethembile Msezane — Chapungu: The Day Rhodes Fell (2015)",
+  "why": "Performance in which the artist stood for hours as the Zimbabwe (Chapungu) bird while the Rhodes statue was removed; strong becoming-bird image but no sensory technology.",
+  "link": "https://en.wikipedia.org/wiki/Sethembile_Msezane",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "global"
+ },
+ {
+  "name": "Leeroy New — creature wearables (Aliens of Manila)",
+  "why": "Filipino artist-designer whose performers wear plastic-waste creature suits; check whether any work frames the wearer as a nonhuman being.",
+  "link": "https://leeroynew.com/category/all/creatures/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "global"
+ },
+ {
+  "name": "Paul Rosero Contreras — Adrift/becoming ocean (2021)",
+  "why": "Ecuadorian artist; a virtual exhibition app work titled 'becoming ocean' with an iceberg image; description too thin to classify.",
+  "link": "https://paulrosero.art/index.php/portfolio/adriftbecoming-ocean/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "global"
+ },
+ {
+  "name": "Interspecifics (Mexico City)",
+  "why": "Collective that sonifies bioelectrical activity of bacteria and plants with custom 'ontological machines'; perceiving nonhumans rather than perceiving as them.",
+  "link": "https://interspecifics.cc/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "global"
+ },
+ {
+  "name": "From Alien to Ally (Espositi, Vetere, Bonarini, CHI 2025)",
+  "why": "Embodying a non-anthropomorphic robot for non-verbal communication; robot field, for machine-cyborg batch.",
+  "link": "https://doi.org/10.1145/3706598.3713428",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "hci-animal"
+ },
+ {
+  "name": "VR Pigeons / Squid Smack (VR games)",
+  "why": "The only two 'Animal Biomimicry' games in Yu et al. 2026's corpus of 48 animal-avatar VR games; for the games batch.",
+  "link": "https://arxiv.org/abs/2606.08130",
+  "found_via": "siqi-yu",
+  "status": "open",
+  "batch": "hci-animal"
+ },
+ {
+  "name": "Supernumerary robotic limbs review (Prattichizzo et al. 2021)",
+  "why": "Survey of wearable extra limbs; corpus overlaps Third Thumb and six-finger work.",
+  "link": "https://doi.org/10.1088/2516-1091/ac2294",
+  "found_via": "tamar-makin",
+  "status": "open",
+  "batch": "hci-animal"
+ },
+ {
+  "name": "Asura hands (Kawaguchi et al., RO-MAN 2023)",
+  "why": "Owning two left hands in VR.",
+  "link": "https://doi.org/10.1109/ro-man57019.2023.10309380",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "hci-animal"
+ },
+ {
+  "name": "Supernumerary hand illusion in AR (Rosa et al. 2021)",
+  "why": "Embodiment of a third virtual arm in AR teleoperation.",
+  "link": "https://doi.org/10.3389/fcomp.2021.694916",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "hci-animal"
+ },
+ {
+  "name": "Towards Full Body Co-Embodiment of Human and Non-Human Avatars (Podkosova & Brument 2024)",
+  "why": "Two users share a four-limbed, two-headed non-human avatar.",
+  "link": "https://doi.org/10.1109/vrw62533.2024.00084",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "hci-animal"
+ },
+ {
+  "name": "Walking-in-place with a bear avatar (Tanahashi et al., AHs 2026)",
+  "why": "Posture and gesture congruence for quadrupedal avatars.",
+  "link": "https://doi.org/10.1145/3795011.3797415",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "hci-animal"
+ },
+ {
+  "name": "Hummingbird (Tsoupikova et al., SIGGRAPH 2022 Immersive Pavilion)",
+  "why": "Live theatre + VR adventure at EVL; unclear whether participants embody hummingbirds.",
+  "link": "https://doi.org/10.1145/3532834.3536213",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "hci-animal"
+ },
+ {
+  "name": "Virtual bat (Waters & Abulula, ICAD 2001)",
+  "why": "First 'virtual bat' echolocation-in-VR paper; precursor of the 2007 IJHCS article.",
+  "link": "https://scholar.google.com/scholar?q=%22The+virtual+bat%3A+Echolocation+in+virtual+reality%22",
+  "found_via": "dean-waters",
+  "status": "open",
+  "batch": "hci-animal"
+ },
+ {
+  "name": "Jakob Kudsk Steensen — Primal Tourism (2016) and RE-WILDLING (2018)",
+  "why": "Primal Tourism's camera switches between human, animal and drone movement; RE-WILDLING imagines the reintroduced Hawaiian crow as a sentient flying entity. Both are screen/game works with weak first-person becoming.",
+  "link": "https://www.jakobsteensen.com/primal-tourism-1",
+  "found_via": "jakob-kudsk-steensen",
+  "status": "open",
+  "batch": "history-portfolios-2"
+ },
+ {
+  "name": "Studio Above&Below — Meditative Cohabitation (2023), Latent Listening",
+  "why": "Multispecies bioacoustic screen installations (Brussels biotope; Perth bird chorus seen by AI). Perceptual translation, weaker embodiment.",
+  "link": "https://www.studioaboveandbelow.com/work/meditative-cohabitation",
+  "found_via": "studio-above-and-below",
+  "status": "open",
+  "batch": "history-portfolios-2"
+ },
+ {
+  "name": "Birdly World (Somniacs, 2024)",
+  "why": "Global flight edition with portals to micro-experiences as alternate avatars; mostly human-scale sightseeing.",
+  "link": "https://birdlyvr.com/birdly-world/",
+  "found_via": "somniacs",
+  "status": "open",
+  "batch": "history-portfolios-2"
+ },
+ {
+  "name": "Saša Spačal — Meta_bolus (2018)",
+  "why": "Installation about smelling geosmin from Streptomyces bacteria and antibiotic resistance; scent-based sensing of microbes.",
+  "link": "https://www.agapea.si/en/projects/meta_bolus-2",
+  "found_via": "sasa-spacal",
+  "status": "open",
+  "batch": "history-portfolios-2"
+ },
+ {
+  "name": "Lynette Wallworth — Hidden/Depths",
+  "why": "UV-torch installation of bioluminescent deep-sea specimens at ArtScience Museum; perceptual but not embodied.",
+  "link": "https://lynettewallworth.com/works/hidden-depths",
+  "found_via": "lynette-wallworth",
+  "status": "open",
+  "batch": "history-portfolios-2"
+ },
+ {
+  "name": "Inherent Rights, Vision Rights (Lawrence Paul Yuxweluptun, Banff 1992)",
+  "why": "Banff VR longhouse with spirit beings; check whether animal spirits are embodied.",
+  "link": "",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "history-portfolios"
+ },
+ {
+  "name": "Bar Code Hotel (Perry Hoberman 1994)",
+  "why": "Banff/SIGGRAPH VR where barcoded objects act as characters; object-personas, borderline.",
+  "link": "",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "history-portfolios"
+ },
+ {
+  "name": "Mussel Choir / OOZ (Natalie Jeremijenko, Environmental Health Clinic)",
+  "why": "Mussels as water-quality sensors that 'sing'; human-animal interfaces.",
+  "link": "",
+  "found_via": "natalie-jeremijenko",
+  "status": "open",
+  "batch": "history-portfolios"
+ },
+ {
+  "name": "BrainPort / tongue display unit (Paul Bach-y-Rita, 1998–2000s)",
+  "why": "Electrotactile tongue display successor to TVSS; machine-cyborg holds TVSS only.",
+  "link": "",
+  "found_via": "paul-bach-y-rita",
+  "status": "open",
+  "batch": "history-portfolios"
+ },
+ {
+  "name": "Duncan the Highland Terrier / Sheep|Dog: Trial by Eire (MIT Synthetic Characters 2000)",
+  "why": "Voice-directed sheepdog installation; similar to AlphaWolf.",
+  "link": "https://characters.media.mit.edu",
+  "found_via": "mit-synthetic-characters",
+  "status": "open",
+  "batch": "history-portfolios"
+ },
+ {
+  "name": "Teleporting an Unknown State (Eduardo Kac 1996)",
+  "why": "Web users send light to grow a plant in the dark; collective plant care, not embodiment.",
+  "link": "https://www.ekac.org",
+  "found_via": "eduardo-kac",
+  "status": "open",
+  "batch": "history-portfolios"
+ },
+ {
+  "name": "Everything (David OReilly, 2017)",
+  "why": "Game where you can be anything, from animals to objects to planets; likely claimed by the games batch.",
+  "link": "https://www.youtube.com/watch?v=HdJk8ROpuEo",
+  "found_via": "bossa-studios",
+  "status": "open",
+  "batch": "machine-cyborg"
+ },
+ {
+  "name": "Body-swapping experiment with an android (Jazbec, Nishio, Ishiguro 2017)",
+  "why": "Further android body-ownership study on agency.",
+  "link": "https://doi.org/10.1109/smc.2017.8122821",
+  "found_via": "hiroshi-ishiguro",
+  "status": "open",
+  "batch": "machine-cyborg"
+ },
+ {
+  "name": "The experience of new sensorimotor contingencies by sensory augmentation (Kaspar et al. 2014)",
+  "why": "Qualitative study of feelSpace belt users; companion to König 2016.",
+  "link": "https://doi.org/10.1016/j.concog.2014.06.006",
+  "found_via": "peter-konig",
+  "status": "open",
+  "batch": "machine-cyborg"
+ },
+ {
+  "name": "Neosensory Buzz",
+  "why": "Wristband that turns sound into vibration, commercial successor of the VEST.",
+  "link": "https://www.youtube.com/watch?v=LYoPQ5Af0cE",
+  "found_via": "david-eagleman",
+  "status": "open",
+  "batch": "machine-cyborg"
+ },
+ {
+  "name": "Madeline Gannon — Mimus",
+  "why": "Industrial robot that perceives and follows gallery visitors; robot perception made visible.",
+  "link": "https://atonaton.com/mimus",
+  "found_via": "trevor-paglen",
+  "status": "open",
+  "batch": "machine-cyborg"
+ },
+ {
+  "name": "Adam Harvey — CV Dazzle",
+  "why": "Make-up and hair styles that defeat face detection; seeing oneself through machine vision.",
+  "link": "https://adam.harvey.studio/cvdazzle",
+  "found_via": "trevor-paglen",
+  "status": "open",
+  "batch": "machine-cyborg"
+ },
+ {
+  "name": "Zach Blas — Facial Weaponization Suite",
+  "why": "Masks against biometric recognition; critique of machine perception.",
+  "link": "https://zachblas.info/works/facial-weaponization-suite/",
+  "found_via": "trevor-paglen",
+  "status": "open",
+  "batch": "machine-cyborg"
+ },
+ {
+  "name": "Trevor Paglen — Adversarially Evolved Hallucinations",
+  "why": "Images generated by adversarial networks trained on symbolic corpora.",
+  "link": "https://paglen.studio",
+  "found_via": "trevor-paglen",
+  "status": "open",
+  "batch": "machine-cyborg"
+ },
+ {
+  "name": "Sougwen Chung — Drawing Operations",
+  "why": "Human-robot co-drawing where the robot learns the artist's gesture.",
+  "link": "https://sougwen.com",
+  "found_via": "stelarc",
+  "status": "open",
+  "batch": "machine-cyborg"
+ },
+ {
+  "name": "Kai Landre — cosmic ray sense",
+  "why": "Cyborg artist perceiving cosmic rays as sound; talk video only.",
+  "link": "https://www.youtube.com/watch?v=eb9YlMcPcL4",
+  "found_via": "neil-harbisson",
+  "status": "open",
+  "batch": "machine-cyborg"
+ },
+ {
+  "name": "Grindhouse Wetware — Northstar / Circadia",
+  "why": "Biohacker implants that add light or sensor functions to the body.",
+  "link": "https://en.wikipedia.org/wiki/Grindhouse_Wetware",
+  "found_via": "kevin-warwick",
+  "status": "open",
+  "batch": "machine-cyborg"
+ },
+ {
+  "name": "Beat (Venice VR Expanded 2020)",
+  "why": "VR story where the viewer's heartbeat animates a rusted robot; interaction with, not becoming, a robot.",
+  "link": "https://www.labiennale.org/en/cinema/2020/venice-vr-expanded/beat",
+  "found_via": "siyeon-kim",
+  "status": "open",
+  "batch": "machine-cyborg"
+ },
+ {
+  "name": "ANA Avatar XPRIZE (2018–2022)",
+  "why": "Global competition for robot avatars that transport presence, sight and touch.",
+  "link": "https://www.xprize.org/prizes/avatar",
+  "found_via": "susumu-tachi",
+  "status": "open",
+  "batch": "machine-cyborg"
+ },
+ {
+  "name": "Embodied flight with a drone (Cherpillod, Mintchev, Floreano)",
+  "why": "Earlier EPFL study on immersive drone flight.",
+  "link": "https://arxiv.org/abs/1707.01788",
+  "found_via": "epfl-lis",
+  "status": "open",
+  "batch": "machine-cyborg"
+ },
+ {
+  "name": "Being Barbie (van der Hoort, Guterstam, Ehrsson 2011)",
+  "why": "Owning a doll-sized or giant body changes perceived world size; object/scale embodiment.",
+  "link": "https://doi.org/10.1371/journal.pone.0020195",
+  "found_via": "k-carrie-armel",
+  "status": "open",
+  "batch": "machine-cyborg"
+ },
+ {
+  "name": "Things We Could Design (Ron Wakkary, MIT Press 2021)",
+  "why": "Book on more-than-human, posthuman design of things.",
+  "link": "https://doi.org/10.7551/mitpress/13649.001.0001",
+  "found_via": "ron-wakkary",
+  "status": "open",
+  "batch": "machine-cyborg"
+ },
+ {
+  "name": "Machine Listening collective",
+  "why": "Research and art on how machines listen to us (Parker, Stern, Dockray).",
+  "link": "https://machinelistening.exposed",
+  "found_via": "kyle-mcdonald",
+  "status": "open",
+  "batch": "machine-cyborg"
+ },
+ {
+  "name": "Jakob Kudsk Steensen — The Deep Listener, RE-ANIMATED, Berl-Berl",
+  "why": "Berlin-based Danish artist; AR/VR works that let you hear Hyde Park species or revisit the extinct Kauaʻi ʻōʻō; site was unreachable during this batch.",
+  "link": "https://www.jakobkudsksteensen.com",
+  "found_via": "marshmallow-laser-feast",
+  "status": "open",
+  "batch": "mlf"
+ },
+ {
+  "name": "Wolfgang Buttress — The Hive",
+  "why": "UK Pavilion, Milan Expo 2015, then Kew: light and sound driven live by vibrations inside a real beehive.",
+  "link": "https://www.wolfgangbuttress.com",
+  "found_via": "marshmallow-laser-feast",
+  "status": "open",
+  "batch": "mlf"
+ },
+ {
+  "name": "Universal Everything — Future You",
+  "why": "Mirror installation where an evolving machine avatar learns your movements; possible robot-body entry.",
+  "link": "https://www.universaleverything.com",
+  "found_via": "marshmallow-laser-feast",
+  "status": "open",
+  "batch": "mlf"
+ },
+ {
+  "name": "Alchemy Immersive — Micro Monsters with David Attenborough",
+  "why": "UK VR series (2020) at insect scale; mostly shows rather than embodies, borderline.",
+  "link": "https://www.alchemyimmersive.com",
+  "found_via": "marshmallow-laser-feast",
+  "status": "open",
+  "batch": "mlf"
+ },
+ {
+  "name": "Superflux — Refuge for Resurgence / Invocation for Hope",
+  "why": "UK speculative multispecies installations (collaborators on MLF's HEAL Institute); no embodiment, but a strong more-than-human counterpoint.",
+  "link": "https://superflux.in",
+  "found_via": "marshmallow-laser-feast",
+  "status": "open",
+  "batch": "mlf"
+ },
+ {
+  "name": "Presstube / Dpt. — A Colossal Wave co-creators",
+  "why": "Montreal collaborators on MLF's A Colossal Wave.",
+  "link": "http://acolossalwave.com/",
+  "found_via": "marshmallow-laser-feast",
+  "status": "open",
+  "batch": "mlf"
+ },
+ {
+  "name": "Mileece I'Anson",
+  "why": "Sound artist who sonified plant biosignals for Treehugger; own plant-sonification works may fit Becoming Tree.",
+  "link": "https://www.mileece.is",
+  "found_via": "marshmallow-laser-feast",
+  "status": "open",
+  "batch": "mlf"
+ },
+ {
+  "name": "Mite's-eye lichen VR (William Martinez, ASU)",
+  "why": "Student VR that shows the world of lichens from a mite's perspective.",
+  "link": "https://news.asu.edu/20240514-science-and-technology-love-lichens",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "plants-fungi"
+ },
+ {
+  "name": "Green Rhythms (Yuting Xue & Elke Reinhuber, TEI 2026)",
+  "why": "Follow-up to Bend to on symbiotic human-plant interaction; abstract not available to classify.",
+  "link": "https://doi.org/10.1145/3731459.3779145",
+  "found_via": "yuting-xue",
+  "status": "open",
+  "batch": "plants-fungi"
+ },
+ {
+  "name": "MYCELIUM (Karoline Winzer)",
+  "why": "Human-circuit installation where touching participants act as a mycelial network; year unclear.",
+  "link": "https://www.karolinewinzer.com/mycelium",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "plants-fungi"
+ },
+ {
+  "name": "Elowan (Harpreet Sareen, MIT Media Lab)",
+  "why": "Plant-robot hybrid that moves toward light; plant cyborg rather than human perspective (may belong to machine-cyborg batch).",
+  "link": "https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "plants-fungi"
+ },
+ {
+  "name": "Heather Barnett, The Physarum Experiments",
+  "why": "Long-running collaboration with slime mould (films, TED talk); observational rather than embodied.",
+  "link": "https://heatherbarnett.co.uk/work/the-physarum-experiments/",
+  "found_via": "heather-barnett",
+  "status": "open",
+  "batch": "plants-fungi"
+ },
+ {
+  "name": "Saša Spačal, Symbiome / Syncness / Mycophone_emergence",
+  "why": "Further microbe and fungus biofeedback installations by Spačal.",
+  "link": "https://www.agapea.si/en/projects/symbiome-the-economy-of-symbiosis",
+  "found_via": "sasa-spacal",
+  "status": "open",
+  "batch": "plants-fungi"
+ },
+ {
+  "name": "Tosca Terán, Do Mushrooms Dream of Electric Humans? / Myco-Sound Dome / Mycelia in Space",
+  "why": "Further fungal bio-sonification works listed on the artist's site.",
+  "link": "https://www.toscateran.com/",
+  "found_via": "tosca-teran",
+  "status": "open",
+  "batch": "plants-fungi"
+ },
+ {
+  "name": "Jakob Kudsk Steensen, Terratic Animism (2017)",
+  "why": "Room-scale VR winter forest; weaker plant perspective.",
+  "link": "https://www.jakobsteensen.com/terratic-animism",
+  "found_via": "jakob-kudsk-steensen",
+  "status": "open",
+  "batch": "plants-fungi"
+ },
+ {
+  "name": "Symbioverse (Nicole Condon-Shih, 2025)",
+  "why": "AR installation on lichen symbiosis shown in Sympoiesis.",
+  "link": "https://u.osu.edu/livingartecolab/sympoiesis-2025/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "plants-fungi"
+ },
+ {
+  "name": "Hortum machina, B (Interactive Architecture Lab, UCL)",
+  "why": "Geodesic mobile garden steered by its plants' electrophysiology; plant agency, unclear human perspective.",
+  "link": "https://www.youtube.com/watch?v=8Qk3BeolyiA",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "plants-fungi"
+ },
+ {
+  "name": "Špela Petrič, Plant Sex Consultancy",
+  "why": "Plant-centred design of reproductive augmentations for plants; year not confirmed.",
+  "link": "https://www.spelapetric.org/plant-sex-consultancy/",
+  "found_via": "spela-petric",
+  "status": "open",
+  "batch": "plants-fungi"
+ },
+ {
+  "name": "Cybroc (Botao Amber Hu)",
+  "why": "Kinetic artwork of 'cyborg' broccoli exercising for longevity (ISEA 2025, arXiv 2507.21064); plant-machine, but not first-person.",
+  "link": "https://amber.botao.hu/design/cybroc",
+  "found_via": "botao-hu",
+  "status": "open",
+  "batch": "portfolio"
+ },
+ {
+  "name": "EverForest (Botao Amber Hu)",
+  "why": "Sustainability manifesto from an on-chain artificial life's point of view (HttF 2024, doi 10.1145/3686169.3686209).",
+  "link": "https://amber.botao.hu/design/everforest",
+  "found_via": "botao-hu",
+  "status": "open",
+  "batch": "portfolio"
+ },
+ {
+  "name": "Jiabao Li — Squid Map, Wings Against the Veil of Light, What makes us most Human is also so Animal",
+  "why": "Other multispecies works by EchoVision's co-creator; not researched here.",
+  "link": "https://www.jiabaoli.org",
+  "found_via": "jiabao-li",
+  "status": "open",
+  "batch": "portfolio"
+ },
+ {
+  "name": "Face Jumping (Gorman & Cannizzaro, 2025)",
+  "why": "Venice Immersive 2025 VR where an aquarium axolotl pulls the viewer into water and through several nonhuman perspectives; multispecies, so left for the animals batch.",
+  "link": "https://mediaenviron.org/article/161234-liquid-vr-exhibition-review-venice-immersive-2025",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "water-elemental"
+ },
+ {
+  "name": "Planet ∞ (Momoko Seto, 2017)",
+  "why": "VR short in a ruined world after climate change populated by giant carnivorous tadpoles; perspective and scale not verified.",
+  "link": "https://www.youtube.com/watch?v=gKcmHYc4BtA",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "water-elemental"
+ },
+ {
+  "name": "Octopocalypse (Max Sacker & Arite Szadkowski, 2026)",
+  "why": "Venice Immersive 2026 installation about ocean creatures; octopus batch may want it.",
+  "link": "https://xrmust.com/xr-magazine/venice-immersive-2026-10th-edition/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "water-elemental"
+ },
+ {
+  "name": "Leah Barclay — Ocean Listening / Hydrology",
+  "why": "Hydrophone projects on the Great Barrier Reef (2016) and an immersive sound environment of aquatic ecosystems; good companions to River Listening.",
+  "link": "https://leahbarclay.com/portfolio_page/hydrology/",
+  "found_via": "leah-barclay",
+  "status": "open",
+  "batch": "water-elemental"
+ },
+ {
+  "name": "John Luther Adams — Become River (2010)",
+  "why": "Chamber orchestra work, sibling to Become Ocean; could be added as a river counterpoint.",
+  "link": "https://www.youtube.com/watch?v=dfTPF6IwtRk",
+  "found_via": "john-luther-adams",
+  "status": "open",
+  "batch": "water-elemental"
+ },
+ {
+  "name": "Annea Lockwood — Becoming Air",
+  "why": "Recent work whose title matches the air sub-category; content not checked.",
+  "link": "https://www.youtube.com/watch?v=hv1Q8nqC4XY",
+  "found_via": "annea-lockwood",
+  "status": "open",
+  "batch": "water-elemental"
+ },
+ {
+  "name": "Ursula Biemann — Becoming Earth",
+  "why": "Exhibition and research platform on Earth systems and Indigenous knowledge; possible earth/deep-time entry.",
+  "link": "https://www.youtube.com/watch?v=BlDV-CuMZ0A",
+  "found_via": "ursula-biemann",
+  "status": "open",
+  "batch": "water-elemental"
+ },
+ {
+  "name": "Paul Walde — Requiem for a Glacier (2013)",
+  "why": "Orchestral performance on the Farnham Glacier in British Columbia; glacier counterpoint.",
+  "link": "",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "water-elemental"
+ },
+ {
+  "name": "Agnes Meyer-Brandis — Cloud Core Scanner (2009)",
+  "why": "Artist research on cloud formation in zero gravity; air/weather counterpoint.",
+  "link": "",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "water-elemental"
+ }
+]

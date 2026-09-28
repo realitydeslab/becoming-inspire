@@ -1,0 +1,3147 @@
+{
+ "batch": "games",
+ "creators": [
+  {
+   "id": "ubisoft-montreal",
+   "name": "Ubisoft Montreal",
+   "kind": "company",
+   "role": "Game studio of Ubisoft, Montreal",
+   "role_zh": "育碧旗下游戏工作室，蒙特利尔",
+   "bio": "Large Ubisoft studio known for Assassin's Creed and Far Cry; its Fun House team made the early VR title Eagle Flight.",
+   "bio_zh": "育碧的大型工作室，以《刺客信条》《孤岛惊魂》闻名；其 Fun House 团队制作了早期 VR 游戏 Eagle Flight。",
+   "why": "Eagle Flight was one of the first commercial VR games built entirely around flying as an animal.",
+   "why_zh": "Eagle Flight 是最早一批完全围绕“以动物身份飞行”设计的商业 VR 游戏之一。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://montreal.ubisoft.com/"
+   },
+   "discovered_via": "seed",
+   "based": "Montreal, Canada",
+   "based_zh": "蒙特利尔，加拿大"
+  },
+  {
+   "id": "firepunchd-games",
+   "name": "Firepunchd Games",
+   "kind": "studio",
+   "role": "Independent VR game studio, Germany",
+   "role_zh": "独立 VR 游戏工作室，德国",
+   "bio": "Small German studio that made the VR physics game Tentacular, published by Devolver Digital.",
+   "bio_zh": "德国小型工作室，制作了由 Devolver Digital 发行的 VR 物理游戏 Tentacular。",
+   "why": "Tentacular turns the player's hands into boneless tentacles, a direct design study for octopus-like limbs in VR.",
+   "why_zh": "Tentacular 把玩家的双手变成没有骨头的触手，是 VR 中章鱼式肢体的直接设计案例。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://www.tentacular.com/"
+   },
+   "discovered_via": "seed",
+   "based": "Germany",
+   "based_zh": "德国"
+  },
+  {
+   "id": "another-axiom",
+   "name": "Another Axiom",
+   "kind": "studio",
+   "role": "VR game studio behind Gorilla Tag",
+   "role_zh": "Gorilla Tag 背后的 VR 游戏工作室",
+   "bio": "Studio founded around Gorilla Tag, the social VR game first made by Kerestell \"Lemming\" Smith.",
+   "bio_zh": "围绕 Gorilla Tag 成立的工作室，该社交 VR 游戏最初由 Kerestell “Lemming” Smith 独立开发。",
+   "why": "Gorilla Tag showed that an ape-like, arm-driven body can become a mass-market VR locomotion scheme.",
+   "why_zh": "Gorilla Tag 证明了类人猿式、用手臂驱动的身体可以成为大众化的 VR 移动方式。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://gorillatagvr.com/"
+   },
+   "discovered_via": "seed"
+  },
+  {
+   "id": "new-folder-games",
+   "name": "New Folder Games",
+   "kind": "studio",
+   "role": "VR game studio making 'I Am' animal simulators",
+   "role_zh": "制作“I Am”系列动物模拟游戏的 VR 工作室",
+   "bio": "Studio behind a line of VR sandbox games titled I Am Cat, I Am Bird and I Am Monkey, each built around one animal body.",
+   "bio_zh": "开发 I Am Cat、I Am Bird、I Am Monkey 等 VR 沙盒游戏的工作室，每一款都围绕一种动物身体展开。",
+   "why": "Its series is the most direct commercial attempt to sell 'being an animal' as the whole premise of a VR game.",
+   "why_zh": "这一系列是最直接把“成为动物”本身当作 VR 游戏卖点的商业尝试。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://newfolderstudio.com/"
+   },
+   "discovered_via": "seed"
+  },
+  {
+   "id": "david-chaseling",
+   "name": "David Chaseling",
+   "kind": "person",
+   "role": "Independent VR developer",
+   "role_zh": "独立 VR 开发者",
+   "bio": "Independent developer who co-created the VR octopus platformer I Am Octopus with Dylan Van Beek.",
+   "bio_zh": "独立开发者，与 Dylan Van Beek 共同开发了 VR 章鱼平台游戏 I Am Octopus。",
+   "why": "I Am Octopus builds locomotion entirely out of stretching and sticking tentacles.",
+   "why_zh": "I Am Octopus 的移动方式完全由伸展和吸附触手构成。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {},
+   "discovered_via": "seed"
+  },
+  {
+   "id": "treta-studios",
+   "name": "Treta Studios",
+   "kind": "studio",
+   "role": "VR game studio, India",
+   "role_zh": "VR 游戏工作室，印度",
+   "bio": "Indian VR studio that made Be A Chameleon for Meta Quest and Steam.",
+   "bio_zh": "印度 VR 工作室，为 Meta Quest 和 Steam 开发了 Be A Chameleon。",
+   "why": "Be A Chameleon turns camouflage and a sticky tongue into the player's main verbs.",
+   "why_zh": "Be A Chameleon 把伪装和黏性舌头变成玩家的主要动作。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {},
+   "discovered_via": "seed",
+   "based": "India",
+   "based_zh": "印度"
+  },
+  {
+   "id": "gattai-games",
+   "name": "Gattai Games",
+   "kind": "studio",
+   "role": "Independent game studio, Singapore",
+   "role_zh": "独立游戏工作室，新加坡",
+   "bio": "Singapore studio that grew out of a student project into the echolocation horror game Stifled.",
+   "bio_zh": "新加坡工作室，由学生项目发展出回声定位恐怖游戏 Stifled。",
+   "why": "Stifled lets players see only by making sound into a real microphone, a playable form of echolocation.",
+   "why_zh": "Stifled 让玩家只能通过对着真实麦克风发声来“看见”，是可玩的回声定位。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://gattaigames.com/"
+   },
+   "discovered_via": "seed",
+   "based": "Singapore",
+   "based_zh": "新加坡"
+  },
+  {
+   "id": "the-deep-end-games",
+   "name": "The Deep End Games",
+   "kind": "studio",
+   "role": "Independent game studio founded by former BioShock developers",
+   "role_zh": "由前 BioShock 开发者创立的独立游戏工作室",
+   "bio": "Studio founded by Bill and Amanda Gardner and other former Irrational Games staff; made Perception.",
+   "bio_zh": "由 Bill 与 Amanda Gardner 等前 Irrational Games 成员创立，开发了 Perception。",
+   "why": "Perception's echo-vision rendering is a widely cited visual reference for depicting echolocation.",
+   "why_zh": "Perception 的“回声视觉”渲染是表现回声定位时常被引用的视觉参考。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://thedeependgames.com/"
+   },
+   "discovered_via": "seed"
+  },
+  {
+   "id": "manekoware",
+   "name": "Manekoware",
+   "kind": "studio",
+   "role": "Independent game studio of Chris Chung",
+   "role_zh": "Chris Chung 的独立游戏工作室",
+   "bio": "One-person studio of Chris Chung, who made the first-person cat game Catlateral Damage, later co-developed with Fire Hose Games.",
+   "bio_zh": "Chris Chung 的个人工作室，制作了第一人称猫咪游戏 Catlateral Damage，后与 Fire Hose Games 合作开发。",
+   "why": "Catlateral Damage is an early first-person animal game with optional VR support.",
+   "why_zh": "Catlateral Damage 是较早的第一人称动物游戏，并支持可选的 VR 模式。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "http://www.catlateraldamage.com/"
+   },
+   "discovered_via": "seed"
+  },
+  {
+   "id": "david-oreilly",
+   "name": "David OReilly",
+   "kind": "person",
+   "role": "Irish artist, animator and game maker",
+   "role_zh": "爱尔兰艺术家、动画师与游戏创作者",
+   "bio": "Irish-born artist working across animation, games and installation; made the games Mountain and Everything and the alien software in the film Her.",
+   "bio_zh": "出生于爱尔兰的艺术家，横跨动画、游戏与装置；创作了游戏 Mountain 与 Everything，并为电影《她》设计了游戏片段。",
+   "why": "His games let players be a mountain or any object in the universe, the clearest game-art statement on becoming things.",
+   "why_zh": "他的游戏让玩家成为一座山或宇宙中的任何事物，是游戏艺术中关于“成为物”最清晰的表达。",
+   "disciplines": [
+    "games",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.davidoreilly.com/"
+   },
+   "discovered_via": "seed",
+   "based": "Los Angeles, USA",
+   "based_zh": "洛杉矶，美国"
+  },
+  {
+   "id": "might-and-delight",
+   "name": "Might and Delight",
+   "kind": "studio",
+   "role": "Independent game studio, Stockholm",
+   "role_zh": "独立游戏工作室，斯德哥尔摩",
+   "bio": "Swedish studio behind the Shelter series, in which players live as animal parents: a badger, a lynx, an elephant.",
+   "bio_zh": "瑞典工作室，开发了 Shelter 系列，玩家以动物父母的身份生活：獾、猞猁、大象。",
+   "why": "The Shelter games are the longest-running series built around animal care, vulnerability and herd life.",
+   "why_zh": "Shelter 系列是围绕动物育幼、脆弱与群体生活持续最久的游戏系列。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://www.mightanddelight.com/"
+   },
+   "discovered_via": "seed",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典"
+  },
+  {
+   "id": "bluetwelve-studio",
+   "name": "BlueTwelve Studio",
+   "kind": "studio",
+   "role": "Independent game studio, southern France",
+   "role_zh": "独立游戏工作室，法国南部",
+   "bio": "Studio founded by Koola and Viv, whose first game Stray casts the player as a cat in a city of robots.",
+   "bio_zh": "由 Koola 与 Viv 创立的工作室，首作 Stray 让玩家扮演一只身处机器人城市的猫。",
+   "why": "Stray is the most widely played game about moving through the world with a cat's body and affordances.",
+   "why_zh": "Stray 是以猫的身体与行动可能性穿行世界、玩家最多的游戏。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://stray.game"
+   },
+   "discovered_via": "seed",
+   "based": "Montpellier, France",
+   "based_zh": "蒙彼利埃，法国"
+  },
+  {
+   "id": "double-dagger-studio",
+   "name": "Double Dagger Studio",
+   "kind": "studio",
+   "role": "Independent game studio, Seattle",
+   "role_zh": "独立游戏工作室，西雅图",
+   "bio": "Small studio founded by former Valve designer Matt T. Wood; made Little Kitty, Big City.",
+   "bio_zh": "由前 Valve 设计师 Matt T. Wood 创立的小型工作室，开发了 Little Kitty, Big City。",
+   "why": "Little Kitty, Big City reframes a city at kitten scale.",
+   "why_zh": "Little Kitty, Big City 以小猫的尺度重新呈现城市。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {},
+   "discovered_via": "seed",
+   "based": "Seattle, USA",
+   "based_zh": "西雅图，美国"
+  },
+  {
+   "id": "house-house",
+   "name": "House House",
+   "kind": "studio",
+   "role": "Independent game studio, Melbourne",
+   "role_zh": "独立游戏工作室，墨尔本",
+   "bio": "Four-person Melbourne studio behind Push Me Pull You and Untitled Goose Game.",
+   "bio_zh": "墨尔本的四人工作室，作品有 Push Me Pull You 与 Untitled Goose Game。",
+   "why": "Untitled Goose Game is the popular counterpoint: an animal body used for comedy rather than perception.",
+   "why_zh": "Untitled Goose Game 是大众化的对照：动物身体被用于喜剧而非感知。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://goose.game"
+   },
+   "discovered_via": "seed",
+   "based": "Melbourne, Australia",
+   "based_zh": "墨尔本，澳大利亚"
+  },
+  {
+   "id": "young-horses",
+   "name": "Young Horses",
+   "kind": "studio",
+   "role": "Independent game studio, Chicago",
+   "role_zh": "独立游戏工作室，芝加哥",
+   "bio": "Studio formed by DePaul University students after their student game Octodad (2010).",
+   "bio_zh": "由德保罗大学学生在学生作品 Octodad（2010）之后组建的工作室。",
+   "why": "Octodad made the mismatch between an octopus body and human routines the core control problem.",
+   "why_zh": "Octodad 把章鱼身体与人类日常之间的错位变成了核心操控难题。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://store.steampowered.com/app/224480/"
+   },
+   "discovered_via": "seed",
+   "based": "Chicago, USA",
+   "based_zh": "芝加哥，美国"
+  },
+  {
+   "id": "ed-annunziata",
+   "name": "Ed Annunziata",
+   "kind": "person",
+   "role": "Game designer, creator of Ecco the Dolphin",
+   "role_zh": "游戏设计师，Ecco the Dolphin 的创作者",
+   "bio": "Sega designer who conceived Ecco the Dolphin (1992), developed with Novotrade International.",
+   "bio_zh": "世嘉设计师，构想了 Ecco the Dolphin（1992），与 Novotrade International 共同开发。",
+   "why": "Ecco is the landmark game that made echolocation a core game mechanic.",
+   "why_zh": "Ecco 是把回声定位变成核心游戏机制的里程碑作品。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {},
+   "discovered_via": "seed",
+   "based": "USA",
+   "based_zh": "美国"
+  },
+  {
+   "id": "tripwire-interactive",
+   "name": "Tripwire Interactive",
+   "kind": "company",
+   "role": "Game developer and publisher, Georgia (USA)",
+   "role_zh": "游戏开发与发行商，美国佐治亚州",
+   "bio": "Developer and publisher known for Killing Floor and Maneater.",
+   "bio_zh": "以 Killing Floor 与 Maneater 闻名的开发与发行商。",
+   "why": "Maneater is the shark power-fantasy counterpoint to contemplative animal games.",
+   "why_zh": "Maneater 是与沉思型动物游戏相对的鲨鱼“力量幻想”。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://tripwireinteractive.com/"
+   },
+   "discovered_via": "seed",
+   "based": "Roswell, Georgia, USA",
+   "based_zh": "罗斯威尔，佐治亚州，美国"
+  },
+  {
+   "id": "varsav-game-studios",
+   "name": "VARSAV Game Studios",
+   "kind": "studio",
+   "role": "Game studio, Warsaw",
+   "role_zh": "游戏工作室，华沙",
+   "bio": "Polish studio that made Bee Simulator and its sequel Bee Simulator: The Hive.",
+   "bio_zh": "波兰工作室，开发了 Bee Simulator 及续作 Bee Simulator: The Hive。",
+   "why": "Bee Simulator is a family-oriented attempt to gamify bee senses and the waggle dance.",
+   "why_zh": "Bee Simulator 面向家庭玩家，尝试把蜜蜂的感官与摇摆舞游戏化。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://beesimulator.com/"
+   },
+   "discovered_via": "seed",
+   "based": "Warsaw, Poland",
+   "based_zh": "华沙，波兰"
+  },
+  {
+   "id": "infuse-studio",
+   "name": "Infuse Studio",
+   "kind": "studio",
+   "role": "Independent game studio, Adelaide",
+   "role_zh": "独立游戏工作室，阿德莱德",
+   "bio": "Small Australian studio behind Spirit of the North and its sequel.",
+   "bio_zh": "澳大利亚小型工作室，开发了 Spirit of the North 及续作。",
+   "why": "Its fox games are wordless journeys through landscape seen from an animal's height.",
+   "why_zh": "它的狐狸游戏是以动物视角高度穿越风景的无言旅程。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://playspiritofthenorth.com/"
+   },
+   "discovered_via": "seed",
+   "based": "Adelaide, Australia",
+   "based_zh": "阿德莱德，澳大利亚"
+  },
+  {
+   "id": "mooneye-studios",
+   "name": "Mooneye Studios",
+   "kind": "studio",
+   "role": "Independent game studio, Hamburg",
+   "role_zh": "独立游戏工作室，汉堡",
+   "bio": "German studio that made Lost Ember, a game about a wolf who can inhabit other animals.",
+   "bio_zh": "德国工作室，开发了 Lost Ember，讲述一只能附身其他动物的狼。",
+   "why": "Lost Ember is built on switching between animal bodies, each with its own way of moving.",
+   "why_zh": "Lost Ember 的核心是在不同动物身体之间切换，每种身体有各自的移动方式。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://www.lostember.com"
+   },
+   "discovered_via": "seed",
+   "based": "Hamburg, Germany",
+   "based_zh": "汉堡，德国"
+  },
+  {
+   "id": "coffee-stain-studios",
+   "name": "Coffee Stain Studios",
+   "kind": "studio",
+   "role": "Game studio, Skövde",
+   "role_zh": "游戏工作室，舍夫德",
+   "bio": "Swedish studio behind Goat Simulator and Satisfactory.",
+   "bio_zh": "瑞典工作室，作品包括 Goat Simulator 与 Satisfactory。",
+   "why": "Goat Simulator is the parody counterpoint to animal simulation.",
+   "why_zh": "Goat Simulator 是动物模拟类型的戏仿对照。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://www.coffeestainstudios.com/"
+   },
+   "discovered_via": "seed",
+   "based": "Skövde, Sweden",
+   "based_zh": "舍夫德，瑞典"
+  },
+  {
+   "id": "eduweb",
+   "name": "eduweb",
+   "kind": "company",
+   "role": "Educational game developer, Minnesota",
+   "role_zh": "教育游戏开发商，明尼苏达州",
+   "bio": "Educational media company that created WolfQuest with the Minnesota Zoo, first funded by the US National Science Foundation.",
+   "bio_zh": "教育媒体公司，与明尼苏达动物园合作开发 WolfQuest，最初由美国国家科学基金会资助。",
+   "why": "WolfQuest is the longest-running science-based game about living as a wild wolf.",
+   "why_zh": "WolfQuest 是以科学为基础、以野狼身份生活的持续时间最长的游戏。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "http://www.wolfquest.org"
+   },
+   "discovered_via": "seed",
+   "based": "Saint Paul, Minnesota, USA",
+   "based_zh": "圣保罗，明尼苏达州，美国"
+  },
+  {
+   "id": "bossa-studios",
+   "name": "Bossa Studios",
+   "kind": "studio",
+   "role": "Game studio, London",
+   "role_zh": "游戏工作室，伦敦",
+   "bio": "London studio known for physics-comedy games such as Surgeon Simulator and I Am Bread.",
+   "bio_zh": "伦敦工作室，以 Surgeon Simulator、I Am Bread 等物理喜剧游戏闻名。",
+   "why": "I Am Bread is the best-known game about controlling an everyday object as a body.",
+   "why_zh": "I Am Bread 是把日常物件当作身体来操控的最知名游戏。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://www.bossastudios.com/"
+   },
+   "discovered_via": "seed",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国"
+  },
+  {
+   "id": "thatgamecompany",
+   "name": "thatgamecompany",
+   "kind": "studio",
+   "role": "Independent game studio, Los Angeles",
+   "role_zh": "独立游戏工作室，洛杉矶",
+   "bio": "Studio co-founded by Jenova Chen and Kellee Santiago; made flOw, Flower, Journey and Sky.",
+   "bio_zh": "由陈星汉与 Kellee Santiago 共同创立，作品有 flOw、Flower、Journey 与 Sky。",
+   "why": "In flOw you are a microorganism and in Flower you are the wind: two early art games of nonhuman bodies.",
+   "why_zh": "在 flOw 中你是微生物，在 Flower 中你是风：两部早期的非人身体艺术游戏。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://thatgamecompany.com/"
+   },
+   "discovered_via": "seed",
+   "based": "Los Angeles, USA",
+   "based_zh": "洛杉矶，美国"
+  },
+  {
+   "id": "hemisphere-games",
+   "name": "Hemisphere Games",
+   "kind": "studio",
+   "role": "Independent game studio, Toronto",
+   "role_zh": "独立游戏工作室，多伦多",
+   "bio": "Toronto studio founded by Eddy Boxerman; made Osmos.",
+   "bio_zh": "由 Eddy Boxerman 创立的多伦多工作室，开发了 Osmos。",
+   "why": "Osmos makes a single cell-like body obey physics: every move costs part of yourself.",
+   "why_zh": "Osmos 让一个类似细胞的身体服从物理：每次移动都要付出自身的一部分。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "http://www.hemispheregames.com/"
+   },
+   "discovered_via": "seed",
+   "based": "Toronto, Canada",
+   "based_zh": "多伦多，加拿大"
+  },
+  {
+   "id": "maxis",
+   "name": "Maxis",
+   "kind": "studio",
+   "role": "Simulation game studio, California",
+   "role_zh": "模拟游戏工作室，加利福尼亚",
+   "bio": "Studio co-founded by Will Wright and Jeff Braun; made SimCity, SimAnt, The Sims and Spore.",
+   "bio_zh": "由 Will Wright 与 Jeff Braun 共同创立，作品有 SimCity、SimAnt、The Sims 与 Spore。",
+   "why": "SimAnt and Spore are the classic simulation games of colony life and self-designed creature bodies.",
+   "why_zh": "SimAnt 与 Spore 是关于蚁群生活与自创生物身体的经典模拟游戏。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://www.ea.com/games/the-sims"
+   },
+   "discovered_via": "seed",
+   "based": "California, USA",
+   "based_zh": "加利福尼亚，美国"
+  },
+  {
+   "id": "untame",
+   "name": "Untame",
+   "kind": "studio",
+   "role": "Independent game studio, Israel",
+   "role_zh": "独立游戏工作室，以色列",
+   "bio": "Small studio of Itay Keren and Julia Keren-Detar; made Mushroom 11.",
+   "bio_zh": "由 Itay Keren 与 Julia Keren-Detar 组成的小型工作室，开发了 Mushroom 11。",
+   "why": "Mushroom 11 is the key game about controlling an amorphous, regrowing organism.",
+   "why_zh": "Mushroom 11 是操控无定形、可再生有机体的关键游戏。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "http://mushroom11.com"
+   },
+   "discovered_via": "seed",
+   "based": "Israel",
+   "based_zh": "以色列"
+  },
+  {
+   "id": "phobia-game-studio",
+   "name": "Phobia Game Studio",
+   "kind": "studio",
+   "role": "Independent game studio, Poland",
+   "role_zh": "独立游戏工作室，波兰",
+   "bio": "Polish studio that made the reverse-horror game Carrion, published by Devolver Digital.",
+   "bio_zh": "波兰工作室，开发了由 Devolver Digital 发行的“反向恐怖”游戏 Carrion。",
+   "why": "Carrion lets players be a tentacled mass that grows and squeezes through vents.",
+   "why_zh": "Carrion 让玩家成为一团会生长、能挤过通风管的触手肉块。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://www.devolverdigital.com/games/carrion"
+   },
+   "discovered_via": "seed",
+   "based": "Poland",
+   "based_zh": "波兰"
+  },
+  {
+   "id": "sbug-games",
+   "name": "Sbug Games",
+   "kind": "studio",
+   "role": "Independent game studio",
+   "role_zh": "独立游戏工作室",
+   "bio": "Small studio that made the spider platformer Webbed and its spin-off Isopod.",
+   "bio_zh": "小型工作室，开发了蜘蛛平台游戏 Webbed 及衍生作 Isopod。",
+   "why": "Webbed turns spider silk into a physically simulated extension of the body.",
+   "why_zh": "Webbed 把蛛丝变成物理模拟的身体延伸。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {},
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tower-five",
+   "name": "Tower Five",
+   "kind": "studio",
+   "role": "Game studio, France",
+   "role_zh": "游戏工作室，法国",
+   "bio": "French studio that made Empire of the Ants for publisher Microids.",
+   "bio_zh": "法国工作室，为发行商 Microids 开发了 Empire of the Ants。",
+   "why": "Empire of the Ants renders the forest floor photorealistically at ant scale.",
+   "why_zh": "Empire of the Ants 以照片级真实感呈现蚂蚁尺度下的森林地面。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://www.microids.com/empire-of-the-ants/"
+   },
+   "discovered_via": "seed",
+   "based": "France",
+   "based_zh": "法国"
+  },
+  {
+   "id": "sumo-digital",
+   "name": "Sumo Digital",
+   "kind": "company",
+   "role": "Game developer, Sheffield",
+   "role_zh": "游戏开发商，谢菲尔德",
+   "bio": "Large British developer; its internal game jam produced Snake Pass.",
+   "bio_zh": "英国大型开发商，内部 Game Jam 催生了 Snake Pass。",
+   "why": "Snake Pass is the reference game for a limbless body that moves by coiling and gripping.",
+   "why_zh": "Snake Pass 是无肢身体通过盘绕与抓握移动的参考游戏。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://www.sumo-digital.com/"
+   },
+   "discovered_via": "seed",
+   "based": "Sheffield, UK",
+   "based_zh": "谢菲尔德，英国"
+  },
+  {
+   "id": "herobeat-studios",
+   "name": "Herobeat Studios",
+   "kind": "studio",
+   "role": "Independent game studio, Spain",
+   "role_zh": "独立游戏工作室，西班牙",
+   "bio": "Spanish studio that made Endling - Extinction is Forever.",
+   "bio_zh": "西班牙工作室，开发了 Endling - Extinction is Forever。",
+   "why": "Endling tells extinction from inside a fox family.",
+   "why_zh": "Endling 从一个狐狸家庭内部讲述物种灭绝。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {},
+   "discovered_via": "seed",
+   "based": "Spain",
+   "based_zh": "西班牙"
+  },
+  {
+   "id": "breaking-walls",
+   "name": "Breaking Walls",
+   "kind": "studio",
+   "role": "Independent game studio",
+   "role_zh": "独立游戏工作室",
+   "bio": "Studio that made AWAY: The Survival Series, a game styled as a nature documentary.",
+   "bio_zh": "开发了 AWAY: The Survival Series 的工作室，该游戏采用自然纪录片风格。",
+   "why": "AWAY plays with the nature-documentary voice while the player is the animal.",
+   "why_zh": "AWAY 借用自然纪录片的叙述方式，而玩家本身就是那只动物。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://www.breakingwalls.co/"
+   },
+   "discovered_via": "seed"
+  },
+  {
+   "id": "videocult",
+   "name": "Videocult",
+   "kind": "studio",
+   "role": "Independent game studio",
+   "role_zh": "独立游戏工作室",
+   "bio": "Studio of Joar Jakobsson and James Therrien (James Primate); made Rain World.",
+   "bio_zh": "由 Joar Jakobsson 与 James Therrien（James Primate）组成的工作室，开发了 Rain World。",
+   "why": "Rain World simulates an ecosystem of autonomous creatures in which the player is small prey.",
+   "why_zh": "Rain World 模拟了一个由自主生物组成的生态系统，玩家只是其中弱小的猎物。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {},
+   "discovered_via": "seed"
+  },
+  {
+   "id": "clover-studio",
+   "name": "Clover Studio",
+   "kind": "studio",
+   "role": "Capcom game studio, Osaka (2004-2007)",
+   "role_zh": "卡普空旗下游戏工作室，大阪（2004–2007）",
+   "bio": "Short-lived Capcom studio led by Atsushi Inaba and Hideki Kamiya; made Viewtiful Joe and Ōkami.",
+   "bio_zh": "卡普空旗下的短命工作室，由稻叶敦志与神谷英树主导，作品有《红侠乔伊》与《大神》。",
+   "why": "Ōkami casts the player as a sun goddess in the body of a white wolf who restores nature by painting.",
+   "why_zh": "《大神》让玩家以白狼之身化身太阳女神，用绘画让自然复苏。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {},
+   "discovered_via": "seed",
+   "based": "Osaka, Japan",
+   "based_zh": "大阪，日本"
+  },
+  {
+   "id": "awaceb",
+   "name": "Awaceb",
+   "kind": "studio",
+   "role": "Independent game studio, Montreal",
+   "role_zh": "独立游戏工作室，蒙特利尔",
+   "bio": "Studio founded by Phil Crifo and Vincent Pierre-Toulouse from New Caledonia; made Tchia.",
+   "bio_zh": "由来自新喀里多尼亚的 Phil Crifo 与 Vincent Pierre-Toulouse 创立，开发了 Tchia。",
+   "why": "Tchia's Soul Jump lets players inhabit any animal or object in the world.",
+   "why_zh": "Tchia 的“灵魂跳跃”让玩家可以附身世界中的任何动物或物件。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://www.awaceb.com/tchia"
+   },
+   "discovered_via": "seed",
+   "based": "Montreal, Canada",
+   "based_zh": "蒙特利尔，加拿大"
+  },
+  {
+   "id": "ben-esposito",
+   "name": "Ben Esposito",
+   "kind": "person",
+   "role": "Independent game designer, Los Angeles",
+   "role_zh": "独立游戏设计师，洛杉矶",
+   "bio": "Game designer who made Donut County; earlier worked on The Unfinished Swan.",
+   "bio_zh": "游戏设计师，创作了 Donut County，曾参与 The Unfinished Swan。",
+   "why": "Donut County makes the player a hole in the ground, an unusual object to become.",
+   "why_zh": "Donut County 让玩家成为地上的一个洞，一种不寻常的“物”。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "http://donutcounty.com"
+   },
+   "discovered_via": "seed",
+   "based": "Los Angeles, USA",
+   "based_zh": "洛杉矶，美国"
+  },
+  {
+   "id": "samurai-punk",
+   "name": "Samurai Punk",
+   "kind": "studio",
+   "role": "Independent game studio, Melbourne",
+   "role_zh": "独立游戏工作室，墨尔本",
+   "bio": "Melbourne studio that made Screencheat and the bird-flight game Feather.",
+   "bio_zh": "墨尔本工作室，作品有 Screencheat 与飞鸟游戏 Feather。",
+   "why": "Feather is a goal-free flight game about simply being a bird.",
+   "why_zh": "Feather 是一款没有目标、只关于“做一只鸟”的飞行游戏。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://samuraipunk.com/"
+   },
+   "discovered_via": "seed",
+   "based": "Melbourne, Australia",
+   "based_zh": "墨尔本，澳大利亚"
+  },
+  {
+   "id": "epixr-games",
+   "name": "EpiXR Games",
+   "kind": "studio",
+   "role": "Independent game studio, Germany",
+   "role_zh": "独立游戏工作室，德国",
+   "bio": "Small German studio behind the Aery series of calm bird-flight games, with a VR edition.",
+   "bio_zh": "德国小型工作室，开发了平静的鸟类飞行游戏系列 Aery，并推出 VR 版。",
+   "why": "Aery offers bird flight as a relaxing, non-competitive experience on screen and in VR.",
+   "why_zh": "Aery 把鸟类飞行做成放松、无竞争的屏幕与 VR 体验。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {},
+   "discovered_via": "seed",
+   "based": "Germany",
+   "based_zh": "德国"
+  },
+  {
+   "id": "krillbite-studio",
+   "name": "Krillbite Studio",
+   "kind": "studio",
+   "role": "Independent game studio, Norway",
+   "role_zh": "独立游戏工作室，挪威",
+   "bio": "Norwegian studio founded by students; made The Plan, Among the Sleep and Mosaic.",
+   "bio_zh": "由学生创立的挪威工作室，作品有 The Plan、Among the Sleep 与 Mosaic。",
+   "why": "The Plan is a short art game lived entirely as a housefly.",
+   "why_zh": "The Plan 是一部完全以苍蝇身份体验的短篇艺术游戏。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "http://krillbite.com/"
+   },
+   "discovered_via": "seed",
+   "based": "Norway",
+   "based_zh": "挪威"
+  },
+  {
+   "id": "old-b1ood",
+   "name": "Old B1ood",
+   "kind": "studio",
+   "role": "Independent game studio",
+   "role_zh": "独立游戏工作室",
+   "bio": "Small studio that made the fish survival sandbox Feed and Grow: Fish.",
+   "bio_zh": "小型工作室，开发了鱼类生存沙盒游戏 Feed and Grow: Fish。",
+   "why": "Feed and Grow: Fish is a popular sandbox for being many real fish species.",
+   "why_zh": "Feed and Grow: Fish 是可以扮演多种真实鱼类的热门沙盒游戏。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "http://www.feedandgrow.net"
+   },
+   "discovered_via": "seed"
+  },
+  {
+   "id": "crispys",
+   "name": "Crispy's!",
+   "kind": "studio",
+   "role": "Game studio, Tokyo",
+   "role_zh": "游戏工作室，东京",
+   "bio": "Studio founded by Yohei Kataoka; co-developed Tokyo Jungle with Sony's Japan Studio.",
+   "bio_zh": "由片冈阳平创立的工作室，与索尼 Japan Studio 共同开发《东京丛林》。",
+   "why": "Tokyo Jungle lets players live short animal lives in a Tokyo without people.",
+   "why_zh": "《东京丛林》让玩家在没有人类的东京度过短暂的动物一生。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {},
+   "discovered_via": "seed",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本"
+  },
+  {
+   "id": "zoom-inc",
+   "name": "Zoom Inc.",
+   "kind": "company",
+   "role": "Game developer, Japan",
+   "role_zh": "游戏开发商，日本",
+   "bio": "Japanese developer that made Mister Mosquito (Ka) for PlayStation 2.",
+   "bio_zh": "日本开发商，为 PlayStation 2 开发了《蚊》（Mister Mosquito）。",
+   "why": "Mister Mosquito turns the human body into terrain seen by a feeding insect.",
+   "why_zh": "《蚊》把人体变成一只觅食昆虫眼中的地形。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {},
+   "discovered_via": "seed",
+   "based": "Japan",
+   "based_zh": "日本"
+  },
+  {
+   "id": "frontier-developments",
+   "name": "Frontier Developments",
+   "kind": "company",
+   "role": "Game developer, Cambridge",
+   "role_zh": "游戏开发商，剑桥",
+   "bio": "British developer founded by David Braben; made Elite: Dangerous, Planet Zoo and the PS2 game Dog's Life.",
+   "bio_zh": "由 David Braben 创立的英国开发商，作品有 Elite: Dangerous、Planet Zoo 与 PS2 游戏 Dog's Life。",
+   "why": "Dog's Life visualised a dog's sense of smell as coloured scent clouds.",
+   "why_zh": "Dog's Life 把狗的嗅觉可视化为彩色的气味云。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://www.frontier.co.uk/"
+   },
+   "discovered_via": "seed",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国"
+  },
+  {
+   "id": "revolutionary-games-studio",
+   "name": "Revolutionary Games Studio",
+   "kind": "studio",
+   "role": "Volunteer open-source game project",
+   "role_zh": "志愿者参与的开源游戏项目",
+   "bio": "International volunteer community developing Thrive, a free, open-source evolution game guided by biology.",
+   "bio_zh": "由国际志愿者社区开发 Thrive，这是一款免费、开源、以生物学为依据的演化游戏。",
+   "why": "Thrive tries to make the microbe stage scientifically grounded, with membranes, organelles and chemistry.",
+   "why_zh": "Thrive 试图让微生物阶段有科学依据，包括细胞膜、细胞器与化学过程。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://revolutionarygamesstudio.com/"
+   },
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nintendo",
+   "name": "Nintendo",
+   "kind": "company",
+   "role": "Game company, Kyoto",
+   "role_zh": "游戏公司，京都",
+   "bio": "Japanese game company; Mole Mania was produced by Shigeru Miyamoto.",
+   "bio_zh": "日本游戏公司；Mole Mania 由宫本茂担任制作人。",
+   "why": "Mole Mania is an early game about living on two layers, above and below ground.",
+   "why_zh": "Mole Mania 是早期关于在地上与地下两层之间生活的游戏。",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://www.nintendo.com/"
+   },
+   "discovered_via": "seed",
+   "based": "Kyoto, Japan",
+   "based_zh": "京都，日本"
+  }
+ ],
+ "works": [
+  {
+   "id": "ubisoft-montreal--eagle-flight",
+   "creator_ids": [
+    "ubisoft-montreal"
+   ],
+   "title": "Eagle Flight",
+   "year": 2016,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "game",
+   "description": "A VR game in which you fly as an eagle over a Paris abandoned by humans and overgrown by nature, racing and fighting other eagles.",
+   "description_zh": "一款 VR 游戏：你化身老鹰，在人类离开、被自然重新占据的巴黎上空飞翔，与其他老鹰竞速和争斗。",
+   "idea_en": "Flight steered by the head: the eagle's body is mapped onto the steadiest part of yours, so looking is flying.",
+   "idea_zh": "用头部掌舵的飞行：老鹰的身体被映射到你身上最稳定的部位——头，于是“看”就是“飞”。",
+   "method": "Head orientation steers the eagle on Oculus Rift, HTC Vive and PlayStation VR, with a comfort vignette that narrows the view in turns.",
+   "method_zh": "在 Oculus Rift、HTC Vive 与 PlayStation VR 上用头部朝向操控老鹰，转弯时视野边缘收窄以减轻晕动。",
+   "keywords": [
+    "eagle",
+    "Paris",
+    "head steering",
+    "comfort vignette",
+    "Oculus Rift",
+    "PlayStation VR"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=C7NAySeF4Y8"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/408250/header.jpg"
+   ],
+   "source_url": "http://eagleflight.ubisoft.com/"
+  },
+  {
+   "id": "firepunchd-games--tentacular",
+   "creator_ids": [
+    "firepunchd-games"
+   ],
+   "title": "Tentacular",
+   "year": 2022,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "game",
+   "description": "A VR puzzle game in which you are a giant, good-natured sea creature whose arms are two long tentacles, used to lift, stack and fling objects around a harbour island.",
+   "description_zh": "一款 VR 解谜游戏：你是一只巨大而善良的海怪，双臂是两条长长的触手，用来在港口小岛上举起、堆叠和甩动物件。",
+   "idea_en": "Hands without bones: precise human tasks turn into floppy physics, and giant scale makes the human world feel like toys.",
+   "idea_zh": "没有骨头的手：精细的人类动作变成软绵绵的物理，而巨大的尺度让人类世界像玩具一样。",
+   "method": "Motion controllers drive physically simulated tentacles with suction-cup grabbing on Meta Quest and SteamVR.",
+   "method_zh": "在 Meta Quest 与 SteamVR 上，运动手柄驱动带吸盘抓取的物理模拟触手。",
+   "keywords": [
+    "tentacle",
+    "kraken",
+    "physics",
+    "Devolver Digital",
+    "Meta Quest"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=go6ee9iW-Es"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1220100/header.jpg"
+   ],
+   "source_url": "https://www.tentacular.com/"
+  },
+  {
+   "id": "another-axiom--gorilla-tag",
+   "creator_ids": [
+    "another-axiom"
+   ],
+   "title": "Gorilla Tag",
+   "year": 2021,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body",
+    "collective-sense"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "game",
+   "description": "A multiplayer VR game in which players are legless gorillas who move only by pushing their hands against the ground, walls and trees, playing tag.",
+   "description_zh": "一款多人 VR 游戏：玩家是没有腿的大猩猩，只能用手推地面、墙壁和树木来移动，彼此玩捉人游戏。",
+   "idea_en": "Walking on your hands: remove the legs and the body learns ape locomotion through the arms, a body swap millions of players adopted.",
+   "idea_zh": "用手行走：去掉双腿，身体便通过手臂学会类人猿的移动方式——这是数百万玩家接受的一次身体交换。",
+   "method": "Controller positions push a physics body with no joystick locomotion; first released in early access on Meta Quest and SteamVR, originally made by Kerestell Smith.",
+   "method_zh": "没有摇杆移动，手柄位置直接推动物理身体；最初由 Kerestell Smith 开发，先在 Meta Quest 与 SteamVR 抢先体验发布。",
+   "keywords": [
+    "gorilla",
+    "arm locomotion",
+    "social VR",
+    "Meta Quest",
+    "Kerestell Smith"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=y3bR3s546CU"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1533390/header.jpg"
+   ],
+   "source_url": "https://gorillatagvr.com/"
+  },
+  {
+   "id": "new-folder-games--i-am-cat",
+   "creator_ids": [
+    "new-folder-games"
+   ],
+   "title": "I Am Cat",
+   "year": 2024,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "game",
+   "description": "A VR sandbox in which you are a house cat in an old woman's home: you climb furniture, knock objects off shelves and hide from the owner.",
+   "description_zh": "一款 VR 沙盒游戏：你是老奶奶家里的一只猫，爬家具、把东西从架子上拍下去，并躲着主人。",
+   "idea_en": "Cat scale: shrinking the player to cat height and turning hands into paws makes an ordinary home into terrain.",
+   "idea_zh": "猫的尺度：把玩家缩到猫的高度、把双手变成爪子，普通的家就成了地形。",
+   "method": "Hand-driven paw controls with arm-based climbing and jumping on Meta Quest and SteamVR.",
+   "method_zh": "在 Meta Quest 与 SteamVR 上用手控制猫爪，靠手臂动作攀爬和跳跃。",
+   "keywords": [
+    "cat",
+    "paws",
+    "sandbox",
+    "Meta Quest"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=WUnEWydv5jE"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3016840/header.jpg"
+   ],
+   "source_url": "https://newfolderstudio.com/"
+  },
+  {
+   "id": "new-folder-games--i-am-bird",
+   "creator_ids": [
+    "new-folder-games"
+   ],
+   "title": "I Am Bird",
+   "year": 2025,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "game",
+   "description": "A VR sandbox in which you are a city bird that flaps its arms to fly, steals food and causes chaos in the streets.",
+   "description_zh": "一款 VR 沙盒游戏：你是一只城市里的鸟，扇动手臂飞行，偷食物，在街头制造混乱。",
+   "idea_en": "Arms as wings: flight is produced by flapping, so the player's own effort becomes lift.",
+   "idea_zh": "手臂即翅膀：飞行靠扇动产生，玩家自己的力气变成了升力。",
+   "method": "Arm-flapping motion tracked by the controllers generates lift and steering on Meta Quest.",
+   "method_zh": "在 Meta Quest 上，手柄追踪扇臂动作以产生升力并控制方向。",
+   "keywords": [
+    "bird",
+    "pigeon",
+    "flapping flight",
+    "Meta Quest"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LpwfHtfIuII"
+   },
+   "images": [
+    "https://queststoredb.com/media/25148042068216938_cover_landscape.webp"
+   ],
+   "source_url": "https://www.meta.com/experiences/i-am-bird/25148042068216938/"
+  },
+  {
+   "id": "new-folder-games--i-am-monkey",
+   "creator_ids": [
+    "new-folder-games"
+   ],
+   "title": "I Am Monkey",
+   "year": 2025,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "game",
+   "description": "A VR sandbox in which you are a monkey in a zoo cage; visitors pass by, some offering bananas, others teasing, and you can charm them or fight back.",
+   "description_zh": "一款 VR 沙盒游戏：你是动物园笼中的一只猴子；游客来来往往，有人递香蕉，有人挑衅，你可以讨好他们，也可以反击。",
+   "idea_en": "The zoo gaze reversed: the player is the one on display, looking out through bars at people.",
+   "idea_zh": "被反转的动物园凝视：玩家成了被观看的一方，隔着栏杆看人。",
+   "method": "Arm-based climbing, grabbing and throwing with scripted visitor behaviour on Meta Quest and Steam.",
+   "method_zh": "在 Meta Quest 与 Steam 上用手臂攀爬、抓取和投掷，游客行为由脚本驱动。",
+   "keywords": [
+    "monkey",
+    "zoo",
+    "captivity",
+    "Meta Quest"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LJCfvsjFybM"
+   },
+   "images": [
+    "https://queststoredb.com/media/24775738222115749_cover_landscape.webp"
+   ],
+   "source_url": "https://www.meta.com/experiences/i-am-monkey/24775738222115749/"
+  },
+  {
+   "id": "david-chaseling--i-am-octopus",
+   "creator_ids": [
+    "david-chaseling"
+   ],
+   "title": "I Am Octopus",
+   "year": 2026,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "game",
+   "description": "A VR platformer in which you are an octopus captured by a scientist; you stretch your tentacles to fling, pull and launch yourself through test chambers.",
+   "description_zh": "一款 VR 平台游戏：你是一只被科学家抓住的章鱼，伸出触手甩动、拉扯、弹射自己，穿过一个个试验场。",
+   "idea_en": "Moving by arms alone: locomotion is stretching, sticking and releasing tentacles rather than walking.",
+   "idea_zh": "只靠手臂移动：行动方式是伸展、吸附和松开触手，而不是走路。",
+   "method": "Hand-based tentacle locomotion on Meta Quest, released in early access; made by David Chaseling and Dylan Van Beek.",
+   "method_zh": "Meta Quest 上以手驱动的触手移动，抢先体验发布；由 David Chaseling 与 Dylan Van Beek 开发。",
+   "keywords": [
+    "octopus",
+    "tentacle locomotion",
+    "early access",
+    "Meta Quest"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7eqbGRgi64I"
+   },
+   "images": [
+    "https://queststoredb.com/media/9608086525922823_cover_landscape.webp"
+   ],
+   "source_url": "https://www.meta.com/experiences/i-am-octopus/9608086525922823/"
+  },
+  {
+   "id": "treta-studios--be-a-chameleon",
+   "creator_ids": [
+    "treta-studios"
+   ],
+   "title": "Be A Chameleon",
+   "year": 2026,
+   "field": "animal",
+   "sub": "reptile",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "game",
+   "description": "A VR game in which you are a chameleon escaping a pet shop: you swing on your sticky tongue, climb walls and change colour to hide from staff.",
+   "description_zh": "一款 VR 游戏：你是一只想逃出宠物店的变色龙，用黏黏的舌头荡来荡去、爬墙，并变换颜色躲避店员。",
+   "idea_en": "Camouflage as a verb: blending into the background is the chameleon's main action, alongside a tongue used as a limb.",
+   "idea_zh": "伪装即动作：融入背景是变色龙的主要行为，舌头则被当作一条肢体来用。",
+   "method": "Tongue grappling, hand-based climbing and colour matching against surfaces on Meta Quest, with a Steam release planned.",
+   "method_zh": "在 Meta Quest 上用舌头钩抓、用手攀爬，并与表面进行颜色匹配；计划登陆 Steam。",
+   "keywords": [
+    "chameleon",
+    "camouflage",
+    "tongue",
+    "pet shop",
+    "Meta Quest"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=x954fIuri1Y"
+   },
+   "images": [
+    "https://queststoredb.com/media/26786967120939806_cover_landscape.webp"
+   ],
+   "source_url": "https://www.meta.com/experiences/be-a-chameleon/26786967120939806/"
+  },
+  {
+   "id": "gattai-games--stifled",
+   "creator_ids": [
+    "gattai-games"
+   ],
+   "title": "Stifled",
+   "year": 2017,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "game",
+   "description": "A horror game played in darkness: the world appears only where sound bounces off it, and in VR the player's own voice, picked up by a microphone, lights up the room.",
+   "description_zh": "一款在黑暗中进行的恐怖游戏：世界只在声音反弹之处显现；在 VR 中，麦克风收录的玩家自己的声音会照亮房间。",
+   "idea_en": "Echolocation as the only light: making noise lets you see, but it also lets the monsters hear you.",
+   "idea_zh": "回声定位是唯一的光：发出声音让你看见，也让怪物听见你。",
+   "method": "Microphone input and in-game sounds trigger expanding outlines on nearby geometry; released for PlayStation VR and PC.",
+   "method_zh": "麦克风输入与游戏内声音触发附近几何体上扩散的轮廓线；登陆 PlayStation VR 与 PC。",
+   "keywords": [
+    "echolocation",
+    "microphone",
+    "sonar rendering",
+    "PlayStation VR",
+    "horror"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Icj6Pm5-yuc"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/514830/header.jpg"
+   ],
+   "source_url": "https://gattaigames.com/stifled"
+  },
+  {
+   "id": "manekoware--catlateral-damage",
+   "creator_ids": [
+    "manekoware"
+   ],
+   "title": "Catlateral Damage",
+   "year": 2015,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "vr"
+   ],
+   "kind": "game",
+   "description": "A first-person game in which you are a house cat trying to knock as many objects as possible onto the floor before time runs out.",
+   "description_zh": "一款第一人称游戏：你是一只家猫，要在时间用完前把尽可能多的东西拍到地上。",
+   "idea_en": "The first-person cat: paws in view and physics objects to swat turn a cat's mischief into the whole game.",
+   "idea_zh": "第一人称的猫：视野中的爪子与可拍落的物理物件，把猫的调皮变成了整个游戏。",
+   "method": "First-person paw swipes on physics-simulated household objects, with optional VR support on PC.",
+   "method_zh": "第一人称用猫爪拍打物理模拟的家居物件，PC 版支持可选 VR。",
+   "keywords": [
+    "cat",
+    "first-person",
+    "physics",
+    "Fire Hose Games"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HWhL3Vd5u0s"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329860/header.jpg"
+   ],
+   "source_url": "http://www.catlateraldamage.com/"
+  },
+  {
+   "id": "david-oreilly--everything",
+   "creator_ids": [
+    "david-oreilly"
+   ],
+   "title": "Everything",
+   "year": 2017,
+   "field": "animal",
+   "sub": "multispecies",
+   "senses": [
+    "time-scale",
+    "collective-sense"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A game in which you can become anything in the universe, from animals and plants to planets, galaxies and atoms, moving freely between scales while recordings of Alan Watts play.",
+   "description_zh": "一款游戏：你可以成为宇宙中的任何事物，从动物、植物到行星、星系与原子，在尺度之间自由穿行，背景是 Alan Watts 的演讲录音。",
+   "idea_en": "Becoming as a continuum: every thing can be inhabited, and the main move is changing scale rather than acting.",
+   "idea_zh": "“成为”是一条连续谱：任何事物都可以被栖居，主要的动作是改变尺度，而不是行动。",
+   "method": "A procedural world of thousands of low-poly things that the player can 'ascend' to larger or 'descend' to smaller; animals roll rather than walk.",
+   "method_zh": "由数千个低多边形物体构成的程序化世界，玩家可以“上升”到更大的尺度或“下降”到更小的尺度；动物用翻滚代替行走。",
+   "keywords": [
+    "Alan Watts",
+    "scale",
+    "procedural",
+    "Double Fine",
+    "everything"
+   ],
+   "also": [
+    "river",
+    "tree",
+    "robot"
+   ],
+   "shown_at": [
+    "Vienna Shorts 2017 (jury award, first game eligible for an Academy Award)"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=aIMlcRCjjPw"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582270/header.jpg"
+   ],
+   "source_url": "http://www.everything-game.com/"
+  },
+  {
+   "id": "david-oreilly--mountain",
+   "creator_ids": [
+    "david-oreilly"
+   ],
+   "title": "Mountain",
+   "year": 2014,
+   "field": "river",
+   "sub": "earth",
+   "senses": [
+    "time-scale"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "An ambient game in which you are a mountain floating in space; seasons pass, objects crash into you and stay, and you can only watch and play notes.",
+   "description_zh": "一款氛围游戏：你是一座漂浮在太空中的山；四季更替，物体撞上来并留下，你只能看着，偶尔弹几个音。",
+   "idea_en": "Being a mountain means being almost passive: the experience is the time scale, not control.",
+   "idea_zh": "成为一座山几乎意味着被动：体验的是时间尺度，而不是控制。",
+   "method": "After the player answers drawing prompts to seed the mountain, it runs on its own with simulated weather and seasons; the keyboard only plays notes.",
+   "method_zh": "玩家先按提示作画以生成山体，之后山自行运转，天气与季节由模拟生成；键盘只能弹奏音符。",
+   "keywords": [
+    "mountain",
+    "ambient",
+    "time",
+    "Double Fine"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GMyOTRrM9jg"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313340/header.jpg"
+   ],
+   "source_url": "http://mountain-game.com"
+  },
+  {
+   "id": "thatgamecompany--flower",
+   "creator_ids": [
+    "thatgamecompany"
+   ],
+   "title": "Flower",
+   "year": 2009,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A game in which you are the wind, gathering a stream of petals across fields and bringing colour and life back to a grey landscape.",
+   "description_zh": "一款游戏：你是风，卷起一串花瓣掠过原野，让灰暗的大地重新恢复色彩与生机。",
+   "idea_en": "Becoming wind: the player has no body, only a direction and a gust.",
+   "idea_zh": "成为风：玩家没有身体，只有方向与一阵气流。",
+   "method": "Tilting the PlayStation 3 SIXAXIS controller steers the wind and pressing any button makes it blow harder.",
+   "method_zh": "倾斜 PlayStation 3 的 SIXAXIS 手柄来操控风向，按任意键让风变强。",
+   "keywords": [
+    "wind",
+    "petals",
+    "SIXAXIS",
+    "Jenova Chen"
+   ],
+   "shown_at": [
+    "The Art of Video Games, Smithsonian American Art Museum 2012"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=s1oZnf3475c"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/966330/header.jpg"
+   ],
+   "source_url": "http://thatgamecompany.com/flower/"
+  },
+  {
+   "id": "thatgamecompany--flow",
+   "creator_ids": [
+    "thatgamecompany"
+   ],
+   "title": "flOw",
+   "year": 2006,
+   "field": "fungi",
+   "sub": "microbe",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A game in which you guide an aquatic microorganism that eats other organisms, grows new segments and dives through the layers of a primordial ocean.",
+   "description_zh": "一款游戏：你引导一只水生微生物吞食其他生物、长出新的体节，并潜入原始海洋的一层层深处。",
+   "idea_en": "Being a microorganism whose body grows with what it eats, paced by the theory of flow.",
+   "idea_zh": "成为一只微生物：身体随所吃之物而生长，节奏依据“心流”理论设计。",
+   "method": "Made as Jenova Chen's master's thesis at USC as a Flash game, then rebuilt for PlayStation 3 with tilt control.",
+   "method_zh": "最初是陈星汉在南加州大学的硕士论文 Flash 游戏，后为 PlayStation 3 重制并加入体感倾斜操控。",
+   "keywords": [
+    "microorganism",
+    "flow theory",
+    "Jenova Chen",
+    "Nicholas Clark",
+    "USC"
+   ],
+   "shown_at": [
+    "The Museum of Modern Art collection (2012)"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tTVDSOnPLns"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/tTVDSOnPLns/hqdefault.jpg"
+   ],
+   "source_url": "http://thatgamecompany.com/"
+  },
+  {
+   "id": "hemisphere-games--osmos",
+   "creator_ids": [
+    "hemisphere-games"
+   ],
+   "title": "Osmos",
+   "year": 2009,
+   "field": "fungi",
+   "sub": "microbe",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A physics game in which you are a floating mote that grows by absorbing smaller motes; to move you must eject part of your own mass.",
+   "description_zh": "一款物理游戏：你是一个漂浮的微粒，靠吸收更小的微粒长大；想要移动，就必须喷出自身的一部分。",
+   "idea_en": "Movement costs body: a cell-like being in which every push shrinks the self.",
+   "idea_zh": "移动要付出身体：在这个类似细胞的存在中，每一次推进都会让自己变小。",
+   "method": "Newtonian physics with mass ejection as propulsion and adjustable time speed.",
+   "method_zh": "基于牛顿物理，以喷射质量作为推进，并可调节时间流速。",
+   "keywords": [
+    "mote",
+    "cell",
+    "Newtonian physics",
+    "ambient"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qGuieN5-6dI"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/29180/header.jpg"
+   ],
+   "source_url": "http://www.hemispheregames.com/osmos"
+  },
+  {
+   "id": "maxis--spore",
+   "creator_ids": [
+    "maxis"
+   ],
+   "title": "Spore",
+   "year": 2008,
+   "field": "animal",
+   "sub": "multispecies",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A game in which you evolve a species from a single cell to a space-faring civilisation, designing its body in a creature editor and then living in it.",
+   "description_zh": "一款游戏：你让一个物种从单细胞演化为星际文明，在生物编辑器中设计它的身体，然后住进这具身体。",
+   "idea_en": "Design a body, then inhabit it: procedural animation makes any limb layout walk, eat and dance.",
+   "idea_zh": "先设计身体，再栖居其中：程序化动画让任意的肢体布局都能行走、进食和跳舞。",
+   "method": "A creature editor with procedural animation that adapts gait and gestures to whatever body the player builds; led by Will Wright.",
+   "method_zh": "生物编辑器配合程序化动画，能根据玩家搭建的任何身体调整步态与动作；由 Will Wright 主导。",
+   "keywords": [
+    "evolution",
+    "creature editor",
+    "procedural animation",
+    "Will Wright"
+   ],
+   "also": [
+    "fungi"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zi2GvqboQfY"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17390/header.jpg"
+   ],
+   "source_url": "http://www.spore.com/"
+  },
+  {
+   "id": "maxis--simant",
+   "creator_ids": [
+    "maxis"
+   ],
+   "title": "SimAnt",
+   "year": 1991,
+   "field": "insect",
+   "sub": "colony",
+   "senses": [
+    "collective-sense",
+    "smell"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A simulation in which you control one yellow ant and, through it, a whole colony competing with red ants for a suburban backyard and house.",
+   "description_zh": "一款模拟游戏：你控制一只黄蚂蚁，并借由它带领整个蚁群，与红蚂蚁争夺郊区的后院和房子。",
+   "idea_en": "One ant and the colony at once: the player switches between an individual body and a superorganism, guided by pheromone trails.",
+   "idea_zh": "同时是一只蚂蚁和整个蚁群：玩家在个体身体与超个体之间切换，由信息素轨迹引导。",
+   "method": "Colony simulation with pheromone trails, castes and recruitment; designed by Will Wright, drawing on Hölldobler and Wilson's The Ants.",
+   "method_zh": "包含信息素轨迹、分工与招募的蚁群模拟；由 Will Wright 设计，参考了 Hölldobler 与 Wilson 的 The Ants。",
+   "keywords": [
+    "ant",
+    "colony",
+    "pheromone",
+    "Will Wright",
+    "superorganism"
+   ],
+   "shown_at": [
+    "Codie Award, Best Simulation Game 1992"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=FiAGLMpjRIs"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/FiAGLMpjRIs/hqdefault.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/SimAnt"
+  },
+  {
+   "id": "untame--mushroom-11",
+   "creator_ids": [
+    "untame"
+   ],
+   "title": "Mushroom 11",
+   "year": 2015,
+   "field": "fungi",
+   "sub": "slime",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A puzzle-platformer in which you control an amorphous green organism by erasing parts of it; the lost cells regrow elsewhere, so it moves by being destroyed.",
+   "description_zh": "一款解谜平台游戏：你通过擦除来操控一团无定形的绿色有机体；被擦掉的细胞会在别处重新长出，于是它靠被破坏而前进。",
+   "idea_en": "Movement by self-erasure: a body with no fixed shape, steered by removing cells rather than moving limbs.",
+   "idea_zh": "以自我擦除来移动：一个没有固定形状的身体，靠移除细胞而非挥动肢体来操控。",
+   "method": "A mouse eraser deletes cells and the organism regrows the same number of cells on its other side; soundtrack by The Future Sound of London.",
+   "method_zh": "用鼠标“橡皮擦”删掉细胞，有机体会在另一侧长回同样数量的细胞；配乐由 The Future Sound of London 创作。",
+   "keywords": [
+    "amorphous organism",
+    "slime",
+    "cells",
+    "The Future Sound of London"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KVe76XebJcw"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/243160/header.jpg"
+   ],
+   "source_url": "http://mushroom11.com"
+  },
+  {
+   "id": "phobia-game-studio--carrion",
+   "creator_ids": [
+    "phobia-game-studio"
+   ],
+   "title": "Carrion",
+   "year": 2020,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A 'reverse horror' game in which you are an amorphous tentacled creature escaping a research facility, growing as you consume and squeezing through vents.",
+   "description_zh": "一款“反向恐怖”游戏：你是一团无定形的触手生物，正在逃离研究设施，吞食越多就越大，还能挤过通风管。",
+   "idea_en": "The monster's body: many tentacles grab the world at once and the body's size changes what it can do.",
+   "idea_zh": "怪物的身体：许多触手同时抓住世界，身体的大小决定了它能做什么。",
+   "method": "A procedurally animated mass of tentacles in 2D pixel art, controlled by pointing where it should reach.",
+   "method_zh": "2D 像素风格下程序化驱动的一团触手，玩家指向哪里它就伸向哪里。",
+   "keywords": [
+    "tentacles",
+    "amorphous creature",
+    "reverse horror",
+    "Devolver Digital"
+   ],
+   "also": [
+    "fungi"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jZENtOGdMkc"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953490/header.jpg"
+   ],
+   "source_url": "https://www.devolverdigital.com/games/carrion"
+  },
+  {
+   "id": "revolutionary-games-studio--thrive",
+   "creator_ids": [
+    "revolutionary-games-studio"
+   ],
+   "title": "Thrive",
+   "year": 2021,
+   "field": "fungi",
+   "sub": "microbe",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "An open-source evolution game that starts in the microbe stage: you are a single cell in a tide pool, absorbing compounds, engulfing prey and redesigning your membrane and organelles between generations.",
+   "description_zh": "一款开源演化游戏，从微生物阶段开始：你是潮池中的一个单细胞，吸收化合物、吞噬猎物，并在世代之间重新设计细胞膜与细胞器。",
+   "idea_en": "Being a cell with real biology: metabolism, membranes and organelles are what limit and shape the body.",
+   "idea_zh": "成为一个遵循真实生物学的细胞：新陈代谢、细胞膜与细胞器决定并塑造着这具身体。",
+   "method": "A cell editor with organelles, membrane types and compound balances simulated per patch of an auto-generated planet; free open-source builds, Steam early access from 2021.",
+   "method_zh": "细胞编辑器包含细胞器、膜类型与化合物平衡，按自动生成星球上的各个区块进行模拟；提供免费开源版本，2021 年起在 Steam 抢先体验。",
+   "keywords": [
+    "cell",
+    "microbe",
+    "organelles",
+    "open source",
+    "evolution"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LmIwSBvXGQA"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779200/5273442273cffbfef2f30c451d9f2cec91e5e3c6/header.jpg"
+   ],
+   "source_url": "https://revolutionarygamesstudio.com/"
+  },
+  {
+   "id": "might-and-delight--shelter",
+   "creator_ids": [
+    "might-and-delight"
+   ],
+   "title": "Shelter",
+   "year": 2013,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body",
+    "collective-sense"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "As a mother badger you lead five cubs from their burrow through forest, river and fire to a new home, feeding them and guarding them from a bird of prey.",
+   "description_zh": "你是一只獾妈妈，带着五只幼崽离开洞穴，穿过森林、河流与山火前往新家，一路喂养它们并防备猛禽。",
+   "idea_en": "Becoming a parent animal: care and vulnerability, not power, are the mechanics.",
+   "idea_zh": "成为动物父母：游戏机制是照料与脆弱，而不是力量。",
+   "method": "Third-person play in a painted, low-poly world where cub AI follows the mother and can starve or be taken.",
+   "method_zh": "在绘画质感的低多边形世界中以第三人称进行，幼崽由 AI 控制跟随母亲，可能饿死或被掠走。",
+   "keywords": [
+    "badger",
+    "cubs",
+    "parenting",
+    "survival"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tmKm_oX8wzQ"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244710/header.jpg"
+   ],
+   "source_url": "https://www.mightanddelight.com/"
+  },
+  {
+   "id": "might-and-delight--shelter-2",
+   "creator_ids": [
+    "might-and-delight"
+   ],
+   "title": "Shelter 2",
+   "year": 2015,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body",
+    "collective-sense"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "As a lynx mother you give birth, hunt across tundra and forest and raise your cubs until they can survive alone.",
+   "description_zh": "你是一只猞猁妈妈，生下幼崽，在苔原与森林中狩猎，把孩子们养大到能独立生存。",
+   "idea_en": "A predator's parenthood: hunting is the way to keep others alive.",
+   "idea_zh": "捕食者的育儿：狩猎是让他者活下去的方式。",
+   "method": "Open-world third-person play with hunting, cub growth across seasons and cubs that can be carried on to later play.",
+   "method_zh": "开放世界第三人称玩法，包括狩猎、幼崽随季节成长，幼崽可延续到后续游戏中。",
+   "keywords": [
+    "lynx",
+    "cubs",
+    "hunting",
+    "tundra"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Tk-1M1wNVDY"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275100/header.jpg"
+   ],
+   "source_url": "https://www.mightanddelight.com/"
+  },
+  {
+   "id": "might-and-delight--paws",
+   "creator_ids": [
+    "might-and-delight"
+   ],
+   "title": "Paws - A Shelter 2 Game",
+   "year": 2016,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A standalone adventure in which you are a young lynx cub finding its way home through a large world after losing its family.",
+   "description_zh": "一款独立冒险游戏：你是一只失去家人的小猞猁，穿越广阔世界寻找回家的路。",
+   "idea_en": "The world at cub scale: loss and friendship seen from the smallest and weakest body.",
+   "idea_zh": "幼崽尺度下的世界：从最小、最弱的身体看失去与友谊。",
+   "method": "Third-person exploration with climbing and simple animal interactions in the Shelter art style.",
+   "method_zh": "以 Shelter 系列画风进行的第三人称探索，包括攀爬与简单的动物互动。",
+   "keywords": [
+    "lynx",
+    "cub",
+    "loss",
+    "journey"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4aQZ8G8eS9c"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/434000/header.jpg"
+   ],
+   "source_url": "https://www.mightanddelight.com/"
+  },
+  {
+   "id": "might-and-delight--meadow",
+   "creator_ids": [
+    "might-and-delight"
+   ],
+   "title": "Meadow - A Shelter Game",
+   "year": 2016,
+   "field": "animal",
+   "sub": "multispecies",
+   "senses": [
+    "collective-sense",
+    "hearing"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A multiplayer game in which players, as badgers, rabbits, deer and other animals, meet anonymously and communicate only through animal calls and gestures.",
+   "description_zh": "一款多人游戏：玩家化身獾、兔、鹿等动物匿名相遇，只能用动物叫声和动作交流。",
+   "idea_en": "Social life without language: strangers become a herd through sound and body alone.",
+   "idea_zh": "没有语言的社交：陌生人只靠声音和身体结成群体。",
+   "method": "Online multiplayer with no text or voice chat; expression is limited to animal sounds, emotes and following one another.",
+   "method_zh": "在线多人，没有文字或语音聊天；表达仅限于动物叫声、动作与相互跟随。",
+   "keywords": [
+    "multiplayer",
+    "badger",
+    "deer",
+    "animal calls",
+    "anonymous"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pYC0nQNRgvE"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/486310/header.jpg"
+   ],
+   "source_url": "https://www.mightanddelight.com/"
+  },
+  {
+   "id": "might-and-delight--shelter-3",
+   "creator_ids": [
+    "might-and-delight"
+   ],
+   "title": "Shelter 3",
+   "year": 2021,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "collective-sense",
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "As an elephant matriarch you lead your herd and calf across open landscapes, gathering them in danger and searching for water and shelter.",
+   "description_zh": "你是一头大象女族长，带领象群与幼象穿越开阔大地，在危险时召集它们，寻找水源与庇护所。",
+   "idea_en": "Herd as body: care is extended from one calf to a whole family that moves together.",
+   "idea_zh": "群体即身体：照料从一头幼象扩展到一起行动的整个家族。",
+   "method": "Third-person herd simulation in which followers respond to the matriarch's calls and position.",
+   "method_zh": "第三人称象群模拟，跟随者会对女族长的叫声与位置作出反应。",
+   "keywords": [
+    "elephant",
+    "herd",
+    "matriarch",
+    "calf"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=U_IlNFERdzE"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977630/header.jpg"
+   ],
+   "source_url": "https://www.mightanddelight.com/"
+  },
+  {
+   "id": "bluetwelve-studio--stray",
+   "creator_ids": [
+    "bluetwelve-studio"
+   ],
+   "title": "Stray",
+   "year": 2022,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A third-person adventure in which you are a stray cat separated from its family in a walled cybercity inhabited by robots; you climb, meow, scratch and squeeze through gaps.",
+   "description_zh": "一款第三人称冒险游戏：你是一只与家人走散的流浪猫，身处住满机器人的封闭赛博城市，攀爬、喵叫、抓挠、钻缝。",
+   "idea_en": "Cat affordances: every ledge, pipe and doormat is read the way a cat would read it, including a dedicated meow button.",
+   "idea_zh": "猫的可供性：每一处窗台、管道和门垫都按猫的方式被解读，甚至有专门的“喵”键。",
+   "method": "Context-sensitive jumps between surfaces, cat animation likely based on reference footage of real cats, and a camera kept at cat height.",
+   "method_zh": "情境式跳跃让猫在各个表面之间移动，动画很可能参考了真实猫的影像，镜头保持在猫的高度。",
+   "keywords": [
+    "cat",
+    "robots",
+    "cybercity",
+    "Annapurna Interactive"
+   ],
+   "shown_at": [
+    "The Game Awards 2022 (Best Independent Game, Best Debut Indie Game)"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4uP2MyUL49s"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/header.jpg"
+   ],
+   "source_url": "https://stray.game"
+  },
+  {
+   "id": "double-dagger-studio--little-kitty-big-city",
+   "creator_ids": [
+    "double-dagger-studio"
+   ],
+   "title": "Little Kitty, Big City",
+   "year": 2024,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "An open-world game in which you are a small black kitten who has fallen from a window and explores a Japanese-inspired city to find the way home.",
+   "description_zh": "一款开放世界游戏：你是一只从窗台跌落的小黑猫，在一座日式风格的城市中探索，寻找回家的路。",
+   "idea_en": "The city at kitten scale: street furniture, birds and people are obstacles and playmates.",
+   "idea_zh": "小猫尺度下的城市：街道设施、鸟和人既是障碍也是玩伴。",
+   "method": "Third-person climbing, napping and object interactions tuned to a kitten's body.",
+   "method_zh": "针对小猫身体调整的第三人称攀爬、打盹与物件互动。",
+   "keywords": [
+    "kitten",
+    "city",
+    "open world"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-39kuBXyKWo"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/header.jpg"
+   ],
+   "source_url": "https://linktr.ee/littlekittybigcity"
+  },
+  {
+   "id": "house-house--untitled-goose-game",
+   "creator_ids": [
+    "house-house"
+   ],
+   "title": "Untitled Goose Game",
+   "year": 2019,
+   "field": "bird",
+   "sub": "avian-senses",
+   "senses": [
+    "body",
+    "hearing"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A stealth comedy in which you are a goose who ruins villagers' days by stealing, honking and hiding.",
+   "description_zh": "一款潜行喜剧游戏：你是一只鹅，靠偷东西、嘎嘎叫和躲藏来搅乱村民的一天。",
+   "idea_en": "Counterpoint: the animal body is used for mischief and slapstick, not perception, and it works because the goose stays a goose.",
+   "idea_zh": "对照案例：动物身体被用于恶作剧和闹剧而非感知；它之所以成立，是因为鹅始终是一只鹅。",
+   "method": "Top-down third-person controls with a dedicated honk button, wing flap and beak grab.",
+   "method_zh": "俯视第三人称操作，设有专门的“嘎”键、拍翅与用喙叼取。",
+   "keywords": [
+    "goose",
+    "stealth",
+    "comedy",
+    "honk",
+    "Panic"
+   ],
+   "shown_at": [
+    "D.I.C.E. Awards 2020 (Game of the Year)",
+    "Game Developers Choice Awards 2020 (Game of the Year)"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HGO7vJtlX0I"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/837470/header.jpg"
+   ],
+   "source_url": "https://goose.game"
+  },
+  {
+   "id": "young-horses--octodad",
+   "creator_ids": [
+    "young-horses"
+   ],
+   "title": "Octodad: Dadliest Catch",
+   "year": 2014,
+   "field": "octopus",
+   "sub": "limbs",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "An octopus disguised as a suburban father tries to do chores, shop and go to the aquarium without his family noticing he is an octopus.",
+   "description_zh": "一只伪装成郊区父亲的章鱼，努力做家务、购物、去水族馆，同时不让家人发现他是章鱼。",
+   "idea_en": "A boneless body forced into human routines: the controls make the mismatch between body and task felt.",
+   "idea_zh": "被塞进人类日常的无骨身体：操控方式让身体与任务之间的错位变得可感。",
+   "method": "Each leg and the arm are controlled separately by different buttons and mouse motion, over a physically simulated body; follows the 2010 DePaul student game Octodad.",
+   "method_zh": "双腿与手臂分别由不同按键和鼠标控制，驱动物理模拟的身体；延续了 2010 年德保罗大学的学生游戏 Octodad。",
+   "keywords": [
+    "octopus",
+    "disguise",
+    "physics controls",
+    "DePaul University"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=03rP_O2k8XM"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224480/header.jpg"
+   ],
+   "source_url": "https://store.steampowered.com/app/224480/"
+  },
+  {
+   "id": "ed-annunziata--ecco-the-dolphin",
+   "creator_ids": [
+    "ed-annunziata"
+   ],
+   "title": "Ecco the Dolphin",
+   "year": 1992,
+   "field": "fish",
+   "sub": "cetacean",
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A side-scrolling game in which you are a bottlenose dolphin searching for your lost pod; your sonar song maps the surroundings and speaks with other creatures, and you must surface to breathe.",
+   "description_zh": "一款横版游戏：你是一只宽吻海豚，寻找失散的族群；你的声呐歌声能描绘周围环境、与其他生物交谈，而你必须浮出水面呼吸。",
+   "idea_en": "Echolocation as a game verb: the sonar song is both map and language, and the air meter reminds you that you are a mammal.",
+   "idea_zh": "回声定位成为游戏动作：声呐歌声既是地图也是语言，而氧气条提醒你是一只哺乳动物。",
+   "method": "One button sends a sonar call that returns a map of the nearby area and triggers dialogue with whales and glyphs; developed by Ed Annunziata with Novotrade International for the Sega Mega Drive / Genesis.",
+   "method_zh": "按一个键发出声呐，返回附近区域的地图并触发与鲸和石碑的对话；由 Ed Annunziata 与 Novotrade International 为世嘉 Mega Drive / Genesis 开发。",
+   "keywords": [
+    "dolphin",
+    "sonar",
+    "echolocation",
+    "Sega",
+    "Novotrade"
+   ],
+   "also": [
+    "bat"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xfbl_HOzHng"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/xfbl_HOzHng/hqdefault.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Ecco_the_Dolphin_(video_game)"
+  },
+  {
+   "id": "tripwire-interactive--maneater",
+   "creator_ids": [
+    "tripwire-interactive"
+   ],
+   "title": "Maneater",
+   "year": 2020,
+   "field": "fish",
+   "sub": "fish",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "An open-world action game in which you are a bull shark growing from pup to monster in Gulf Coast waters, framed as a reality TV show about a shark hunter.",
+   "description_zh": "一款开放世界动作游戏：你是一条公牛鲨，在墨西哥湾沿岸水域从幼鲨长成巨兽，全程被包装成一档关于猎鲨人的真人秀。",
+   "idea_en": "Counterpoint: an animal as power fantasy; the shark's senses become a gamified 'sonar' that highlights prey.",
+   "idea_zh": "对照案例：动物作为力量幻想；鲨鱼的感官被游戏化为一种高亮猎物的“声呐”。",
+   "method": "Third-person swimming with body upgrades ('evolutions') and a sonar pulse that outlines prey, items and routes.",
+   "method_zh": "第三人称游泳，身体可“进化”升级，声呐脉冲会勾勒出猎物、物品与路线。",
+   "keywords": [
+    "shark",
+    "bull shark",
+    "evolution",
+    "power fantasy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wIC7xg75Hn0"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629820/header.jpg"
+   ],
+   "source_url": "https://maneatergame.com"
+  },
+  {
+   "id": "varsav-game-studios--bee-simulator",
+   "creator_ids": [
+    "varsav-game-studios"
+   ],
+   "title": "Bee Simulator",
+   "year": 2019,
+   "field": "insect",
+   "sub": "bee",
+   "senses": [
+    "vision",
+    "smell"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "An open-world game in which you are a honeybee in a city park, collecting pollen, dancing to share flower locations and defending the hive.",
+   "description_zh": "一款开放世界游戏：你是城市公园里的一只蜜蜂，采集花粉，用舞蹈分享花的位置，并保卫蜂巢。",
+   "idea_en": "Bee senses gamified: a 'bee vision' mode highlights pollen and scent paths, and the waggle dance is a rhythm mini-game.",
+   "idea_zh": "把蜜蜂感官游戏化：“蜜蜂视觉”模式会高亮花粉与气味路径，摇摆舞则是一个节奏小游戏。",
+   "method": "Third-person flight with a toggleable sense mode, collection tasks and a dance-matching mini-game.",
+   "method_zh": "第三人称飞行，可切换感官模式，包含采集任务与舞步匹配小游戏。",
+   "keywords": [
+    "honeybee",
+    "waggle dance",
+    "bee vision",
+    "pollen"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NSEQIvAgH9o"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914750/header.jpg"
+   ],
+   "source_url": "https://beesimulator.com/"
+  },
+  {
+   "id": "infuse-studio--spirit-of-the-north",
+   "creator_ids": [
+    "infuse-studio"
+   ],
+   "title": "Spirit of the North",
+   "year": 2019,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A wordless adventure in which you are a red fox travelling through Icelandic landscapes, joined by a guardian spirit of the Northern Lights.",
+   "description_zh": "一款无对白的冒险游戏：你是一只赤狐，在冰岛风景中旅行，身边有北极光的守护灵相伴。",
+   "idea_en": "Landscape at fox height, told without words.",
+   "idea_zh": "以狐狸的高度看风景，全程没有语言。",
+   "method": "Third-person exploration and light puzzles using a spirit ability that separates from the fox's body.",
+   "method_zh": "第三人称探索与轻度解谜，使用一种可以离开狐狸身体的灵体能力。",
+   "keywords": [
+    "fox",
+    "Iceland",
+    "Northern Lights",
+    "wordless"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6fZBM6iKUrg"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1213700/header.jpg"
+   ],
+   "source_url": "https://playspiritofthenorth.com/"
+  },
+  {
+   "id": "mooneye-studios--lost-ember",
+   "creator_ids": [
+    "mooneye-studios"
+   ],
+   "title": "Lost Ember",
+   "year": 2019,
+   "field": "animal",
+   "sub": "multispecies",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "An adventure in which you are a wolf who can inhabit other animals, such as a wombat, duck, fish and hummingbird, to cross a ruined land with a spirit companion.",
+   "description_zh": "一款冒险游戏：你是一只能附身其他动物的狼，可以化身袋熊、鸭子、鱼、蜂鸟等，与一个灵魂同伴穿越荒废的大地。",
+   "idea_en": "Switching bodies: each animal opens a different way of moving through the same world.",
+   "idea_zh": "切换身体：每种动物都打开了穿越同一世界的不同方式。",
+   "method": "Third-person play where the player jumps into nearby animals, each with its own movement set.",
+   "method_zh": "第三人称玩法，玩家可以跳入附近的动物，每种动物有各自的动作系统。",
+   "keywords": [
+    "wolf",
+    "wombat",
+    "hummingbird",
+    "body switching"
+   ],
+   "also": [
+    "bird",
+    "fish"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vo7CPfVu7MY"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/563840/header.jpg"
+   ],
+   "source_url": "https://www.lostember.com"
+  },
+  {
+   "id": "coffee-stain-studios--goat-simulator",
+   "creator_ids": [
+    "coffee-stain-studios"
+   ],
+   "title": "Goat Simulator",
+   "year": 2014,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A sandbox in which you are a goat who headbutts, licks and wrecks a small town, with deliberately broken ragdoll physics.",
+   "description_zh": "一款沙盒游戏：你是一只山羊，在小镇里顶撞、舔东西、到处搞破坏，物理效果被故意做得很“坏”。",
+   "idea_en": "Counterpoint: a parody of animal simulation, where the goat is an excuse for physics comedy.",
+   "idea_zh": "对照案例：动物模拟的戏仿，山羊只是物理喜剧的借口。",
+   "method": "Ragdoll physics with a sticky tongue and headbutt, built quickly from a game-jam prototype.",
+   "method_zh": "布娃娃物理配合黏舌与头槌，由 Game Jam 原型快速扩展而成。",
+   "keywords": [
+    "goat",
+    "ragdoll",
+    "parody",
+    "game jam"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JN2QUhaKN2Q"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265930/header.jpg"
+   ],
+   "source_url": "http://goat-simulator.com/"
+  },
+  {
+   "id": "eduweb--wolfquest",
+   "creator_ids": [
+    "eduweb"
+   ],
+   "title": "WolfQuest",
+   "year": 2007,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "smell",
+    "collective-sense"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A wildlife simulation made with the Minnesota Zoo in which you are a gray wolf in Yellowstone, hunting elk, finding a mate, defending territory and raising pups.",
+   "description_zh": "一款与明尼苏达动物园合作开发的野生动物模拟游戏：你是黄石公园的一只灰狼，捕猎马鹿、寻找伴侣、守卫领地、养育幼崽。",
+   "idea_en": "Science-based wolf life: survival follows real ecology, and a scent view reveals prey and territory marks.",
+   "idea_zh": "以科学为基础的狼的生活：生存遵循真实的生态规律，“嗅觉视图”会显示猎物与领地标记。",
+   "method": "3D simulation of Yellowstone's Lamar Valley and Slough Creek with a scent-view mode and multiplayer packs, first funded by the US National Science Foundation.",
+   "method_zh": "对黄石公园 Lamar Valley 与 Slough Creek 的 3D 模拟，有嗅觉视图模式与多人狼群，最初由美国国家科学基金会资助。",
+   "keywords": [
+    "gray wolf",
+    "Yellowstone",
+    "Minnesota Zoo",
+    "scent view",
+    "NSF"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=dS26bwYDzmc"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/926990/header.jpg"
+   ],
+   "source_url": "http://www.wolfquest.org"
+  },
+  {
+   "id": "herobeat-studios--endling",
+   "creator_ids": [
+    "herobeat-studios"
+   ],
+   "title": "Endling - Extinction is Forever",
+   "year": 2022,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "smell",
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "An adventure in which you are the last mother fox on an Earth damaged by humans, foraging at night to feed four cubs while avoiding people and their machines.",
+   "description_zh": "一款冒险游戏：你是被人类破坏的地球上最后一只狐狸妈妈，夜里觅食喂养四只幼崽，同时避开人类与他们的机器。",
+   "idea_en": "Extinction from inside a fox family: environmental damage is felt as hunger and danger for your cubs.",
+   "idea_zh": "从一个狐狸家庭内部经历灭绝：环境破坏被感受为幼崽的饥饿与危险。",
+   "method": "2.5D side-on exploration with a day-night cycle and a scent-tracking sense that leaves visible trails.",
+   "method_zh": "2.5D 侧视探索，有昼夜循环以及留下可见痕迹的嗅觉追踪感官。",
+   "keywords": [
+    "fox",
+    "extinction",
+    "cubs",
+    "scent tracking"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kiM2_XB_HZE"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898890/header.jpg"
+   ],
+   "source_url": "https://www.thqnordicmobile.com/en/games/endling/"
+  },
+  {
+   "id": "breaking-walls--away",
+   "creator_ids": [
+    "breaking-walls"
+   ],
+   "title": "AWAY: The Survival Series",
+   "year": 2021,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A survival adventure styled as a nature documentary, in which you are a sugar glider gliding between trees and fending off predators to protect your family.",
+   "description_zh": "一款以自然纪录片风格呈现的生存冒险游戏：你是一只蜜袋鼯，在树间滑翔、击退捕食者以保护家人。",
+   "idea_en": "The documentary subject becomes the player: a narrator describes the animal the player is controlling.",
+   "idea_zh": "纪录片的拍摄对象变成了玩家：旁白描述的正是玩家操控的动物。",
+   "method": "Third-person gliding and climbing with documentary-style narration and cameras.",
+   "method_zh": "第三人称滑翔与攀爬，配以纪录片式旁白与镜头。",
+   "keywords": [
+    "sugar glider",
+    "nature documentary",
+    "gliding",
+    "survival"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xGYbtvKcjmQ"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750200/header.jpg"
+   ],
+   "source_url": "https://www.breakingwalls.co/"
+  },
+  {
+   "id": "videocult--rain-world",
+   "creator_ids": [
+    "videocult"
+   ],
+   "title": "Rain World",
+   "year": 2017,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A survival platformer in which you are a slugcat, a small prey animal in a ruined industrial ecosystem of predators, forced to find shelter before deadly rains.",
+   "description_zh": "一款生存平台游戏：你是一只“蛞蝓猫”，在满是捕食者的废弃工业生态中身为弱小猎物，必须在致命暴雨来临前找到庇护所。",
+   "idea_en": "Being low in a food chain: other creatures follow their own lives, and the player is one animal among many.",
+   "idea_zh": "身处食物链低端：其他生物按自己的方式生活，玩家只是众多动物中的一只。",
+   "method": "Procedurally animated creatures with autonomous AI that hunt, flee and interact independently of the player.",
+   "method_zh": "程序化动画的生物拥有自主 AI，会独立于玩家狩猎、逃跑与互动。",
+   "keywords": [
+    "slugcat",
+    "ecosystem",
+    "procedural animation",
+    "creature AI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kxbQy0U92R4"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/header.jpg"
+   ],
+   "source_url": "https://www.akuparagames.com/game/rain-world/"
+  },
+  {
+   "id": "clover-studio--okami",
+   "creator_ids": [
+    "clover-studio"
+   ],
+   "title": "Ōkami",
+   "year": 2006,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "An action-adventure in which you are Amaterasu, the Japanese sun goddess in the form of a white wolf, restoring a cursed land to life by painting on the world with a celestial brush.",
+   "description_zh": "一款动作冒险游戏：你是以白狼形态出现的日本太阳女神天照，用“笔神”在世界上作画，让被诅咒的大地复苏。",
+   "idea_en": "A wolf body with a painter's gesture: restoring nature is done by drawing, in a sumi-e world.",
+   "idea_zh": "狼的身体加上画师的手势：在水墨风格的世界里，通过绘画让自然复苏。",
+   "method": "Cel-shaded sumi-e rendering; pausing the game turns the screen into paper on which brush strokes cast spells.",
+   "method_zh": "卡通渲染的水墨画风；暂停后屏幕变成画纸，笔触即法术。",
+   "keywords": [
+    "white wolf",
+    "Amaterasu",
+    "sumi-e",
+    "Celestial Brush",
+    "Capcom"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4_42UdWgEmY"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587620/header.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/%C5%8Ckami"
+  },
+  {
+   "id": "awaceb--tchia",
+   "creator_ids": [
+    "awaceb"
+   ],
+   "title": "Tchia",
+   "year": 2023,
+   "field": "animal",
+   "sub": "multispecies",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "An open-world game set in an archipelago inspired by New Caledonia, where a 'Soul Jump' lets you take control of any animal or object.",
+   "description_zh": "一款以新喀里多尼亚为灵感的群岛开放世界游戏，“灵魂跳跃”让你可以操控任何动物或物件。",
+   "idea_en": "Soul jumping: birds, dogs, fish, rocks and lamps can all be inhabited, each with its own abilities.",
+   "idea_zh": "灵魂跳跃：鸟、狗、鱼、石头、灯都能被附身，各有不同能力。",
+   "method": "A timed possession mechanic swaps the player's controls to the target creature's or object's movement set.",
+   "method_zh": "限时附身机制把玩家的操作切换到目标生物或物件的动作系统。",
+   "keywords": [
+    "soul jump",
+    "New Caledonia",
+    "possession",
+    "Kepler Interactive"
+   ],
+   "also": [
+    "robot",
+    "bird",
+    "fish"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rdAGrXZC2iQ"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496590/header.jpg"
+   ],
+   "source_url": "https://www.awaceb.com/tchia"
+  },
+  {
+   "id": "sumo-digital--snake-pass",
+   "creator_ids": [
+    "sumo-digital"
+   ],
+   "title": "Snake Pass",
+   "year": 2017,
+   "field": "animal",
+   "sub": "reptile",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A physics puzzle-platformer in which you are Noodle the snake; with no jump, you must coil around bamboo poles and grip to climb.",
+   "description_zh": "一款物理解谜平台游戏：你是一条名叫 Noodle 的蛇，不能跳，只能缠绕竹竿、抓紧往上爬。",
+   "idea_en": "Thinking like a snake: movement is coiling and grip, and you must plan with your whole body.",
+   "idea_zh": "像蛇一样思考：移动就是盘绕与抓握，必须用整个身体来规划。",
+   "method": "A physics-driven spine controlled with separate inputs for slithering forward, raising the head and tightening grip.",
+   "method_zh": "物理驱动的脊柱，用不同按键分别控制向前游动、抬头与收紧。",
+   "keywords": [
+    "snake",
+    "physics",
+    "coiling",
+    "no jump"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kW9uDgo7nlA"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/544330/header.jpg"
+   ],
+   "source_url": "https://www.sumo-digital.com/"
+  },
+  {
+   "id": "crispys--tokyo-jungle",
+   "creator_ids": [
+    "crispys"
+   ],
+   "title": "Tokyo Jungle",
+   "year": 2012,
+   "field": "animal",
+   "sub": "multispecies",
+   "senses": [
+    "time-scale",
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A survival game set in a Tokyo without people, where you play as Pomeranians, deer, lions and dozens of other animals, eating, marking territory and breeding the next generation.",
+   "description_zh": "一款生存游戏，舞台是没有人类的东京：你可以扮演博美犬、鹿、狮子等数十种动物，进食、标记领地、繁育下一代。",
+   "idea_en": "Generational survival: each animal lives a short life and the player continues as its offspring.",
+   "idea_zh": "代际生存：每只动物只有短暂的一生，玩家以它的后代继续下去。",
+   "method": "Side-on survival with hunger, territory marking, mating and aging over in-game years; co-developed with Sony's Japan Studio for PlayStation 3.",
+   "method_zh": "侧视生存玩法，包含饥饿、领地标记、交配与随游戏年份衰老；与索尼 Japan Studio 合作为 PlayStation 3 开发。",
+   "keywords": [
+    "Pomeranian",
+    "post-human Tokyo",
+    "generations",
+    "Japan Studio"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zasefwWK5fA"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/zasefwWK5fA/hqdefault.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Tokyo_Jungle"
+  },
+  {
+   "id": "frontier-developments--dogs-life",
+   "creator_ids": [
+    "frontier-developments"
+   ],
+   "title": "Dog's Life",
+   "year": 2003,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "smell",
+    "vision"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "An adventure in which you are Jake, a dog searching for a friend; 'Smellovision' switches to a dog's-eye view in which scents appear as coloured clouds.",
+   "description_zh": "一款冒险游戏：你是一只名叫 Jake 的狗，在寻找朋友；“嗅觉视图”会切换到狗的视角，气味以彩色云团呈现。",
+   "idea_en": "Canine smell made visible: the world desaturates and odours become coloured clouds to follow.",
+   "idea_zh": "让狗的嗅觉可见：世界褪色，气味变成可追踪的彩色云团。",
+   "method": "A first-person smell mode that drains colour from the scene and overlays coloured scent sources on PlayStation 2.",
+   "method_zh": "PlayStation 2 上的第一人称嗅觉模式，让场景褪色并叠加彩色气味源。",
+   "keywords": [
+    "dog",
+    "Smellovision",
+    "scent",
+    "PlayStation 2"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hShavuoq2vY"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/hShavuoq2vY/hqdefault.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Dog%27s_Life"
+  },
+  {
+   "id": "nintendo--mole-mania",
+   "creator_ids": [
+    "nintendo"
+   ],
+   "title": "Mole Mania",
+   "year": 1996,
+   "field": "mole",
+   "sub": "underground",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A Game Boy puzzle game in which you are Muddy Mole, digging between the surface and an underground layer to push a heavy iron ball through each screen.",
+   "description_zh": "一款 Game Boy 解谜游戏：你是鼹鼠 Muddy，在地表与地下两层之间挖洞，把沉重的铁球推过每一屏。",
+   "idea_en": "A two-layer world: burrowing lets the mole pass under obstacles that block it above ground.",
+   "idea_zh": "两层世界：挖洞让鼹鼠可以从地下绕过地面上挡路的障碍。",
+   "method": "Top-down puzzles on two linked maps, surface and underground, with dig holes as transitions; produced by Shigeru Miyamoto.",
+   "method_zh": "在地表与地下两张相连的俯视地图上解谜，挖出的洞就是通道；由宫本茂担任制作人。",
+   "keywords": [
+    "mole",
+    "burrowing",
+    "Game Boy",
+    "Shigeru Miyamoto"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jkSsFJzjwDM"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/jkSsFJzjwDM/hqdefault.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Mole_Mania"
+  },
+  {
+   "id": "sbug-games--webbed",
+   "creator_ids": [
+    "sbug-games"
+   ],
+   "title": "Webbed",
+   "year": 2021,
+   "field": "insect",
+   "sub": "insect-other",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A 2D physics platformer in which you are a small peacock spider who spins webs to swing, build bridges and move objects to rescue a partner.",
+   "description_zh": "一款 2D 物理平台游戏：你是一只小小的孔雀蜘蛛，吐丝荡秋千、搭桥、移动物体，去营救伴侣。",
+   "idea_en": "Silk as an extended body: the web is a tool, a path and a limb at once.",
+   "idea_zh": "蛛丝是延伸的身体：网同时是工具、道路与肢体。",
+   "method": "Physically simulated silk strands that can be anchored, tensioned and cut.",
+   "method_zh": "物理模拟的蛛丝，可以锚定、拉紧与剪断。",
+   "keywords": [
+    "spider",
+    "peacock spider",
+    "silk",
+    "physics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xcSo912bT44"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390350/header.jpg"
+   ],
+   "source_url": "https://store.steampowered.com/app/1390350/Webbed/"
+  },
+  {
+   "id": "tower-five--empire-of-the-ants",
+   "creator_ids": [
+    "tower-five"
+   ],
+   "title": "Empire of the Ants",
+   "year": 2024,
+   "field": "insect",
+   "sub": "colony",
+   "senses": [
+    "collective-sense",
+    "time-scale"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A photorealistic strategy adventure in which you are ant no. 103,683, exploring the forest floor and commanding a colony through the seasons; based on Bernard Werber's novel.",
+   "description_zh": "一款照片级真实的策略冒险游戏：你是 103,683 号蚂蚁，探索森林地面并带领蚁群度过四季；改编自 Bernard Werber 的小说。",
+   "idea_en": "Ant scale made photoreal: leaves, drops and moss become architecture, and one ant directs a superorganism.",
+   "idea_zh": "照片级的蚂蚁尺度：落叶、水滴和苔藓变成建筑，一只蚂蚁指挥一个超个体。",
+   "method": "Unreal Engine 5 rendering of real forest scenes at ant scale, combining third-person exploration with real-time strategy.",
+   "method_zh": "用 Unreal Engine 5 以蚂蚁尺度渲染真实森林场景，结合第三人称探索与即时战略。",
+   "keywords": [
+    "ant",
+    "colony",
+    "Unreal Engine 5",
+    "Bernard Werber",
+    "Microids"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4FoxT1FtnBI"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2287330/header.jpg"
+   ],
+   "source_url": "https://www.microids.com/empire-of-the-ants/"
+  },
+  {
+   "id": "krillbite-studio--the-plan",
+   "creator_ids": [
+    "krillbite-studio"
+   ],
+   "title": "The Plan",
+   "year": 2013,
+   "field": "insect",
+   "sub": "insect-other",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A short, free game in which you fly as a housefly upward through a dark forest toward a light, accompanied by Grieg's In the Hall of the Mountain King.",
+   "description_zh": "一款短小的免费游戏：你是一只苍蝇，在黑暗的森林中向上飞向光亮，伴随着格里格的《在山魔王的宫殿里》。",
+   "idea_en": "A life at fly scale: a slow ascent that makes a tiny, short life feel significant.",
+   "idea_zh": "苍蝇尺度的一生：一段缓慢的上升，让渺小而短暂的生命显得有分量。",
+   "method": "Simple 3D flight controls in a single continuous level scored to classical music.",
+   "method_zh": "简单的 3D 飞行操作，单一连续关卡，配以古典音乐。",
+   "keywords": [
+    "housefly",
+    "Grieg",
+    "art game",
+    "short"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tWEZ2cbdacc"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250600/header.jpg"
+   ],
+   "source_url": "http://krillbite.com/theplan"
+  },
+  {
+   "id": "zoom-inc--mister-mosquito",
+   "creator_ids": [
+    "zoom-inc"
+   ],
+   "title": "Mister Mosquito",
+   "year": 2001,
+   "field": "insect",
+   "sub": "insect-other",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A stealth game in which you are a mosquito feeding on members of a Japanese family through the summer without being noticed or swatted.",
+   "description_zh": "一款潜行游戏：你是一只蚊子，整个夏天都要在不被察觉、不被拍死的情况下吸一家日本人的血。",
+   "idea_en": "The human body as terrain: feeding is stealth, and the host's stress rises with every mistake.",
+   "idea_zh": "人体即地形：吸血是潜行，每一次失误都会让宿主的烦躁上升。",
+   "method": "3D flight around life-size human characters with a stress meter and pressure-sensitive analog control for how hard to suck.",
+   "method_zh": "围绕真人比例的角色进行 3D 飞行，有烦躁值指示，并用压感模拟摇杆控制吸血力度。",
+   "keywords": [
+    "mosquito",
+    "stealth",
+    "PlayStation 2",
+    "Ka"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KpaI7rE2AiA"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/KpaI7rE2AiA/hqdefault.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Mister_Mosquito"
+  },
+  {
+   "id": "samurai-punk--feather",
+   "creator_ids": [
+    "samurai-punk"
+   ],
+   "title": "Feather",
+   "year": 2018,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A relaxed multiplayer game in which you are a bird gliding over an island, with no goals, score or competition.",
+   "description_zh": "一款轻松的多人游戏：你是一只鸟，在岛屿上空滑翔，没有目标、分数或竞争。",
+   "idea_en": "Flight without objectives: being a bird is the whole activity.",
+   "idea_zh": "没有目标的飞行：做一只鸟本身就是全部。",
+   "method": "Third-person gliding with an adaptive soundtrack that responds to where and how the player flies.",
+   "method_zh": "第三人称滑翔，配乐会根据玩家飞行的位置与方式变化。",
+   "keywords": [
+    "bird",
+    "gliding",
+    "ambient",
+    "multiplayer"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NaaaHuZ3Pno"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/NaaaHuZ3Pno/hqdefault.jpg"
+   ],
+   "source_url": "https://samuraipunk.com/"
+  },
+  {
+   "id": "epixr-games--aery",
+   "creator_ids": [
+    "epixr-games"
+   ],
+   "title": "Aery - Little Bird Adventure",
+   "year": 2020,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "vr"
+   ],
+   "kind": "game",
+   "description": "A calm flying game in which you are a small bird exploring dreamlike landscapes; a VR edition followed in 2023.",
+   "description_zh": "一款平静的飞行游戏：你是一只小鸟，在梦境般的风景中探索；2023 年推出 VR 版。",
+   "idea_en": "Bird flight as rest: no combat, just gliding through places.",
+   "idea_zh": "把鸟的飞行当作休憩：没有战斗，只是在各处滑翔。",
+   "method": "Third-person flight with collectibles on PC and consoles, plus a VR-supported edition with head-steered flight.",
+   "method_zh": "PC 与主机上的第三人称飞行与收集，另有支持 VR 的版本。",
+   "keywords": [
+    "bird",
+    "relaxing",
+    "VR edition"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mRkG9156FgE"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424770/header.jpg"
+   ],
+   "source_url": "https://store.steampowered.com/app/1424770/"
+  },
+  {
+   "id": "old-b1ood--feed-and-grow-fish",
+   "creator_ids": [
+    "old-b1ood"
+   ],
+   "title": "Feed and Grow: Fish",
+   "year": 2016,
+   "field": "fish",
+   "sub": "fish",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A sandbox in which you start as a small fish and grow by eating other fish, unlocking many real species from piranhas to sharks.",
+   "description_zh": "一款沙盒游戏：你从一条小鱼开始，靠吃其他鱼长大，可以解锁从食人鱼到鲨鱼的多种真实鱼类。",
+   "idea_en": "Size is survival: the underwater world reorganises itself as your body grows.",
+   "idea_zh": "体型即生存：随着身体长大，水下世界的关系随之重组。",
+   "method": "Third-person swimming with growth-by-eating and species with different speeds and bites.",
+   "method_zh": "第三人称游泳，靠进食成长，不同鱼种有不同的速度与咬合方式。",
+   "keywords": [
+    "fish",
+    "piranha",
+    "shark",
+    "growth",
+    "sandbox"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=i1zwzRkzSaY"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/header.jpg"
+   ],
+   "source_url": "http://www.feedandgrow.net"
+  },
+  {
+   "id": "bossa-studios--i-am-bread",
+   "creator_ids": [
+    "bossa-studios"
+   ],
+   "title": "I Am Bread",
+   "year": 2015,
+   "field": "robot",
+   "sub": "object",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A physics game in which you are a slice of bread trying to become toast, moving by lifting and planting each of its four corners.",
+   "description_zh": "一款物理游戏：你是一片面包，想变成吐司，靠抬起和放下四个角来移动。",
+   "idea_en": "Object embodiment through awkward control: each corner is a limb, and the kitchen becomes terrain.",
+   "idea_zh": "通过笨拙的操控成为物件：每个角都是一条肢体，厨房变成了地形。",
+   "method": "Each corner mapped to a separate button or trigger with grip, over a physics-simulated slice that can get dirty or damp.",
+   "method_zh": "四个角分别映射到不同按键或扳机并可抓附，驱动一片会变脏或受潮的物理模拟面包。",
+   "keywords": [
+    "bread",
+    "object",
+    "physics",
+    "toast"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MwDhUt5ewKk"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327890/header.jpg"
+   ],
+   "source_url": "http://www.iambreadgame.com"
+  },
+  {
+   "id": "ben-esposito--donut-county",
+   "creator_ids": [
+    "ben-esposito"
+   ],
+   "title": "Donut County",
+   "year": 2018,
+   "field": "robot",
+   "sub": "object",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A physics puzzle game in which you are a hole in the ground that grows as it swallows objects, people and eventually whole buildings.",
+   "description_zh": "一款物理解谜游戏：你是地上的一个洞，吞下物件、人，最终吞下整栋建筑，越吞越大。",
+   "idea_en": "Becoming absence: the player is a hole, defined only by what falls into it.",
+   "idea_zh": "成为“空缺”：玩家是一个洞，只由掉进来的东西来定义。",
+   "method": "A moving hole that cuts through the physics floor and grows with each swallowed object.",
+   "method_zh": "一个会移动的洞切开物理地面，每吞下一件物体就变大一点。",
+   "keywords": [
+    "hole",
+    "object",
+    "physics",
+    "Annapurna Interactive"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jei2tYpNvcw"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702670/header.jpg"
+   ],
+   "source_url": "http://donutcounty.com"
+  },
+  {
+   "id": "the-deep-end-games--perception",
+   "creator_ids": [
+    "the-deep-end-games"
+   ],
+   "title": "Perception",
+   "year": 2017,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A first-person horror game in which Cassie, a blind woman, taps her cane to reveal a haunted house in brief blue echoes.",
+   "description_zh": "一款第一人称恐怖游戏：盲人女性 Cassie 用手杖敲击，让闹鬼的房子在短暂的蓝色回声中显现。",
+   "idea_en": "Echo-vision as a rendering style: the character is human, but the way sound paints space is a reference design for bat-like perception.",
+   "idea_zh": "回声视觉作为渲染风格：角色是人类，但声音描绘空间的方式是类蝙蝠感知的参考设计。",
+   "method": "Every sound source briefly outlines nearby geometry in blue, which then fades back to darkness.",
+   "method_zh": "每个声源都会用蓝色短暂勾勒附近的几何体，随后重新没入黑暗。",
+   "keywords": [
+    "echolocation",
+    "blind",
+    "cane",
+    "sonar rendering",
+    "horror"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=IlyRfKP-mxg"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/IlyRfKP-mxg/hqdefault.jpg"
+   ],
+   "source_url": "https://thedeependgames.com/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Proteus (Ed Key & David Kanaga, 2013)",
+   "why": "Island exploration where sound responds to the landscape; the player is a disembodied perceiver rather than a nonhuman being.",
+   "link": "http://www.visitproteus.com",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Paper Beast (Pixel Reef / Eric Chahi, 2020)",
+   "why": "VR ecosystem of paper creatures; player observes and shapes rather than embodies them.",
+   "link": "https://www.pixelreef.fr/paper-beast/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Animal Company (Wooster Games, 2023)",
+   "why": "Social VR scavenging game with Gorilla Tag-style arm locomotion as small animals; derivative of Gorilla Tag.",
+   "link": "https://www.animalcompanyvr.com/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "I Am Chameleon (Shift Logic Solutions, 2026)",
+   "why": "Multiplayer VR hide-and-seek where players paint themselves to blend into surfaces.",
+   "link": "https://www.meta.com/experiences/1218791921314709/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Spiders (Soaring Roc Studio)",
+   "why": "VR game where the player appears to be a spider; not verified.",
+   "link": "https://www.youtube.com/watch?v=pvf4k69Sgk8",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Plague Inc (Ndemic Creations, 2012)",
+   "why": "Strategy game where the player is a pathogen spreading across the world; map-level, not embodied.",
+   "link": "http://www.plagueincevolved.com",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Abzû (Giant Squid, 2016)",
+   "why": "Underwater game with large fish schools; the player is a diver, not an animal.",
+   "link": "https://abzugame.com/",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Everything is Crab (Odd Dreams Digital, 2026)",
+   "why": "Animal-evolution roguelite; not yet reviewed.",
+   "link": "https://store.steampowered.com/app/3526710/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Spirit of the North 2 (Infuse Studio, 2025)",
+   "why": "Sequel with a fox and a raven companion.",
+   "link": "https://store.steampowered.com/app/1778840/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Bee Simulator: The Hive (VARSAV, 2025)",
+   "why": "Sequel to Bee Simulator with colony building.",
+   "link": "https://store.steampowered.com/app/3348910/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Isopod: A Webbed Spin-off (Sbug Games, 2025)",
+   "why": "Spin-off where the player is an isopod.",
+   "link": "https://store.steampowered.com/app/2053910/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Octodad (DePaul University student game, 2010)",
+   "why": "Original free student version of Octodad.",
+   "link": "https://store.steampowered.com/app/224480/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Ecco the Dolphin: Defender of the Future (Appaloosa, 2000)",
+   "why": "3D Ecco sequel for Dreamcast with echolocation and a science-fiction story.",
+   "link": "https://en.wikipedia.org/wiki/Ecco_the_Dolphin:_Defender_of_the_Future",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Hohokum (Honeyslug, 2014)",
+   "why": "Play as a kite-like, snake-shaped creature; abstract rather than animal.",
+   "link": "https://en.wikipedia.org/wiki/Hohokum",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Birdly (Somniacs)",
+   "why": "Full-body VR flight simulator; covered by another batch.",
+   "link": "https://www.birdlyvr.com/",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Falcon Age (Outerloop Games, 2019)",
+   "why": "VR game with a falcon companion; the player stays human.",
+   "link": "https://www.falconage.com/",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Beyond Blue (E-Line Media, 2020)",
+   "why": "Ocean game where the player is a human marine biologist.",
+   "link": "https://www.beyondbluegame.com/",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Bird Alone (George Batchelor, 2020)",
+   "why": "Mobile game about befriending a bird; the player stays human.",
+   "link": "https://www.birdalone.com/",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Goat Simulator 3 (Coffee Stain North, 2022)",
+   "why": "Sequel; adds little beyond the original for this gallery.",
+   "link": "https://www.goatsimulator3.com/",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}

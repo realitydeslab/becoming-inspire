@@ -1,0 +1,119 @@
+[
+ {
+  "id": "venice-immersive",
+  "type": "festival",
+  "en": "Venice Immersive",
+  "zh": "威尼斯沉浸式单元",
+  "desc_en": "The immersive competition of the Venice International Film Festival (Venice Virtual Reality 2017–2019, Venice VR Expanded 2020–2021, Venice Immersive since 2022).",
+  "desc_zh": "威尼斯国际电影节的沉浸式竞赛单元（2017–2019 年为 Venice Virtual Reality，2020–2021 年为 Venice VR Expanded，2022 年起为 Venice Immersive）。",
+  "url": "https://www.labiennale.org/en/cinema/2025/venice-immersive"
+ },
+ {
+  "id": "sundance-new-frontier",
+  "type": "festival",
+  "en": "Sundance New Frontier",
+  "zh": "圣丹斯新前沿单元",
+  "desc_en": "Sundance Film Festival's programme for new media, VR and installation (2007–2022).",
+  "desc_zh": "圣丹斯电影节面向新媒体、VR 与装置的单元（2007–2022）。",
+  "url": "https://www.sundance.org"
+ },
+ {
+  "id": "tribeca-immersive",
+  "type": "festival",
+  "en": "Tribeca Immersive",
+  "zh": "翠贝卡沉浸式单元",
+  "desc_en": "The immersive and VR programme of the Tribeca Festival, New York.",
+  "desc_zh": "纽约翠贝卡电影节的沉浸式与 VR 单元。",
+  "url": "https://tribecafilm.com/festival/immersive"
+ },
+ {
+  "id": "idfa-doclab",
+  "type": "festival",
+  "en": "IDFA DocLab",
+  "zh": "IDFA DocLab 数字纪录单元",
+  "desc_en": "The interactive and immersive non-fiction programme of the International Documentary Film Festival Amsterdam, founded in 2007.",
+  "desc_zh": "阿姆斯特丹国际纪录片电影节的互动与沉浸式非虚构单元，创立于 2007 年。",
+  "url": "https://festival.idfa.nl"
+ },
+ {
+  "id": "sxsw-xr",
+  "type": "festival",
+  "en": "SXSW XR Experience",
+  "zh": "SXSW XR 体验单元",
+  "desc_en": "The XR competition and exhibition of South by Southwest, Austin.",
+  "desc_zh": "奥斯汀“西南偏南”（SXSW）的 XR 竞赛与展览。",
+  "url": "https://sxsw.com/exhibitions/sxsw-xr-experience/"
+ },
+ {
+  "id": "ars-electronica",
+  "type": "festival",
+  "en": "Ars Electronica",
+  "zh": "林茨电子艺术节",
+  "desc_en": "The Linz festival, Prix Ars Electronica awards and Deep Space 8K venue for art, technology and society.",
+  "desc_zh": "林茨电子艺术节，包括 Prix Ars Electronica 奖项与 Deep Space 8K 场馆，关注艺术、技术与社会。",
+  "url": "https://ars.electronica.art"
+ },
+ {
+  "id": "wildscreen-festival",
+  "type": "festival",
+  "en": "Wildscreen Festival",
+  "zh": "Wildscreen 野生影像节",
+  "desc_en": "Bristol's international festival of natural world storytelling, with an immersive category.",
+  "desc_zh": "布里斯托的国际自然影像节，设有沉浸式类别。",
+  "url": "https://wildscreen.org"
+ },
+ {
+  "id": "barbican-our-time-on-earth-2022",
+  "type": "exhibition",
+  "en": "Our Time on Earth (Barbican, 2022)",
+  "zh": "《Our Time on Earth》（巴比肯，2022）",
+  "desc_en": "Barbican exhibition curated by Luke Kemp with FranklinTill: immersive works on humans as one species among millions.",
+  "desc_zh": "巴比肯艺术中心展览，由 Luke Kemp 与 FranklinTill 策划：以沉浸式作品呈现人类只是数百万物种之一。",
+  "url": "https://www.barbican.org.uk/whats-on/2022/event/our-time-on-earth"
+ },
+ {
+  "id": "design-museum-more-than-human-2025",
+  "type": "exhibition",
+  "en": "More than Human (Design Museum, 2025)",
+  "zh": "《More than Human》（设计博物馆，2025）",
+  "desc_en": "Design Museum and Future Observatory exhibition on more-than-human design, with a closing section on how plants and animals perceive the world.",
+  "desc_zh": "设计博物馆与 Future Observatory 联合策划的超越人类设计展，最后一部分关注植物与动物如何感知世界。",
+  "url": "https://designmuseum.org/exhibitions/more-than-human"
+ },
+ {
+  "id": "geneva-international-film-festival",
+  "type": "festival",
+  "en": "GIFF – Geneva International Film Festival",
+  "zh": "日内瓦国际电影节（GIFF）",
+  "desc_en": "Geneva festival (formerly Tous Écrans) with a long-running immersive and XR competition.",
+  "desc_zh": "日内瓦电影节（前身为 Tous Écrans），长期设有沉浸式与 XR 竞赛。",
+  "url": "https://giff.ch"
+ },
+ {
+  "id": "sheffield-docfest-alternate-realities",
+  "type": "festival",
+  "en": "Sheffield DocFest Alternate Realities",
+  "zh": "谢菲尔德纪录片节 Alternate Realities 单元",
+  "desc_en": "The immersive and interactive strand of Sheffield DocFest.",
+  "desc_zh": "谢菲尔德纪录片节的沉浸式与互动单元。",
+  "url": "https://www.sheffdocfest.com"
+ },
+ {
+  "id": "siggraph-xr",
+  "type": "festival",
+  "en": "SIGGRAPH Immersive Pavilion, XR & Emerging Technologies",
+  "zh": "SIGGRAPH 沉浸式展馆、XR 与新兴技术单元",
+  "desc_en": "The juried XR, Immersive Pavilion, Art Gallery and Emerging Technologies programmes of ACM SIGGRAPH and SIGGRAPH Asia.",
+  "desc_zh": "ACM SIGGRAPH 与 SIGGRAPH Asia 的评审制 XR、沉浸式展馆、艺术画廊与新兴技术单元。",
+  "url": "https://www.siggraph.org"
+ },
+ {
+  "id": "raindance-immersive",
+  "type": "festival",
+  "en": "Raindance Immersive",
+  "zh": "Raindance 沉浸式单元",
+  "desc_en": "The immersive and social-VR programme of the Raindance Film Festival, London.",
+  "desc_zh": "伦敦 Raindance 电影节的沉浸式与社交 VR 单元。",
+  "url": "https://raindance.org"
+ }
+]

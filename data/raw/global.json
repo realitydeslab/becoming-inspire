@@ -1,0 +1,3335 @@
+{
+ "batch": "global",
+ "creators": [
+  {
+   "id": "denilson-baniwa",
+   "name": "Denilson Baniwa",
+   "kind": "person",
+   "role": "Baniwa artist, curator and activist",
+   "role_zh": "巴尼瓦族艺术家、策展人与社会活动者",
+   "based": "Rio de Janeiro, Brazil",
+   "based_zh": "里约热内卢，巴西",
+   "bio": "Born in the village of Darí on the Rio Negro, Amazonas; works across painting, murals, performance and digital media to assert Indigenous presence in Brazilian art.",
+   "bio_zh": "出生于亚马孙州内格罗河畔的达里村，以绘画、壁画、表演和数字媒介在巴西艺术界主张原住民的在场。",
+   "why": "His recurring Pajé-Onça (jaguar shaman) persona is a living, performed form of becoming-animal rooted in Amazonian cosmology.",
+   "why_zh": "他反复化身的“美洲豹萨满”（Pajé-Onça）是一种扎根于亚马孙宇宙观、以表演实践的“成为动物”。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.biennaleofsydney.art/participants/denilson-baniwa/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "uyra-sodoma",
+   "name": "Uýra Sodoma",
+   "kind": "person",
+   "role": "Indigenous travesti performance artist and biologist",
+   "role_zh": "原住民跨性别表演艺术家与生物学者",
+   "based": "Manaus, Brazil",
+   "based_zh": "马瑙斯，巴西",
+   "bio": "Born in Santarém, Pará (1991), trained in biology and ecology; since 2016 transforms into Uýra, 'the tree that walks', using leaves, bark, seeds and pigments. PIPA Prize 2022.",
+   "bio_zh": "1991 年生于帕拉州圣塔伦，学习生物学与生态学；自 2016 年起用树叶、树皮、种子和天然颜料化身为“会走路的树”乌伊拉。2022 年获 PIPA 奖。",
+   "why": "Her performances make the human body into plant and animal matter to speak for damaged Amazonian ecosystems.",
+   "why_zh": "她的表演把人的身体变成植物与动物的质料，为受损的亚马孙生态发声。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lai-guan-yuan",
+   "name": "Lai Guan-yuan",
+   "kind": "person",
+   "role": "XR director",
+   "role_zh": "XR 导演",
+   "based": "Taiwan",
+   "based_zh": "台湾",
+   "bio": "Taiwanese director who made the mixed-reality literary documentary Black Wings for Taiwan's Cultural Kuroshio XR programme.",
+   "bio_zh": "台湾导演，为台湾“文化黑潮 XR 沉浸式创作”计划制作了混合现实文学纪录作品《黑色的翅膀》。",
+   "why": "Black Wings lets visitors become a flying fish in the Kuroshio current through the words of a Tao (Yami) writer.",
+   "why_zh": "《黑色的翅膀》借达悟族作家的文字，让观众化身为黑潮中的飞鱼。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "atsushi-wada",
+   "name": "Atsushi Wada",
+   "kind": "person",
+   "role": "Animation director",
+   "role_zh": "动画导演",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Japanese independent animator (Berlinale Silver Bear for The Great Rabbit, 2012) known for slow, absurd hand-drawn films; If I Could See a Cat is his first VR work, produced by Kodansha VR Lab.",
+   "bio_zh": "日本独立动画作者（2012 年以《大兔子》获柏林银熊奖），以缓慢、荒诞的手绘动画闻名；《猫が見えたら》是他的首部 VR 作品，由讲谈社 VR Lab 制作。",
+   "why": "He uses VR to hand the viewer a cat's body and gestures rather than a human point of view.",
+   "why_zh": "他用 VR 把猫的身体和动作交给观众，而不是给出一个人类视角。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kingsley-ng",
+   "name": "Kingsley Ng",
+   "kind": "person",
+   "role": "Visual artist",
+   "role_zh": "视觉艺术家",
+   "based": "Hong Kong",
+   "based_zh": "香港",
+   "bio": "Hong Kong artist working with light, site and sound; represented Hong Kong at the Venice Biennale 2026 with Angel Hui.",
+   "bio_zh": "香港艺术家，以光、场域与声音创作；2026 年与许诺一起代表香港参加威尼斯双年展。",
+   "why": "Co-directed Aria, a VR work that looks at air and nature from the positions of insects and birds.",
+   "why_zh": "与人合导《空气颂》，一部从昆虫与鸟的位置去看空气与自然的 VR 作品。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "eugene-birman"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eugene-birman",
+   "name": "Eugene Birman",
+   "kind": "person",
+   "role": "Composer",
+   "role_zh": "作曲家",
+   "based": "Hong Kong",
+   "based_zh": "香港",
+   "bio": "Composer and assistant professor of music at Hong Kong Baptist University, working on large-scale, data-driven music theatre.",
+   "bio_zh": "作曲家，香港浸会大学音乐系助理教授，创作大型、以数据驱动的音乐剧场。",
+   "why": "Composed Aria, whose music responds to air-quality data and is heard from nonhuman viewpoints.",
+   "why_zh": "为《空气颂》作曲，音乐随空气质量数据变化，并从非人类的视点被聆听。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "kingsley-ng"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "xu-bing",
+   "name": "Xu Bing",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Beijing, China",
+   "based_zh": "北京，中国",
+   "bio": "Chinese artist known for Book from the Sky; his first feature film, Dragonfly Eyes (2017), is edited entirely from public surveillance footage.",
+   "bio_zh": "中国艺术家，以《天书》闻名；首部长片《蜻蜓之眼》（2017）全部由公开的监控录像剪辑而成。",
+   "why": "Dragonfly Eyes shows the world as seen by thousands of machine eyes.",
+   "why_zh": "《蜻蜓之眼》呈现了由成千上万只机器之眼所看到的世界。",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://www.xubing.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lawrence-lek",
+   "name": "Lawrence Lek",
+   "kind": "person",
+   "role": "Simulation artist and filmmaker",
+   "role_zh": "模拟艺术家与电影人",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Artist of Malaysian Chinese descent who builds game-engine films and open-world simulations about AI, Sinofuturism and machine consciousness.",
+   "bio_zh": "马来西亚华裔艺术家，用游戏引擎制作影片与开放世界模拟，关注人工智能、中华未来主义与机器意识。",
+   "why": "His films narrate the world from the inside of artificial minds such as a satellite AI.",
+   "why_zh": "他的影片从卫星 AI 等人工心智的内部讲述世界。",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://lawrencelek.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ho-tzu-nyen",
+   "name": "Ho Tzu Nyen",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "role_zh": "艺术家与电影人",
+   "based": "Singapore",
+   "based_zh": "新加坡",
+   "bio": "Singaporean artist making video installations and theatre that rework Southeast Asian history and myth; represented Singapore at the Venice Biennale 2011.",
+   "bio_zh": "新加坡艺术家，以录像装置与剧场重写东南亚的历史与神话；2011 年代表新加坡参加威尼斯双年展。",
+   "why": "His tiger works give voice to the Malayan tiger and the weretiger, the human who becomes a tiger.",
+   "why_zh": "他的“老虎”系列让马来亚虎与“虎人”（会变成老虎的人）发声。",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hiroo-iwata",
+   "name": "Hiroo Iwata",
+   "kind": "person",
+   "role": "VR researcher and device artist",
+   "role_zh": "虚拟现实研究者与装置艺术家",
+   "based": "Tsukuba, Japan",
+   "based_zh": "筑波，日本",
+   "bio": "Professor at the University of Tsukuba who pioneered haptic interfaces, locomotion devices and 'device art'; exhibited at Ars Electronica 1996–2001.",
+   "bio_zh": "筑波大学教授，触觉界面、行走装置与“装置艺术（device art）”的开拓者；1996–2001 年多次在林茨电子艺术节展出。",
+   "why": "His works relocate the viewer's body into floating cameras and giant robots.",
+   "why_zh": "他的作品把观者的身体转移到漂浮的摄像机和巨型机器人里。",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "aki-inomata",
+   "name": "AKI INOMATA",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Japanese artist who makes works in collaboration with animals, from 3D-printed shells for hermit crabs to clothes exchanged with her dog.",
+   "bio_zh": "日本艺术家，与动物合作创作，从为寄居蟹 3D 打印的壳，到与自家狗交换的衣服。",
+   "why": "Her practice treats becoming-with other species as a slow, material exchange of bodies, skins and shelters.",
+   "why_zh": "她的实践把与其他物种的“共同生成”看作身体、皮毛与居所之间缓慢的物质交换。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.aki-inomata.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ryuichi-sakamoto",
+   "name": "Ryuichi Sakamoto",
+   "kind": "person",
+   "role": "Composer",
+   "role_zh": "作曲家",
+   "based": "Tokyo, Japan / New York, USA",
+   "based_zh": "东京，日本 / 纽约，美国",
+   "bio": "Composer and founding member of Yellow Magic Orchestra (1952–2023); in later years made installations about sound, environment and nature.",
+   "bio_zh": "作曲家、YMO 创始成员（1952–2023）；晚年创作了许多关于声音、环境与自然的装置作品。",
+   "why": "Forest Symphony turns the bioelectric signals of trees into music so that listeners hear forests as performers.",
+   "why_zh": "《Forest Symphony》把树木的生物电信号转化为音乐，让听众把森林当作演奏者来聆听。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "ycam-interlab"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ycam-interlab",
+   "name": "YCAM InterLab",
+   "kind": "lab",
+   "role": "R&D lab of the Yamaguchi Center for Arts and Media",
+   "role_zh": "山口情报艺术中心的研发团队",
+   "based": "Yamaguchi, Japan",
+   "based_zh": "山口，日本",
+   "bio": "In-house research and development team of YCAM that co-produces media art, bio-art and sensing projects.",
+   "bio_zh": "山口情报艺术中心（YCAM）的内部研发团队，联合制作媒体艺术、生物艺术与感测项目。",
+   "why": "Built the tree bioelectric sensors behind Forest Symphony.",
+   "why_zh": "为《Forest Symphony》开发了测量树木生物电位的传感器。",
+   "disciplines": [
+    "art",
+    "science"
+   ],
+   "links": {
+    "site": "https://www.ycam.jp"
+   },
+   "connected_to": [
+    "ryuichi-sakamoto"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "neurowear",
+   "name": "neurowear",
+   "kind": "company",
+   "role": "Brainwave wearable project team",
+   "role_zh": "脑波可穿戴设计团队",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Tokyo design team that made brainwave-driven wearables such as necomimi cat ears and the shippo tail.",
+   "bio_zh": "东京的设计团队，制作了由脑波驱动的可穿戴物，如猫耳 necomimi 和尾巴 shippo。",
+   "why": "Gave humans animal ears and tails that move with their mental state.",
+   "why_zh": "给人类装上会随心理状态而动的动物耳朵和尾巴。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shinseungback-kimyonghun",
+   "name": "Shinseungback Kimyonghun",
+   "kind": "studio",
+   "role": "Artist duo (Shin Seung Back and Kim Yong Hun)",
+   "role_zh": "艺术二人组（申承白与金容勋）",
+   "based": "Seoul, South Korea",
+   "based_zh": "首尔，韩国",
+   "bio": "Seoul-based duo making installations about machine vision, AI error and the environment since 2012.",
+   "bio_zh": "首尔的艺术二人组，自 2012 年起以装置作品探讨机器视觉、AI 的误差与环境。",
+   "why": "Their works let visitors see as a face-detection algorithm or stand as a stone that waves break on.",
+   "why_zh": "他们的作品让观众像人脸识别算法那样去看，或像一块礁石那样承受浪的拍打。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "http://ssbkyh.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "natasha-tontey",
+   "name": "Natasha Tontey",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "role_zh": "艺术家与电影人",
+   "based": "Yogyakarta, Indonesia",
+   "based_zh": "日惹，印度尼西亚",
+   "bio": "Indonesian artist from Minahasa, North Sulawesi, who makes campy speculative films and installations about Indigenous ritual, pests and nonhuman kin.",
+   "bio_zh": "来自北苏拉威西米纳哈萨的印尼艺术家，以夸张戏仿的推测性影片与装置探讨原住民仪式、害虫与非人亲属。",
+   "why": "Primate Visions stages the Minahasan ritual in which shamans become macaques.",
+   "why_zh": "《Primate Visions》搬演了米纳哈萨萨满化身猕猴的仪式。",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rachael-rakena",
+   "name": "Rachael Rakena",
+   "kind": "person",
+   "role": "Māori video artist",
+   "role_zh": "毛利族录像艺术家",
+   "based": "Aotearoa New Zealand",
+   "based_zh": "奥特亚罗瓦新西兰",
+   "bio": "Kāi Tahu and Ngāpuhi artist working with video, water and digital Māori identity; associate professor at Massey University.",
+   "bio_zh": "Kāi Tahu 与 Ngāpuhi 部落艺术家，以录像、水与数字时代的毛利身份为主题创作；梅西大学副教授。",
+   "why": "Her underwater video installations place audiences beneath rivers and the sea.",
+   "why_zh": "她的水下录像装置把观众置于河流与海洋之下。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "brett-graham"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "brett-graham",
+   "name": "Brett Graham",
+   "kind": "person",
+   "role": "Māori sculptor",
+   "role_zh": "毛利族雕塑家",
+   "based": "Auckland, New Zealand",
+   "based_zh": "奥克兰，新西兰",
+   "bio": "Ngāti Korokī Kahukura sculptor; represented Aotearoa New Zealand at the Venice Biennale 2024 (Wastewater... Tai Moana Tai Tangata).",
+   "bio_zh": "Ngāti Korokī Kahukura 部落雕塑家；2024 年代表新西兰参加威尼斯双年展。",
+   "why": "Co-created Āniwaniwa, which drowns the audience with a village flooded by a hydro dam.",
+   "why_zh": "与人合作《Āniwaniwa》，让观众与一座被水坝淹没的村庄一同沉入水下。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "rachael-rakena"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alinta-krauth",
+   "name": "Alinta Krauth",
+   "kind": "person",
+   "role": "New media artist and researcher",
+   "role_zh": "新媒体艺术家与研究者",
+   "based": "Queensland, Australia / Bergen, Norway",
+   "based_zh": "昆士兰，澳大利亚 / 卑尔根，挪威",
+   "bio": "Australian artist, e-poet and registered bat rescuer who makes interactive and AI works with and for flying foxes and dogs.",
+   "bio_zh": "澳大利亚艺术家、电子诗人与注册蝙蝠救护员，与狐蝠和狗一起、也为它们创作互动与 AI 作品。",
+   "why": "Her bat translator turns flying-fox calls into poems, a tentative way of hearing bats on their own terms.",
+   "why_zh": "她的“蝙蝠翻译器”把狐蝠的叫声转成诗，尝试按蝙蝠自己的方式去听它们。",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://www.alintakrauth.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kawita-vatanajyankur",
+   "name": "Kawita Vatanajyankur",
+   "kind": "person",
+   "role": "Performance and video artist",
+   "role_zh": "表演与录像艺术家",
+   "based": "Bangkok, Thailand",
+   "based_zh": "曼谷，泰国",
+   "bio": "Thai artist who films herself performing as household tools and textile machines to expose women's labour.",
+   "bio_zh": "泰国艺术家，拍摄自己扮演家用工具与纺织机器的表演，揭示女性劳动。",
+   "why": "Her body literally becomes an object — a scale, a broom, a loom.",
+   "why_zh": "她的身体真的变成了物件：一杆秤、一把扫帚、一台织机。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ken-thaiday-snr",
+   "name": "Ken Thaiday Snr",
+   "kind": "person",
+   "role": "Torres Strait Islander artist and dancer",
+   "role_zh": "托雷斯海峡岛民艺术家与舞者",
+   "based": "Cairns, Australia",
+   "based_zh": "凯恩斯，澳大利亚",
+   "bio": "Meriam artist from Erub (Darnley Island) who makes kinetic dance headdresses of the hammerhead shark (beizam) and co-founded the Darnley Island Dance Troupe (1987).",
+   "bio_zh": "来自埃鲁布岛（达恩利岛）的梅里亚姆艺术家，制作双髻鲨（beizam）动态舞蹈头饰，1987 年参与创立达恩利岛舞团。",
+   "why": "In his dances the wearer becomes the shark, the totem of law and order in the eastern Torres Strait.",
+   "why_zh": "在他的舞蹈中，佩戴者成为鲨鱼——托雷斯海峡东部法律与秩序的图腾。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lygia-clark",
+   "name": "Lygia Clark",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Rio de Janeiro, Brazil",
+   "based_zh": "里约热内卢，巴西",
+   "bio": "Brazilian Neo-Concrete artist (1920–1988) who moved from sculpture to 'relational objects' and sensorial masks worn by participants.",
+   "bio_zh": "巴西新具体主义艺术家（1920–1988），从雕塑走向参与者佩戴的“关系物件”与感官面具。",
+   "why": "Her sensorial masks are an early art of retuning the senses by wearing something.",
+   "why_zh": "她的感官面具是一种早期的艺术：靠穿戴物去重新调校感官。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nam-june-paik",
+   "name": "Nam June Paik",
+   "kind": "person",
+   "role": "Video artist",
+   "role_zh": "录像艺术家",
+   "based": "New York, USA (born Seoul, Korea)",
+   "based_zh": "纽约，美国（生于韩国首尔）",
+   "bio": "Korean-American founder of video art (1932–2006), who combined televisions with plants, fish and bodies.",
+   "bio_zh": "韩裔美国录像艺术奠基人（1932–2006），把电视机与植物、鱼和身体组合在一起。",
+   "why": "Fish Flies on Sky turns the gallery ceiling into water seen from below.",
+   "why_zh": "《Fish Flies on Sky》把展厅天花板变成从下方仰望的水面。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "atsuko-tanaka",
+   "name": "Atsuko Tanaka",
+   "kind": "person",
+   "role": "Gutai artist",
+   "role_zh": "具体派艺术家",
+   "based": "Osaka, Japan",
+   "based_zh": "大阪，日本",
+   "bio": "Japanese artist (1932–2005) of the Gutai group, known for Electric Dress and paintings of circles and wires.",
+   "bio_zh": "日本具体派艺术家（1932–2005），以《电气服》以及圆与电线的绘画闻名。",
+   "why": "Electric Dress made a human body into a flashing electrical apparatus decades before wearables.",
+   "why_zh": "《电气服》在可穿戴设备出现几十年前，就把人体变成了一台闪烁的电器。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cat-jones",
+   "name": "Cat Jones",
+   "kind": "person",
+   "role": "Artist working with body illusion and scent",
+   "role_zh": "从事身体错觉与气味的艺术家",
+   "based": "Sydney, Australia",
+   "based_zh": "悉尼，澳大利亚",
+   "bio": "Australian artist, performer and writer working with body illusion, olfaction and neuroscience; Sadakichi Award for experimental work with scent (2016).",
+   "bio_zh": "澳大利亚艺术家、表演者与作家，结合身体错觉、嗅觉与神经科学创作；2016 年获萨达吉奇气味实验作品奖。",
+   "why": "Uses rubber-hand-style body illusions to let participants feel the bodies of other species.",
+   "why_zh": "用类似“橡胶手错觉”的身体错觉，让参与者感受其他物种的身体。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://catjones.net"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "zheng-mahler",
+   "name": "Zheng Mahler",
+   "kind": "studio",
+   "role": "Art and anthropology collective (Royce Ng and Daisy Bisenieks)",
+   "role_zh": "艺术与人类学团体（Royce Ng 与 Daisy Bisenieks）",
+   "based": "Lantau Island, Hong Kong",
+   "based_zh": "香港大屿山",
+   "bio": "Hong Kong collective formed by artist Royce Ng and anthrozoologist Daisy Bisenieks; their 'Lantau Trilogy' is a series of multispecies sensory ethnographies of the water buffalo, bats and fungi of Lantau Island.",
+   "bio_zh": "由艺术家 Royce Ng 与人类-动物关系学者 Daisy Bisenieks 组成的香港团体；其“大屿山三部曲”是围绕大屿山水牛、蝙蝠与真菌展开的多物种感官民族志。",
+   "why": "Uses binaural buffalo ears, VR and thermal imaging to translate the senses of specific local animals and fungi, explicitly framed by Nagel's bat question.",
+   "why_zh": "以水牛耳形双耳麦克风、VR 与热成像翻译本地动物与真菌的感官，并明确以 Nagel 的“成为蝙蝠”之问为框架。",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.zhengmahler.world/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tae-yeun-kim",
+   "name": "Tae Yeun Kim",
+   "kind": "person",
+   "role": "Media artist and VR director",
+   "role_zh": "媒体艺术家、VR 导演",
+   "based": "Seoul, South Korea",
+   "based_zh": "首尔，韩国",
+   "bio": "Korean artist who made the interactive VR work Helpless (2021) with PPPLab and VR Crew, shown in the Beyond Science strand of BIFAN's Beyond Reality programme.",
+   "bio_zh": "韩国艺术家，与 PPPLab 和 VR Crew 合作完成互动 VR 作品《Helpless》（2021），入选富川国际奇幻电影节 Beyond Reality 单元的 Beyond Science 板块。",
+   "why": "One of the few VR works that asks the visitor to feel how a plant registers injury.",
+   "why_zh": "少数让观众去体会植物如何感受伤害的 VR 作品之一。",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=S0WSsZotfcU"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yifu-zhou",
+   "name": "Yifu Zhou",
+   "kind": "person",
+   "role": "VFX supervisor and VR director, Digital Domain",
+   "role_zh": "数字王国视效总监、VR 导演",
+   "based": "Beijing, China",
+   "based_zh": "北京，中国",
+   "bio": "Tsinghua and USC-trained VFX supervisor who led Digital Domain's first Greater China original VR animation, Micro Giants (2017).",
+   "bio_zh": "毕业于清华美院与南加州大学的视效总监，主导了数字王国大中华团队的首部原创 VR 动画《微观巨兽》（2017）。",
+   "why": "Micro Giants shrinks the viewer to insect scale, the first mainland Chinese VR animation selected for Sundance New Frontier.",
+   "why_zh": "《微观巨兽》把观众缩小到昆虫尺度，是首部入选圣丹斯 New Frontier 的中国内地 VR 动画。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "youtube": "https://www.youtube.com/watch?v=a13wgYDLOQ4"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jooyoung-oh",
+   "name": "Jooyoung Oh",
+   "kind": "person",
+   "role": "Media artist and researcher (KAIST GSCT)",
+   "role_zh": "媒体艺术家、研究者（KAIST 文化技术研究生院）",
+   "based": "Seoul, South Korea",
+   "based_zh": "首尔，韩国",
+   "bio": "Korean artist (b. 1991) working with games, artificial cognitive models, VR and drones; winner of the IEEE BRAIN award at Ars Electronica 2019.",
+   "bio_zh": "韩国艺术家（1991 年生），以游戏、人工认知模型、VR 与无人机创作；2019 年获 Ars Electronica IEEE BRAIN 奖。",
+   "why": "Her recent works re-read drones and AI tracking from the viewpoint of urban birds such as the kestrel.",
+   "why_zh": "她近期的作品从红隼等城市鸟类的视角重新理解无人机与 AI 追踪技术。",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://k-artist.com/Artist_Posts.php?tab_num=tab4&co_id=1749371641"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hiroki-kobayashi",
+   "name": "Hiroki (Hill) Kobayashi",
+   "kind": "person",
+   "role": "Researcher in human-computer-biosphere interaction, University of Tokyo",
+   "role_zh": "东京大学“人-计算机-生物圈交互”研究者",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Japanese acoustic ecologist and HCI researcher (chair of the World Forum for Acoustic Ecology around 2010) who connects people to remote forests through live sound, as in Tele Echo Tube and the Cyberforest recordings.",
+   "bio_zh": "日本声音生态学者与人机交互研究者（约 2010 年任世界声音生态论坛主席），通过实时声音把人与远方森林连接起来，代表作有《Tele Echo Tube》和 Cyberforest 录音项目。",
+   "why": "Lets a visitor hear a real mountain answer back, treating the forest as a sonic partner rather than scenery.",
+   "why_zh": "让观众听到一座真实的山回应自己，把森林当作声音上的对话者，而非风景。",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ai-hasegawa",
+   "name": "Ai Hasegawa",
+   "kind": "person",
+   "role": "Artist and speculative designer",
+   "role_zh": "艺术家、思辨设计师",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Japanese artist and designer (RCA Design Interactions) whose speculative projects use the reproductive body to question biotechnology and species boundaries.",
+   "bio_zh": "日本艺术家与设计师（毕业于 RCA Design Interactions），以生殖身体为切入点，在思辨设计中追问生物技术与物种边界。",
+   "why": "Imagines a human body that gestates another species, pushing embodiment past the avatar into biology.",
+   "why_zh": "设想一个孕育其他物种的人类身体，把“具身”从虚拟化身推向生物学层面。",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "zheng-bo",
+   "name": "Zheng Bo",
+   "kind": "person",
+   "role": "Artist working with plants and eco-queer practice",
+   "role_zh": "以植物与生态酷儿实践为核心的艺术家",
+   "based": "Hong Kong",
+   "based_zh": "香港",
+   "bio": "Beijing-born, Hong Kong-based artist (b. 1974) who makes films, drawings and body practices with plants, including Pteridophilia, The Political Life of Plants and Wanwu Practice.",
+   "bio_zh": "生于北京、现居香港的艺术家（1974 年生），与植物一起创作影像、绘画与身体练习，代表作有《蕨类情欲》《植物的政治生活》与“万物”练习。",
+   "why": "Treats human bodies and plants as partners in touch and desire, one of the clearest East Asian voices on plant kinship.",
+   "why_zh": "把人的身体与植物视为触碰与欲望中的伙伴，是东亚关于“与植物结亲”最清晰的声音之一。",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "http://zhengbo.org/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bcl",
+   "name": "BCL (Shiho Fukuhara & Georg Tremmel)",
+   "kind": "studio",
+   "role": "Bio-art collective",
+   "role_zh": "生物艺术团体",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Artistic research group founded by Japanese designer Shiho Fukuhara and Austrian artist Georg Tremmel; began with the Biopresence venture (2004) and later made Common Flowers and Ghost in the Cell.",
+   "bio_zh": "由日本设计师福原志保与奥地利艺术家 Georg Tremmel 创立的艺术研究团体；始于 Biopresence 项目（2004），后有《Common Flowers》《Ghost in the Cell》等作品。",
+   "why": "Biopresence proposes literally continuing a human life as a tree by writing human DNA into it.",
+   "why_zh": "Biopresence 提出把人的 DNA 写进树里，让人以树的形式继续存在。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.biopresence.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "diana-domingues",
+   "name": "Diana Domingues",
+   "kind": "person",
+   "role": "Media artist and researcher, University of Caxias do Sul",
+   "based": "Caxias do Sul, Brazil",
+   "bio": "Brazilian pioneer of interactive, robotic and telematic art (1947–2025) who led the ARTECHNO research group at the University of Caxias do Sul.",
+   "why": "Her telerobotic works let remote participants inhabit an animal-shaped robot body living among real animals, an early Latin American model of nonhuman telepresence.",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://digitalartarchive.at/database/artist/15/"
+   },
+   "role_zh": "媒体艺术家与研究者，卡希亚斯-杜索尔大学",
+   "bio_zh": "巴西互动艺术、机器人艺术与远程通信艺术的先驱（1947–2025），曾在卡希亚斯-杜索尔大学主持 ARTECHNO 研究组。",
+   "why_zh": "她的远程机器人作品让远方的参与者寄居在一具与真实动物共处的动物形机器人身体里，是拉丁美洲早期非人类远程临场的范例。",
+   "based_zh": "巴西南里奥格兰德州卡希亚斯-杜索尔",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "guto-nobrega",
+   "name": "Guto Nóbrega",
+   "kind": "person",
+   "role": "Artist and professor, NANO lab, Federal University of Rio de Janeiro",
+   "based": "Rio de Janeiro, Brazil",
+   "bio": "Brazilian artist and researcher who builds hybrid creatures from living plants and robotic systems and founded the NANO lab (Núcleo de Arte e Novos Organismos) at UFRJ.",
+   "why": "His plant-robot hybrids make a plant's electrophysiology the partner in an exchange of breath with the visitor.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://cargocollective.com/gutonobrega",
+    "vimeo": "https://vimeo.com/user709404"
+   },
+   "role_zh": "艺术家与教授，里约热内卢联邦大学 NANO 实验室",
+   "bio_zh": "巴西艺术家与研究者，用活体植物与机器人系统制作混合生物，并在里约热内卢联邦大学创立 NANO 实验室（艺术与新有机体中心）。",
+   "why_zh": "他的植物-机器人混合体让植物的电生理信号成为与观众交换呼吸的伙伴。",
+   "based_zh": "巴西里约热内卢",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ozge-samanci",
+   "name": "Özge Samancı",
+   "kind": "person",
+   "role": "Media artist and graphic novelist, Northwestern University",
+   "based": "Evanston, USA (born İzmir, Turkey)",
+   "bio": "Turkish-born media artist and author of the graphic memoirs Dare to Disappoint and Evil Eyes Sea; she makes interactive installations with brain-computer interfaces and teaches at Northwestern University.",
+   "why": "You Are the Ocean turns a participant's mental state into the weather and waves of a sea, so the mind acts as ocean rather than observer.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://ozgesamanci.com",
+    "vimeo": "https://vimeo.com/user12698728"
+   },
+   "role_zh": "媒体艺术家与图像小说作者，西北大学",
+   "bio_zh": "生于土耳其的媒体艺术家，著有图像回忆录《Dare to Disappoint》与《Evil Eyes Sea》；她用脑机接口创作互动装置，任教于西北大学。",
+   "why_zh": "《You Are the Ocean》把参与者的心理状态变成大海的天气与浪涌，让心灵成为海洋本身，而非旁观者。",
+   "based_zh": "美国埃文斯顿（生于土耳其伊兹密尔）",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "issay-rodriguez",
+   "name": "Issay Rodriguez",
+   "kind": "person",
+   "role": "Visual artist",
+   "based": "Manila, Philippines",
+   "bio": "Filipino artist working across installation, textile and virtual reality, often with research into bees and other more-than-human worlds; exhibited at the 2017 Venice Biennale and Gasworks, London.",
+   "why": "DOON (Over There) is one of the few Southeast Asian VR artworks that puts the viewer inside a hive as a bee.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "视觉艺术家",
+   "bio_zh": "菲律宾艺术家，创作涉及装置、纺织与虚拟现实，常以蜜蜂等超越人类的世界为研究对象；曾参展 2017 年威尼斯双年展与伦敦 Gasworks。",
+   "why_zh": "《DOON (Over There)》是少数把观众作为蜜蜂置于蜂巢之中的东南亚 VR 艺术作品之一。",
+   "based_zh": "菲律宾马尼拉",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "viviana-alvarez-chomon",
+   "name": "Viviana Álvarez Chomón",
+   "kind": "person",
+   "role": "Designer and media arts researcher",
+   "based": "Valparaíso, Chile",
+   "bio": "Chilean designer and researcher in media arts who develops science-art VR experiences with biologists.",
+   "why": "Visión de Abeja lets visitors switch between human sight and bee ultraviolet vision over native Atacama desert flowers.",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {},
+   "role_zh": "设计师与媒体艺术研究者",
+   "bio_zh": "智利设计师与媒体艺术研究者，与生物学家合作开发科学艺术类 VR 体验。",
+   "why_zh": "《Visión de Abeja》让观众在人眼视觉与蜜蜂紫外视觉之间切换，观看阿塔卡马沙漠的本土花卉。",
+   "based_zh": "智利瓦尔帕莱索",
+   "connected_to": [
+    "jaime-martinez-harms"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jaime-martinez-harms",
+   "name": "Jaime Martínez Harms",
+   "kind": "person",
+   "role": "Biologist, INIA La Cruz",
+   "based": "La Cruz, Chile",
+   "bio": "Chilean biologist at the Instituto de Investigaciones Agropecuarias (INIA) La Cruz who studies pollinator vision and plant–pollinator interactions.",
+   "why": "He supplied the pollinator-vision science behind the Visión de Abeja VR experience.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {},
+   "role_zh": "生物学家，智利农业研究所 La Cruz 中心",
+   "bio_zh": "智利农业研究所（INIA）La Cruz 中心的生物学家，研究传粉者视觉与植物-传粉者互动。",
+   "why_zh": "他为 VR 体验《Visión de Abeja》提供了传粉者视觉的科学依据。",
+   "based_zh": "智利拉克鲁斯",
+   "connected_to": [
+    "viviana-alvarez-chomon"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lienzo",
+   "name": "Lienzo",
+   "kind": "studio",
+   "role": "Independent game studio",
+   "based": "Chihuahua, Mexico",
+   "bio": "Mexican independent game studio known for Mulaka (2018), an action-adventure game built on the mythology of the Rarámuri (Tarahumara) people of the Sierra Tarahumara.",
+   "why": "Mulaka is a rare commercial game in which a Rarámuri shaman gains demigods' animal forms, bringing Indigenous shape-shifting into play.",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "youtube": "https://www.youtube.com/@LienzoMx"
+   },
+   "role_zh": "独立游戏工作室",
+   "bio_zh": "墨西哥独立游戏工作室，代表作《Mulaka》（2018）是一款以塔拉乌马拉山区拉拉穆里（塔拉乌马拉）人神话为基础的动作冒险游戏。",
+   "why_zh": "《Mulaka》是少见的商业游戏，让一位拉拉穆里萨满获得半神的动物形态，把原住民的变形观念带进游戏玩法。",
+   "based_zh": "墨西哥奇瓦瓦",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "francois-knoetze",
+   "name": "Francois Knoetze",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "based": "Cape Town, South Africa",
+   "bio": "South African artist who makes wearable sculptures from discarded materials and performs them in films such as Cape Mongo and Core Dump.",
+   "why": "His trash-creature suits turn the performer's body into the waste object itself, walking back through the city of its origin.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "youtube": "https://www.youtube.com/@francoisknoetze"
+   },
+   "role_zh": "艺术家与电影人",
+   "bio_zh": "南非艺术家，用废弃材料制作可穿戴雕塑，并在《Cape Mongo》《Core Dump》等影片中穿着它们进行表演。",
+   "why_zh": "他的垃圾生物服装把表演者的身体变成废弃物本身，沿着它的来路走回城市。",
+   "based_zh": "南非开普敦",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "allora-calzadilla",
+   "name": "Allora & Calzadilla",
+   "kind": "studio",
+   "role": "Artist duo (Jennifer Allora and Guillermo Calzadilla)",
+   "based": "San Juan, Puerto Rico",
+   "bio": "Artist duo based in San Juan since the 1990s whose sculptures, performances and videos deal with ecology, sound and geopolitics; they represented the United States at the 2011 Venice Biennale.",
+   "why": "The Great Silence gives an endangered Puerto Rican parrot the first-person voice, a key Caribbean work of nonhuman narration.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家二人组（Jennifer Allora 与 Guillermo Calzadilla）",
+   "bio_zh": "自 1990 年代起常驻圣胡安的艺术家二人组，以雕塑、表演与影像处理生态、声音与地缘政治议题；曾代表美国参加 2011 年威尼斯双年展。",
+   "why_zh": "《The Great Silence》把第一人称的声音交给一只濒危的波多黎各鹦鹉，是加勒比地区非人类叙事的重要作品。",
+   "based_zh": "波多黎各圣胡安",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hira-nabi",
+   "name": "Hira Nabi",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "based": "Lahore, Pakistan",
+   "bio": "Pakistani artist and filmmaker working on labour, ecology and dispossession; 2020 Prince Claus Next Generation laureate.",
+   "why": "Her film lets a decommissioned container ship speak for itself to the workers breaking it apart.",
+   "disciplines": [
+    "film",
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家与电影人",
+   "bio_zh": "巴基斯坦艺术家与电影人，关注劳动、生态与剥夺议题；2020 年 Prince Claus 新一代奖得主。",
+   "why_zh": "她的影片让一艘退役集装箱船亲口与拆解它的工人对话。",
+   "based_zh": "巴基斯坦拉合尔",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "himali-singh-soin",
+   "name": "Himali Singh Soin",
+   "kind": "person",
+   "role": "Artist and writer",
+   "based": "London, UK and New Delhi, India",
+   "bio": "Indian artist and writer whose films, performances and texts build speculative mythologies around ice, rocks and deep time.",
+   "why": "we are opposite like that narrates the poles from the non-human perspective of the ice, a South Asian voice in elemental becoming.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.himalisinghsoin.com"
+   },
+   "role_zh": "艺术家与作家",
+   "bio_zh": "印度艺术家与作家，以影片、表演与文本围绕冰、岩石与深时间构建推想性的神话。",
+   "why_zh": "《we are opposite like that》以冰这一非人类视角讲述两极，是元素性“成为”主题中的南亚声音。",
+   "based_zh": "英国伦敦与印度新德里",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "behnaz-farahi",
+   "name": "Behnaz Farahi",
+   "kind": "person",
+   "role": "Designer and creative technologist",
+   "based": "USA (born Iran)",
+   "bio": "Iranian-born designer, architect and creative technologist who builds shape-changing, sensing garments with soft robotics and computer vision.",
+   "why": "Opale gives the wearer an animal-like fur that bristles or purrs in response to others, extending the human body toward animal skin.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "links": {
+    "site": "https://behnazfarahi.com",
+    "vimeo": "https://vimeo.com/behnazfarahi"
+   },
+   "role_zh": "设计师与创意技术专家",
+   "bio_zh": "生于伊朗的设计师、建筑师与创意技术专家，用软体机器人与计算机视觉制作能变形、能感知的服装。",
+   "why_zh": "《Opale》给穿着者一层像动物一样会竖起或“呼噜”的毛皮，对他人作出反应，把人的身体延伸向动物皮毛。",
+   "based_zh": "美国（生于伊朗）",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "eduardo-kac--teleporting-an-unknown-state",
+   "creator_ids": [
+    "eduardo-kac"
+   ],
+   "title": "Teleporting an Unknown State",
+   "year": 1996,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "time-scale",
+    "collective-sense",
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "In a dark room a single seed sits in a bed of earth; the only light it gets is video light sent over the internet by remote participants, so the plant grows only if people around the world keep 'being its sun'.",
+   "description_zh": "一间暗室里，一粒种子躺在土床上；它得到的唯一光线来自远方参与者通过互联网传来的视频光，只有世界各地的人持续“充当它的太阳”，植物才会生长。",
+   "idea_en": "The participant does not look at a plant but serves it as a light source, living for weeks at the pace of photosynthesis.",
+   "idea_zh": "参与者不是在看植物，而是作为它的光源为它服务，在几周时间里按光合作用的节奏生活。",
+   "method": "A projector above the soil shows live videoconference streams of sky images from several countries, used only as photons for the seedling.",
+   "method_zh": "土床上方的投影机播放来自多个国家的天空实时视频会议画面，这些画面只作为光子供幼苗使用。",
+   "keywords": [
+    "seed",
+    "photosynthesis",
+    "internet",
+    "telepresence",
+    "biotelematics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sD3rbN_9D2E"
+   },
+   "images": [
+    "https://www.ekac.org/handsky.gif"
+   ],
+   "source_url": "https://www.ekac.org/teleporting.html",
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "denilson-baniwa--paje-onca",
+   "creator_ids": [
+    "denilson-baniwa"
+   ],
+   "title": "Pajé-Onça Hackeando a 33ª Bienal de Artes de São Paulo",
+   "year": 2018,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body",
+    "multisensory"
+   ],
+   "medium": [
+    "performance",
+    "screen"
+   ],
+   "kind": "performance",
+   "description": "An uninvited performance in which Baniwa, dressed as the Pajé-Onça (jaguar shaman) in a jaguar-patterned robe, yellow toothed mask, flowers and rattle, walked through the 33rd São Paulo Biennial, which included no Indigenous artists.",
+   "description_zh": "一次不请自来的表演：巴尼瓦身着美洲豹纹长袍、戴黄色獠牙面具、手持花与沙锤，以“美洲豹萨满”的身份走进没有邀请任何原住民艺术家的第 33 届圣保罗双年展。",
+   "idea_en": "Becoming jaguar is a shamanic and political act: the strongest shaman takes the jaguar's body to travel between worlds and to reclaim space.",
+   "idea_zh": "成为美洲豹既是萨满行为也是政治行动：最强大的萨满借美洲豹的身体穿行于诸世界之间，并夺回空间。",
+   "method": "Live intervention with costume, mask and rattle, documented as a 15-minute HD video.",
+   "method_zh": "以服装、面具与沙锤进行的现场介入，记录为 15 分钟高清录像。",
+   "keywords": [
+    "jaguar",
+    "Pajé-Onça",
+    "shaman",
+    "Baniwa",
+    "Amazon",
+    "São Paulo Biennial"
+   ],
+   "shown_at": [
+    "33rd São Paulo Biennial (uninvited intervention) 2018",
+    "Biennale of Sydney 2020 (NIRIN)"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RkGNGJsshSM"
+   },
+   "images": [
+    "https://s3.amazonaws.com/wp-sumauma.com/wp-content/uploads/2023/09/23160547/editcapa_pajeonca-aldeia-de-Santa-Isabel_fotografia-de-Sallisa-Rosa-1920x1275.jpg",
+    "https://www.biennaleofsydney.art/wp-content/uploads/2021/11/denilsonBaniwa1-900x600.jpg"
+   ],
+   "source_url": "https://www.pipaprize.com/denilson-baniwa/paje-onca-hackeando-a-33a-bienal-de-artes-de-sao-paulo-1/"
+  },
+  {
+   "id": "uyra-sodoma--tree-that-walks",
+   "creator_ids": [
+    "uyra-sodoma"
+   ],
+   "title": "Uýra, the Tree That Walks",
+   "year": 2016,
+   "field": "tree",
+   "sub": "forest",
+   "also": [
+    "animal"
+   ],
+   "senses": [
+    "body",
+    "touch",
+    "multisensory"
+   ],
+   "medium": [
+    "performance",
+    "screen"
+   ],
+   "kind": "performance",
+   "description": "An ongoing series of performances and photographs in which the artist spends about two hours assembling a body of leaves, bark, seeds, shells, fibres and natural dyes and appears as Uýra in forests, polluted streams, cities and schools of the Amazon.",
+   "description_zh": "持续进行的表演与摄影系列：艺术家用大约两个小时，以树叶、树皮、种子、贝壳、纤维和天然染料装扮身体，化身乌伊拉出现在亚马孙的森林、被污染的溪流、城市与学校里。",
+   "idea_en": "The human body turned into forest matter speaks as the damaged land itself; 'everything that lives, changes'.",
+   "idea_zh": "变成森林质料的人体，以受损土地本身的身份发言：“一切活着的，都在变化。”",
+   "method": "Body assemblage from gathered plant and animal materials, staged in site-specific performances and photo series such as Mil (Quase) Mortos.",
+   "method_zh": "用采集来的动植物材料组装身体，在特定场域表演，并形成《Mil (Quase) Mortos》等摄影系列。",
+   "keywords": [
+    "Amazon",
+    "Manaus",
+    "travesti",
+    "walking tree",
+    "Uyrapuru",
+    "drag"
+   ],
+   "shown_at": [
+    "PIPA Prize 2022"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=iOkFPeTkCxE"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/3AnIteg88-Y/hqdefault.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/U%C3%BDra_Sodoma"
+  },
+  {
+   "id": "lai-guan-yuan--black-wings",
+   "creator_ids": [
+    "lai-guan-yuan"
+   ],
+   "title": "Black Wings",
+   "year": 2024,
+   "field": "fish",
+   "sub": "fish",
+   "senses": [
+    "body",
+    "hearing",
+    "vision"
+   ],
+   "medium": [
+    "mr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A mixed-reality 'embodied reading' of Tao writer Syaman Rapongan's novel: the visitor reads passages aloud from a physical book and becomes a black-winged flying fish travelling the ancient Kuroshio current, fighting predators, while interviews with the author frame the journey.",
+   "description_zh": "对达悟族作家夏曼·蓝波安同名小说的混合现实“具身阅读”：观众对着实体书朗读段落，化身在古老黑潮航道中游移的黑翅飞鱼，与掠食者搏斗，作家访谈穿插其间。",
+   "idea_en": "Becoming the most sacred flying fish of the Tao, through reading: your voice moves the ocean around you.",
+   "idea_zh": "通过阅读成为达悟族最神圣的飞鱼：你的声音推动着周围的海洋。",
+   "method": "MR headset with speech recognition: the reader's voice triggers changes in the projected environment and is processed by AI into ambient sound.",
+   "method_zh": "MR 头显结合语音识别：朗读者的声音触发环境投影的变化，并由 AI 处理成环境音效。",
+   "keywords": [
+    "flying fish",
+    "Tao",
+    "Yami",
+    "Kuroshio",
+    "Syaman Rapongan",
+    "Orchid Island"
+   ],
+   "shown_at": [
+    "Kaohsiung Film Festival XR Dreamland 2024 (Taiwan Wave: Black Current)"
+   ],
+   "images": [
+    "https://images.vocus.cc/44071258-56ab-43f3-8759-2a9d3d17ee4f.png",
+    "https://images.vocus.cc/caa55f68-9c54-40cd-93fe-cc9235119625.png"
+   ],
+   "source_url": "https://vocus.cc/article/67233bf2fd89780001e3c595",
+   "collections": [
+    "kaohsiung-film-festival-xr"
+   ]
+  },
+  {
+   "id": "atsushi-wada--if-i-could-see-a-cat",
+   "creator_ids": [
+    "atsushi-wada"
+   ],
+   "title": "If I Could See a Cat (猫が見えたら)",
+   "year": 2025,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "body",
+    "vision",
+    "touch"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "film",
+   "description": "An interactive VR animation about a boy, Naoki, grieving his dead cat: the viewer lives through three cats — the phantom of his pet, a stray and a neighbour's cat — and uses hand tracking to move with feline gestures.",
+   "description_zh": "一部关于男孩直树哀悼死去爱猫的互动 VR 动画：观众依次经历三只猫——他的猫的幻影、一只流浪猫和别人家的猫——并用手部追踪做出猫的动作。",
+   "idea_en": "Grief seen from below, through a cat's body: the viewer comforts a human by being the animal he has lost.",
+   "idea_zh": "从低处、透过猫的身体看悲伤：观众通过成为男孩失去的那只动物来安慰他。",
+   "method": "Hand-drawn style animation built for standalone VR with hand tracking mapped to paw and body gestures; released on Steam in 2026.",
+   "method_zh": "为一体机 VR 制作的手绘风格动画，手部追踪映射为爪子与身体动作；2026 年在 Steam 发行。",
+   "keywords": [
+    "cat",
+    "grief",
+    "Kodansha VR Lab",
+    "hand tracking",
+    "animation"
+   ],
+   "shown_at": [
+    "Venice Immersive 2025",
+    "IFFR 2026",
+    "Kaohsiung Film Festival XR Dreamland 2026"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gBRs46LtzMQ"
+   },
+   "images": [
+    "https://images.ludens.com.tw/uploads/images/wp-content/uploads/2026/03/15685-1.png"
+   ],
+   "source_url": "https://www.ludens.com.tw/atsushi-wada-vr-story-if-i-could-see-a-cat-steam-p/",
+   "collections": [
+    "venice-immersive",
+    "kaohsiung-film-festival-xr"
+   ]
+  },
+  {
+   "id": "kingsley-ng--aria",
+   "creator_ids": [
+    "kingsley-ng",
+    "eugene-birman"
+   ],
+   "title": "Aria (空氣頌)",
+   "year": 2020,
+   "field": "bird",
+   "sub": "flight",
+   "also": [
+    "insect",
+    "river"
+   ],
+   "senses": [
+    "vision",
+    "hearing",
+    "breath"
+   ],
+   "medium": [
+    "film360",
+    "performance"
+   ],
+   "kind": "film",
+   "description": "A VR dance-and-music work filmed in the conservatory of Hong Kong Park, where cameras take the unusual viewpoints of an insect or a bird in flight as holograms of the Danish ensemble Theatre of Voices float in mid-air and dancers and the Hong Kong Children's Choir perform.",
+   "description_zh": "一部在香港公园温室拍摄的 VR 舞蹈音乐作品：镜头采用昆虫或飞鸟的独特视角，丹麦合唱团 Theatre of Voices 的全息影像悬浮空中，舞者与香港儿童合唱团同场演出。",
+   "idea_en": "Listening to air from where birds and insects are: the climate crisis heard from nonhuman heights.",
+   "idea_zh": "从鸟和昆虫所在之处聆听空气：从非人类的高度去听气候危机。",
+   "method": "360° video with hologram projections and a score driven by air-quality data, streamed on YouTube for the festival's online platform.",
+   "method_zh": "360° 影像结合全息投影，配乐由空气质量数据驱动，在艺术节的线上平台通过 YouTube 播放。",
+   "keywords": [
+    "air",
+    "insect",
+    "bird",
+    "Hong Kong Park",
+    "Theatre of Voices",
+    "air quality"
+   ],
+   "shown_at": [
+    "New Vision Arts Festival (ReNew Vision) 2020"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Mcd-hhhlAAw"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/Mcd-hhhlAAw/hqdefault.jpg"
+   ],
+   "source_url": "https://www.vrtuoluo.cn/521799.html"
+  },
+  {
+   "id": "xu-bing--dragonfly-eyes",
+   "creator_ids": [
+    "xu-bing"
+   ],
+   "title": "Dragonfly Eyes (蜻蜓之眼)",
+   "year": 2017,
+   "field": "robot",
+   "sub": "machine-senses",
+   "also": [
+    "insect"
+   ],
+   "senses": [
+    "vision",
+    "collective-sense"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "film",
+   "description": "A feature film edited entirely from about 10,000 hours of public surveillance footage from China, into which a fictional love story is written; the audience watches only through the fixed eyes of cameras.",
+   "description_zh": "一部全部由约一万小时中国公开监控录像剪辑而成的长片，在其中写入了一段虚构的爱情故事；观众只能透过摄像头固定的眼睛观看。",
+   "idea_en": "A related screen work: the compound eye of a surveillance society, where people exist only as machines see them.",
+   "idea_zh": "相关的屏幕作品：监控社会的复眼——人只以机器看到的样子存在。",
+   "method": "Footage collected from surveillance feeds streamed online, edited with voice actors into a narrative.",
+   "method_zh": "从网上直播的监控画面中收集素材，与配音演员一起剪辑成叙事。",
+   "keywords": [
+    "surveillance",
+    "CCTV",
+    "compound eye",
+    "found footage"
+   ],
+   "shown_at": [
+    "Locarno Film Festival 2017",
+    "TIFF 2017"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-ccfz77ifeU"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/-ccfz77ifeU/hqdefault.jpg"
+   ],
+   "source_url": "https://www.xubing.com"
+  },
+  {
+   "id": "lawrence-lek--geomancer",
+   "creator_ids": [
+    "lawrence-lek"
+   ],
+   "title": "Geomancer",
+   "year": 2017,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "film",
+   "description": "A CGI film set in 2065 in which an adolescent satellite AI, created to monitor the weather, descends to Singapore on the nation's centenary hoping to become an artist.",
+   "description_zh": "一部设定在 2065 年的 CGI 影片：一个为监测天气而造的“少年”卫星 AI 在新加坡建国百年之际降落人间，梦想成为艺术家。",
+   "idea_en": "Told from inside a machine mind: what does a planet-watching intelligence want once it has a body?",
+   "idea_zh": "从机器心智内部讲述：一个观测地球的智能一旦有了身体，会想要什么？",
+   "method": "Game-engine rendered film with a synthetic AI narrator.",
+   "method_zh": "以游戏引擎渲染的影片，由合成的 AI 旁白叙述。",
+   "keywords": [
+    "satellite",
+    "AI",
+    "Sinofuturism",
+    "Singapore",
+    "game engine"
+   ],
+   "shown_at": [
+    "Jerwood/FVU Awards 2017"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NNZH_HJaqbI"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/NNZH_HJaqbI/hqdefault.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Lawrence_Lek"
+  },
+  {
+   "id": "ho-tzu-nyen--one-or-several-tigers",
+   "creator_ids": [
+    "ho-tzu-nyen"
+   ],
+   "title": "One or Several Tigers",
+   "year": 2017,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "hearing",
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "installation",
+    "performance",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A two-channel animation and theatre work in which a Malayan tiger and a British surveyor meet in 1835 Singapore; the tiger speaks, sings and shape-shifts, drawing on the Malay figure of the weretiger (harimau jadian).",
+   "description_zh": "双频动画与剧场作品：1835 年的新加坡，一只马来亚虎与一名英国测量员相遇；老虎开口说话、歌唱并变形，取材自马来传说中的“虎人”（harimau jadian）。",
+   "idea_en": "The tiger as narrator and as a body humans can turn into: colonial history told from the animal side.",
+   "idea_zh": "老虎既是叙述者，也是人可以变成的身体：从动物一方讲述殖民历史。",
+   "method": "Animated video with a shadow-puppet-like screen and a robotic, sounding tiger; staged as theatre with live projection.",
+   "method_zh": "动画录像结合皮影式屏幕与会发声的机械老虎；以现场投影的剧场形式上演。",
+   "keywords": [
+    "tiger",
+    "weretiger",
+    "harimau jadian",
+    "Singapore",
+    "colonialism"
+   ],
+   "shown_at": [
+    "Holland Festival 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sbdTL-B1qBg"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/sbdTL-B1qBg/hqdefault.jpg"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=0J9JEAMfYHE"
+  },
+  {
+   "id": "teamlab--floating-flower-garden",
+   "creator_ids": [
+    "teamlab"
+   ],
+   "title": "Floating Flower Garden: Flowers and I are of the Same Root, the Garden and I are One",
+   "year": 2015,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "body",
+    "smell",
+    "vision"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A room packed with more than 13,000 living orchids that rise away from visitors as they approach, carving an open dome around each person; when two people meet, their spaces join into one.",
+   "description_zh": "一间挤满一万三千多株活兰花的房间，花会在观众走近时向上升起，在每个人周围让出一个穹顶般的空间；两人相遇时，各自的空间连成一片。",
+   "idea_en": "The title promises oneness with the garden; in practice the plants respond to your presence, which is closer to being noticed by them than to becoming them.",
+   "idea_zh": "标题许诺与花园合一；实际上是植物回应你的在场，更像被它们注意到，而不是成为它们。",
+   "method": "Suspended orchids on motorised lines driven by visitor tracking; the scent changes over the day as the flowers do.",
+   "method_zh": "悬挂在电动绳索上的兰花由观众追踪系统驱动；香气随花的状态在一天中变化。",
+   "keywords": [
+    "orchid",
+    "flowers",
+    "scent",
+    "teamLab Planets"
+   ],
+   "shown_at": [
+    "teamLab Planets TOKYO"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=atWwHZHGkLE"
+   },
+   "images": [
+    "https://teamlab-site.imagewave.pictures/b5EBo9Uo-OK6SM09ZTkEZQ/89JNH3JuCgHZcGbACeD2vU/width=1200,format=jpeg"
+   ],
+   "source_url": "https://www.teamlab.art/w/ffgarden/"
+  },
+  {
+   "id": "hiroo-iwata--big-robot-mk1",
+   "creator_ids": [
+    "hiroo-iwata"
+   ],
+   "title": "Big Robot Mk.1",
+   "year": 2014,
+   "field": "robot",
+   "sub": "robot-body",
+   "senses": [
+    "body",
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "installation",
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A five-metre-tall walking robot vehicle with the rider seated at its head, so the rider moves through the world at the height and pace of a giant.",
+   "description_zh": "一台五米高的行走机器人载具，乘坐者坐在它的头部，以巨人的高度与步伐在世界中移动。",
+   "idea_en": "Becoming a giant robot is mostly a change of scale: streets, people and trees are re-measured from a body three times taller.",
+   "idea_zh": "成为巨型机器人主要是尺度的改变：街道、人和树都从一个高出三倍的身体重新丈量。",
+   "method": "Two-legged walking frame with the seat at head height; later version Mk.1A was shown at SIGGRAPH 2016 Emerging Technologies (control details not verified).",
+   "method_zh": "双足行走框架，座位设在头部高度；后续版本 Mk.1A 在 SIGGRAPH 2016 新兴技术展展出（控制细节未核实）。",
+   "keywords": [
+    "giant robot",
+    "scale",
+    "University of Tsukuba",
+    "exoskeleton"
+   ],
+   "shown_at": [
+    "SIGGRAPH 2016 Emerging Technologies (Mk.1A)"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5VJXQBGEGoU"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/5VJXQBGEGoU/hqdefault.jpg"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=5VJXQBGEGoU",
+   "collections": [
+    "siggraph-xr"
+   ]
+  },
+  {
+   "id": "aki-inomata--kiku-ishi",
+   "creator_ids": [
+    "aki-inomata"
+   ],
+   "title": "Think Evolution #1: Kiku-ishi (Ammonite)",
+   "year": 2016,
+   "field": "octopus",
+   "sub": "cephalopod",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "The artist rebuilt an ammonite shell from CT scans of a fossil and offered it to an octopus, whose ancestors abandoned their shells millions of years ago; the video follows the octopus entering the extinct form.",
+   "description_zh": "艺术家依据化石的 CT 扫描复原了一枚菊石壳，把它交给一只章鱼——章鱼的祖先在数百万年前就抛弃了外壳；录像记录章鱼钻进这一已灭绝的形态。",
+   "idea_en": "A thought experiment in reverse evolution: an octopus tries on the body its lineage gave up.",
+   "idea_zh": "一场反向演化的思想实验：章鱼试穿它的家族早已放弃的身体。",
+   "method": "Ammonite fossil CT data (White Rabbit Corporation) remodelled in 3D CG and cast in resin; HD video.",
+   "method_zh": "菊石化石的 CT 数据（White Rabbit 公司）经 3D 建模后用树脂制作；高清录像。",
+   "keywords": [
+    "octopus",
+    "ammonite",
+    "fossil",
+    "CT scan",
+    "evolution"
+   ],
+   "video": {
+    "url": "https://vimeo.com/606429490"
+   },
+   "images": [
+    "https://www.aki-inomata.com/shared/img/works/07/07-01.jpg",
+    "https://www.aki-inomata.com/shared/img/works/07/07-02.jpg"
+   ],
+   "source_url": "https://www.aki-inomata.com/works/kiku-ishi/"
+  },
+  {
+   "id": "aki-inomata--how-to-carve-a-sculpture",
+   "creator_ids": [
+    "aki-inomata"
+   ],
+   "title": "How to Carve a Sculpture",
+   "year": 2018,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "installation",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "Wood chewed by beavers in Japanese zoos is shown beside enlarged copies carved by a human sculptor and by machine, with recordings of beavers gnawing, asking who the sculptor is.",
+   "description_zh": "日本动物园里被河狸啃过的木头，与人类雕刻家和机器放大复刻的版本并置，配上河狸啃咬的录音，追问谁才是雕刻者。",
+   "idea_en": "A human imitates an animal's making: to copy the beaver's marks, the sculptor must follow its teeth and the wood's knots.",
+   "idea_zh": "人模仿动物的制作：要复刻河狸的痕迹，雕刻家必须顺着它的牙齿和木头的结疤走。",
+   "method": "Beaver-gnawed wood, 3D scanning, machine and hand carving, and sound design by Yutaka Ito.",
+   "method_zh": "河狸啃过的木头、3D 扫描、机器与手工雕刻，声音设计伊藤丰。",
+   "keywords": [
+    "beaver",
+    "sculpture",
+    "wood",
+    "zoo",
+    "Brâncuşi"
+   ],
+   "images": [
+    "https://www.aki-inomata.com/shared/img/works/05/05-01.jpg",
+    "https://www.aki-inomata.com/shared/img/works/05/05-02.jpg"
+   ],
+   "source_url": "https://www.aki-inomata.com/works/how_to_make/"
+  },
+  {
+   "id": "ryuichi-sakamoto--forest-symphony",
+   "creator_ids": [
+    "ryuichi-sakamoto",
+    "ycam-interlab"
+   ],
+   "title": "Forest Symphony",
+   "year": 2013,
+   "field": "tree",
+   "sub": "tree",
+   "senses": [
+    "hearing",
+    "time-scale",
+    "collective-sense"
+   ],
+   "medium": [
+    "audio",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "Sensors on 24 trees in Japan and abroad record their bioelectric potential, which drives an ever-changing composition by Ryuichi Sakamoto, played back in galleries and gardens so that visitors listen to forests performing.",
+   "description_zh": "日本国内外 24 棵树上的传感器记录它们的生物电位，这些数据驱动坂本龙一不断变化的乐曲，在展厅与庭园中播放，让观众聆听森林的演奏。",
+   "idea_en": "Hearing trees as live performers: slow electrical rhythms of wood become a music humans can follow.",
+   "idea_zh": "把树当作现场演奏者来听：木头里缓慢的电节律变成人能跟随的音乐。",
+   "method": "Custom bioelectric sensing devices built by YCAM InterLab stream data over the internet to a generative score.",
+   "method_zh": "YCAM InterLab 开发的生物电位测量装置通过互联网把数据传给生成式乐谱。",
+   "keywords": [
+    "tree",
+    "bioelectric potential",
+    "YCAM",
+    "generative music",
+    "sonification"
+   ],
+   "shown_at": [
+    "YCAM 10th Anniversary, Yamaguchi 2013"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1-jvZTqvI8E"
+   },
+   "images": [
+    "https://special.ycam.jp/forestsymphony/images/tree_color.jpg"
+   ],
+   "source_url": "https://special.ycam.jp/interlab/en/projects/forestsymphony.html"
+  },
+  {
+   "id": "neurowear--necomimi",
+   "creator_ids": [
+    "neurowear"
+   ],
+   "title": "necomimi",
+   "year": 2011,
+   "field": "animal",
+   "sub": "companion",
+   "also": [
+    "octopus"
+   ],
+   "senses": [
+    "body",
+    "breath"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "product",
+   "description": "Brainwave-controlled cat ears: a headband reads the wearer's EEG and makes the ears perk up when they concentrate, droop when they relax and wiggle when they are both.",
+   "description_zh": "由脑波控制的猫耳：头箍读取佩戴者的脑电，专注时耳朵竖起，放松时耷拉下来，两者兼有时左右摆动。",
+   "idea_en": "Wearing an animal's expressive organ turns hidden inner states into visible cat-like body language.",
+   "idea_zh": "戴上动物的表情器官，把隐藏的内在状态变成看得见的、猫一样的肢体语言。",
+   "method": "Single-electrode NeuroSky EEG sensor driving two servo-actuated ears.",
+   "method_zh": "单电极 NeuroSky 脑电传感器驱动两只舵机控制的耳朵。",
+   "keywords": [
+    "cat ears",
+    "EEG",
+    "NeuroSky",
+    "brain-computer interface"
+   ],
+   "shown_at": [
+    "Tokyo Game Show 2011"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_L_VkXbCIqY"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/_L_VkXbCIqY/hqdefault.jpg"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=_L_VkXbCIqY"
+  },
+  {
+   "id": "neurowear--shippo",
+   "creator_ids": [
+    "neurowear"
+   ],
+   "title": "shippo",
+   "year": 2012,
+   "field": "octopus",
+   "sub": "limbs",
+   "also": [
+    "animal"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A concept for a brainwave-controlled tail that wags faster when the wearer is excited and slowly when calm, and shares the wearer's mood on a map.",
+   "description_zh": "一个由脑波控制尾巴的概念：佩戴者兴奋时尾巴摇得快，平静时摇得慢，并把心情分享到地图上。",
+   "idea_en": "A tail for humans makes mood a shared, animal signal rather than a private feeling.",
+   "idea_zh": "给人装上尾巴，让情绪成为一种共享的动物信号，而不是私人感受。",
+   "method": "EEG headset linked to a motorised tail and a smartphone app.",
+   "method_zh": "脑电头戴设备连接电动尾巴和手机应用。",
+   "keywords": [
+    "tail",
+    "EEG",
+    "wagging",
+    "mood"
+   ],
+   "shown_at": [
+    "Tokyo Game Show 2012"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=FwSTLm7cy_s"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/FwSTLm7cy_s/hqdefault.jpg"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=FwSTLm7cy_s"
+  },
+  {
+   "id": "shinseungback-kimyonghun--cloud-face",
+   "creator_ids": [
+    "shinseungback-kimyonghun"
+   ],
+   "title": "Cloud Face",
+   "year": 2012,
+   "field": "robot",
+   "sub": "machine-senses",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A collection of photographs of clouds in which a face-detection algorithm found human faces; visitors compare what the machine sees with the faces they imagine.",
+   "description_zh": "一组云的照片，人脸识别算法在其中“找到了”人脸；观众把机器看到的与自己想象出的面孔相比较。",
+   "idea_en": "Seeing like a machine: its errors resemble human pareidolia, yet the machine believes what it sees.",
+   "idea_zh": "像机器那样看：它的错误与人类的空想性错视相似，但机器相信自己看到的。",
+   "method": "Camera and a face-detection algorithm with custom software; pigment prints.",
+   "method_zh": "摄像机与人脸检测算法及自制软件；颜料打印。",
+   "keywords": [
+    "face detection",
+    "clouds",
+    "pareidolia",
+    "machine vision"
+   ],
+   "shown_at": [
+    "Ars Electronica Center 2014–2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QUEVeL4Y9-M"
+   },
+   "images": [
+    "https://djhznh41oxwef.cloudfront.net/works/cloud_face/resized/ssbkyh_detail1.png"
+   ],
+   "source_url": "http://ssbkyh.com/works/cloud_face/",
+   "collections": [
+    "ars-electronica"
+   ]
+  },
+  {
+   "id": "shinseungback-kimyonghun--stone",
+   "creator_ids": [
+    "shinseungback-kimyonghun"
+   ],
+   "title": "Stone",
+   "year": 2017,
+   "field": "river",
+   "sub": "earth",
+   "senses": [
+    "touch",
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "Water sensors on a stone on the shore of the volcanic island Ulleungdo recorded the waves; in the gallery a structure of 64 solenoids replays the waves breaking on that stone, and visitors step inside to 'become the stone'.",
+   "description_zh": "在火山岛郁陵岛岸边一块石头上安装水位传感器记录海浪；展厅里 64 个电磁阀组成的结构重现浪打在这块石头上的节奏，观众走进其中“成为石头”。",
+   "idea_en": "Becoming a stone is standing still while the sea arrives, again and again, on your surface.",
+   "idea_zh": "成为石头，就是静立不动，让大海一次又一次拍打在你的表面。",
+   "method": "64 water sensors and 64 solenoids on wooden panels, Arduino, custom software, speakers and projection.",
+   "method_zh": "64 个水传感器与装在木板上的 64 个电磁阀，Arduino、自制软件、扬声器与投影。",
+   "keywords": [
+    "stone",
+    "waves",
+    "Ulleungdo",
+    "solenoids",
+    "sensor data"
+   ],
+   "shown_at": [
+    "Goethe-Institut Shanghai commission 2017"
+   ],
+   "video": {
+    "url": "https://vimeo.com/211470143"
+   },
+   "images": [
+    "https://djhznh41oxwef.cloudfront.net/works/stone/ssbkyh_stone_01.png"
+   ],
+   "source_url": "http://ssbkyh.com/works/stone/"
+  },
+  {
+   "id": "shinseungback-kimyonghun--mind",
+   "creator_ids": [
+    "shinseungback-kimyonghun"
+   ],
+   "title": "Mind",
+   "year": 2019,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "hearing",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "Mechanical ocean drums make the sound of waves according to the average emotion of the last 100 faces seen by a camera in the room, so the sea rises and calms with the visitors' collective mind.",
+   "description_zh": "机械海浪鼓根据展厅摄像头最近看到的 100 张人脸的平均情绪发出浪声，海随观众的集体心绪起伏或平静。",
+   "idea_en": "Visitors become a sea together: the weather of a crowd's feelings is heard as surf.",
+   "idea_zh": "观众一起成为一片海：人群情绪的天气被听成浪涛。",
+   "method": "Facial emotion recognition (FER+ with ONNX Runtime) driving microcontroller-actuated ocean drums and a sea simulation.",
+   "method_zh": "面部情绪识别（FER+ 与 ONNX Runtime）驱动微控制器控制的海浪鼓与海面模拟。",
+   "keywords": [
+    "ocean drum",
+    "emotion recognition",
+    "sea",
+    "collective"
+   ],
+   "shown_at": [
+    "MMCA Korea commission 2019"
+   ],
+   "video": {
+    "url": "https://vimeo.com/364570360"
+   },
+   "images": [
+    "https://djhznh41oxwef.cloudfront.net/works/mind/ssbkyh_Mind_01.png"
+   ],
+   "source_url": "http://ssbkyh.com/works/mind/"
+  },
+  {
+   "id": "shinseungback-kimyonghun--aposematic-jacket",
+   "creator_ids": [
+    "shinseungback-kimyonghun"
+   ],
+   "title": "Aposematic Jacket",
+   "year": 2014,
+   "field": "robot",
+   "sub": "cyborg",
+   "also": [
+    "insect"
+   ],
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "artwork",
+   "description": "A jacket covered in camera lenses that, like the warning colours of animals, signals 'I can record you'; under threat the wearer presses a button and it records a 360° image and sends it online.",
+   "description_zh": "一件布满摄像镜头的夹克，像动物的警戒色一样发出“我能拍下你”的信号；遇到威胁时，穿着者按下按钮，它会录下 360° 画面并上传到网络。",
+   "idea_en": "Borrowing an animal defence strategy: many eyes on the skin, like the eyespots of moths and butterflies.",
+   "idea_zh": "借用动物的防御策略：皮肤上长满眼睛，像蛾与蝴蝶翅膀上的眼斑。",
+   "method": "Lenses, cameras, Raspberry Pi, Wi-Fi module and battery sewn into fabric.",
+   "method_zh": "镜头、摄像头、树莓派、Wi-Fi 模块和电池缝入布料中。",
+   "keywords": [
+    "aposematism",
+    "eyespots",
+    "wearable camera",
+    "self-defence"
+   ],
+   "video": {
+    "url": "https://vimeo.com/104411181"
+   },
+   "images": [
+    "https://djhznh41oxwef.cloudfront.net/works/aposematic_jacket/resized/ssbkyh_aposematic_jacket_01.png"
+   ],
+   "source_url": "http://ssbkyh.com/works/aposematic_jacket/"
+  },
+  {
+   "id": "nam-june-paik--fish-flies-on-sky",
+   "creator_ids": [
+    "nam-june-paik"
+   ],
+   "title": "Fish Flies on Sky",
+   "year": 1975,
+   "field": "fish",
+   "sub": "fish",
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "Dozens of television monitors hang face-down from the ceiling showing fish swimming; visitors lie on the floor and look up, as if lying on a riverbed beneath the fish.",
+   "description_zh": "数十台电视机从天花板上朝下悬挂，播放游动的鱼；观众躺在地上向上看，仿佛躺在鱼群下方的河床上。",
+   "idea_en": "A precursor: turning the viewer upside down makes the ceiling a water surface and the human a creature of the bottom.",
+   "idea_zh": "先驱之作：让观众翻转身体，天花板成了水面，人成了水底的生物。",
+   "method": "Video monitors suspended from the ceiling playing footage of fish (and aircraft).",
+   "method_zh": "悬挂在天花板上的显示器播放鱼（以及飞机）的影像。",
+   "keywords": [
+    "fish",
+    "video art",
+    "television",
+    "Fluxus"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qZjhP-rwhP8"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/qZjhP-rwhP8/hqdefault.jpg"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=qZjhP-rwhP8",
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "natasha-tontey--primate-visions",
+   "creator_ids": [
+    "natasha-tontey"
+   ],
+   "title": "Primate Visions: Macaque Macabre",
+   "year": 2024,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body",
+    "multisensory"
+   ],
+   "medium": [
+    "installation",
+    "screen",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "An immersive exhibition and film in which a primatologist frees a troop of yaki (black-crested macaques) in North Sulawesi; the actors playing the macaques re-enact Mawolay, the Minahasan ritual in which shamans in monkey costumes become macaques to keep them from the villages.",
+   "description_zh": "一个沉浸式展览与影片：一位灵长类学家在北苏拉威西放归一群黑冠猕猴（yaki）；扮演猕猴的演员重演米纳哈萨的 Mawolay 仪式——萨满穿上猴子服装化身猕猴，把猴群挡在村外。",
+   "idea_en": "Becoming macaque is a ritual technology: ancestors, pests and endangered kin at once.",
+   "idea_zh": "成为猕猴是一种仪式技术：它们同时是祖先、害兽和濒危的亲属。",
+   "method": "Film with costumed performers, campy 1990s Indonesian soap-opera aesthetics and a walk-in installation.",
+   "method_zh": "身穿服装的演员、仿 1990 年代印尼肥皂剧的夸张美学，以及可步入的装置。",
+   "keywords": [
+    "macaque",
+    "yaki",
+    "Mawolay",
+    "Minahasa",
+    "North Sulawesi",
+    "shaman"
+   ],
+   "shown_at": [
+    "Museum MACAN, Jakarta 2024–25 (Audemars Piguet Contemporary)",
+    "FID Marseille 2025",
+    "Singapore International Film Festival 2025",
+    "BFI London Film Festival 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4Z16Cf6jFbw"
+   },
+   "images": [
+    "https://admin.fidmarseille.org/media/pages/festivals/festival-36/films/primate-visions-macaque-macabre/fdd5085136-1770734979/fidmarseille-2025-primate-visions-macaque-macabre-film-still-0-2567367-1200x630-crop.jpg"
+   ],
+   "source_url": "https://www.museummacan.org/exhibition/macaque-macabre?lang=en"
+  },
+  {
+   "id": "kawita-vatanajyankur--tools",
+   "creator_ids": [
+    "kawita-vatanajyankur"
+   ],
+   "title": "Tools",
+   "year": 2015,
+   "field": "robot",
+   "sub": "object",
+   "senses": [
+    "body",
+    "touch"
+   ],
+   "medium": [
+    "performance",
+    "screen"
+   ],
+   "kind": "performance",
+   "description": "A series of brightly coloured videos in which the artist uses her own body as household tools — hanging as a scale loaded with fruit, sweeping as a broom, scooping as a dustpan — until the strain shows.",
+   "description_zh": "一组色彩鲜艳的录像：艺术家把自己的身体当作家用工具——吊起来当装满水果的秤、当扫帚扫地、当簸箕铲物——直到身体显出吃力。",
+   "idea_en": "Becoming an object exposes how women's bodies are used as instruments of domestic labour.",
+   "idea_zh": "成为物件，揭示女性身体如何被当作家务劳动的工具使用。",
+   "method": "Single-take studio performances filmed against saturated colour backdrops.",
+   "method_zh": "在饱和色背景前一镜到底拍摄的影棚表演。",
+   "keywords": [
+    "scale",
+    "broom",
+    "labour",
+    "feminism",
+    "Bangkok"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Rqew7gYP4C0"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/Rqew7gYP4C0/hqdefault.jpg"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=Rqew7gYP4C0"
+  },
+  {
+   "id": "kawita-vatanajyankur--performing-textiles",
+   "creator_ids": [
+    "kawita-vatanajyankur"
+   ],
+   "title": "Performing Textiles",
+   "year": 2020,
+   "field": "robot",
+   "sub": "object",
+   "senses": [
+    "body",
+    "touch",
+    "time-scale"
+   ],
+   "medium": [
+    "performance",
+    "screen"
+   ],
+   "kind": "performance",
+   "description": "A video series in which the artist performs the steps of textile production with her body — spinning, weaving, dyeing — acting as the loom, spindle or shuttle herself.",
+   "description_zh": "一组录像：艺术家用自己的身体完成纺织生产的各个步骤——纺纱、织布、染色——她本人就是织机、纺锤或梭子。",
+   "idea_en": "The body as machine: repetitive industrial motion is felt in human muscles, making invisible garment labour visible.",
+   "idea_zh": "身体即机器：重复的工业动作落在人的肌肉上，让看不见的制衣劳动变得可见。",
+   "method": "Endurance performances filmed in single takes, often with assistants operating threads and frames around her body.",
+   "method_zh": "一镜到底拍摄的耐力表演，助手常在她身体周围操作纱线与框架。",
+   "keywords": [
+    "textile",
+    "loom",
+    "weaving",
+    "labour",
+    "Thailand"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CMo2hKE-PYk"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/CMo2hKE-PYk/hqdefault.jpg"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=CMo2hKE-PYk"
+  },
+  {
+   "id": "rachael-rakena--aniwaniwa",
+   "creator_ids": [
+    "rachael-rakena",
+    "brett-graham"
+   ],
+   "title": "Āniwaniwa",
+   "year": 2007,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "vision",
+    "hearing",
+    "body"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "Visitors lie on their backs under large carved waka-like forms onto which underwater video is projected, sinking with Horahora, a Waikato River village drowned by a hydroelectric dam in 1947, to a Māori chant soundtrack.",
+   "description_zh": "观众仰躺在大型雕刻的独木舟状结构下，结构上投映水下影像，伴着毛利吟唱，与 1947 年被水电站淹没的怀卡托河畔村庄霍拉霍拉一起沉入水中。",
+   "idea_en": "Perceiving from under the river: the audience shares the position of a village and people submerged by development.",
+   "idea_zh": "从河底感知：观众与被开发淹没的村庄和人们处在同一个位置。",
+   "method": "Five suspended sculptural forms with projected underwater footage and surround sound.",
+   "method_zh": "五个悬挂的雕塑形体，投映水下影像并配以环绕声。",
+   "keywords": [
+    "Waikato River",
+    "Horahora",
+    "hydro dam",
+    "Māori",
+    "waka"
+   ],
+   "shown_at": [
+    "Venice Biennale 2007 (collateral event)"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=YJYzyIlcpAQ"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/YJYzyIlcpAQ/hqdefault.jpg"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=GvpJaa37GGo"
+  },
+  {
+   "id": "alinta-krauth--otherhood-of-meep",
+   "creator_ids": [
+    "alinta-krauth"
+   ],
+   "title": "The (m)Otherhood of Meep (the bat translator)",
+   "year": 2023,
+   "field": "bat",
+   "sub": "bat-life",
+   "senses": [
+    "hearing",
+    "echolocation"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "An AI interpreter for grey-headed flying foxes that listens to their calls and turns them into poems in real time, drawn from the artist's experience of raising rescued bat pups and releasing them.",
+   "description_zh": "一个为灰头狐蝠做的 AI 翻译器，实时聆听它们的叫声并转成诗句，源于艺术家救护、抚养并放归幼蝠的经历。",
+   "idea_en": "Listening as a bat carer: the machine offers a poetic, admittedly partial translation rather than a claim to know what bats mean.",
+   "idea_zh": "以蝙蝠照护者的身份去听：机器给出的是诗意的、坦承不完整的翻译，而不是宣称知道蝙蝠在说什么。",
+   "method": "Model trained on a categorised corpus of flying-fox vocalisations, running in TensorFlow and JavaScript with generated text and imagery.",
+   "method_zh": "在分类整理的狐蝠发声语料上训练的模型，以 TensorFlow 与 JavaScript 运行，生成文字与图像。",
+   "keywords": [
+    "grey-headed flying fox",
+    "bat",
+    "AI translation",
+    "wildlife rescue",
+    "poetry"
+   ],
+   "shown_at": [
+    "S+T+ARTS Prize 2023 (nominated)",
+    "Art Laboratory Berlin",
+    "The Glucksman, Cork",
+    "HOTA, Gold Coast"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=J8zNuyS5yj0"
+   },
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2023/06/Meep-Translator_Image2.jpg",
+    "https://ars.electronica.art/starts-prize/files/2023/06/Meep-Translator_OutdoorTest3.jpg"
+   ],
+   "source_url": "https://ars.electronica.art/starts-prize/en/the-motherhood-of-meep/"
+  },
+  {
+   "id": "ken-thaiday-snr--beizam-dance-mask",
+   "creator_ids": [
+    "ken-thaiday-snr"
+   ],
+   "title": "Beizam (shark) dance mask",
+   "year": 1996,
+   "field": "fish",
+   "sub": "fish",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "performance",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A kinetic headdress of the hammerhead shark (beizam) worn in Torres Strait Islander dance; strings let the dancer open and close the shark's jaws and head as they move.",
+   "description_zh": "托雷斯海峡岛民舞蹈中佩戴的双髻鲨（beizam）动态头饰；舞者一边舞动一边拉动绳索，让鲨鱼的颌与头部开合。",
+   "idea_en": "An Indigenous technology of becoming: the dancer's body animates the shark totem that holds law and order.",
+   "idea_zh": "一种原住民的“成为”技术：舞者的身体让掌管法律与秩序的鲨鱼图腾活过来。",
+   "method": "Plywood, bamboo, feathers, paint and string mechanisms operated by the dancer's hands.",
+   "method_zh": "胶合板、竹子、羽毛、颜料与由舞者手部操控的绳索机关。",
+   "keywords": [
+    "hammerhead shark",
+    "beizam",
+    "Torres Strait",
+    "Erub",
+    "headdress",
+    "dance"
+   ],
+   "shown_at": [
+    "Art Gallery of New South Wales collection"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GZulMG0qp_E"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/GZulMG0qp_E/hqdefault.jpg"
+   ],
+   "source_url": "https://www.artgallery.nsw.gov.au/collection/works/4.1997/"
+  },
+  {
+   "id": "cat-jones--somatic-drifts",
+   "creator_ids": [
+    "cat-jones"
+   ],
+   "title": "Somatic Drifts",
+   "year": 2016,
+   "field": "tree",
+   "sub": "plant",
+   "also": [
+    "animal"
+   ],
+   "senses": [
+    "touch",
+    "body",
+    "smell"
+   ],
+   "medium": [
+    "performance",
+    "installation"
+   ],
+   "kind": "performance",
+   "description": "A one-to-one live work in which the artist uses touch, sound and body illusions to guide a participant into feeling the body of another entity, followed by an accumulating video installation of the participants' 'donated' bodies.",
+   "description_zh": "一对一的现场作品：艺术家用触摸、声音和身体错觉引导参与者感受另一种存在的身体，随后形成一件不断累积参与者“捐出”的身体的录像装置。",
+   "idea_en": "Trans-species empathy through illusion: the felt boundary of the body is loosened until it drifts toward plant and animal bodies.",
+   "idea_zh": "借错觉实现跨物种共情：身体的感受边界被松开，漂向植物与动物的身体。",
+   "method": "Visuo-tactile body illusions (in the manner of the rubber-hand illusion), binaural sound by Melissa Hunt, video and a limited-edition scent.",
+   "method_zh": "视触觉身体错觉（类似橡胶手错觉）、Melissa Hunt 的双耳声音设计、录像与限量气味。",
+   "keywords": [
+    "body illusion",
+    "rubber hand illusion",
+    "empathy",
+    "scent",
+    "plant"
+   ],
+   "shown_at": [
+    "PICA Radical Ecologies, Perth 2016",
+    "The Art of Pain, Adelaide 2015"
+   ],
+   "video": {
+    "url": "https://vimeo.com/299341088"
+   },
+   "images": [
+    "https://catjones.net/wp-content/uploads/2015/06/somatic-drifts-live-remix-lge2-copy1.jpg"
+   ],
+   "source_url": "https://catjones.net/2016/08/11/somatic-drifts/"
+  },
+  {
+   "id": "lygia-clark--sensorial-masks",
+   "creator_ids": [
+    "lygia-clark"
+   ],
+   "title": "Máscaras Sensoriais (Sensorial Masks)",
+   "year": 1967,
+   "field": "foundations",
+   "sub": "embodiment",
+   "senses": [
+    "vision",
+    "smell",
+    "hearing"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "artwork",
+   "description": "Cloth hoods fitted with mirrors, lenses, scented pouches and sound-making objects that participants wear over the head, altering sight, smell and hearing and turning attention inward.",
+   "description_zh": "装有镜片、透镜、香包和发声物的布制头罩，参与者戴在头上，改变视觉、嗅觉与听觉，把注意力引向身体内部。",
+   "idea_en": "A precursor: art as a wearable that changes the senses themselves, not an image to look at.",
+   "idea_zh": "先驱之作：艺术是改变感官本身的穿戴物，而不是供人观看的图像。",
+   "method": "Hand-sewn fabric hoods with mirrors, eyepieces, aromatic herbs and small sound objects.",
+   "method_zh": "手缝布头罩，配有镜子、目镜、芳香草药和小型发声物。",
+   "keywords": [
+    "sensory mask",
+    "Neo-Concretism",
+    "relational objects",
+    "participation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0kZ-WIORsZg"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/0kZ-WIORsZg/hqdefault.jpg"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=0kZ-WIORsZg",
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "atsuko-tanaka--electric-dress",
+   "creator_ids": [
+    "atsuko-tanaka"
+   ],
+   "title": "Electric Dress",
+   "year": 1956,
+   "field": "robot",
+   "sub": "cyborg",
+   "senses": [
+    "vision",
+    "body",
+    "thermal"
+   ],
+   "medium": [
+    "wearable",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "A dress made of about 200 painted light bulbs and tubes that flashed in sequence; Tanaka wore it at the Gutai exhibition, becoming a hot, blinking electrical body.",
+   "description_zh": "一件由约 200 个涂色灯泡和灯管组成、依次闪烁的衣服；田中敦子在具体派展览上穿上它，成为一个发热、闪烁的电气身体。",
+   "idea_en": "A precursor of cyborg wearables: the body becomes an electrical apparatus, with the risk and heat that implies.",
+   "idea_zh": "赛博格可穿戴物的先驱：身体变成一台电器，也承受随之而来的危险与热量。",
+   "method": "Coloured incandescent bulbs and neon tubes wired to a sequencing controller, worn on the body.",
+   "method_zh": "彩色白炽灯泡与霓虹灯管接到一个顺序控制器上，穿在身上。",
+   "keywords": [
+    "Gutai",
+    "light bulbs",
+    "wearable",
+    "performance"
+   ],
+   "shown_at": [
+    "2nd Gutai Art Exhibition, Tokyo 1956",
+    "documenta 12, Kassel 2007"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KE_H6xgwqWw"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/KE_H6xgwqWw/hqdefault.jpg"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=tJpldOY-w50",
+   "collections": [
+    "early-becoming-1965-2012"
+   ]
+  },
+  {
+   "id": "zheng-mahler--what-is-it-like-to-be-a-virtual-bat",
+   "creator_ids": [
+    "zheng-mahler"
+   ],
+   "title": "What is it like to be a (virtual) bat?",
+   "year": 2023,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "thermal",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "film360",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "Part II of the Lantau Trilogy: a large 3D animation and a VR 360 version in which the viewer turns from a human into a Japanese house bat and flies through a psychedelically coloured Mui Wo, alongside thermal videos and ultrasonic field recordings of local bats.",
+   "description_zh": "“大屿山三部曲”第二部：大型 3D 动画与 VR 360 版本中，观众从人变成东亚家蝠，飞过被渲染成迷幻色彩的梅窝；现场还有本地蝙蝠的热成像影像与超声波录音。",
+   "idea_en": "Takes Nagel's 1974 question literally and admits its limit: technology can mediate a bat's world, but only as a human imagining it.",
+   "idea_zh": "把 Nagel 1974 年的问题当真，同时承认其局限：技术能转译蝙蝠的世界，但仍只是人类的想象。",
+   "method": "3D and point-cloud animation of Mui Wo, a VR 360 video in a headset, thermal camera footage and ultrasonic recordings of Pipistrellus abramus made during fieldwork.",
+   "method_zh": "梅窝的 3D 与点云动画、头显中的 VR 360 影片，以及田野中拍摄的热成像画面与东亚家蝠超声波录音。",
+   "keywords": [
+    "Pipistrellus abramus",
+    "Japanese house bat",
+    "Thomas Nagel",
+    "Lantau",
+    "Mui Wo",
+    "thermal imaging",
+    "ultrasonic recording",
+    "point cloud"
+   ],
+   "shown_at": [
+    "PHD Group, Hong Kong 2023"
+   ],
+   "images": [
+    "https://static.wixstatic.com/media/d3b537_b626097b5cf7487dbf6534e5de61e602f000.jpg",
+    "https://static.wixstatic.com/media/d3b537_e41f0c44438d411a80537c8f091eeaea~mv2.jpg",
+    "https://static.wixstatic.com/media/d3b537_873d05ab58a749ac8115da3777735c85~mv2.jpg"
+   ],
+   "source_url": "https://www.zhengmahler.world/whatisitliketobeavirtualbat"
+  },
+  {
+   "id": "zheng-mahler--bubalus-bubalis-16-40000hz",
+   "creator_ids": [
+    "zheng-mahler"
+   ],
+   "title": "Bubalus Bubalis 16hz-40,000hz",
+   "year": 2021,
+   "field": "animal",
+   "sub": "wild",
+   "also": [
+    "bat"
+   ],
+   "senses": [
+    "hearing"
+   ],
+   "medium": [
+    "installation",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "Part I of the Lantau Trilogy: field recordings made by following Lantau's feral water buffalo, captured with a binaural microphone shaped like buffalo ears and played back as a sound sculpture split into audible and ultrasonic ranges.",
+   "description_zh": "“大屿山三部曲”第一部：艺术家跟随大屿山的野化水牛录音，使用按水牛耳朵形状制作的双耳麦克风，并把录音分成可听与超声两部分，做成声音雕塑。",
+   "idea_en": "Hearing the wetland as a buffalo does, up to 40,000 Hz, to register the animals that turned abandoned rice fields into habitat.",
+   "idea_zh": "像水牛那样聆听湿地（最高可达 40,000 赫兹），去感知这些把废弃稻田变成栖息地的动物。",
+   "method": "Buffalo ears 3D-scanned and 3D-printed into a binaural microphone, ultrasonic field recordings, a water speaker and 4K video.",
+   "method_zh": "把水牛耳朵 3D 扫描并打印成双耳麦克风，录制超声波田野录音，配合水体扬声器与 4K 影像。",
+   "keywords": [
+    "water buffalo",
+    "Bubalus bubalis",
+    "Lantau",
+    "binaural microphone",
+    "ultrasound",
+    "wetland",
+    "Lantau Tomorrow Vision"
+   ],
+   "shown_at": [
+    "Liquid Ground, Para Site, Hong Kong 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vOeUkKI-Yxw"
+   },
+   "images": [
+    "https://static.wixstatic.com/media/d3b537_ae2a5e50def2431ea2364ef8f97c2582~mv2.jpeg",
+    "https://static.wixstatic.com/media/d3b537_8e929482431047fba804a816cb9d61b6~mv2.jpg",
+    "https://static.wixstatic.com/media/d3b537_f2821c91de31427fb608d7771bfbfbb7~mv2.jpg"
+   ],
+   "source_url": "https://www.zhengmahler.world/bubalusbubalis16-40000hz"
+  },
+  {
+   "id": "zheng-mahler--mushroom-clouds",
+   "creator_ids": [
+    "zheng-mahler"
+   ],
+   "title": "Mushroom Clouds",
+   "year": 2026,
+   "field": "fungi",
+   "sub": "mycelium",
+   "senses": [
+    "multisensory",
+    "time-scale"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "Part III of the Lantau Trilogy: a 3.65 m living vivarium of Lantau plants and fruiting mushrooms, wrapped in sensor-driven fog, that asks what it is like to live, sense and feel as a mushroom.",
+   "description_zh": "“大屿山三部曲”第三部：一座 3.65 米见方的活体生态箱，种着大屿山植物与正在出菇的真菌，并由传感器驱动的雾气包围，追问“作为一朵蘑菇去生活、感知与感受”是什么样子。",
+   "idea_en": "Moves from animal to fungal perception: the visitor enters humidity, fog and slow growth on the mushrooms' terms.",
+   "idea_zh": "从动物感知转向真菌感知：观众按照蘑菇的节奏进入湿度、雾气与缓慢生长之中。",
+   "method": "Vivarium with living Ganoderma, oyster, split-gill, wood-ear and lion's mane mushrooms, humidity and temperature sensors, a humidifier and a volumetric fog display.",
+   "method_zh": "放入灵芝、平菇、裂褶菌、木耳与猴头菇等活体真菌的生态箱，配合温湿度传感器、加湿器与体积雾显示系统。",
+   "keywords": [
+    "Schizophyllum commune",
+    "Ganoderma lucidum",
+    "Hericium erinaceus",
+    "vivarium",
+    "volumetric fog",
+    "Lantau",
+    "Michele Piazzi"
+   ],
+   "shown_at": [
+    "PHD Group, Hong Kong 2026"
+   ],
+   "images": [
+    "https://static.wixstatic.com/media/d3b537_699f82e9317a4be7af6733a31bbb199b~mv2.jpg",
+    "https://static.wixstatic.com/media/d3b537_162d42060f7e4c008d68f2290a82149f~mv2.jpg",
+    "https://static.wixstatic.com/media/d3b537_445c1a6410b44c3abc0df9c19f5b868d~mv2.jpg"
+   ],
+   "source_url": "https://www.zhengmahler.world/mushroomclouds"
+  },
+  {
+   "id": "tae-yeun-kim--helpless",
+   "creator_ids": [
+    "tae-yeun-kim"
+   ],
+   "title": "Helpless",
+   "year": 2021,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "An interactive VR work that places the visitor in a virtual space to experience how plants respond to pain and damage.",
+   "description_zh": "一件互动 VR 作品，把观众带进虚拟空间，去体验植物如何回应疼痛与伤害。",
+   "idea_en": "Being a plant means being unable to flee: the work asks the visitor to take the position of a rooted body that is hurt.",
+   "idea_zh": "成为植物意味着无法逃开：作品让观众站到一个扎根、受伤的身体的位置上。",
+   "method": "Interactive VR in a headset made with PPPLab and VR Crew; plant stress responses are likely visualised as the visitor's own sensations.",
+   "method_zh": "与 PPPLab 和 VR Crew 合作的头显互动 VR；植物的应激反应很可能被转化为观众自身的感受来呈现。",
+   "keywords": [
+    "식물의 고통",
+    "plant pain",
+    "PPPLab",
+    "VR Crew",
+    "BIFAN"
+   ],
+   "shown_at": [
+    "BIFAN Beyond Reality 2022 (Beyond Science)"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=S0WSsZotfcU"
+   },
+   "source_url": "https://www.screendaily.com/features/bifans-xr-showcase-beyond-reality-reflects-post-pandemic-changes/5172480.article"
+  },
+  {
+   "id": "yifu-zhou--micro-giants",
+   "creator_ids": [
+    "yifu-zhou"
+   ],
+   "title": "Micro Giants",
+   "year": 2017,
+   "field": "insect",
+   "sub": "insect-other",
+   "senses": [
+    "time-scale",
+    "vision"
+   ],
+   "medium": [
+    "film360",
+    "vr"
+   ],
+   "kind": "film",
+   "description": "A six-minute CG VR animation that shrinks the viewer to mosquito size inside a forest floor, where aphids, ladybirds, a spider, a parasitoid wasp and a hummingbird play out a food chain at giant scale.",
+   "description_zh": "一部 6 分钟的 CG VR 动画，把观众缩小到蚊子大小，置身林下微观世界，蚜虫、瓢虫、蜘蛛、姬蜂与蜂鸟在巨大尺度下上演食物链。",
+   "idea_en": "Becoming insect-sized: grass turns to forest and a water drop to a pool, so the viewer inhabits the scale at which insects live.",
+   "idea_zh": "变成昆虫大小：草丛成了森林，水滴成了泳池，观众住进昆虫生活的尺度。",
+   "method": "Fully CG 4K stereoscopic 360 animation rendered in a film pipeline from macro-photography references (about 300 8K textures per creature), viewed in a VR headset.",
+   "method_zh": "以显微摄影为参考、在电影级流程中渲染的全 CG 4K 立体 360 动画（每个角色约 300 张 8K 贴图），通过 VR 头显观看。",
+   "keywords": [
+    "微观巨兽",
+    "Digital Domain",
+    "aphid",
+    "ladybird",
+    "spider",
+    "ichneumon wasp",
+    "hummingbird",
+    "macro scale"
+   ],
+   "shown_at": [
+    "Sundance New Frontier 2018",
+    "Kaohsiung VR FILM LAB 2020"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=a13wgYDLOQ4"
+   },
+   "source_url": "https://www.jiemian.com/article/1901935.html",
+   "collections": [
+    "sundance-new-frontier"
+   ]
+  },
+  {
+   "id": "jooyoung-oh--kestrel-drone",
+   "creator_ids": [
+    "jooyoung-oh"
+   ],
+   "title": "Kestrel Drone",
+   "year": 2022,
+   "field": "bird",
+   "sub": "avian-senses",
+   "also": [
+    "robot"
+   ],
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "game",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "An installation combining a PC game, an AI tracking camera and a bird-shaped drone that re-reads drone vision from the viewpoint of a kestrel living in the city.",
+   "description_zh": "一件结合 PC 游戏、AI 追踪摄像头与鸟形无人机的装置，从城市中红隼的视角重新理解无人机视觉。",
+   "idea_en": "Borrowing a raptor's eye through a machine: the drone becomes a way to ask how technology looks from the bird's side.",
+   "idea_zh": "借机器之眼成为猛禽：无人机成为追问“从鸟的一侧看，技术是什么样子”的方式。",
+   "method": "PC game, AI tracking camera, bird drone and neon signs; the player likely steers or watches through the drone's kestrel-like view.",
+   "method_zh": "PC 游戏、AI 追踪摄像头、鸟形无人机与霓虹灯牌；玩家很可能通过无人机类似红隼的视角操控或观看。",
+   "keywords": [
+    "kestrel",
+    "drone",
+    "AI tracking",
+    "urban ecology",
+    "ZER01NE"
+   ],
+   "shown_at": [
+    "ZER01NE DAY 2022",
+    "Displaced Impossibility, Post Territory Ujeongguk, Seoul 2024"
+   ],
+   "images": [
+    "https://k-artnow.com/data/content/684f7e300877a0.27253385__thum.png"
+   ],
+   "source_url": "https://k-artist.com/Artist_Works.php?tab_num=tab1&artist_num=170&works_num=1014"
+  },
+  {
+   "id": "hiroki-kobayashi--tele-echo-tube",
+   "creator_ids": [
+    "hiroki-kobayashi"
+   ],
+   "title": "Tele Echo Tube",
+   "year": 2010,
+   "field": "river",
+   "sub": "earth",
+   "senses": [
+    "hearing",
+    "touch"
+   ],
+   "medium": [
+    "installation",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "A speaking-tube installation linked in real time to a remote mountain forest in Japan: the visitor calls into the tube, the voice is played in the valley, and the mountain's real echo returns with vibration.",
+   "description_zh": "一件与日本偏远山林实时相连的传声筒装置：观众对着筒喊话，声音在山谷中播放，真实的山间回声连同振动一起返回。",
+   "idea_en": "Draws on the yamabiko, the mountain spirit that answers: the visitor is heard and answered by an actual mountain rather than a recording.",
+   "idea_zh": "取自日本“山彦”（会回应人的山灵）：回应观众的是一座真实的山，而不是一段录音。",
+   "method": "Networked microphone and speaker placed in a forest valley, a tube interface that likely vibrates (slit drum) as the echo returns, and live audio streaming.",
+   "method_zh": "放在森林山谷中的联网麦克风与扬声器、回声返回时很可能伴随振动（裂缝鼓）的传声筒装置，以及实时音频串流。",
+   "keywords": [
+    "yamabiko",
+    "echo",
+    "acoustic ecology",
+    "Cyberforest",
+    "slit drum",
+    "MUAC"
+   ],
+   "shown_at": [
+    "MUAC, Mexico City 2010",
+    "ACM Multimedia 2013",
+    "Matsudo International Science Art Festival 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KDlQG92_zhQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2502081.2502125",
+    "doi": "10.1145/2502081.2502125",
+    "venue": "ACM Multimedia 2013",
+    "title": "Tele echo tube"
+   },
+   "source_url": "https://doi.org/10.1145/2502081.2502125"
+  },
+  {
+   "id": "ai-hasegawa--i-wanna-deliver-a-dolphin",
+   "creator_ids": [
+    "ai-hasegawa"
+   ],
+   "title": "I Wanna Deliver a Dolphin...",
+   "year": 2011,
+   "field": "fish",
+   "sub": "cetacean",
+   "also": [
+    "animal"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "screen",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A speculative design project in which a woman considers incubating and giving birth to an endangered dolphin, shark or tuna, shown through film, a placenta diagram and a dolphin-birth prototype.",
+   "description_zh": "一件思辨设计作品：一位女性考虑孕育并分娩一只濒危的海豚、鲨鱼或金枪鱼，通过影片、胎盘示意图与“海豚分娩”原型呈现。",
+   "idea_en": "The most intimate form of becoming another species: sharing blood and a womb with it.",
+   "idea_zh": "成为另一个物种最亲密的方式：与它共享血液与子宫。",
+   "method": "Speculative film and objects based on research into cross-species placentas and dolphin anatomy, likely using the endangered Maui's dolphin as the case species.",
+   "method_zh": "基于跨物种胎盘与海豚解剖的研究制作思辨影片与物件，案例物种很可能是濒危的毛伊海豚。",
+   "keywords": [
+    "dolphin",
+    "Maui's dolphin",
+    "speculative design",
+    "surrogacy",
+    "Design Interactions",
+    "Science Gallery"
+   ],
+   "shown_at": [
+    "GROW YOUR OWN, Science Gallery Dublin 2013"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0ZoD-RtNQXM"
+   },
+   "source_url": "https://www.youtube.com/watch?v=0ZoD-RtNQXM"
+  },
+  {
+   "id": "zheng-bo--pteridophilia",
+   "creator_ids": [
+    "zheng-bo"
+   ],
+   "title": "Pteridophilia",
+   "year": 2016,
+   "field": "tree",
+   "sub": "plant",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "screen",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "An ongoing video series in which young queer men in a Taiwanese forest enter intimate, bodily relations with ferns, learning from the plants through touch rather than words.",
+   "description_zh": "一个持续进行的影像系列：几位年轻的酷儿男性在台湾的森林里与蕨类植物建立亲密的身体关系，通过触碰而非语言向植物学习。",
+   "idea_en": "Eco-queer kinship: the human body gives up its distance and meets the plant as a partner of equal sensitivity.",
+   "idea_zh": "生态酷儿的亲缘：人的身体放下距离，把植物当作同样敏感的伙伴来相遇。",
+   "method": "4K video shot with non-professional performers in forests in Taiwan; sound heard on headphones in the installation.",
+   "method_zh": "在台湾森林中与非职业表演者拍摄的 4K 影像；展览现场通过耳机聆听声音。",
+   "keywords": [
+    "fern",
+    "eco-queer",
+    "Taiwan",
+    "plant kinship",
+    "Manifesta 12",
+    "Taipei Biennial"
+   ],
+   "shown_at": [
+    "Manifesta 12, Palermo 2018",
+    "11th Taipei Biennial 2018",
+    "Liverpool Biennial 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=OpjQokRE9bs"
+   },
+   "images": [
+    "http://zhengbo.org/2016_PP1/ZHENG_2016_PP1_01.jpg",
+    "http://zhengbo.org/2016_PP1/ZHENG_2016_PP1_03.jpg"
+   ],
+   "source_url": "http://zhengbo.org/2019_PP4.html"
+  },
+  {
+   "id": "bcl--biopresence",
+   "creator_ids": [
+    "bcl"
+   ],
+   "title": "Biopresence",
+   "year": 2004,
+   "field": "tree",
+   "sub": "tree",
+   "senses": [
+    "time-scale",
+    "body"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A proposed service that writes a person's DNA into the DNA of a tree, creating 'Human DNA Trees' as living memorials or transgenic tombstones.",
+   "description_zh": "一项设想中的服务：把一个人的 DNA 写入一棵树的 DNA，制造作为“活的纪念碑”或“转基因墓碑”的“人类 DNA 树”。",
+   "idea_en": "Continuing as a tree: a human life carried on at a tree's pace and lifespan.",
+   "idea_zh": "以树的形式延续：让一个人的生命按照树的节奏与寿命继续下去。",
+   "method": "Joe Davis's DNA Manifold method encodes human DNA in silent base-triplet mutations of a tree genome, so the tree's genes are not altered.",
+   "method_zh": "借用 Joe Davis 的 DNA Manifold 方法，把人的 DNA 编码进树基因组中的沉默三联体突变，不改变树的基因功能。",
+   "keywords": [
+    "Human DNA Trees",
+    "transgenic tombstone",
+    "Joe Davis",
+    "DNA Manifold",
+    "IAMAS",
+    "NESTA"
+   ],
+   "shown_at": [
+    "ITV Morning News 2004"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=p4fiha3Qvno"
+   },
+   "images": [
+    "https://www.biopresence.com/img/human-DNA-trees.jpg"
+   ],
+   "source_url": "https://www.biopresence.com/description.html"
+  },
+  {
+   "id": "diana-domingues--insnhakres",
+   "creator_ids": [
+    "diana-domingues"
+   ],
+   "title": "INSN(H)AK(R)ES",
+   "year": 2001,
+   "field": "animal",
+   "sub": "reptile",
+   "also": [
+    "robot"
+   ],
+   "senses": [
+    "vision",
+    "body",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A telematic installation in which remote participants share the body of a robot snake living in a serpentarium with real snakes, steering it over the web and seeing through the camera on its head.",
+   "description_zh": "一件远程通信装置：远方的参与者通过网络共享一条机器蛇的身体，这条机器蛇与真蛇一同生活在蛇园里，参与者操控它移动，并通过它头部的摄像头观看。",
+   "idea_en": "You enter a snake enclosure as a snake, at snake height, sharing one animal body with other remote users and caring for the real snakes around it.",
+   "idea_zh": "你以蛇的身份、蛇的高度进入蛇园，与其他远程用户共享同一具动物身体，并照料身边的真蛇。",
+   "method": "A snake-shaped robot (named Ângela) with an onboard web camera is teleoperated through the internet; presence sensors trigger water and food for the live snakes when the robot passes.",
+   "method_zh": "一条名为 Ângela 的蛇形机器人装有网络摄像头，通过互联网远程操控；当机器人经过时，存在传感器会为活蛇释放水和食物。",
+   "keywords": [
+    "snake",
+    "serpentarium",
+    "telerobotics",
+    "telepresence",
+    "web art",
+    "ARTECHNO",
+    "Ângela"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=v9HElj0X6vA"
+   },
+   "source_url": "https://digitalartarchive.at/database/work/5052/"
+  },
+  {
+   "id": "guto-nobrega--breathing",
+   "creator_ids": [
+    "guto-nobrega"
+   ],
+   "title": "Breathing",
+   "year": 2008,
+   "field": "tree",
+   "sub": "plant",
+   "also": [
+    "robot"
+   ],
+   "senses": [
+    "breath",
+    "touch"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A hybrid creature made of a living pothos plant and a robotic body of servos, fibre optics and LEDs; visitors interact with it by breathing, and the plant's electrical response drives the creature's movement, light and sound.",
+   "description_zh": "一个由活体绿萝和舵机、光纤与 LED 组成的机器身体构成的混合生物；观众通过呼吸与它互动，植物的电信号反应驱动这个生物的动作、灯光与声音。",
+   "idea_en": "Breath becomes the shared channel between human and plant: the visitor's exhalation is felt by the leaf, and the plant answers in a body it does not normally have.",
+   "idea_zh": "呼吸成为人与植物之间共享的通道：观众呼出的气被叶片感知，植物则借一具它原本没有的身体作出回应。",
+   "method": "A galvanic skin response circuit adapted to measure electrical resistance in the leaves of an Epipremnum plant feeds an Arduino that controls servos, fibre optics and LEDs.",
+   "method_zh": "改装的皮肤电反应电路测量绿萝叶片的电阻变化，输入 Arduino，再由其控制舵机、光纤与 LED。",
+   "keywords": [
+    "Epipremnum",
+    "jibóia",
+    "plant electrophysiology",
+    "GSR",
+    "Arduino",
+    "hyperorganism",
+    "NANO"
+   ],
+   "shown_at": [
+    "FILE Festival"
+   ],
+   "video": {
+    "url": "https://vimeo.com/9860198"
+   },
+   "images": [
+    "https://payload.cargocollective.com/1/3/114170/1619978/_MG_2827_o.jpg"
+   ],
+   "source_url": "https://cargocollective.com/gutonobrega/Breathing"
+  },
+  {
+   "id": "ozge-samanci--you-are-the-ocean",
+   "creator_ids": [
+    "ozge-samanci"
+   ],
+   "title": "You Are the Ocean",
+   "year": 2017,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "breath",
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "wearable"
+   ],
+   "kind": "artwork",
+   "description": "An interactive installation in which a participant wearing an EEG headset controls a projected ocean with their mind: concentration raises storms, high waves and thick clouds, while a calm mind brings a quiet sea and sun.",
+   "description_zh": "一件互动装置：参与者戴上脑电头戴设备，用意念控制投影中的海洋。专注时风暴骤起、浪高云厚，平静时海面安宁、阳光出现。",
+   "idea_en": "The boundary between body and planet dissolves: your inner weather literally becomes the weather and waves of the sea.",
+   "idea_zh": "身体与星球之间的界限被消解：你内心的“天气”直接变成大海的天气与浪涌。",
+   "method": "A consumer EEG headset estimates attention and meditation levels, which drive wave height, storminess and cloud cover in a real-time ocean simulation projected at large scale; made with Gabriel Caniglia.",
+   "method_zh": "消费级脑电头戴设备估算专注度与冥想度，据此驱动大尺度投影的实时海洋模拟中的浪高、风暴强度与云量；与 Gabriel Caniglia 合作完成。",
+   "keywords": [
+    "EEG",
+    "brainwaves",
+    "ocean simulation",
+    "storm",
+    "Gabriel Caniglia",
+    "Leonardo"
+   ],
+   "shown_at": [
+    "SIGGRAPH 2018 Art Gallery"
+   ],
+   "video": {
+    "url": "https://vimeo.com/232792092"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5d29ea0b8f0d170001041163/1563030017135-QXSWHESFQ2XI90NRAI6P/34831489_1914921635205619_6748758785960968192_o.jpg?format=1500w"
+   ],
+   "source_url": "https://ozgesamanci.com/you-are-the-ocean"
+  },
+  {
+   "id": "issay-rodriguez--doon-over-there",
+   "creator_ids": [
+    "issay-rodriguez"
+   ],
+   "title": "DOON (Over There)",
+   "year": 2020,
+   "field": "insect",
+   "sub": "bee",
+   "senses": [
+    "body",
+    "collective-sense"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A VR artwork that places the viewer inside a beehive, where they guide fellow bees to sources of nectar and pollen by performing the waggle dance.",
+   "description_zh": "一件 VR 作品：观众置身蜂巢之中，通过跳“摇摆舞”为同伴蜜蜂指引花蜜与花粉的方向。",
+   "idea_en": "You communicate as a bee does, with the body rather than words: the dance itself is the message to the hive.",
+   "idea_zh": "你像蜜蜂一样用身体而不是语言交流：舞蹈本身就是传给蜂群的信息。",
+   "method": "Interactive VR environment in which the viewer's movement is likely mapped to the waggle dance that directs virtual hive mates.",
+   "method_zh": "互动 VR 环境，观众的动作很可能被映射为指引虚拟同伴的摇摆舞。",
+   "keywords": [
+    "bee",
+    "waggle dance",
+    "beehive",
+    "pollinator",
+    "art/n23"
+   ],
+   "shown_at": [
+    "Art Fair Philippines 2020"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/67c1754c89592f0c27fddb0b/bf9663bb-6482-4bde-bdd8-13bc146a4b7e/Guiding+virtual+bees+in+the+VR+environment+of+Issay+Rodriguez%E2%80%99s+DOON+%28Over+There%29%2C+2020.+Image+courtesy+of+%E2%80%98DOON%E2%80%99+VR+Team.?format=1500w",
+    "https://images.squarespace-cdn.com/content/v1/67c1754c89592f0c27fddb0b/0ec2220a-faf3-4e75-a3f5-6c24fe8b37ad/Issay%2BRodriguez%2C%2BVR%2Benvironment%2Boverlaid%2Bscreenshots%2Bof%2B%E2%80%98DOON%2B%28Over%2BThere%29%E2%80%99%2C%2B2020.jpeg?format=1500w"
+   ],
+   "source_url": "https://www.artandmarket.net/analysis/2020/1/5/on-the-possibilities-of-virtual-reality-art"
+  },
+  {
+   "id": "viviana-alvarez-chomon--vision-de-abeja",
+   "creator_ids": [
+    "viviana-alvarez-chomon",
+    "jaime-martinez-harms"
+   ],
+   "title": "Visión de Abeja: Experiencia Floral Inmersiva",
+   "year": 2026,
+   "field": "insect",
+   "sub": "bee",
+   "also": [
+    "tree"
+   ],
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A guided VR experience in which visitors fly at roughly bee scale over a garden of two native flowers of Chile's flowering Atacama desert, switching between human vision, ultraviolet vision and a model of bee colour and optics.",
+   "description_zh": "一场有向导的 VR 体验：观众以接近蜜蜂的尺度飞越一座花园，园中是智利阿塔卡马“开花沙漠”的两种本土花卉，并可在人眼视觉、紫外视觉与蜜蜂色彩和光学模型之间切换。",
+   "idea_en": "Shrinking to bee size and seeing in ultraviolet reveals flower patterns that exist for pollinators, not for us.",
+   "idea_zh": "缩小到蜜蜂的尺寸并以紫外视觉观看，会看见那些为传粉者而非为人类存在的花纹。",
+   "method": "VR headset with a modelled garden of Cistanthe longiscapa and Argylia radiata; view modes likely based on UV photography and bee colour-vision models from the INIA La Cruz pollination research.",
+   "method_zh": "VR 头显中呈现 Cistanthe longiscapa 与 Argylia radiata 的建模花园；视觉模式很可能基于 INIA La Cruz 传粉研究中的紫外摄影与蜜蜂色觉模型。",
+   "keywords": [
+    "bee vision",
+    "ultraviolet",
+    "desierto florido",
+    "Atacama",
+    "Cistanthe longiscapa",
+    "Argylia radiata",
+    "pollinators",
+    "Ciencia Pública"
+   ],
+   "shown_at": [
+    "Museo de Historia Natural de Valparaíso 2026"
+   ],
+   "images": [
+    "https://radiofestival.b-cdn.net/wp-content/uploads/2026/09/MINISTRA-s.jpeg"
+   ],
+   "source_url": "https://www.radiofestival.cl/ministerio-de-ciencia-lanzo-en-valparaiso-vision-de-abeja-experiencia-inmersiva-en-realidad-virtual-sobre-la-percepcion-de-las-abejas/"
+  },
+  {
+   "id": "lienzo--mulaka",
+   "creator_ids": [
+    "lienzo"
+   ],
+   "title": "Mulaka",
+   "year": 2018,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "bird"
+   ],
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game"
+   ],
+   "kind": "game",
+   "description": "An action-adventure game in which the player is a Sukurúame, a Rarámuri shaman, who crosses landscapes modelled on the Sierra Tarahumara and draws on the powers of demigods that take animal forms.",
+   "description_zh": "一款动作冒险游戏：玩家扮演拉拉穆里萨满 Sukurúame，穿越以塔拉乌马拉山区为原型的地景，借用以动物形态现身的半神之力。",
+   "idea_en": "Shape-shifting as Indigenous knowledge: the shaman takes on animal bodies to fly, break stone and climb, each form a different way of moving through the land.",
+   "idea_zh": "变形作为一种原住民知识：萨满化身动物之躯去飞翔、击碎岩石、攀爬，每一种形态都是穿行大地的不同方式。",
+   "method": "3D low-poly platformer for consoles and PC in which transformation powers (likely including a bird form for flight and a heavy animal form for breaking obstacles) are unlocked from demigods.",
+   "method_zh": "面向主机与 PC 的低多边形 3D 平台游戏，变形能力从半神处解锁（很可能包括用于飞行的鸟形与用于破障的重型动物形态）。",
+   "keywords": [
+    "Rarámuri",
+    "Tarahumara",
+    "Sukurúame",
+    "shaman",
+    "shape-shifting",
+    "Sierra Tarahumara",
+    "Chihuahua"
+   ],
+   "shown_at": [
+    "PSX 2017",
+    "PAX West 2017"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=eGYUecSvPoY"
+   },
+   "images": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/623640/ss_f28c3b3045cd9a622992f0808d773ebda49b7d86.1920x1080.jpg?t=1584052040"
+   ],
+   "source_url": "https://store.steampowered.com/app/623640/Mulaka/"
+  },
+  {
+   "id": "francois-knoetze--cape-mongo",
+   "creator_ids": [
+    "francois-knoetze"
+   ],
+   "title": "Cape Mongo",
+   "year": 2015,
+   "field": "robot",
+   "sub": "object",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "performance",
+    "wearable",
+    "screen"
+   ],
+   "kind": "performance",
+   "description": "A series of five short films in which the artist wears sculptural suits made entirely of Cape Town's discarded waste (plastic, paper, glass, metal, VHS tape) and walks as these 'trash creatures' back through the places of their material past.",
+   "description_zh": "一组五部短片：艺术家穿上完全用开普敦的废弃物（塑料、纸、玻璃、金属、录像带）制成的雕塑服装，化身“垃圾生物”，走回这些材料曾经存在过的地方。",
+   "idea_en": "The performer's body becomes discarded matter itself, retracing the life of consumer objects from their own point of view.",
+   "idea_zh": "表演者的身体变成废弃物本身，以物的视角回溯消费品的一生。",
+   "method": "Five wearable sculptures built from sorted waste streams are performed in public space and filmed as short videos, one per material.",
+   "method_zh": "用分类后的废弃物制作五件可穿戴雕塑，在公共空间中表演并拍成短片，每种材料一部。",
+   "keywords": [
+    "waste",
+    "trash creatures",
+    "Mongo",
+    "Cape Town",
+    "wearable sculpture",
+    "consumer culture"
+   ],
+   "shown_at": [
+    "LagosPhoto",
+    "KLEX 2015"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=04Hpd_cfUSw"
+   },
+   "source_url": "https://www.youtube.com/watch?v=04Hpd_cfUSw"
+  },
+  {
+   "id": "allora-calzadilla--the-great-silence",
+   "creator_ids": [
+    "allora-calzadilla"
+   ],
+   "title": "The Great Silence",
+   "year": 2014,
+   "field": "bird",
+   "sub": "avian-senses",
+   "senses": [
+    "hearing"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A video set at the Arecibo radio telescope and the forest nearby, where subtitles give the first-person voice of an endangered Puerto Rican parrot reflecting on humans' search for alien intelligence while ignoring the vocal beings beside them.",
+   "description_zh": "一部影像作品，拍摄于阿雷西博射电望远镜及周边森林，字幕是一只濒危波多黎各鹦鹉的第一人称独白：人类在宇宙中寻找外星智慧，却忽视了身边会发声的生命。",
+   "idea_en": "A related screen work, included for its nonhuman first-person voice: the listening telescope is judged from the parrot's point of view.",
+   "idea_zh": "作为相关的屏幕作品收录，因为它采用非人类的第一人称：从鹦鹉的视角审视那台“倾听”宇宙的望远镜。",
+   "method": "Single-channel video with subtitled narration written with Ted Chiang, combining footage of the Arecibo Observatory and the Río Abajo forest parrots (likely).",
+   "method_zh": "单频道影像，字幕旁白与 Ted Chiang 合写，结合阿雷西博天文台与里奥阿瓦霍森林鹦鹉的画面（很可能）。",
+   "keywords": [
+    "Puerto Rican parrot",
+    "Amazona vittata",
+    "Arecibo",
+    "Ted Chiang",
+    "SETI",
+    "vocal learning"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=n0QhHa1aG4I"
+   },
+   "source_url": "https://www.youtube.com/watch?v=n0QhHa1aG4I"
+  },
+  {
+   "id": "hira-nabi--all-that-perishes-at-the-edge-of-land",
+   "creator_ids": [
+    "hira-nabi"
+   ],
+   "title": "All That Perishes at the Edge of Land",
+   "year": 2019,
+   "field": "robot",
+   "sub": "object",
+   "also": [
+    "river"
+   ],
+   "senses": [
+    "hearing"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "film",
+   "description": "A film shot at the Gadani ship-breaking yards in Pakistan in which Ocean Master, a decommissioned container ship, speaks with the workers who are taking it apart about home, dreams and the violence of dismantling.",
+   "description_zh": "一部在巴基斯坦加达尼拆船场拍摄的影片：退役集装箱船 Ocean Master 与正在拆解它的工人交谈，谈到家、梦想与拆解中的暴力。",
+   "idea_en": "A related screen work, included because the ship itself narrates: a machine body on its deathbed addresses the humans who unmake it.",
+   "idea_zh": "作为相关的屏幕作品收录，因为叙述者正是船本身：一具临终的机器身体对拆解它的人类说话。",
+   "method": "Documentary footage of the yards combined with a scripted, voiced dialogue attributed to the ship.",
+   "method_zh": "拆船场的纪实画面结合一段写好的、以船的口吻配音的对话。",
+   "keywords": [
+    "ship-breaking",
+    "Gadani",
+    "Balochistan",
+    "container ship",
+    "Ocean Master",
+    "labour"
+   ],
+   "shown_at": [
+    "Cambridge Film Festival 2019",
+    "Prince Claus Fund 25 Years 25 Hours"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ikpa-f2cnUg"
+   },
+   "source_url": "https://www.newday.com/film/all-perishes-edge-land"
+  },
+  {
+   "id": "himali-singh-soin--we-are-opposite-like-that",
+   "creator_ids": [
+    "himali-singh-soin"
+   ],
+   "title": "we are opposite like that",
+   "year": 2019,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "time-scale"
+   ],
+   "medium": [
+    "screen",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "An ongoing series (2017–2022) of films, performances and a book that tell mythologies of the poles from the perspective of the ice; in the 2019 video an alien figure crosses the white landscape and turns into glimmering ice.",
+   "description_zh": "一个持续进行的系列（2017–2022），包括影片、表演与一本书，从冰的视角讲述两极的神话；在 2019 年的影片中，一个外星般的身影穿越白色大地，最终化为闪光的冰。",
+   "idea_en": "The ice is the elder narrator that has witnessed deep time, and the performer's body is transformed into it.",
+   "idea_zh": "冰是见证过深时间的长者叙述者，而表演者的身体最终化为冰。",
+   "method": "Single-channel video pairing poetry, archival material and an endangered Arctic soundscape with a costumed performance filmed in polar landscapes (likely during an Arctic ship residency).",
+   "method_zh": "单频道影像，把诗歌、档案材料与濒危的北极声景，同在极地景观中拍摄的装扮表演结合在一起（很可能拍摄于一次北极航船驻留期间）。",
+   "keywords": [
+    "ice",
+    "Arctic",
+    "poles",
+    "deep time",
+    "glacial epoch",
+    "Ovidian transformation"
+   ],
+   "video": {
+    "url": "https://vimeo.com/432044184"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/59f1eb9fd55b415293a291bf/1592991047705-DCH2NU3M8XHG4TJ4BMLH/Installation+view.JPG"
+   ],
+   "source_url": "https://www.himalisinghsoin.com/we-are-opposite-like-that"
+  },
+  {
+   "id": "behnaz-farahi--opale",
+   "creator_ids": [
+    "behnaz-farahi"
+   ],
+   "title": "Opale",
+   "year": 2017,
+   "field": "animal",
+   "sub": "companion",
+   "also": [
+    "robot"
+   ],
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "artwork",
+   "description": "An emotive garment covered in a fur of fibre optics that bristles when onlookers look angry or surprised and purrs when stroked, as dogs, cats and mice raise their fur.",
+   "description_zh": "一件情感服装，表面覆盖一层光纤“毛皮”：当旁观者露出愤怒或惊讶的表情时，毛皮会竖起；被抚摸时则会“呼噜”，就像狗、猫和老鼠竖起毛发那样。",
+   "idea_en": "Clothing becomes animal skin, giving the human body a fur that reacts to threat and affection.",
+   "idea_zh": "服装变成动物皮毛，让人的身体拥有一层会对威胁与亲昵作出反应的毛皮。",
+   "method": "Fibre optics embedded in silicone are moved by a pneumatic soft-robotic system, driven by a camera that classifies onlookers' facial expressions.",
+   "method_zh": "嵌入硅胶的光纤由气动软体机器人系统驱动，摄像头识别旁观者的面部表情并据此控制动作。",
+   "keywords": [
+    "fur",
+    "piloerection",
+    "soft robotics",
+    "facial expression recognition",
+    "fibre optics",
+    "emotive garment"
+   ],
+   "video": {
+    "url": "https://vimeo.com/232258166"
+   },
+   "images": [
+    "https://behnazfarahi.com/opale/1.jpg"
+   ],
+   "source_url": "http://behnazfarahi.com/opale/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Collisions (Lynette Wallworth, 2016)",
+   "why": "Nyarri Morgan's Country and the Maralinga atomic tests; a human, not nonhuman, perspective, so left out.",
+   "link": "https://www.youtube.com/watch?v=-NZHLtmNi_s",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Carriberrie (Dominic Allen, 2018)",
+   "why": "360° Aboriginal song and dance; watches dancers rather than embodying Country or animals.",
+   "link": "https://theconversation.com/the-vr-film-carriberrie-is-a-vital-face-to-face-experience-of-threatened-indigenous-culture-91147",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Hayoun Kwon — The Bird Lady (2017)",
+   "why": "VR walk through an apartment turned aviary; human viewpoint among birds.",
+   "link": "https://www.hayounkwon.com/",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Robert Zhao Renhui — camera-trap works (Seeing Forest, Trying to Remember a Forest)",
+   "why": "Singapore forest images triggered by animals themselves; possible 'animal as photographer' counterpoint.",
+   "link": "",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Eduardo Kac — Essay Concerning Human Understanding (1994)",
+   "why": "Telematic dialogue between a canary and a philodendron; interspecies but no participant embodiment.",
+   "link": "https://www.ekac.org/essay-info.html",
+   "found_via": "eduardo-kac",
+   "status": "open"
+  },
+  {
+   "name": "Electric South (Cape Town) New Dimensions Lab catalogue",
+   "why": "Largest African XR programme; project pages were not reachable, no nonhuman-perspective work confirmed.",
+   "link": "https://electricsouth.org/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Hiroo Iwata — Media Vehicle / Torus Treadmill",
+   "why": "Other body-relocation devices by the same artist.",
+   "link": "https://www.designboom.com/technology/hiroo-iwatadevice-art/",
+   "found_via": "hiroo-iwata",
+   "status": "open"
+  },
+  {
+   "name": "Kaohsiung Film Festival 2024 — 尋山 Seeking the Mountain",
+   "why": "Kaohsiung VR Film Lab original in which the visitor's senses travel through mountain landscapes; director and media not found.",
+   "link": "https://www.kff.tw/content/VR-ORIGINAL-NEWS",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Hideyuki Ando, Tomofumi Yoshida, Junji Watanabe: Save YourSelf!!! (2006)",
+   "why": "Galvanic vestibular stimulation lets the wearer feel the tilt of a small figure floating in a water bowl, as if their balance lived in that object (Japan Media Arts Festival Jury Selection 2006, Ars Electronica Center 2007). Paper verified: Leonardo 46(3), 2013, doi 10.1162/leon_a_00578. No image or video found.",
+   "link": "https://doi.org/10.1162/leon_a_00578",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Singing Chen: The Clouds Are Two Thousand Meters Up (Venice Immersive 2025)",
+   "why": "Taiwanese free-roaming VR based on Wu Ming-Yi's story about the clouded leopard and the Rukai origin myth; check whether the visitor ever takes the leopard's body or view.",
+   "link": "https://www.labiennale.org/en/cinema/2025/venice-immersive/clouds-are-two-thousand-meters",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Pinta Studios (Zhang Peibin): Free Whale (Venice VR 2017)",
+   "why": "Chinese VR animation about a whale; appears to show the whale rather than let the viewer become it.",
+   "link": "https://www.youtube.com/watch?v=EEkrFJ4TGcw",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Jooyoung Oh: Young Bird Care Center (2023)",
+   "why": "Companion work to Kestrel Drone at Busan MoCA Platform 2023, about technology from the viewpoint of fledgling birds.",
+   "link": "https://k-artist.com/Artist_Works.php?tab_num=tab1&artist_num=170&works_num=1015",
+   "found_via": "jooyoung-oh",
+   "status": "open"
+  },
+  {
+   "name": "Zheng Mahler: The Twenty-Three Thousand Sexes of Schizophyllum Commune and Other Stories (M+, 2026)",
+   "why": "AI-animated films in which 38 Lantau mushroom species narrate their own traits; companion to Mushroom Clouds.",
+   "link": "https://www.mplus.org.hk/en/exhibitions/zheng-mahler-twenty-three-thousand-sexes-of-schizophyllum-commune/",
+   "found_via": "zheng-mahler",
+   "status": "open"
+  },
+  {
+   "name": "Musashino Art University: 環世界展 (Umwelt exhibition)",
+   "why": "Student and researcher exhibition built on Uexküll and Toshitaka Hidaka to let visitors feel how other organisms perceive; may contain individual becoming works.",
+   "link": "https://vcd.musabi.ac.jp/web/?p=16224",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "アニマルめがねラボ (Animal Glasses Lab), Kids Design Award 2019",
+   "why": "Japanese educational VR for children to see through animal vision; needs details and media.",
+   "link": "https://kidsdesignaward.jp/search/detail_190041",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Anicka Yi (UCCA 2025)",
+   "why": "Seoul-born, New York-based artist centring machines, fungi and seaweed; relevant to more-than-human art but works are not participant-becoming and she is not East Asia-based.",
+   "link": "https://ucca.org.cn/en/download/3/3/5/ca144b-0181ff-b45077/2025%20Exhibition%20Announcement_EN_FINAL.pdf",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Egun VR (Ifeoluwa 'Skodo' Osunkoya)",
+   "why": "Nigerian VR prototype asking what trance possession by an Orisha deity feels like; described by IQOQO (African XR Realities Lab) but no public video or image found.",
+   "link": "https://iqoqo.org/building-new-african-worlds-through-xr/",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Rejane Cantoni & Leonardo Crescenti — SOLO (2010)",
+   "why": "Borderline: a floor of linked seesaw plates that reproduces a water surface, with each step acting like a stone dropped into it; the body disturbs 'water' but does not become it.",
+   "link": "https://www.cantoni-crescenti.com.br/soil-about",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Huni Kuin: Yube Baitana (Guilherme Meneses with the Huni Kuin of Rio Jordão, 2016)",
+   "why": "Brazilian game co-made with the Huni Kuin; twins conceived by the boa Yube inherit her powers. Whether the player actually takes animal form is unverified.",
+   "link": "https://www.youtube.com/watch?v=Y0l7KV_OACE",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Diana Domingues — VRAquarium (2005)",
+   "why": "Stereoscopic VR/AR installation that immerses the visitor in a real aquarium hybridised with virtual fish; closer to entering a fish world than becoming a fish. Needs media.",
+   "link": "https://files.cercomp.ufg.br/weby/up/779/o/texto-_Greice_Antolini.doc",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Sethembile Msezane — Chapungu: The Day Rhodes Fell (2015)",
+   "why": "Performance in which the artist stood for hours as the Zimbabwe (Chapungu) bird while the Rhodes statue was removed; strong becoming-bird image but no sensory technology.",
+   "link": "https://en.wikipedia.org/wiki/Sethembile_Msezane",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Leeroy New — creature wearables (Aliens of Manila)",
+   "why": "Filipino artist-designer whose performers wear plastic-waste creature suits; check whether any work frames the wearer as a nonhuman being.",
+   "link": "https://leeroynew.com/category/all/creatures/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Paul Rosero Contreras — Adrift/becoming ocean (2021)",
+   "why": "Ecuadorian artist; a virtual exhibition app work titled 'becoming ocean' with an iceberg image; description too thin to classify.",
+   "link": "https://paulrosero.art/index.php/portfolio/adriftbecoming-ocean/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Interspecifics (Mexico City)",
+   "why": "Collective that sonifies bioelectrical activity of bacteria and plants with custom 'ontological machines'; perceiving nonhumans rather than perceiving as them.",
+   "link": "https://interspecifics.cc/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Patricia Domínguez — Madre Drone / Matrix Vegetal",
+   "why": "Chilean artist working on plant intelligence and ethnobotany, but in HD video and installation, not XR or embodiment.",
+   "link": "https://www.newmuseum.org/exhibition/screens-series-patricia-dominguez/",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "VJ Suave — Floresta Encantada",
+   "why": "Brazilian VR installation in which visitors meet a jaguar and the pajé Txuã; shows the forest rather than making the visitor a forest being.",
+   "link": "https://revistacontinente.com.br/secoes/indicacoes/-exposicao---floresta-encantada-",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Alfredo Salazar-Caro — Dreams of the Jaguar's Daughter",
+   "why": "VR trilogy on the 2018 migrant caravan; jaguar imagery but no nonhuman embodiment.",
+   "link": "https://en.wikipedia.org/wiki/Alfredo_Salazar-Caro",
+   "found_via": "seed",
+   "status": "off_topic"
+  }
+ ]
+}

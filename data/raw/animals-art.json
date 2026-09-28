@@ -1,0 +1,2303 @@
+{
+ "batch": "animals-art",
+ "creators": [
+  {
+   "id": "somniacs",
+   "name": "SOMNIACS",
+   "kind": "company",
+   "role": "Swiss VR simulator company behind Birdly",
+   "role_zh": "瑞士 VR 飞行模拟器公司，Birdly 的开发者",
+   "based": "Zurich, Switzerland",
+   "based_zh": "苏黎世，瑞士",
+   "bio": "Zurich company founded in 2015 by Max Rheiner, Thomas Tobler and Fabian Troxler to turn the ZHdK research prototype Birdly into full-body flight simulators for museums and venues.",
+   "bio_zh": "2015 年由 Max Rheiner、Thomas Tobler 与 Fabian Troxler 在苏黎世创立，把苏黎世艺术大学的研究原型 Birdly 做成面向博物馆和场馆的全身飞行模拟器。",
+   "why": "Birdly made flying as a bird with your own arms one of the most shown embodiment works in VR.",
+   "why_zh": "Birdly 让“用自己的手臂像鸟一样飞”成为 VR 中展出最多的具身作品之一。",
+   "disciplines": [
+    "design",
+    "games"
+   ],
+   "links": {
+    "site": "https://www.birdlyvr.com/",
+    "youtube": "https://www.youtube.com/@somniacs"
+   },
+   "connected_to": [
+    "max-rheiner"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "max-rheiner",
+   "name": "Max Rheiner",
+   "kind": "person",
+   "role": "Interaction designer, creator of Birdly",
+   "role_zh": "交互设计师，Birdly 的创作者",
+   "based": "Zurich, Switzerland",
+   "based_zh": "苏黎世，瑞士",
+   "bio": "Swiss artist and former lecturer in Interaction Design at the Zurich University of the Arts (ZHdK), where he built the first Birdly prototype in 2013 before co-founding SOMNIACS.",
+   "bio_zh": "瑞士艺术家，曾任苏黎世艺术大学（ZHdK）交互设计讲师，2013 年在那里做出第一台 Birdly 原型，随后联合创立 SOMNIACS。",
+   "why": "He framed bird flight as a whole-body interface: lying prone, flapping arms, wind on the face.",
+   "why_zh": "他把鸟的飞行设计成全身界面：俯卧、振臂、迎面来风。",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "somniacs"
+   ],
+   "discovered_via": "somniacs"
+  },
+  {
+   "id": "interactive-media-foundation",
+   "name": "Interactive Media Foundation",
+   "kind": "company",
+   "role": "Berlin non-profit producing interactive and VR documentaries",
+   "role_zh": "柏林非营利机构，制作交互与 VR 纪录作品",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "bio": "Non-profit foundation in Berlin that funds and produces interactive storytelling and VR projects, including Inside Tumucumaque with Filmtank and the Museum für Naturkunde Berlin.",
+   "bio_zh": "位于柏林的非营利基金会，资助并制作交互叙事与 VR 项目，与 Filmtank 和柏林自然历史博物馆合作完成了 Inside Tumucumaque。",
+   "why": "Its Tumucumaque installation built five animal umwelten from scientific data in one VR piece.",
+   "why_zh": "它的 Tumucumaque 装置基于科学资料，在一件 VR 作品里构建了五种动物的环境界。",
+   "disciplines": [
+    "film",
+    "science"
+   ],
+   "links": {
+    "site": "https://www.interactivemediafoundation.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yiou-wang",
+   "name": "Yiou Wang",
+   "kind": "person",
+   "role": "Media artist, founder of Trans Species Collective",
+   "role_zh": "媒体艺术家，Trans Species Collective 创始人",
+   "based": "New York, USA",
+   "based_zh": "纽约，美国",
+   "bio": "Media artist working on trans-species empathy through sound and VR; leads the Trans Species Collective that made BATOPIA with HCI researcher Yujie Wang.",
+   "bio_zh": "以声音和 VR 探索跨物种共情的媒体艺术家，领导 Trans Species Collective，与 HCI 研究者 Yujie Wang 合作完成 BATOPIA。",
+   "why": "BATOPIA is one of the few art VR works built entirely around a bat's acoustic world.",
+   "why_zh": "BATOPIA 是少数完全围绕蝙蝠声学世界构建的艺术 VR 作品之一。",
+   "disciplines": [
+    "art",
+    "hci"
+   ],
+   "links": {
+    "site": "https://yiouwang.org/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "thomas-thwaites",
+   "name": "Thomas Thwaites",
+   "kind": "person",
+   "role": "Designer, author of GoatMan",
+   "role_zh": "设计师，《GoatMan》作者",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "British designer known for The Toaster Project and GoatMan, speculative projects that test technology with his own body; shared the 2016 Ig Nobel Prize in Biology with Charles Foster.",
+   "bio_zh": "英国设计师，以 The Toaster Project 和 GoatMan 闻名，用自己的身体检验技术的思辨项目；与 Charles Foster 共同获得 2016 年搞笑诺贝尔生物学奖。",
+   "why": "He tried to become a goat with prosthetics, which makes the limits of bodily becoming concrete.",
+   "why_zh": "他用假肢尝试成为一只山羊，把身体层面的“成为”的极限变得具体。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.thomasthwaites.com/"
+   },
+   "connected_to": [
+    "charles-foster"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "art-oriente-objet",
+   "name": "Art Orienté Objet",
+   "kind": "studio",
+   "role": "Artist duo (Marion Laval-Jeantet and Benoît Mangin)",
+   "role_zh": "艺术家二人组（Marion Laval-Jeantet 与 Benoît Mangin）",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "bio": "French duo founded in 1991 by Marion Laval-Jeantet and Benoît Mangin, working on ecology, ethnology and the human-animal relation through performance and bio art.",
+   "bio_zh": "1991 年由 Marion Laval-Jeantet 与 Benoît Mangin 创立的法国二人组，以表演和生物艺术探讨生态、民族学与人-动物关系。",
+   "why": "May the Horse Live in Me took becoming-animal into the bloodstream.",
+   "why_zh": "《May the Horse Live in Me》把“成为动物”推进到血液之中。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rachel-mayeri",
+   "name": "Rachel Mayeri",
+   "kind": "person",
+   "role": "Media artist working with primates",
+   "role_zh": "与灵长类合作的媒体艺术家",
+   "based": "Los Angeles, USA",
+   "based_zh": "洛杉矶，美国",
+   "bio": "American artist and professor at Harvey Mudd College whose videos and installations explore the science of animal behaviour, including films made for chimpanzee audiences.",
+   "bio_zh": "美国艺术家、Harvey Mudd College 教授，以影像和装置探讨动物行为科学，包括为黑猩猩观众制作的电影。",
+   "why": "Primate Cinema reverses the camera: humans design a film for another species' eyes.",
+   "why_zh": "Primate Cinema 反转镜头：人类为另一个物种的眼睛设计电影。",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://rachelmayeri.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "austin-stewart",
+   "name": "Austin Stewart",
+   "kind": "person",
+   "role": "Artist and professor, Iowa State University",
+   "role_zh": "艺术家，爱荷华州立大学教授",
+   "based": "Ames, USA",
+   "based_zh": "埃姆斯，美国",
+   "bio": "American artist and educator whose work questions technology and animal agriculture; made the speculative VR-for-chickens project Second Livestock.",
+   "bio_zh": "美国艺术家与教育者，作品追问技术与畜牧业；创作了为鸡设计 VR 的思辨项目 Second Livestock。",
+   "why": "Second Livestock asks what VR would mean if the headset were put on the animal instead of the human.",
+   "why_zh": "Second Livestock 追问：如果头显戴在动物而不是人的头上，VR 意味着什么。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.theaustinstewart.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "animal-equality",
+   "name": "Animal Equality",
+   "kind": "company",
+   "role": "International animal protection organisation",
+   "role_zh": "国际动物保护组织",
+   "based": "Madrid, Spain / Los Angeles, USA",
+   "based_zh": "马德里，西班牙 / 洛杉矶，美国",
+   "bio": "Non-profit founded in Spain in 2006 that documents farming practices and campaigns for farmed animals; produced the 360° series iAnimal.",
+   "bio_zh": "2006 年在西班牙成立的非营利组织，记录养殖业实况并为农场动物倡议；制作了 360° 系列 iAnimal。",
+   "why": "iAnimal is the best-known use of 360° video to place viewers where farmed animals stand.",
+   "why_zh": "iAnimal 是用 360° 影像把观众放到农场动物所处位置的最知名案例。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://animalequality.org/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marcus-coates",
+   "name": "Marcus Coates",
+   "kind": "person",
+   "role": "Artist working through animal imitation and shamanic performance",
+   "role_zh": "以模仿动物与萨满表演创作的艺术家",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "British artist whose videos, performances and installations use radical empathy with animals, from birdsong mimicry to shamanic rituals.",
+   "bio_zh": "英国艺术家，以对动物的彻底共情创作影像、表演与装置，从模仿鸟鸣到萨满仪式。",
+   "why": "Coates uses his own voice and body as the instrument for becoming bird, stag or badger.",
+   "why_zh": "Coates 把自己的声音和身体当作成为鸟、雄鹿或獾的工具。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.marcuscoates.co.uk/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "oleg-kulik",
+   "name": "Oleg Kulik",
+   "kind": "person",
+   "role": "Performance artist known as the man-dog",
+   "role_zh": "以“人狗”表演闻名的艺术家",
+   "based": "Kyiv, Ukraine / Moscow, Russia",
+   "based_zh": "基辅，乌克兰 / 莫斯科，俄罗斯",
+   "bio": "Ukrainian-born performance artist, sculptor and curator best known for performances in the 1990s in which he acted as a dog.",
+   "bio_zh": "生于乌克兰的表演艺术家、雕塑家与策展人，以 1990 年代扮演狗的表演最为知名。",
+   "why": "His man-dog performances are a reference point, and a warning, for any work about becoming animal.",
+   "why_zh": "他的“人狗”表演是所有关于“成为动物”作品的参照点，也是一种警示。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bernie-krause",
+   "name": "Bernie Krause",
+   "kind": "person",
+   "role": "Soundscape ecologist and musician",
+   "role_zh": "声景生态学家、音乐人",
+   "based": "Glen Ellen, USA",
+   "based_zh": "格伦艾伦，美国",
+   "bio": "American musician and soundscape ecologist who coined the terms biophony and geophony and has recorded wild habitats since 1968.",
+   "bio_zh": "美国音乐人与声景生态学家，提出 biophony（生物声）与 geophony（地球声）概念，自 1968 年起录制野外栖息地。",
+   "why": "His recordings treat a habitat as an orchestra in which each species holds its own frequency band.",
+   "why_zh": "他的录音把栖息地当作乐团，每个物种占据自己的频段。",
+   "disciplines": [
+    "science",
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "united-visual-artists"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "united-visual-artists",
+   "name": "United Visual Artists",
+   "kind": "studio",
+   "role": "London art studio working with light and sound",
+   "role_zh": "以光与声音创作的伦敦艺术工作室",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "London studio founded by Matt Clark in 2003, making installations with light, sound and code.",
+   "bio_zh": "Matt Clark 于 2003 年创立的伦敦工作室，以光、声音和代码创作装置。",
+   "why": "UVA turned Bernie Krause's soundscapes into a room of moving spectrograms.",
+   "why_zh": "UVA 把 Bernie Krause 的声景变成一间流动频谱图的房间。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.uva.co.uk/"
+   },
+   "connected_to": [
+    "bernie-krause"
+   ],
+   "discovered_via": "bernie-krause"
+  },
+  {
+   "id": "emma-davie",
+   "name": "Emma Davie",
+   "kind": "person",
+   "role": "Documentary filmmaker",
+   "role_zh": "纪录片导演",
+   "based": "Edinburgh, UK",
+   "based_zh": "爱丁堡，英国",
+   "bio": "Scottish documentary director and teacher at Edinburgh College of Art; co-directed Becoming Animal with Peter Mettler.",
+   "bio_zh": "苏格兰纪录片导演、爱丁堡艺术学院教师，与 Peter Mettler 联合导演 Becoming Animal。",
+   "why": "Becoming Animal puts David Abram's phenomenology of animal perception on screen.",
+   "why_zh": "Becoming Animal 把 David Abram 关于动物感知的现象学搬上银幕。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "connected_to": [
+    "peter-mettler"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "peter-mettler",
+   "name": "Peter Mettler",
+   "kind": "person",
+   "role": "Filmmaker and cinematographer",
+   "role_zh": "电影人、摄影师",
+   "based": "Toronto, Canada",
+   "based_zh": "多伦多，加拿大",
+   "bio": "Canadian-Swiss filmmaker known for Gambling, Gods and LSD and The End of Time, films about perception and time.",
+   "bio_zh": "加拿大-瑞士电影人，以 Gambling, Gods and LSD 和 The End of Time 等关于感知与时间的影片闻名。",
+   "why": "His camera work in Becoming Animal slows looking down to the pace of other species.",
+   "why_zh": "他在 Becoming Animal 中的摄影把观看放慢到其他物种的节奏。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "connected_to": [
+    "emma-davie"
+   ],
+   "discovered_via": "emma-davie"
+  },
+  {
+   "id": "alexandra-daisy-ginsberg",
+   "name": "Alexandra Daisy Ginsberg",
+   "kind": "person",
+   "role": "Artist working on design for other species",
+   "role_zh": "为其他物种设计的艺术家",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "British artist whose works on synthetic biology, extinction and pollinators ask what it means to design for other species.",
+   "bio_zh": "英国艺术家，其关于合成生物学、灭绝与传粉者的作品追问“为其他物种设计”意味着什么。",
+   "why": "Pollinator Pathmaker makes bees and other pollinators the client of a garden.",
+   "why_zh": "Pollinator Pathmaker 让蜜蜂等传粉者成为花园的“委托人”。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.daisyginsberg.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tender-claws",
+   "name": "Tender Claws",
+   "kind": "studio",
+   "role": "Interactive and VR studio",
+   "role_zh": "交互与 VR 工作室",
+   "based": "Los Angeles, USA",
+   "based_zh": "洛杉矶，美国",
+   "bio": "Studio founded by Samantha Gorman and Danny Cannizzaro, known for Virtual Virtual Reality, The Under Presents and Face Jumping.",
+   "bio_zh": "由 Samantha Gorman 与 Danny Cannizzaro 创立的工作室，以 Virtual Virtual Reality、The Under Presents 和 Face Jumping 闻名。",
+   "why": "Face Jumping turns eye contact into a way of moving between human, animal and object bodies.",
+   "why_zh": "Face Jumping 把目光接触变成在人、动物和物体身体之间穿行的方式。",
+   "disciplines": [
+    "games",
+    "film"
+   ],
+   "links": {
+    "site": "https://tenderclaws.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "maja-smrekar",
+   "name": "Maja Smrekar",
+   "kind": "person",
+   "role": "Artist working on human-dog co-evolution",
+   "role_zh": "探讨人与狗共同演化的艺术家",
+   "based": "Ljubljana, Slovenia",
+   "based_zh": "卢布尔雅那，斯洛文尼亚",
+   "bio": "Slovenian artist whose K-9_topology series on human-dog-wolf co-evolution won the Prix Ars Electronica Golden Nica for Hybrid Art in 2017.",
+   "bio_zh": "斯洛文尼亚艺术家，其关于人-狗-狼共同演化的系列 K-9_topology 获得 2017 年 Prix Ars Electronica 混合艺术金尼卡奖。",
+   "why": "She pursues becoming-animal through hormones, smell and cohabitation rather than simulation.",
+   "why_zh": "她通过激素、气味和共同生活而非模拟来实践“成为动物”。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.majasmrekar.org/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "brenda-laurel",
+   "name": "Brenda Laurel",
+   "kind": "person",
+   "role": "Designer, researcher and author of Computers as Theatre",
+   "role_zh": "设计师、研究者，《Computers as Theatre》作者",
+   "based": "Santa Cruz, USA",
+   "based_zh": "圣克鲁斯，美国",
+   "bio": "American interaction designer and researcher, author of Computers as Theatre and co-founder of Purple Moon; produced the VR work Placeholder at Interval Research.",
+   "bio_zh": "美国交互设计师与研究者，著有《Computers as Theatre》，联合创立 Purple Moon；在 Interval Research 制作了 VR 作品 Placeholder。",
+   "why": "Placeholder (1993) is one of the first VR works where participants took on animal bodies and senses.",
+   "why_zh": "Placeholder（1993）是最早让参与者进入动物身体与感官的 VR 作品之一。",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "rachel-strickland"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rachel-strickland",
+   "name": "Rachel Strickland",
+   "kind": "person",
+   "role": "Architect and video artist",
+   "role_zh": "建筑师、影像艺术家",
+   "based": "San Francisco, USA",
+   "based_zh": "旧金山，美国",
+   "bio": "American architect, filmmaker and interaction designer who co-directed Placeholder and shot its landscapes in Banff.",
+   "bio_zh": "美国建筑师、电影人与交互设计师，联合执导 Placeholder，并在班夫拍摄其地景。",
+   "why": "She brought filmed natural landscape into early VR as the ground for animal embodiment.",
+   "why_zh": "她把拍摄的自然地景带入早期 VR，作为动物化身的基底。",
+   "disciplines": [
+    "art",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "brenda-laurel"
+   ],
+   "discovered_via": "brenda-laurel"
+  },
+  {
+   "id": "chris-woebken",
+   "name": "Chris Woebken",
+   "kind": "person",
+   "role": "Designer and futures researcher",
+   "role_zh": "设计师、未来研究者",
+   "based": "Brooklyn, USA",
+   "based_zh": "布鲁克林，美国",
+   "bio": "German designer in New York, co-founder of the Extrapolation Factory; his work is in the MoMA collection.",
+   "bio_zh": "在纽约工作的德国设计师，Extrapolation Factory 联合创始人，作品被 MoMA 收藏。",
+   "why": "Animal Superpowers is an early design project that turns animal senses into wearable devices for children.",
+   "why_zh": "Animal Superpowers 是把动物感官做成儿童可穿戴设备的早期设计项目。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.chriswoebken.com/"
+   },
+   "connected_to": [
+    "kenichi-okada"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kenichi-okada",
+   "name": "Kenichi Okada",
+   "kind": "person",
+   "role": "Designer",
+   "role_zh": "设计师",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Japanese designer, graduate of the Royal College of Art Design Interactions programme, who co-created Animal Superpowers with Chris Woebken.",
+   "bio_zh": "日本设计师，毕业于皇家艺术学院 Design Interactions 专业，与 Chris Woebken 共同创作 Animal Superpowers。",
+   "why": "Co-author of Animal Superpowers, a key reference for animal-sense wearables.",
+   "why_zh": "Animal Superpowers 的共同作者，这是动物感官可穿戴设备的重要参照。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [
+    "chris-woebken"
+   ],
+   "discovered_via": "chris-woebken"
+  },
+  {
+   "id": "jessica-rath",
+   "name": "Jessica Rath",
+   "kind": "person",
+   "role": "Artist working with plants and pollinators",
+   "role_zh": "与植物和传粉者合作的艺术家",
+   "based": "Los Angeles, USA",
+   "based_zh": "洛杉矶，美国",
+   "bio": "American artist whose sculpture and installation projects work with plant breeders, pollinator scientists and habitat restoration.",
+   "bio_zh": "美国艺术家，其雕塑与装置项目与育种者、传粉者科学家和栖息地修复合作。",
+   "why": "a better nectar puts visitors into a bee's colour and sound world inside the museum.",
+   "why_zh": "a better nectar 在美术馆里把观众带入蜜蜂的色彩与声音世界。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "http://jessicarath.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "baobab-studios",
+   "name": "Baobab Studios",
+   "kind": "studio",
+   "role": "Interactive animation studio",
+   "role_zh": "交互动画工作室",
+   "based": "Redwood City, USA",
+   "based_zh": "雷德伍德城，美国",
+   "bio": "Animation studio founded in 2015 by Eric Darnell and Maureen Fan, known for VR shorts Invasion!, Asteroids! and Crow: The Legend.",
+   "bio_zh": "2015 年由 Eric Darnell 与 Maureen Fan 创立的动画工作室，以 VR 短片 Invasion!、Asteroids! 和 Crow: The Legend 闻名。",
+   "why": "Invasion! put the viewer in the body of a rabbit, a simple and widely seen case of animal embodiment.",
+   "why_zh": "Invasion! 让观众置身于一只兔子的身体，是简单而广为人知的动物化身案例。",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://www.baobabstudios.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "freedom-conservation",
+   "name": "Freedom Conservation",
+   "kind": "company",
+   "role": "Eagle conservation and filming project",
+   "role_zh": "猛禽保护与拍摄项目",
+   "based": "Haute-Savoie, France",
+   "based_zh": "上萨瓦省，法国",
+   "bio": "French association led by falconer Jacques-Olivier Travers that reintroduces white-tailed eagles and flies trained eagles with cameras over cities and glaciers.",
+   "bio_zh": "由驯鹰人 Jacques-Olivier Travers 领导的法国组织，重新引入白尾海雕，并让携带相机的训练猛禽飞越城市与冰川。",
+   "why": "Its eagle-mounted cameras produced some of the most watched first-person bird-flight footage.",
+   "why_zh": "它的鹰载相机拍出了观看量最高的第一人称鸟类飞行影像之一。",
+   "disciplines": [
+    "film",
+    "science"
+   ],
+   "links": {
+    "youtube": "https://www.youtube.com/@FREEDOMCONSERVATION"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "julius-neubronner",
+   "name": "Julius Neubronner",
+   "kind": "person",
+   "role": "Apothecary and inventor of pigeon photography",
+   "role_zh": "药剂师、鸽子摄影发明者",
+   "based": "Kronberg im Taunus, Germany",
+   "based_zh": "陶努斯山区克龙贝格，德国",
+   "bio": "German apothecary (1852–1932) and amateur photography pioneer who patented miniature cameras carried by homing pigeons in 1908.",
+   "bio_zh": "德国药剂师（1852–1932）与业余摄影先驱，1908 年为信鸽携带的微型相机申请专利。",
+   "why": "His pigeon photographs are the earliest images taken from an animal's own flight path.",
+   "why_zh": "他的鸽子照片是最早从动物自身飞行路线拍下的影像。",
+   "disciplines": [
+    "science",
+    "design"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "charles-foster",
+   "name": "Charles Foster",
+   "kind": "person",
+   "role": "Writer, veterinarian and barrister",
+   "role_zh": "作家、兽医与出庭律师",
+   "based": "Oxford, UK",
+   "based_zh": "牛津，英国",
+   "bio": "British writer, veterinary surgeon and Fellow of Green Templeton College, Oxford; author of Being a Beast, for which he shared the 2016 Ig Nobel Prize in Biology.",
+   "bio_zh": "英国作家、兽医，牛津大学 Green Templeton 学院研究员；著有《Being a Beast》，因此共享 2016 年搞笑诺贝尔生物学奖。",
+   "why": "He tested becoming-animal without technology, living as a badger, otter, fox, red deer and swift.",
+   "why_zh": "他在没有技术的情况下检验“成为动物”，以獾、水獭、狐狸、马鹿和雨燕的方式生活。",
+   "disciplines": [
+    "theory"
+   ],
+   "links": {},
+   "connected_to": [
+    "thomas-thwaites"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dominic-wilcox",
+   "name": "Dominic Wilcox",
+   "kind": "person",
+   "role": "Designer and inventor",
+   "role_zh": "设计师、发明家",
+   "based": "UK",
+   "based_zh": "英国",
+   "bio": "British designer and artist known for playful inventions and participatory projects.",
+   "bio_zh": "英国设计师与艺术家，以趣味发明和参与式项目闻名。",
+   "why": "He designed an art exhibition around a dog's colour vision, smell and play.",
+   "why_zh": "他围绕狗的色觉、嗅觉和玩耍设计了一场艺术展。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://www.dominicwilcox.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kuang-yi-ku",
+   "name": "Kuang-Yi Ku",
+   "kind": "person",
+   "role": "Bio-artist, social designer and dentist",
+   "role_zh": "生物艺术家、社会设计师、牙医",
+   "based": "Taipei, Taiwan / Eindhoven, Netherlands",
+   "based_zh": "台北，台湾 / 埃因霍温，荷兰",
+   "bio": "Taiwanese bio-artist and practising dentist with degrees from Design Academy Eindhoven; known for the Tiger Penis Project and Bat Night Market.",
+   "bio_zh": "台湾生物艺术家、执业牙医，毕业于埃因霍温设计学院；以 Tiger Penis Project 和 Bat Night Market 闻名。",
+   "why": "Bat Night Market imagines bats as beings whose loss reshapes human food and senses.",
+   "why_zh": "Bat Night Market 把蝙蝠想象为生命，其消失会重塑人类的饮食与感官。",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.kukuangyi.com/"
+   },
+   "connected_to": [
+    "robert-charles-johnson"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "robert-charles-johnson",
+   "name": "Robert Charles Johnson",
+   "kind": "person",
+   "role": "Artist and performance maker",
+   "role_zh": "艺术家、表演创作者",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "UK artist working across performance, food and speculative design; co-created Bat Night Market with Kuang-Yi Ku.",
+   "bio_zh": "英国艺术家，跨越表演、食物与思辨设计创作；与顧廣毅共同创作 Bat Night Market。",
+   "why": "Co-author of Bat Night Market, a multisensory performance about bats.",
+   "why_zh": "Bat Night Market 的共同作者，这是一场关于蝙蝠的多感官表演。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [
+    "kuang-yi-ku"
+   ],
+   "discovered_via": "kuang-yi-ku"
+  },
+  {
+   "id": "sam-easterson",
+   "name": "Sam Easterson",
+   "kind": "person",
+   "role": "Video artist filming from animals' points of view",
+   "role_zh": "从动物视角拍摄的影像艺术家",
+   "based": "USA",
+   "based_zh": "美国",
+   "bio": "American video artist trained in fine art and landscape architecture who since 1998 has attached small cameras to animals and plants to build a library of nonhuman points of view.",
+   "bio_zh": "美国影像艺术家，受过美术和景观建筑训练，自 1998 年起把小型相机装在动物和植物身上，建立非人视角的影像库。",
+   "why": "His Animal-Cams are an early, low-tech version of the animal-POV camera that XR works later build on.",
+   "why_zh": "他的 Animal-Cams 是动物视角相机的早期低技术版本，后来的 XR 作品在此基础上发展。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jonathon-keats",
+   "name": "Jonathon Keats",
+   "kind": "person",
+   "role": "Conceptual artist and experimental philosopher",
+   "role_zh": "观念艺术家、实验哲学家",
+   "based": "San Francisco, USA",
+   "based_zh": "旧金山，美国",
+   "bio": "American conceptual artist and writer whose thought experiments address other species, including films for plants and a ballet for honeybees.",
+   "bio_zh": "美国观念艺术家与作家，其思想实验面向其他物种，包括为植物拍的电影和为蜜蜂编的芭蕾。",
+   "why": "He treats animal communication systems as media that an artist can compose for.",
+   "why_zh": "他把动物的交流系统当作艺术家可以为之创作的媒介。",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pierre-huyghe",
+   "name": "Pierre Huyghe",
+   "kind": "person",
+   "role": "Artist building living, changing exhibitions",
+   "role_zh": "构建活的、不断变化的展览的艺术家",
+   "based": "Santiago, Chile / Paris, France",
+   "based_zh": "圣地亚哥，智利 / 巴黎，法国",
+   "bio": "French artist known for exhibitions that include living organisms, from Zoodram aquariums to the bee-headed statue of Untilled and the fly-filled UUmwelt.",
+   "bio_zh": "法国艺术家，以包含活生物的展览闻名，从 Zoodram 水族箱到 Untilled 的蜂头雕像，再到充满苍蝇的 UUmwelt。",
+   "why": "UUmwelt stages several umwelten, human, insect and machine, in one room.",
+   "why_zh": "UUmwelt 在一个房间里同时呈现人、昆虫和机器的多个环境界。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rebecca-horn",
+   "name": "Rebecca Horn",
+   "kind": "person",
+   "role": "Artist of body extensions and kinetic sculpture",
+   "role_zh": "身体延伸与动态雕塑艺术家",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "bio": "German artist (1944–2024) known for 1970s body-extension performances with feathers, horns and gloves, and later kinetic sculptures and films.",
+   "bio_zh": "德国艺术家（1944–2024），以 1970 年代使用羽毛、角和手套的身体延伸表演闻名，后来创作动态雕塑与电影。",
+   "why": "Her feather masks and fans are early wearables that borrow animal parts as new sensing surfaces.",
+   "why_zh": "她的羽毛面具和扇是早期的可穿戴物，借用动物部件作为新的感知表面。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "joseph-beuys",
+   "name": "Joseph Beuys",
+   "kind": "person",
+   "role": "Artist, sculptor and performance artist",
+   "role_zh": "艺术家、雕塑家与表演艺术家",
+   "based": "Düsseldorf, Germany",
+   "based_zh": "杜塞尔多夫，德国",
+   "bio": "German artist (1921–1986) whose actions with animals, a dead hare and a live coyote, made animal encounter central to postwar performance art.",
+   "bio_zh": "德国艺术家（1921–1986），他与动物（一只死兔和一只活郊狼）进行的“行动”，使与动物相遇成为战后表演艺术的核心。",
+   "why": "His coyote action is the reference that later becoming-animal performances answer.",
+   "why_zh": "他与郊狼的行动是后来“成为动物”表演所回应的参照。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "david-rothenberg",
+   "name": "David Rothenberg",
+   "kind": "person",
+   "role": "Musician and philosopher of interspecies music",
+   "role_zh": "音乐人、跨物种音乐哲学家",
+   "based": "New Jersey, USA",
+   "based_zh": "新泽西，美国",
+   "bio": "American clarinettist, philosopher and professor at the New Jersey Institute of Technology, author of Why Birds Sing, who plays live with birds, whales and insects.",
+   "bio_zh": "美国单簧管演奏者、哲学家、新泽西理工学院教授，著有《Why Birds Sing》，与鸟、鲸和昆虫现场合奏。",
+   "why": "He treats birdsong as music to join, not only to record.",
+   "why_zh": "他把鸟鸣当作可以加入的音乐，而不仅是录音的对象。",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "andreas-heinecke",
+   "name": "Andreas Heinecke",
+   "kind": "person",
+   "role": "Founder of Dialogue in the Dark",
+   "role_zh": "Dialogue in the Dark 创始人",
+   "based": "Hamburg, Germany",
+   "based_zh": "汉堡，德国",
+   "bio": "German social entrepreneur who created the exhibition Dialogue in the Dark in 1988 and founded Dialogue Social Enterprise.",
+   "bio_zh": "德国社会企业家，1988 年创立展览 Dialogue in the Dark，并创办 Dialogue Social Enterprise。",
+   "why": "His exhibition is the long-running reference for experiencing a world without sight, led by blind guides.",
+   "why_zh": "他的展览是由盲人向导带领、体验无视觉世界的长期参照。",
+   "disciplines": [
+    "design"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "britt-hatzius",
+   "name": "Britt Hatzius",
+   "kind": "person",
+   "role": "Artist working with performance and film",
+   "role_zh": "从事表演与电影的艺术家",
+   "based": "Brussels, Belgium",
+   "based_zh": "布鲁塞尔，比利时",
+   "bio": "German artist based in Brussels whose performances and films explore perception, language and participation.",
+   "bio_zh": "常驻布鲁塞尔的德国艺术家，其表演与电影探讨感知、语言和参与。",
+   "why": "Blind Cinema makes seeing depend on another person's words.",
+   "why_zh": "Blind Cinema 让“看见”依赖于另一个人的话语。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "aki-inomata",
+   "name": "AKI INOMATA",
+   "kind": "person",
+   "role": "Artist collaborating with animals",
+   "role_zh": "与动物协作的艺术家",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Japanese artist who makes works with hermit crabs, dogs, parakeets, beavers and bagworm moths, treating animals as co-authors.",
+   "bio_zh": "日本艺术家，与寄居蟹、狗、鹦鹉、河狸和蓑蛾合作创作，把动物视为共同作者。",
+   "why": "Her works stage becoming-with through exchanged materials rather than technology.",
+   "why_zh": "她的作品通过交换材料而不是技术来呈现“与之共同生成”。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.aki-inomata.com/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yukinori-yanagi",
+   "name": "Yukinori Yanagi",
+   "kind": "person",
+   "role": "Artist known for ant-farm flag works",
+   "role_zh": "以蚂蚁国旗作品闻名的艺术家",
+   "based": "Hiroshima, Japan",
+   "based_zh": "广岛，日本",
+   "bio": "Japanese artist whose Ant Farm series, shown at the 1993 Venice Biennale, lets ant colonies erode national flags made of sand.",
+   "bio_zh": "日本艺术家，其 Ant Farm 系列曾在 1993 年威尼斯双年展展出，让蚁群侵蚀用沙子做成的国旗。",
+   "why": "The ant farms show a colony's world rewriting human symbols without noticing them.",
+   "why_zh": "蚂蚁农场展示了一个蚁群的世界在毫不察觉中改写人类的符号。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://yanagistudio.net/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "celeste-boursier-mougenot",
+   "name": "Céleste Boursier-Mougenot",
+   "kind": "person",
+   "role": "Artist and composer of living sound installations",
+   "role_zh": "创作活体声音装置的艺术家与作曲家",
+   "based": "Sète, France",
+   "based_zh": "塞特，法国",
+   "bio": "French artist and composer who represented France at the 2015 Venice Biennale and makes sound works played by birds, water and wind.",
+   "bio_zh": "法国艺术家与作曲家，代表法国参加 2015 年威尼斯双年展，创作由鸟、水和风演奏的声音作品。",
+   "why": "from here to ear turns the movement of birds into music that visitors hear from inside the flock.",
+   "why_zh": "from here to ear 把鸟的动作变成音乐，观众在鸟群内部聆听。",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "somniacs--birdly",
+   "creator_ids": [
+    "somniacs",
+    "max-rheiner"
+   ],
+   "title": "Birdly",
+   "year": 2014,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "body",
+    "vision",
+    "touch"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A full-body flight simulator: you lie face down on a padded frame, spread your arms like wings and fly as a red kite over a city or landscape, with wind blowing in your face.",
+   "description_zh": "一台全身飞行模拟器：你俯卧在软垫框架上，像翅膀一样张开双臂，以赤鸢的身份飞越城市或山野，迎面吹来风。",
+   "idea_en": "Becoming a bird starts from the posture: lying prone and steering with your arms and hands makes flight a bodily act rather than a camera move.",
+   "idea_zh": "成为鸟从姿势开始：俯卧并用手臂和手掌操控，飞行就成了身体动作，而不是镜头移动。",
+   "method": "A motorised prone platform tilts with the rider's arm and hand movements, synchronised with a VR headset, spatial sound and a fan whose speed follows flight velocity.",
+   "method_zh": "电动俯卧平台随骑乘者的手臂与手掌动作倾斜，并与 VR 头显、空间音效和随飞行速度变化的风扇同步。",
+   "keywords": [
+    "red kite",
+    "flight",
+    "Birdly",
+    "ZHdK",
+    "motion platform",
+    "headwind"
+   ],
+   "shown_at": [
+    "SIGGRAPH 2014 Emerging Technologies"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=cqBCd0VnN7A"
+   },
+   "images": [
+    "https://birdlyvr.com/wp-content/uploads/sites/3/2017/03/homepage-birdly-BHP-2868-2.jpg"
+   ],
+   "source_url": "https://www.birdlyvr.com/",
+   "collections": [
+    "siggraph-xr"
+   ]
+  },
+  {
+   "id": "somniacs--birdly-insects",
+   "creator_ids": [
+    "somniacs"
+   ],
+   "title": "Birdly Insects",
+   "year": 2022,
+   "field": "insect",
+   "sub": "insect-other",
+   "senses": [
+    "body",
+    "vision",
+    "touch"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A Birdly experience in which you fly as a butterfly through a flower meadow, feeling the wind, hearing your own wings and meeting other animals, including predators.",
+   "description_zh": "Birdly 的一个体验：你以蝴蝶的身份飞过花草地，感受风、听到自己的翅膀声，并遇到包括天敌在内的其他动物。",
+   "idea_en": "Shrinking the flyer to insect scale turns an ordinary meadow into a vast and dangerous landscape.",
+   "idea_zh": "把飞行者缩小到昆虫尺度，普通的草地就成了广阔而危险的地景。",
+   "method": "Runs on the Birdly prone motion platform with a VR headset and headwind fan; content developed with Kevuru Games.",
+   "method_zh": "在 Birdly 俯卧运动平台上运行，配合 VR 头显和迎面风扇；内容与 Kevuru Games 合作开发。",
+   "keywords": [
+    "butterfly",
+    "meadow",
+    "insect scale",
+    "Birdly",
+    "Kevuru Games"
+   ],
+   "shown_at": [
+    "NYX Game Awards 2022 (Gold)"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=EYO9mGG9qTE"
+   },
+   "source_url": "https://blooloop.com/animals/news/somniacs-birdly-insects/"
+  },
+  {
+   "id": "somniacs--birdly-jurassic-flight",
+   "creator_ids": [
+    "somniacs"
+   ],
+   "title": "Jurassic Flight (Birdly)",
+   "year": 2020,
+   "field": "animal",
+   "sub": "reptile",
+   "also": [
+    "bird"
+   ],
+   "senses": [
+    "body",
+    "vision",
+    "touch"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A Birdly experience in which you embody a pterosaur, Kepodactylus, and fly over dinosaurs in a Jurassic landscape reconstructed with palaeontologists.",
+   "description_zh": "Birdly 的一个体验：你化身为翼龙 Kepodactylus，飞越与古生物学家合作重建的侏罗纪地景和其中的恐龙。",
+   "idea_en": "The same flapping body can carry an extinct flyer, so embodiment becomes a way to imagine a vanished animal's flight.",
+   "idea_zh": "同样的振臂身体可以承载一种已灭绝的飞行动物，化身成为想象消失动物如何飞行的方式。",
+   "method": "Birdly prone motion platform with arm-and-hand wing control, VR headset and headwind fan; scene and animal models made in consultation with palaeontologists.",
+   "method_zh": "Birdly 俯卧运动平台，以手臂和手掌控制翅膀，配合 VR 头显和迎面风扇；场景与动物模型咨询古生物学家制作。",
+   "keywords": [
+    "pterosaur",
+    "Kepodactylus",
+    "Jurassic",
+    "dinosaurs",
+    "Birdly"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=cVP5h2kyRgw"
+   },
+   "source_url": "https://www.birdlyvr.com/"
+  },
+  {
+   "id": "somniacs--birdly-paradise-lost",
+   "creator_ids": [
+    "somniacs"
+   ],
+   "title": "Paradise Lost (Birdly)",
+   "year": 2019,
+   "field": "fish",
+   "sub": "aquatic",
+   "senses": [
+    "body",
+    "vision",
+    "touch"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A Birdly experience in which you embody a small sea turtle swimming through an ocean increasingly damaged by plastic and human consumption.",
+   "description_zh": "Birdly 的一个体验：你化身为一只小海龟，游过一片日益被塑料和人类消费破坏的海洋。",
+   "idea_en": "The flight rig becomes a swimming body: arm strokes steer the turtle, and the damage is met from its first-person view.",
+   "idea_zh": "飞行装置变成了游泳的身体：手臂划动操控海龟，破坏从它的第一人称视角被遇见。",
+   "method": "Birdly prone motion platform repurposed for swimming, with arm-stroke control, VR headset and airflow.",
+   "method_zh": "Birdly 俯卧运动平台改作游泳用途，以手臂划动控制，配合 VR 头显与气流。",
+   "keywords": [
+    "sea turtle",
+    "ocean plastic",
+    "conservation",
+    "Birdly"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wRQuFSkNmY4"
+   },
+   "source_url": "https://www.birdlyvr.com/"
+  },
+  {
+   "id": "interactive-media-foundation--inside-tumucumaque",
+   "creator_ids": [
+    "interactive-media-foundation"
+   ],
+   "title": "Inside Tumucumaque",
+   "year": 2018,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "bird",
+    "bat",
+    "insect"
+   ],
+   "senses": [
+    "vision",
+    "echolocation",
+    "time-scale"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A VR installation set in a clearing of the Brazilian rainforest where you switch between five animals, a black caiman, harpy eagle, vampire bat, poison dart frog and Goliath birdeater, and perceive the forest through each one's senses.",
+   "description_zh": "一件以巴西雨林空地为场景的 VR 装置，你在黑凯门鳄、角雕、吸血蝠、箭毒蛙和亚马逊巨人食鸟蛛五种动物之间切换，用各自的感官感知森林。",
+   "idea_en": "Each animal is a different translation of the same place: ultraviolet colour, slow motion, echolocation or night vision.",
+   "idea_zh": "每种动物都是同一地点的不同翻译：紫外色彩、慢动作、回声定位或夜视。",
+   "method": "Models and animations were built with scientists of the Museum für Naturkunde Berlin; senses are rendered as ultraviolet palettes, super-slow motion, sonar visualisation, colour night vision and 3D sound.",
+   "method_zh": "模型与动画与柏林自然历史博物馆的科学家合作完成；感官被呈现为紫外色板、超慢动作、声呐可视化、彩色夜视和三维声音。",
+   "keywords": [
+    "black caiman",
+    "harpy eagle",
+    "vampire bat",
+    "poison dart frog",
+    "Goliath birdeater",
+    "Amazon",
+    "Museum für Naturkunde"
+   ],
+   "shown_at": [
+    "ZKM Karlsruhe 2018",
+    "Raindance Film Festival 2018 (Special Jury Mention)",
+    "ADC Gold 2019",
+    "European Design Award Gold 2019",
+    "VR Days Europe 2019"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rFkcRQq_UT4"
+   },
+   "images": [
+    "https://inside-tumucumaque.com/images/multi_e.jpg"
+   ],
+   "source_url": "https://inside-tumucumaque.com/"
+  },
+  {
+   "id": "yiou-wang--batopia",
+   "creator_ids": [
+    "yiou-wang"
+   ],
+   "title": "BATOPIA",
+   "year": 2024,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "artwork",
+   "description": "A first-person VR adventure in which you live as a bat, foraging at night through a city by calling and listening, while noise and light pollution disturb your hunt.",
+   "description_zh": "一部第一人称 VR 冒险作品，你以蝙蝠的身份生活，在夜晚的城市里靠鸣叫和聆听觅食，同时被噪音和光污染干扰。",
+   "idea_en": "Echolocation is active sensing: you only perceive the world by calling into it, and human noise erases that world.",
+   "idea_zh": "回声定位是主动感知：你只能通过向世界发声来感知它，而人类的噪音会抹去这个世界。",
+   "method": "Built in Unreal Engine for Meta Quest with bat field recordings, ultrasound-derived sound design and a custom bat headset mask; participants' calls reveal the scene visually and sonically.",
+   "method_zh": "基于 Unreal Engine 为 Meta Quest 开发，使用蝙蝠田野录音、源自超声的声音设计和定制蝙蝠头显面罩；参与者的鸣叫会在视觉和声音上揭示场景。",
+   "keywords": [
+    "bat",
+    "echolocation",
+    "ultrasound",
+    "light pollution",
+    "noise pollution",
+    "Trans Species Collective"
+   ],
+   "shown_at": [
+    ":iidrr Gallery New York 2024",
+    "MIT Museum 2024",
+    "ISEA 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=e1XMN4u9jMQ"
+   },
+   "images": [
+    "https://yiouwang.org/wp-content/uploads/2022/01/BATOPIA_Human_to_Bat.jpg",
+    "https://yiouwang.org/wp-content/uploads/Batopia_game_scene_52-1024x542.png"
+   ],
+   "source_url": "https://yiouwang.org/portfolio/batopia-empathic-listening/"
+  },
+  {
+   "id": "eduardo-kac--darker-than-night",
+   "creator_ids": [
+    "eduardo-kac"
+   ],
+   "title": "Darker Than Night",
+   "year": 1999,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A telepresence work in the bat cave of Rotterdam Zoo: wearing a VR headset, visitors took the point of view of a robotic bat hanging among 300 Egyptian fruit bats and saw the cave through its sonar.",
+   "description_zh": "一件设在鹿特丹动物园蝙蝠洞中的远程临场作品：观众戴上 VR 头显，以悬挂在 300 只埃及果蝠中间的机器蝙蝠的视角，通过它的声呐看见洞穴。",
+   "idea_en": "Humans enter the bats' space as another sonar-emitting body, and bat and human signals meet in the same frequency band.",
+   "idea_zh": "人以另一个发射声呐的身体进入蝙蝠的空间，蝙蝠与人的信号在同一频段相遇。",
+   "method": "A 'batbot' with a 45 kHz sonar unit and motorised head swivelled with the headset; returns were visualised in the headset and bat calls were made audible by frequency conversion.",
+   "method_zh": "一只带 45 kHz 声呐单元和电动头部的“机器蝙蝠”随头显转动；回波在头显中可视化，蝙蝠叫声经变频后变得可听。",
+   "keywords": [
+    "Egyptian fruit bat",
+    "batbot",
+    "sonar",
+    "telepresence",
+    "Blijdorp Zoo",
+    "frequency conversion"
+   ],
+   "shown_at": [
+    "Fables of a Technological Era, Blijdorp Zoo Rotterdam 1999"
+   ],
+   "images": [
+    "https://www.ekac.org/darker_than_night_batcave.jpg",
+    "https://www.ekac.org/darker.vrheadset.jpg"
+   ],
+   "source_url": "https://www.ekac.org/darker-info.html"
+  },
+  {
+   "id": "marcus-coates--dawn-chorus",
+   "creator_ids": [
+    "marcus-coates"
+   ],
+   "title": "Dawn Chorus",
+   "year": 2007,
+   "field": "bird",
+   "sub": "avian-senses",
+   "senses": [
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A 14-screen video installation of people in cars, offices and bedrooms singing birdsong; each voice is sped back up so that the room fills with a convincing dawn chorus.",
+   "description_zh": "一件 14 屏影像装置：人们在汽车、办公室和卧室里唱鸟鸣；每段人声被重新加速，整个空间充满逼真的黎明鸟鸣大合唱。",
+   "idea_en": "Slowing birdsong down to human pace lets people learn it with their own throats; speeding them up returns them to bird time.",
+   "idea_zh": "把鸟鸣放慢到人的节奏，人就能用自己的喉咙学会它；再加速，人又回到了鸟的时间。",
+   "method": "Individual wild birds were recorded with up to 14 microphones at dawn, slowed by up to 20 times, learned by singers who were filmed at high frame rates, then played back at bird speed.",
+   "method_zh": "黎明时用多达 14 支话筒分别录下野鸟的鸣唱，放慢最多 20 倍，由歌者学唱并以高帧率拍摄，再以鸟的速度回放。",
+   "keywords": [
+    "birdsong",
+    "dawn chorus",
+    "slow motion",
+    "voice",
+    "Picture This",
+    "Wellcome Trust"
+   ],
+   "shown_at": [
+    "Fabrica, Brighton 2015"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zF1uihdcZmY"
+   },
+   "images": [
+    "https://a75hkzli.twic.pics/marcus-coates/images/_1200x630_crop_center-center_none/fabrica.jpg"
+   ],
+   "source_url": "https://marcuscoates.co.uk/projects/68-dawn-chorus"
+  },
+  {
+   "id": "agnes-meyer-brandis--moon-goose-analogue",
+   "creator_ids": [
+    "agnes-meyer-brandis"
+   ],
+   "title": "Moon Goose Analogue: Lunar Migration Bird Facility",
+   "year": 2011,
+   "field": "bird",
+   "sub": "flock",
+   "senses": [
+    "body",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "The artist raised eleven geese, named after astronauts, from eggs, imprinted them on herself and trained them to fly in a 'Moon analogue' habitat in Italy, shown to visitors through a live video control room.",
+   "description_zh": "艺术家从蛋开始养育 11 只以宇航员命名的大雁，让它们把自己认作母亲，并在意大利的“月球模拟”栖息地训练它们飞行，观众通过实时影像控制室观看。",
+   "idea_en": "Joining a flock means being accepted as kin: imprinting turns the human into the geese's mother and flight trainer.",
+   "idea_zh": "加入鸟群意味着被接纳为亲属：印随让人成为大雁的母亲和飞行教练。",
+   "method": "Hand-rearing and imprinting from hatching, daily flight training, and remote cameras streaming the geese's habitat into a gallery control room.",
+   "method_zh": "从孵化起人工育雏与印随，每日飞行训练，并用远程摄像机把大雁的栖息地实时传入展厅控制室。",
+   "keywords": [
+    "goose",
+    "imprinting",
+    "migration",
+    "Moon",
+    "Francis Godwin",
+    "Arts Catalyst",
+    "FACT"
+   ],
+   "shown_at": [
+    "FACT Liverpool 2011",
+    "VIDA 15.0 (second prize) 2013"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pIKNbDWdS_0"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Agnes_Meyer-Brandis"
+  },
+  {
+   "id": "freedom-conservation--eagle-pov-mont-blanc",
+   "creator_ids": [
+    "freedom-conservation"
+   ],
+   "title": "Eagle POV over Mont Blanc",
+   "year": 2015,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "film",
+   "description": "Footage from small cameras carried by a white-tailed eagle and a bald eagle flying over the Mont Blanc massif, showing peaks, glaciers and the trail below from the bird's own flight.",
+   "description_zh": "由白尾海雕和白头海雕携带的小型相机拍下的影像，从鸟自身的飞行中呈现勃朗峰群山、冰川与下方的山径。",
+   "idea_en": "A camera on the bird gives the bird's path and speed, but not its vision, which shows both the promise and the limit of animal POV.",
+   "idea_zh": "装在鸟身上的相机给出鸟的路线和速度，却给不出它的视觉，这正显示了动物视角的可能与局限。",
+   "method": "Trained eagles fitted with lightweight action cameras (Sony Action Cam Mini) flew from the summits during the Ultra-Trail du Mont-Blanc.",
+   "method_zh": "佩戴轻型运动相机（Sony Action Cam Mini）的训练猛禽在环勃朗峰超级越野赛期间从山顶起飞。",
+   "keywords": [
+    "white-tailed eagle",
+    "bald eagle",
+    "Mont Blanc",
+    "glacier",
+    "action camera",
+    "Jacques-Olivier Travers"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=IkRhq-stMS4"
+   },
+   "source_url": "https://www.youtube.com/@FREEDOMCONSERVATION"
+  },
+  {
+   "id": "julius-neubronner--pigeon-photography",
+   "creator_ids": [
+    "julius-neubronner"
+   ],
+   "title": "Pigeon photography",
+   "year": 1907,
+   "field": "bird",
+   "sub": "flight",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "screen"
+   ],
+   "kind": "prototype",
+   "description": "Homing pigeons carried miniature timed cameras on breast harnesses and photographed the towns and landscapes they flew over; the images were sold as postcards and shown at the 1909 Dresden photography exhibition.",
+   "description_zh": "信鸽胸前挂着定时微型相机，拍下它们飞越的城镇与地景；这些照片被制成明信片，并在 1909 年德累斯顿摄影展上展出。",
+   "idea_en": "An early answer to 'what does the bird see': a mechanical eye strapped to the animal, returning images humans had never seen.",
+   "idea_zh": "对“鸟看见什么”的早期回答：把机械眼睛绑在动物身上，带回人类从未见过的影像。",
+   "method": "Lightweight aluminium cameras with a pneumatic timer took one or more exposures during the flight home; patented in 1908.",
+   "method_zh": "轻型铝制相机配有气动定时器，在鸽子飞回途中拍摄一张或多张照片；1908 年获得专利。",
+   "keywords": [
+    "homing pigeon",
+    "aerial photography",
+    "camera",
+    "Kronberg",
+    "1909 Dresden International Photographic Exhibition"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/9/94/Bundesarchiv_Bild_183-R01996%2C_Brieftaube_mit_Fotokamera_cropped.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/54/Julius_Neubronner_with_pigeon_and_camera_1914_cropped.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Pigeon_photography"
+  },
+  {
+   "id": "victoria-vesna--bird-song-diamond",
+   "creator_ids": [
+    "victoria-vesna"
+   ],
+   "title": "Bird Song Diamond",
+   "year": 2014,
+   "field": "bird",
+   "sub": "avian-senses",
+   "senses": [
+    "hearing",
+    "body"
+   ],
+   "medium": [
+    "installation",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "An art-science project with evolutionary biologists on how birds such as Cassin's vireos communicate; in the Japanese version, visitors use their voices and bodies to act as birds in a large projected space.",
+   "description_zh": "一个与进化生物学家合作、研究卡氏莺雀等鸟类如何交流的艺术-科学项目；在日本版本中，观众在大型投影空间里用声音和身体扮演鸟。",
+   "idea_en": "Bird communication is learned from the inside, by trying to produce and answer calls in a shared space.",
+   "idea_zh": "鸟的交流从内部习得：在共享空间里尝试发出并回应鸣叫。",
+   "method": "Built on acoustic sensor-array recordings of bird networks; installations used motion tracking, projection and voice interaction in the Large Space at EMP Tsukuba.",
+   "method_zh": "基于声学传感器阵列对鸟类网络的录音；装置在筑波 EMP 的 Large Space 中使用动作追踪、投影和声音交互。",
+   "keywords": [
+    "birdsong",
+    "Cassin's vireo",
+    "UCLA Art|Sci Center",
+    "Charles Taylor",
+    "Martin Cody",
+    "Tsukuba"
+   ],
+   "shown_at": [
+    "Large Space, Empowerment Informatics (EMP), University of Tsukuba"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HyUaqDa_6Vg"
+   },
+   "source_url": "https://www.youtube.com/watch?v=0gwRb6Kt8hA"
+  },
+  {
+   "id": "jessica-rath--a-better-nectar",
+   "creator_ids": [
+    "jessica-rath"
+   ],
+   "title": "a better nectar",
+   "year": 2015,
+   "field": "insect",
+   "sub": "bee",
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "An exhibition made with bee scientists that puts visitors in a bee's position: 'Bee Purple' shows flowers in the colours bees see, and 'Resonant Nest' is a sculpted nest large enough to walk into.",
+   "description_zh": "一场与蜜蜂科学家合作的展览，把观众放到蜜蜂的位置：“Bee Purple”呈现蜜蜂眼中的花朵颜色，“Resonant Nest”是一个大到可以走进去的雕塑巢穴。",
+   "idea_en": "Seeing ultraviolet and losing red is the entry point to a bee's world of flowers.",
+   "idea_zh": "看见紫外、失去红色，是进入蜜蜂花朵世界的入口。",
+   "method": "Sculpture, ultraviolet-shifted colour works and a walk-in nest structure, informed by research with pollination scientists.",
+   "method_zh": "以雕塑、紫外偏移的色彩作品和可步入的巢穴结构完成，参考了与授粉科学家的研究。",
+   "keywords": [
+    "honeybee",
+    "bee purple",
+    "ultraviolet",
+    "pollination",
+    "Resonant Nest"
+   ],
+   "shown_at": [
+    "University Art Museum, California State University Long Beach 2015"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=B7DjD9JlGqo"
+   },
+   "images": [
+    "http://jessicarath.com/files/2014/09/web_nest-720x720.jpg",
+    "http://jessicarath.com/files/2014/09/web_purple-720x720.jpg"
+   ],
+   "source_url": "http://jessicarath.com/blog/projects/a-better-nectar/"
+  },
+  {
+   "id": "alexandra-daisy-ginsberg--pollinator-pathmaker",
+   "creator_ids": [
+    "alexandra-daisy-ginsberg"
+   ],
+   "title": "Pollinator Pathmaker",
+   "year": 2021,
+   "field": "insect",
+   "sub": "bee",
+   "also": [
+    "tree"
+   ],
+   "senses": [
+    "vision",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A living artwork and online tool: an algorithm designs gardens for as many pollinator species as possible rather than for human taste, and anyone can generate and plant their own.",
+   "description_zh": "一件活的艺术作品与在线工具：算法为尽可能多的传粉者物种、而不是为人的审美设计花园，任何人都可以生成并种植自己的版本。",
+   "idea_en": "Designing from the pollinators' point of view means handing aesthetic choices to their needs: flower shape, colour and bloom time.",
+   "idea_zh": "从传粉者的视角设计，意味着把审美选择交给它们的需求：花形、颜色与花期。",
+   "method": "An algorithm built with pollination scientists selects and arranges plant species by the needs of pollinator groups; commissioned by the Eden Project.",
+   "method_zh": "与授粉科学家共同构建的算法，根据传粉者类群的需求挑选并布置植物物种；由伊甸园项目委托。",
+   "keywords": [
+    "pollinator",
+    "bee",
+    "garden",
+    "algorithm",
+    "Eden Project",
+    "LAS Art Foundation"
+   ],
+   "shown_at": [
+    "Eden Project 2021",
+    "LAS Art Foundation, Berlin"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=IN3YzdziqBY"
+   },
+   "source_url": "https://www.pollinator.art/"
+  },
+  {
+   "id": "tomas-saraceno--arachnid-orchestra-jam-sessions",
+   "creator_ids": [
+    "tomas-saraceno"
+   ],
+   "title": "Arachnid Orchestra. Jam Sessions",
+   "year": 2015,
+   "field": "insect",
+   "sub": "insect-other",
+   "senses": [
+    "hearing",
+    "touch"
+   ],
+   "medium": [
+    "installation",
+    "performance",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "Spiders spin webs in a darkened space; the vibrations of the webs are amplified as sound, and human musicians improvise with the spiders in public jam sessions.",
+   "description_zh": "蜘蛛在暗室里织网；网的振动被放大成声音，人类音乐家与蜘蛛在公开的即兴演奏中合奏。",
+   "idea_en": "A spider lives in a world of vibration; amplifying the web lets humans hear and answer that world.",
+   "idea_zh": "蜘蛛生活在振动的世界里；放大蛛网，人类就能听见并回应这个世界。",
+   "method": "Contact microphones and vibration sensors on the webs, amplified and mixed live with human instruments.",
+   "method_zh": "在蛛网上安装接触式麦克风和振动传感器，放大后与人类乐器现场混音。",
+   "keywords": [
+    "spider",
+    "web",
+    "vibration",
+    "interspecies music",
+    "Arachnophilia"
+   ],
+   "shown_at": [
+    "NTU Centre for Contemporary Art Singapore 2015"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hIuNu-dcQX8"
+   },
+   "source_url": "https://studiotomassaraceno.org/arachnid-orchestra-jam-sessions/"
+  },
+  {
+   "id": "tomas-saraceno--webs-of-at-tent-s-ion",
+   "creator_ids": [
+    "tomas-saraceno"
+   ],
+   "title": "Webs of At-tent(s)ion",
+   "year": 2018,
+   "field": "insect",
+   "sub": "insect-other",
+   "senses": [
+    "touch",
+    "vision"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "Part of the exhibition ON AIR at Palais de Tokyo: in darkened rooms, spot-lit webs built by different spider species hang in space, each a record of how its maker senses and holds the world.",
+   "description_zh": "Palais de Tokyo 展览 ON AIR 的一部分：在暗室中，不同蜘蛛物种织成的蛛网被聚光照亮、悬在空中，每一张网都记录了织网者如何感知并把握世界。",
+   "idea_en": "A web is a sensing organ outside the body; attending to it means attending to a sense built on tension and vibration rather than sight.",
+   "idea_zh": "蛛网是身体之外的感觉器官；关注它，就是关注一种建立在张力与振动而非视觉之上的感官。",
+   "method": "Webs spun by living spiders in frames, lit in darkness; part of a studio practice that also records and sonifies web vibrations.",
+   "method_zh": "由活蜘蛛在框架中织成的网在黑暗中被照亮；工作室的实践还包括记录并声音化蛛网振动。",
+   "keywords": [
+    "spider",
+    "web",
+    "vibration",
+    "hybrid webs",
+    "ON AIR",
+    "Palais de Tokyo"
+   ],
+   "shown_at": [
+    "ON AIR, Palais de Tokyo Paris 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=spmNH9YKSTk"
+   },
+   "images": [
+    "https://studiotomassaraceno.org/files/02_18FRA_PdT_Press_29_AR-1.jpg"
+   ],
+   "source_url": "https://studiotomassaraceno.org/webs-of-at-tentsion/"
+  },
+  {
+   "id": "tomas-saraceno--spider-web-pavilion-7",
+   "creator_ids": [
+    "tomas-saraceno"
+   ],
+   "title": "Spider/Web Pavilion 7",
+   "year": 2019,
+   "field": "insect",
+   "sub": "insect-other",
+   "senses": [
+    "touch",
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "A pavilion at the Venice Biennale devoted to spiders and their webs, with living webs and oracle readings in which visitors' questions are answered through spider/web divination.",
+   "description_zh": "威尼斯双年展上一个献给蜘蛛与蛛网的展馆，展出活的蛛网，并举办神谕解读，以蛛网占卜回答观众的问题。",
+   "idea_en": "The web is treated as a sensing instrument and a way of reading the world, shared between spider and human.",
+   "idea_zh": "蛛网被当作感知工具和阅读世界的方式，由蜘蛛与人共同使用。",
+   "method": "Living spiders and webs, arachnomancy cards and oracle sessions, developed with collaborating arachnologists.",
+   "method_zh": "活蜘蛛与蛛网、蛛网占卜卡和神谕环节，与合作的蛛形学家共同完成。",
+   "keywords": [
+    "spider",
+    "web",
+    "arachnomancy",
+    "divination",
+    "Venice Biennale"
+   ],
+   "shown_at": [
+    "May You Live in Interesting Times, Venice Biennale 2019"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QSbzZ-b6eEI"
+   },
+   "images": [
+    "https://studiotomassaraceno.org/files/002-1920x1280.jpg"
+   ],
+   "source_url": "https://studiotomassaraceno.org/spiderweb-pavilion-7/"
+  },
+  {
+   "id": "jiabao-li--wings-against-the-veil-of-light",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Wings Against the Veil of Light",
+   "year": 2024,
+   "field": "insect",
+   "sub": "insect-other",
+   "senses": [
+    "hearing",
+    "body"
+   ],
+   "medium": [
+    "performance",
+    "wearable"
+   ],
+   "kind": "performance",
+   "description": "A Butoh performance in which dancers wear cricket wings made from a zipper and a ruler and chirp by rubbing them, telling how artificial light makes male crickets call at the wrong time.",
+   "description_zh": "一场舞踏表演：舞者佩戴由拉链和尺子制成的蟋蟀翅膀，摩擦发声，讲述人造光如何让雄蟋蟀在错误的时间鸣叫。",
+   "idea_en": "Butoh empties the human body so a cricket can move in it; the wings give the dancer the cricket's way of making sound.",
+   "idea_zh": "舞踏清空人的身体，让蟋蟀在其中活动；这对翅膀给了舞者蟋蟀的发声方式。",
+   "method": "Wearable wings built like a cricket's file and scraper (zipper and ruler) are rubbed to stridulate; live music and lighting stage light pollution.",
+   "method_zh": "按照蟋蟀“音锉与刮器”结构（拉链与尺子）制作的可穿戴翅膀，通过摩擦发声；现场音乐和灯光呈现光污染。",
+   "keywords": [
+    "cricket",
+    "stridulation",
+    "Butoh",
+    "light pollution",
+    "The Contemporary Austin"
+   ],
+   "shown_at": [
+    "The Contemporary Austin, Laguna Gloria 2024"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=V-doIkBdPkg"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/c3932ec7-6a6b-4671-96ce-bc5808b54847/Jiabao+Li_Cricket_Butoh+0.jpg"
+   ],
+   "source_url": "https://www.jiabaoli.org/wings-against-the-veil-of-light"
+  },
+  {
+   "id": "jiabao-li--squid-map",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Squid Map",
+   "year": 2022,
+   "field": "octopus",
+   "sub": "cephalopod",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A Hawaiian bobtail squid lived for a month in a tank floored with black and white sand shaped as countries; by burying and camouflaging itself it redrew the map, which is shown before and after.",
+   "description_zh": "一只夏威夷短尾乌贼在铺有黑白沙、沙子被塑成国家形状的水箱中生活了一个月；它钻沙、伪装，重画了这张地图，作品展示前后对比。",
+   "idea_en": "The squid reads the map only as sand to hide in, so human borders dissolve under another body's way of using space.",
+   "idea_zh": "乌贼只把地图读作可以藏身的沙，人类的边界在另一种身体的空间使用方式下消解。",
+   "method": "Sand collected in Hawaii was arranged into national shapes in a lab tank at the Kewalo Marine Laboratory and filmed over a month.",
+   "method_zh": "在夏威夷采集的沙子被在 Kewalo 海洋实验室的水箱中摆成国家形状，并连续拍摄一个月。",
+   "keywords": [
+    "Hawaiian bobtail squid",
+    "camouflage",
+    "map",
+    "borders",
+    "Kewalo Marine Laboratory"
+   ],
+   "shown_at": [
+    "Embodied Ecology, New Museum New York 2022",
+    "ISEA 2022 Barcelona",
+    "Ars Electronica 2024"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/84e3a87b-a9df-41ed-9ef2-7732a42f489b/squid+map+before+after.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b889ed3e-4ddd-48f6-95a3-b591ab4a3ce7/jiabao+li+squid+map+2+copy.jpg"
+   ],
+   "source_url": "https://www.jiabaoli.org/squid-map",
+   "collections": [
+    "ars-electronica"
+   ]
+  },
+  {
+   "id": "kuang-yi-ku--bat-night-market",
+   "creator_ids": [
+    "kuang-yi-ku",
+    "robert-charles-johnson"
+   ],
+   "title": "Bat Night Market",
+   "year": 2024,
+   "field": "bat",
+   "sub": "bat-life",
+   "senses": [
+    "smell",
+    "multisensory"
+   ],
+   "medium": [
+    "performance",
+    "installation"
+   ],
+   "kind": "performance",
+   "description": "A performance set in a future Taiwanese night market where bats have gone extinct; visitors taste and handle what bats used to provide, from pollination to insect control.",
+   "description_zh": "一场设定在未来台湾夜市的表演，那里的蝙蝠已经灭绝；观众品尝并触碰蝙蝠曾经提供的东西，从授粉到控制昆虫。",
+   "idea_en": "Bats are made present through their absence: what disappears from the food and the night when they are gone.",
+   "idea_zh": "蝙蝠通过缺席而在场：它们消失后，食物和夜晚会少掉什么。",
+   "method": "Speculative food, market stalls, props and live performance drawing on research into bat ecology.",
+   "method_zh": "以蝙蝠生态研究为基础的思辨食物、夜市摊位、道具与现场表演。",
+   "keywords": [
+    "bat",
+    "night market",
+    "speculative food",
+    "extinction",
+    "Taiwan",
+    "LIFT"
+   ],
+   "shown_at": [
+    "LIFT Festival London 2024",
+    "Science Gallery London 2024"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=y33bnqHH_yU"
+   },
+   "images": [
+    "https://www.liftfestival.com/wp-content/uploads/2024/02/4x3-ratio-website-Bat-NM-scaled.jpg"
+   ],
+   "source_url": "https://www.liftfestival.com/event/bat-night-market/"
+  },
+  {
+   "id": "pierre-huyghe--uumwelt",
+   "creator_ids": [
+    "pierre-huyghe"
+   ],
+   "title": "UUmwelt",
+   "year": 2018,
+   "field": "insect",
+   "sub": "insect-other",
+   "also": [
+    "robot"
+   ],
+   "senses": [
+    "vision",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "An exhibition in which thousands of flies bred in the gallery move freely among LED screens showing images generated by a neural network from human brain scans; the flies' movements and the room's conditions keep changing the images.",
+   "description_zh": "一场展览：数千只在展厅中繁殖的苍蝇在 LED 屏幕之间自由飞行，屏幕播放由神经网络根据人脑扫描生成的图像；苍蝇的活动和房间的环境不断改变这些图像。",
+   "idea_en": "The title doubles Uexküll's umwelt: humans, flies and a machine each perceive the same room in their own world, and none of them sees it whole.",
+   "idea_zh": "标题重复了于克斯屈尔的“环境界”：人、苍蝇和机器各自在自己的世界里感知同一个房间，谁都看不到全貌。",
+   "method": "Deep image reconstruction from fMRI data (with Kamitani Lab, Kyoto University), environmental sensors that alter the image stream, and a live population of flies.",
+   "method_zh": "基于 fMRI 数据的深度图像重建（与京都大学神谷实验室合作）、改变图像流的环境传感器，以及一群活苍蝇。",
+   "keywords": [
+    "fly",
+    "umwelt",
+    "Jakob von Uexküll",
+    "fMRI",
+    "neural network",
+    "Serpentine"
+   ],
+   "shown_at": [
+    "Serpentine Gallery London 2018–2019"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=enx-vyWn7UU"
+   },
+   "images": [
+    "https://d37zoqglehb9o7.cloudfront.net/uploads/2020/04/1269-pierre-serpentine.jpg"
+   ],
+   "source_url": "https://www.serpentinegalleries.org/whats-on/pierre-huyghe-uumwelt/"
+  },
+  {
+   "id": "alexandra-daisy-ginsberg--machine-auguries",
+   "creator_ids": [
+    "alexandra-daisy-ginsberg"
+   ],
+   "title": "Machine Auguries",
+   "year": 2019,
+   "field": "bird",
+   "sub": "avian-senses",
+   "also": [
+    "robot"
+   ],
+   "senses": [
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "installation",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "A room under an artificial dawn sky where a local dawn chorus is recreated from natural and machine-generated birdsong, gradually taken over by artificial birds.",
+   "description_zh": "一个在人造黎明天空下的房间，用自然和机器生成的鸟鸣重建当地的黎明合唱，人工鸟逐渐占据声景。",
+   "idea_en": "Listening for birds becomes listening for their absence: the machine chorus is a false memory of a soundscape that is disappearing.",
+   "idea_zh": "聆听鸟变成聆听它们的缺席：机器合唱是对一个正在消失的声景的虚假记忆。",
+   "method": "Birdsong synthesised with generative adversarial networks trained on field recordings, played on multichannel sound with programmed light.",
+   "method_zh": "用在田野录音上训练的生成对抗网络合成鸟鸣，以多声道声音配合程序化灯光播放。",
+   "keywords": [
+    "dawn chorus",
+    "birdsong",
+    "GAN",
+    "Somerset House",
+    "Toledo Museum of Art",
+    "Bildmuseet"
+   ],
+   "shown_at": [
+    "24/7, Somerset House London 2019",
+    "Toledo Museum of Art 2023",
+    "Bildmuseet Umeå 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MMBGElLQMG4"
+   },
+   "images": [
+    "https://www.daisyginsberg.com/img/work/machine_auguries_london_bildmuseet_gallery.jpg",
+    "https://www.daisyginsberg.com/img/work/machine_auguries_5_web.jpg"
+   ],
+   "source_url": "https://www.daisyginsberg.com/work/machine-auguries"
+  },
+  {
+   "id": "rebecca-horn--cockatoo-mask",
+   "creator_ids": [
+    "rebecca-horn"
+   ],
+   "title": "Cockatoo Mask (Performances II)",
+   "year": 1973,
+   "field": "bird",
+   "sub": "avian-senses",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "performance",
+    "wearable",
+    "screen"
+   ],
+   "kind": "performance",
+   "description": "In a filmed performance, a performer wears a mask of white cockatoo feathers that closes and opens around the face, so that touching another person happens through a bird's plumage.",
+   "description_zh": "在一段拍摄下来的表演中，表演者戴着一副由白色凤头鹦鹉羽毛做成的面具，羽毛在脸周围开合，触碰他人要通过鸟的羽毛来完成。",
+   "idea_en": "An early body extension that borrows a bird's feathers as a new skin for sensing and approaching others.",
+   "idea_zh": "一件早期的身体延伸作品，借用鸟的羽毛作为感知和接近他人的新皮肤。",
+   "method": "Handmade feather mask on a hinged frame, performed for camera and shown in the 16 mm film Performances II.",
+   "method_zh": "手工制作的羽毛面具装在可开合的框架上，为镜头表演，并收录于 16 毫米影片 Performances II。",
+   "keywords": [
+    "cockatoo",
+    "feathers",
+    "body extension",
+    "mask",
+    "16 mm film"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Ekmovwo0e2A"
+   },
+   "source_url": "https://www.tate.org.uk/art/artists/rebecca-horn-2585"
+  },
+  {
+   "id": "joseph-beuys--i-like-america",
+   "creator_ids": [
+    "joseph-beuys"
+   ],
+   "title": "I Like America and America Likes Me",
+   "year": 1974,
+   "field": "animal",
+   "sub": "wild",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "The artist spent three days in a New York gallery room with a wild coyote, wrapped in felt with a shepherd's staff, sharing the space until the animal accepted him.",
+   "description_zh": "艺术家在纽约一家画廊的房间里与一只野生郊狼共处三天，裹着毛毡、拿着牧杖，与它分享空间，直到它接纳他。",
+   "idea_en": "A counterpoint: meeting the animal on its own terms, through shared time and territory rather than imitation or simulation.",
+   "idea_zh": "一件对照作品：通过共享时间和领地，而不是模仿或模拟，按动物自己的方式与它相遇。",
+   "method": "Durational performance with felt, staff, straw and copies of the Wall Street Journal, documented on film and photographs.",
+   "method_zh": "长时表演，使用毛毡、牧杖、稻草和《华尔街日报》，以影片和照片记录。",
+   "keywords": [
+    "coyote",
+    "felt",
+    "René Block Gallery",
+    "durational performance",
+    "shamanism"
+   ],
+   "shown_at": [
+    "René Block Gallery New York 1974"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=IjI3_w9ZbX0"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/I_Like_America_and_America_Likes_Me"
+  },
+  {
+   "id": "david-rothenberg--berlin-bulbul",
+   "creator_ids": [
+    "david-rothenberg"
+   ],
+   "title": "Berlin Bülbül",
+   "year": 2015,
+   "field": "bird",
+   "sub": "avian-senses",
+   "senses": [
+    "hearing"
+   ],
+   "medium": [
+    "performance",
+    "audio"
+   ],
+   "kind": "performance",
+   "description": "A duo album and live sessions in which the musician plays clarinet with wild nightingales in Berlin's parks at night, answering and following their songs.",
+   "description_zh": "一张二重奏专辑和一系列现场演出：音乐人在柏林夜晚的公园里用单簧管与野生夜莺合奏，回应并追随它们的歌声。",
+   "idea_en": "Becoming part of the bird's song means entering a real-time exchange whose rules only the bird knows.",
+   "idea_zh": "成为鸟鸣的一部分，意味着进入一场只有鸟知道规则的实时交流。",
+   "method": "Clarinet and live electronics (with Korhan Erel) improvised with singing nightingales, recorded outdoors at night.",
+   "method_zh": "单簧管与现场电子（与 Korhan Erel 合作）在夜间户外与鸣唱的夜莺即兴并录音。",
+   "keywords": [
+    "nightingale",
+    "interspecies music",
+    "clarinet",
+    "Berlin",
+    "Korhan Erel"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=72PKRimqL3c"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/David_Rothenberg_(author)"
+  },
+  {
+   "id": "andreas-heinecke--dialogue-in-the-dark",
+   "creator_ids": [
+    "andreas-heinecke"
+   ],
+   "title": "Dialogue in the Dark",
+   "year": 1988,
+   "field": "mole",
+   "sub": "reduced",
+   "senses": [
+    "touch",
+    "hearing"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "An exhibition in total darkness: visitors cross everyday settings such as a park, a street and a café by touch, sound and smell, guided by blind or visually impaired guides.",
+   "description_zh": "一场完全黑暗中的展览：观众在盲人或视障向导的带领下，靠触觉、声音和气味穿过公园、街道和咖啡馆等日常场景。",
+   "idea_en": "Removing sight is only half of it; the other half is being guided by those for whom this world is ordinary.",
+   "idea_zh": "移除视觉只是一半；另一半是被那些以这个世界为日常的人引导。",
+   "method": "Light-sealed rooms with real objects, soundscapes and textures, walked with a white cane and a guide.",
+   "method_zh": "完全不透光的房间，布置真实物件、声景和材质，观众拿着白手杖跟随向导行走。",
+   "keywords": [
+    "darkness",
+    "blind guides",
+    "touch",
+    "white cane",
+    "Frankfurt"
+   ],
+   "shown_at": [
+    "Frankfurt 1988"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GWWJS6uBndo"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Dialogue_in_the_Dark"
+  },
+  {
+   "id": "britt-hatzius--blind-cinema",
+   "creator_ids": [
+    "britt-hatzius"
+   ],
+   "title": "Blind Cinema",
+   "year": 2015,
+   "field": "mole",
+   "sub": "reduced",
+   "senses": [
+    "hearing"
+   ],
+   "medium": [
+    "performance",
+    "audio"
+   ],
+   "kind": "performance",
+   "description": "Blindfolded adults sit in a cinema while children behind them whisper descriptions of a film only the children can see.",
+   "description_zh": "蒙着眼睛的成年人坐在电影院里，身后的孩子们低声描述一部只有孩子能看见的电影。",
+   "idea_en": "An image is rebuilt from a child's words in the ear, so seeing depends on another person's perception.",
+   "idea_zh": "图像由孩子在耳边的话语重建，看见依赖于另一个人的感知。",
+   "method": "Blindfolds, a projected film and live whispered description by local schoolchildren seated behind the audience.",
+   "method_zh": "眼罩、投影电影，以及坐在观众身后的当地小学生现场低声讲述。",
+   "keywords": [
+    "blindfold",
+    "whisper",
+    "children",
+    "audio description",
+    "cinema"
+   ],
+   "shown_at": [
+    "International Film Festival Rotterdam 2016",
+    "PuSh International Performing Arts Festival 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_L4Dj8Jbz1o"
+   },
+   "source_url": "https://www.youtube.com/watch?v=Vn8V8HlvLhQ"
+  },
+  {
+   "id": "aki-inomata--dogs-hair",
+   "creator_ids": [
+    "aki-inomata"
+   ],
+   "title": "I Wear the Dog's Hair, and the Dog Wears My Hair",
+   "year": 2014,
+   "field": "animal",
+   "sub": "companion",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "wearable",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "Over several years the artist collected her own hair and that of her dog Cielo, then made a cape of dog hair for herself and a cape of her hair for the dog, and filmed them wearing each other's coats.",
+   "description_zh": "艺术家花了数年收集自己和她的狗 Cielo 的毛发，然后用狗毛为自己做了一件披肩，用自己的头发为狗做了一件，并拍摄两者互穿对方“皮毛”的影像。",
+   "idea_en": "Swapping coats is a quiet form of becoming-with: each body wears the other's skin rather than imitating its behaviour.",
+   "idea_zh": "交换皮毛是一种安静的“与之共同生成”：每个身体穿上对方的皮肤，而不是模仿对方的行为。",
+   "method": "Hand-felted and woven capes from collected human and dog hair, shown as objects with a two-channel video installation.",
+   "method_zh": "用收集来的人发和狗毛手工毡制、编织成披肩，与双频道影像装置一起展出。",
+   "keywords": [
+    "dog",
+    "hair",
+    "cape",
+    "Deleuze and Guattari",
+    "Donna Haraway",
+    "When Species Meet"
+   ],
+   "shown_at": [
+    "HAGISO Tokyo 2014"
+   ],
+   "video": {
+    "url": "https://vimeo.com/102524253"
+   },
+   "images": [
+    "https://www.aki-inomata.com/shared/img/works/11/11-02.jpg",
+    "https://www.aki-inomata.com/shared/img/works/11/11-03.jpg"
+   ],
+   "source_url": "https://www.aki-inomata.com/works/dogs/"
+  },
+  {
+   "id": "shimabuku--octopus-tour-of-tokyo",
+   "creator_ids": [
+    "shimabuku"
+   ],
+   "title": "Then, I decided to give a tour of Tokyo to the octopus from Akashi",
+   "year": 2000,
+   "field": "octopus",
+   "sub": "cephalopod",
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "performance",
+    "screen"
+   ],
+   "kind": "performance",
+   "description": "The artist bought a live octopus in the fishing town of Akashi, took it by train to Tokyo, showed it Mount Fuji, Tokyo Tower and the Tsukiji fish market, then brought it back and released it into the sea.",
+   "description_zh": "艺术家在渔港明石买下一只活章鱼，带它坐火车去东京，让它看富士山、东京塔和筑地鱼市，然后带它回去放归大海。",
+   "idea_en": "An on-land encounter that asks what a city is for an octopus, while admitting we can only guess at its view.",
+   "idea_zh": "一场陆地上的相遇，追问城市对章鱼意味着什么，同时承认我们只能猜测它的视角。",
+   "method": "A travelling performance with a live octopus carried in a water container, documented as video, photographs and a hand-drawn map.",
+   "method_zh": "带着装在水箱里的活章鱼进行的旅行表演，以影像、照片和手绘地图记录。",
+   "keywords": [
+    "octopus",
+    "Akashi",
+    "Tokyo Tower",
+    "Tsukiji",
+    "Mount Fuji",
+    "travel"
+   ],
+   "shown_at": [
+    "Museum of Contemporary Art Tokyo (collection)",
+    "Museum of Fine Arts, Houston (collection)"
+   ],
+   "images": [
+    "https://mot-collection-search.jp/media_files/large/16282.jpg",
+    "https://mot-collection-search.jp/media_files/large/16284.jpg"
+   ],
+   "source_url": "https://mot-collection-search.jp/en/shiryo/5282/"
+  },
+  {
+   "id": "yukinori-yanagi--world-flag-ant-farm",
+   "creator_ids": [
+    "yukinori-yanagi"
+   ],
+   "title": "The World Flag Ant Farm",
+   "year": 1990,
+   "field": "insect",
+   "sub": "colony",
+   "senses": [
+    "collective-sense",
+    "time-scale"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "National flags made of coloured sand in linked plastic boxes are colonised by ants, whose tunnels carry sand across the borders until the flags blur into one another; the series continues in later works such as ASEAN +3.",
+   "description_zh": "由彩色沙子做成的国旗装在相连的塑料盒中，被蚂蚁占领；蚂蚁挖出的隧道把沙子搬过边界，国旗逐渐混在一起；这一系列延续到 ASEAN +3 等后期作品。",
+   "idea_en": "The colony does not perceive flags at all, so its ordinary labour dissolves the symbols humans fight over.",
+   "idea_zh": "蚁群根本感知不到国旗，它日常的劳作就消解了人类为之争斗的符号。",
+   "method": "Coloured sand flags in interconnected acrylic boxes joined by tubes, inhabited by live ant colonies over the exhibition period.",
+   "method_zh": "装有彩沙国旗、以管道相连的亚克力盒子，在展期中由活蚁群栖居。",
+   "keywords": [
+    "ant",
+    "colony",
+    "flag",
+    "border",
+    "Venice Biennale",
+    "Museum MACAN"
+   ],
+   "shown_at": [
+    "Aperto, Venice Biennale 1993"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=WfAH19potOE"
+   },
+   "images": [
+    "https://yanagistudio.net/wp-content/uploads/2025/03/18.Eurasia-2001-600x600.jpg"
+   ],
+   "source_url": "https://yanagistudio.net/category/archives/ant-farm/"
+  },
+  {
+   "id": "celeste-boursier-mougenot--from-here-to-ear",
+   "creator_ids": [
+    "celeste-boursier-mougenot"
+   ],
+   "title": "from here to ear",
+   "year": 1999,
+   "field": "bird",
+   "sub": "avian-senses",
+   "senses": [
+    "hearing"
+   ],
+   "medium": [
+    "installation",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "Visitors walk into an aviary where free-flying zebra finches land on electric guitars and cymbals laid out as perches, so the birds' movements become live, ever-changing music.",
+   "description_zh": "观众走进一个鸟舍，自由飞翔的斑胸草雀落在作为栖木摆放的电吉他和镲片上，鸟的动作变成实时、不断变化的音乐。",
+   "idea_en": "The visitor enters the birds' space as a guest, and the soundscape is composed by the birds' own landings and pecking.",
+   "idea_zh": "观众作为客人进入鸟的空间，声景由鸟自己的落脚和啄击谱写。",
+   "method": "Amplified electric guitars and bass fixed horizontally with perches, food and water, played by the finches' weight and beaks.",
+   "method_zh": "水平固定的电吉他和贝斯接上放大器，配有栖木、食物和水，由草雀的体重和喙来弹奏。",
+   "keywords": [
+    "zebra finch",
+    "electric guitar",
+    "aviary",
+    "sound installation"
+   ],
+   "shown_at": [
+    "Barbican Curve Gallery London 2010",
+    "Jupiter Artland 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_wwKlJdojb0"
+   },
+   "source_url": "https://www.youtube.com/watch?v=HyyeXOW5xPk"
+  }
+ ],
+ "leads": [
+  {
+   "name": "The Spider's Perspective (IMX 2026)",
+   "why": "Multisensory VR as a hunting spider (airflow fans, vibration haptics, spider colour vision) for museums; an academic paper, so left to the HCI batch.",
+   "link": "https://dl.acm.org/doi/10.1145/3788851.3815016",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "The Forest That Breathes Us (Jennifer Abbott, 2024)",
+   "why": "VR through a Douglas fir, a coyote and a humpback whale with Suzanne Simard; mainly a forest work, better placed in the plants batch.",
+   "link": "https://djwa.ca/creative-artistic-work/forest-that-breathes-us-vr-installation/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Félinanthropie (Art Orienté Objet, 2007)",
+   "why": "Marion Laval-Jeantet wore prosthetic cat paws to be accepted by a cat; no reliable media found.",
+   "link": "https://plastik.univ-paris1.fr/self-animalite",
+   "found_via": "art-oriente-objet",
+   "status": "no_media"
+  },
+  {
+   "name": "Rebecca Allen, The Bush Soul (1997–1999)",
+   "why": "Early networked VR in which the participant's 'bush soul' inhabits an animal-like avatar; no media found online.",
+   "link": "https://www.rebeccaallen.com/",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Border Birds (Dries & Bieke Depoorter, 2022)",
+   "why": "AI detects birds crossing surveillance cameras at disputed borders; IDFA DocLab 2022. About birds seen by machines, not bird perception.",
+   "link": "https://www.idfa.nl/en/film/6248d87a-5d21-4ecc-b9a5-622a57c8d734/border-birds/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "We Are Dead Animals (Tote Tiere Maarten, IDFA DocLab 2025)",
+   "why": "Re-animates roadkill and hunted animals as collectible cards in a virtual paradise; animal as being, not perception.",
+   "link": "https://festival.idfa.nl/en/film/2199a031-3ed2-4e9d-8701-0a0cef4ceebe/we-are-dead-animals/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Honeybee VR (Meta Quest)",
+   "why": "Consumer VR inside a beehive following foragers; developer not identified.",
+   "link": "https://www.meta.com/experiences/honeybee-vr/4190889024357615/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Be the Bee: A Hive-to-Table Experience (National Honey Board, 2016)",
+   "why": "Promotional 360° film flying as a bee; commercial.",
+   "link": "https://www.youtube.com/watch?v=YGM2-qI6jX4",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Crow: The Legend (Baobab Studios, 2018)",
+   "why": "Animated VR about a crow; the viewer watches rather than embodies the bird.",
+   "link": "https://www.baobabstudios.com/",
+   "found_via": "baobab-studios",
+   "status": "off_topic"
+  },
+  {
+   "name": "Empathy Creatures (Mélodie Mousset)",
+   "why": "Venice Immersive VR where users care for a digital bird; care rather than becoming.",
+   "link": "https://www.labiennale.org/en/cinema",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Beatriz da Costa, PigeonBlog (2006)",
+   "why": "Homing pigeons carrying air-pollution sensors; animal as sensor, fits the machine/cyborg batch.",
+   "link": "https://en.wikipedia.org/wiki/Beatriz_da_Costa",
+   "found_via": "julius-neubronner",
+   "status": "duplicate"
+  },
+  {
+   "name": "Marco Barotti, Swans / Woodpeckers",
+   "why": "Kinetic animal-like sculptures reacting to environmental data; sensory translation but not animal perception.",
+   "link": "https://www.marcobarotti.com/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Terike Haapoja, Community (2007)",
+   "why": "Thermal-camera video of animal bodies losing heat after death; thermal perception of animal bodies.",
+   "link": "https://www.terikehaapoja.net/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Blast Theory, Cat Royale (2023)",
+   "why": "A utopia for cats with a robot arm, designed around cat behaviour; likely in the HCI-animal batch.",
+   "link": "https://www.blasttheory.co.uk/projects/cat-royale/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Rachel Mayeri, Primate Cinema: How to Act Like an Animal (2014)",
+   "why": "Humans in ape suits learning chimpanzee behaviour; companion to Apes as Family.",
+   "link": "https://rachelmayeri.com/",
+   "found_via": "rachel-mayeri",
+   "status": "open"
+  },
+  {
+   "name": "AKI INOMATA, Why Not Hand Over a 'Shelter' to Hermit Crabs? (2009–)",
+   "why": "3D-printed city shells for hermit crabs; aquatic, better in the water batch.",
+   "link": "https://www.aki-inomata.com/works/hermit/",
+   "found_via": "aki-inomata",
+   "status": "duplicate"
+  },
+  {
+   "name": "Becoming Animal (MASS MoCA, 2005)",
+   "why": "Group exhibition on human-animal boundaries (Mark Dion, Motohiko Odani, Brian Jungen and others); non-XR works, could become a collection.",
+   "link": "https://massmoca.org/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Sascha Pohflepp",
+   "why": "Checked works with Chris Woebken (Situated Sampling Set, Elsewheres): simulation works, not animal perspective.",
+   "link": "https://en.wikipedia.org/wiki/Sascha_Pohflepp",
+   "found_via": "chris-woebken",
+   "status": "off_topic"
+  },
+  {
+   "name": "Ani Liu",
+   "why": "Prix Ars Electronica 2023 honorary mention; works on reproduction and scent, no animal-perspective work found.",
+   "link": "https://ani-liu.com/",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Jiabao Li, Chthulucene / Mouse Coach / ANIMO",
+   "why": "Animal-themed works by Jiabao Li that are about octopus futures, a mouse coach and wildlife-aware cars rather than perceiving as an animal.",
+   "link": "https://www.jiabaoli.org/",
+   "found_via": "jiabao-li",
+   "status": "off_topic"
+  }
+ ]
+}

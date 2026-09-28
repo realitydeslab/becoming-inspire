@@ -1,5 +1,10 @@
 {
  "works": [],
  "media": [],
- "removed_since_last_build": []
+ "removed_since_last_build": [
+  {
+   "id": "shinseungback-kimyonghun--mind",
+   "title": "Mind"
+  }
+ ]
 }

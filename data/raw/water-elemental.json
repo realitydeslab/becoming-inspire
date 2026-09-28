@@ -1,0 +1,3823 @@
+{
+ "batch": "water-elemental",
+ "creators": [
+  {
+   "id": "char-davies",
+   "name": "Char Davies",
+   "kind": "person",
+   "role": "Painter and virtual reality artist",
+   "based": "Quebec, Canada",
+   "bio": "Canadian artist who moved from painting to immersive virtual space at Softimage in the early 1990s; founder of Immersence.",
+   "why": "Osmose and Ephémère made breath and balance the interface of VR, the reference point for every breath-driven nonhuman world since.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.immersence.com"
+   },
+   "role_zh": "画家与虚拟现实艺术家",
+   "bio_zh": "加拿大艺术家，1990 年代初在 Softimage 从绘画转向沉浸式虚拟空间，创立 Immersence 工作室。",
+   "why_zh": "《Osmose》与《Ephémère》让呼吸和平衡成为 VR 的交互方式，此后所有以呼吸驱动的非人类世界都以它们为参照。",
+   "based_zh": "加拿大魁北克",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wevr",
+   "name": "Wevr",
+   "kind": "studio",
+   "role": "Virtual reality studio",
+   "based": "Los Angeles, USA",
+   "bio": "Los Angeles VR studio behind theBlu series and the Transport platform.",
+   "why": "theBlu's whale encounter was one of the first room-scale VR moments to put a visitor eye to eye with a being many times their size.",
+   "disciplines": [
+    "film",
+    "games"
+   ],
+   "links": {
+    "site": "https://wevr.com"
+   },
+   "role_zh": "虚拟现实工作室",
+   "bio_zh": "洛杉矶 VR 工作室，出品 theBlu 系列与 Transport 平台。",
+   "why_zh": "theBlu 的鲸鱼相遇是最早让观众在房间尺度 VR 中与体型大许多倍的生命对视的作品之一。",
+   "based_zh": "美国洛杉矶",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "llyr-ap-cenydd",
+   "name": "Llyr ap Cenydd",
+   "kind": "person",
+   "role": "Developer and researcher in procedural animal animation",
+   "based": "Bangor, Wales, UK",
+   "bio": "Welsh developer whose PhD on procedural animation of marine animals grew into the VR aquarium Ocean Rift.",
+   "why": "Ocean Rift is a long-running reference for swimming among autonomously behaving sea animals in VR.",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://ocean-rift.com"
+   },
+   "role_zh": "程序化动物动画开发者与研究者",
+   "bio_zh": "威尔士开发者，他关于海洋动物程序化动画的博士研究发展成了 VR 水族馆《Ocean Rift》。",
+   "why_zh": "《Ocean Rift》是在 VR 中与自主行为的海洋动物同游的长期参照作品。",
+   "based_zh": "英国威尔士班戈",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "giant-squid",
+   "name": "Giant Squid",
+   "kind": "studio",
+   "role": "Independent game studio",
+   "based": "Santa Monica, USA",
+   "bio": "Studio founded by Matt Nava, art director of Journey; made ABZÛ and The Pathless.",
+   "why": "ABZÛ turned swimming with schools of fish into the main pleasure of a game.",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://abzugame.com"
+   },
+   "role_zh": "独立游戏工作室",
+   "bio_zh": "由《Journey》美术总监 Matt Nava 创立的工作室，作品有《ABZÛ》与《The Pathless》。",
+   "why_zh": "《ABZÛ》把与鱼群同游本身变成了游戏的核心乐趣。",
+   "based_zh": "美国圣莫尼卡",
+   "connected_to": [
+    "thatgamecompany"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bossa-studios",
+   "name": "Bossa Studios",
+   "kind": "studio",
+   "role": "Game studio",
+   "based": "London, UK",
+   "bio": "London studio known for physics-comedy games such as Surgeon Simulator and I Am Bread.",
+   "why": "I Am Fish asks players to steer a goldfish, a pufferfish and a flying fish through human spaces toward the sea.",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://www.bossastudios.com"
+   },
+   "role_zh": "游戏工作室",
+   "bio_zh": "伦敦工作室，以《Surgeon Simulator》《I Am Bread》等物理喜剧游戏闻名。",
+   "why_zh": "《I Am Fish》让玩家操控金鱼、河豚和飞鱼穿过人类空间回到大海。",
+   "based_zh": "英国伦敦",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "e-line-media",
+   "name": "E-Line Media",
+   "kind": "company",
+   "role": "Game developer and publisher",
+   "based": "Phoenix, USA",
+   "bio": "Studio making games with educational and scientific partners, including Never Alone and Beyond Blue.",
+   "why": "Beyond Blue brought BBC Blue Planet II scientists and footage into a game about listening to whales.",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://elinemedia.com"
+   },
+   "role_zh": "游戏开发与发行商",
+   "bio_zh": "与教育和科研机构合作做游戏的工作室，作品包括《Never Alone》和《Beyond Blue》。",
+   "why_zh": "《Beyond Blue》把 BBC《蓝色星球 II》的科学家与影像带进一款关于聆听鲸鱼的游戏。",
+   "based_zh": "美国凤凰城",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "arika",
+   "name": "Arika",
+   "kind": "company",
+   "role": "Game developer",
+   "based": "Tokyo, Japan",
+   "bio": "Japanese developer of the Endless Ocean diving games published by Nintendo.",
+   "why": "Endless Ocean replaced combat with slow, open-ended diving among marine animals.",
+   "disciplines": [
+    "games"
+   ],
+   "links": {},
+   "role_zh": "游戏开发商",
+   "bio_zh": "日本开发商，制作由任天堂发行的《Endless Ocean》潜水游戏系列。",
+   "why_zh": "《Endless Ocean》用缓慢、开放的潜水替代战斗，与海洋动物共处。",
+   "based_zh": "日本东京",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jenova-chen",
+   "name": "Jenova Chen",
+   "kind": "person",
+   "role": "Game designer",
+   "based": "Los Angeles, USA",
+   "bio": "Chinese-born game designer who studied at USC Interactive Media and co-founded thatgamecompany.",
+   "why": "His student game Cloud (2005) began a line of games about embodying air and weather.",
+   "disciplines": [
+    "games"
+   ],
+   "links": {
+    "site": "https://www.jenovachen.com"
+   },
+   "role_zh": "游戏设计师",
+   "bio_zh": "生于上海的游戏设计师，毕业于南加州大学互动媒体专业，thatgamecompany 联合创始人。",
+   "why_zh": "他的学生作品《Cloud》（2005）开启了一系列关于化身空气与天气的游戏。",
+   "based_zh": "美国洛杉矶",
+   "connected_to": [
+    "thatgamecompany"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eric-chahi",
+   "name": "Eric Chahi",
+   "kind": "person",
+   "role": "Game designer",
+   "based": "France",
+   "bio": "French game designer of Another World and creative director of From Dust at Ubisoft Montpellier.",
+   "why": "From Dust gives players control of sand, water and lava as a planetary 'Breath' rather than a character.",
+   "disciplines": [
+    "games"
+   ],
+   "links": {},
+   "role_zh": "游戏设计师",
+   "bio_zh": "法国游戏设计师，《Another World》作者，育碧蒙彼利埃《From Dust》创意总监。",
+   "why_zh": "《From Dust》让玩家以一股行星尺度的“气息”操纵沙、水与熔岩，而不是扮演角色。",
+   "based_zh": "法国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "owen-harris",
+   "name": "Owen Harris",
+   "kind": "person",
+   "role": "VR designer",
+   "based": "Utrecht, Netherlands",
+   "bio": "Designer who created DEEP, a breath-controlled VR experience, with Niki Smit and Monobanda Play.",
+   "why": "DEEP continues Char Davies's breath interface in consumer VR and tests it clinically for anxiety.",
+   "disciplines": [
+    "games",
+    "design"
+   ],
+   "links": {
+    "site": "https://www.exploredeep.com"
+   },
+   "role_zh": "VR 设计师",
+   "bio_zh": "设计师，与 Niki Smit 和 Monobanda Play 合作开发呼吸控制的 VR 作品《DEEP》。",
+   "why_zh": "《DEEP》把 Char Davies 的呼吸交互带入消费级 VR，并在临床中测试其缓解焦虑的效果。",
+   "based_zh": "荷兰乌得勒支",
+   "connected_to": [
+    "char-davies"
+   ],
+   "discovered_via": "char-davies"
+  },
+  {
+   "id": "lynette-wallworth",
+   "name": "Lynette Wallworth",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "based": "Sydney, Australia",
+   "bio": "Australian artist working in fulldome, installation and VR, including Collisions and Awavena.",
+   "why": "Coral: Rekindling Venus put audiences under the reef on planetarium domes worldwide.",
+   "disciplines": [
+    "art",
+    "film"
+   ],
+   "links": {
+    "site": "https://www.lynettewallworth.com"
+   },
+   "role_zh": "艺术家与电影人",
+   "bio_zh": "澳大利亚艺术家，创作穹顶影像、装置与 VR，作品包括《Collisions》和《Awavena》。",
+   "why_zh": "《Coral: Rekindling Venus》让全球天文馆穹顶下的观众置身珊瑚礁之下。",
+   "based_zh": "澳大利亚悉尼",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tamiko-thiel",
+   "name": "Tamiko Thiel",
+   "kind": "person",
+   "role": "Media artist working in VR and AR",
+   "based": "Munich, Germany",
+   "bio": "American-German artist making VR since the 1990s and site-specific AR since 2010, often on climate and water.",
+   "why": "Her AR and VR works let visitors watch coral, plastic and atmosphere change around their own bodies.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://tamikothiel.com"
+   },
+   "role_zh": "VR 与 AR 媒体艺术家",
+   "bio_zh": "美德艺术家，1990 年代起创作 VR，2010 年起创作场域特定 AR，常关注气候与水。",
+   "why_zh": "她的 AR 与 VR 作品让观众在自己身体周围看到珊瑚、塑料与大气的变化。",
+   "based_zh": "德国慕尼黑",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "olafur-eliasson",
+   "name": "Olafur Eliasson",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Berlin, Germany",
+   "bio": "Danish-Icelandic artist whose installations work with light, water, ice and weather.",
+   "why": "His works make weather, ice and light something the body enters, in galleries, public squares and headsets.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://olafureliasson.net"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "丹麦-冰岛艺术家，装置作品以光、水、冰与天气为材料。",
+   "why_zh": "他的作品让天气、冰与光成为身体可以进入的东西，无论在美术馆、广场还是头显里。",
+   "based_zh": "德国柏林",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "acute-art",
+   "name": "Acute Art",
+   "kind": "company",
+   "role": "Producer of VR and AR artworks",
+   "based": "London, UK",
+   "bio": "London producer that commissions VR and AR works from contemporary artists.",
+   "why": "It commissioned early artist VR on water and weather, including Eliasson's Rainbow and Abramović's Rising.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://acuteart.com"
+   },
+   "role_zh": "VR 与 AR 艺术作品制作机构",
+   "bio_zh": "伦敦的制作机构，委托当代艺术家创作 VR 与 AR 作品。",
+   "why_zh": "它委托了早期关于水与天气的艺术家 VR，包括 Eliasson 的《Rainbow》与 Abramović 的《Rising》。",
+   "based_zh": "英国伦敦",
+   "connected_to": [
+    "olafur-eliasson",
+    "marina-abramovic"
+   ],
+   "discovered_via": "olafur-eliasson"
+  },
+  {
+   "id": "marina-abramovic",
+   "name": "Marina Abramović",
+   "kind": "person",
+   "role": "Performance artist",
+   "based": "New York, USA",
+   "bio": "Serbian performance artist whose first VR work, Rising, addresses sea-level rise.",
+   "why": "Rising uses a VR body-to-body encounter to tie melting ice to a person drowning in a tank.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "行为艺术家",
+   "bio_zh": "塞尔维亚行为艺术家，她的第一件 VR 作品《Rising》关注海平面上升。",
+   "why_zh": "《Rising》用 VR 中身体对身体的相遇，把融化的冰与一个在水箱中溺水的人联系起来。",
+   "based_zh": "美国纽约",
+   "connected_to": [
+    "acute-art"
+   ],
+   "discovered_via": "acute-art"
+  },
+  {
+   "id": "random-international",
+   "name": "Random International",
+   "kind": "studio",
+   "role": "Art collective",
+   "based": "London and Berlin",
+   "bio": "Collective founded by Hannes Koch and Florian Ortkrass, making works about behaviour and perception.",
+   "why": "Rain Room lets people walk through falling rain that parts around their bodies.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.random-international.com"
+   },
+   "role_zh": "艺术团体",
+   "bio_zh": "由 Hannes Koch 与 Florian Ortkrass 创立的团体，创作关于行为与感知的作品。",
+   "why_zh": "《Rain Room》让人穿过倾盆雨水，而雨会在身体周围自动让开。",
+   "based_zh": "伦敦与柏林",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rafael-lozano-hemmer",
+   "name": "Rafael Lozano-Hemmer",
+   "kind": "person",
+   "role": "Media artist",
+   "based": "Montreal, Canada",
+   "bio": "Mexican-Canadian artist making interactive installations from biometric data: pulse, breath and voice.",
+   "why": "His breath works make air a shared, stored and circulated material between bodies.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.lozano-hemmer.com"
+   },
+   "role_zh": "媒体艺术家",
+   "bio_zh": "墨西哥-加拿大艺术家，用脉搏、呼吸和声音等生物数据创作互动装置。",
+   "why_zh": "他的呼吸作品把空气变成在身体之间共享、储存和流转的材料。",
+   "based_zh": "加拿大蒙特利尔",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tomas-saraceno",
+   "name": "Tomás Saraceno",
+   "kind": "person",
+   "role": "Artist and architect",
+   "based": "Berlin, Germany",
+   "bio": "Argentine artist working with spiders, air, solar balloons and cloud-like structures; founder of Aerocene.",
+   "why": "Aerocene proposes floating on air and sun alone, making the atmosphere a medium to inhabit.",
+   "disciplines": [
+    "art",
+    "science"
+   ],
+   "links": {
+    "site": "https://studiotomassaraceno.org"
+   },
+   "role_zh": "艺术家与建筑师",
+   "bio_zh": "阿根廷艺术家，以蜘蛛、空气、太阳能气球和云状结构创作，发起 Aerocene 社群。",
+   "why_zh": "Aerocene 提出只靠空气与阳光漂浮，把大气变成可栖居的介质。",
+   "based_zh": "德国柏林",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "katie-paterson",
+   "name": "Katie Paterson",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Fife, Scotland, UK",
+   "bio": "Scottish artist whose works connect people with glaciers, stars and deep time.",
+   "why": "She turns planetary processes, a melting glacier or moonlight, into things one can phone, hear or hold.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://katiepaterson.org"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "苏格兰艺术家，作品把人与冰川、星辰和深时间联系在一起。",
+   "why_zh": "她把行星尺度的过程——融化的冰川或月光——变成可以拨号、聆听或握在手里的东西。",
+   "based_zh": "英国苏格兰法夫",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "leah-barclay",
+   "name": "Leah Barclay",
+   "kind": "person",
+   "role": "Sound artist and acoustic ecologist",
+   "based": "Queensland, Australia",
+   "bio": "Australian composer and researcher working with hydrophones in rivers, reefs and biosphere reserves.",
+   "why": "Her projects use underwater listening to let communities hear river and reef health.",
+   "disciplines": [
+    "art",
+    "science"
+   ],
+   "links": {
+    "site": "https://leahbarclay.com"
+   },
+   "role_zh": "声音艺术家与声学生态学者",
+   "bio_zh": "澳大利亚作曲家与研究者，在河流、珊瑚礁和生物圈保护区用水听器工作。",
+   "why_zh": "她的项目通过水下聆听让社区听见河流与珊瑚礁的健康状况。",
+   "based_zh": "澳大利亚昆士兰",
+   "connected_to": [
+    "annea-lockwood"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "annea-lockwood",
+   "name": "Annea Lockwood",
+   "kind": "person",
+   "role": "Composer and sound artist",
+   "based": "New York, USA",
+   "bio": "New Zealand-born composer known for river sound maps and works with water and burning pianos.",
+   "why": "Her sound maps follow a river from source to mouth, letting listeners travel as water does.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.annealockwood.com"
+   },
+   "role_zh": "作曲家与声音艺术家",
+   "bio_zh": "生于新西兰的作曲家，以河流声音地图以及关于水和燃烧钢琴的作品闻名。",
+   "why_zh": "她的声音地图从源头跟随河流直到入海口，让听者像水一样旅行。",
+   "based_zh": "美国纽约",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hildegard-westerkamp",
+   "name": "Hildegard Westerkamp",
+   "kind": "person",
+   "role": "Composer and soundwalk artist",
+   "based": "Vancouver, Canada",
+   "bio": "German-born composer and member of the World Soundscape Project; pioneer of the soundwalk.",
+   "why": "Kits Beach Soundwalk shows how attentive listening can shrink city noise and bring the tiny sounds of the shore forward.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.hildegardwesterkamp.ca"
+   },
+   "role_zh": "作曲家与声音漫步艺术家",
+   "bio_zh": "生于德国的作曲家，“世界声景计划”成员，声音漫步的先驱。",
+   "why_zh": "《Kits Beach Soundwalk》示范了专注的聆听如何压低城市噪音、放大海岸上的细小声音。",
+   "based_zh": "加拿大温哥华",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bill-fontana",
+   "name": "Bill Fontana",
+   "kind": "person",
+   "role": "Sound sculptor",
+   "based": "San Francisco, USA",
+   "bio": "American artist who relays live sound and vibration from rivers, bridges and machines into buildings.",
+   "why": "River Sounding brought the underwater sound of the Thames into the rooms beside it.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://resoundings.org"
+   },
+   "role_zh": "声音雕塑家",
+   "bio_zh": "美国艺术家，把河流、桥梁和机器的实时声音与振动传入建筑空间。",
+   "why_zh": "《River Sounding》把泰晤士河的水下声音带进河边的房间。",
+   "based_zh": "美国旧金山",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jana-winderen",
+   "name": "Jana Winderen",
+   "kind": "person",
+   "role": "Sound artist",
+   "based": "Oslo, Norway",
+   "bio": "Norwegian artist recording with hydrophones in oceans, rivers and ice; Golden Nica winner 2011.",
+   "why": "Her works make audible the underwater sound worlds of fish, crustaceans and plankton that humans cannot hear unaided.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.janawinderen.com"
+   },
+   "role_zh": "声音艺术家",
+   "bio_zh": "挪威艺术家，用水听器在海洋、河流与冰层中录音，2011 年获金尼卡奖。",
+   "why_zh": "她的作品让人听见鱼类、甲壳类与浮游生物的水下声音世界，这些声音人耳原本听不到。",
+   "based_zh": "挪威奥斯陆",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chris-watson",
+   "name": "Chris Watson",
+   "kind": "person",
+   "role": "Wildlife sound recordist",
+   "based": "Newcastle, UK",
+   "bio": "British recordist, founding member of Cabaret Voltaire and long-time BBC natural history sound recordist.",
+   "why": "Weather Report compresses weeks of a glacier's movement into minutes of listening.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "野生动物录音师",
+   "bio_zh": "英国录音师，Cabaret Voltaire 创始成员，长期为 BBC 自然历史节目录音。",
+   "why_zh": "《Weather Report》把冰川几周的运动压缩成几分钟的聆听。",
+   "based_zh": "英国纽卡斯尔",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "fujiko-nakaya",
+   "name": "Fujiko Nakaya",
+   "kind": "person",
+   "role": "Fog sculptor",
+   "based": "Tokyo, Japan",
+   "bio": "Japanese artist who has made sculptures of artificial fog since Expo '70, with engineer Thomas Mee.",
+   "why": "Her fog sculptures turn weather into a body-scale material that visitors walk into and lose sight in.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "雾雕塑艺术家",
+   "bio_zh": "日本艺术家，自 1970 年大阪世博会起与工程师 Thomas Mee 合作制作人工雾雕塑。",
+   "why_zh": "她的雾雕塑把天气变成身体尺度的材料，观众走进去便失去视线。",
+   "based_zh": "日本东京",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "daan-roosegaarde",
+   "name": "Daan Roosegaarde",
+   "kind": "person",
+   "role": "Artist and designer",
+   "based": "Rotterdam, Netherlands",
+   "bio": "Dutch designer whose Studio Roosegaarde makes large light works about landscape and climate.",
+   "why": "Waterlicht shows with light how high the water could reach, over the heads of the people standing in it.",
+   "disciplines": [
+    "design",
+    "art"
+   ],
+   "links": {
+    "site": "https://www.studioroosegaarde.net"
+   },
+   "role_zh": "艺术家与设计师",
+   "bio_zh": "荷兰设计师，其 Studio Roosegaarde 创作关于景观与气候的大型光作品。",
+   "why_zh": "《Waterlicht》用光显示水可能涨到的高度，就在站在其中的人头顶上。",
+   "based_zh": "荷兰鹿特丹",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "michael-pinsky",
+   "name": "Michael Pinsky",
+   "kind": "person",
+   "role": "Artist",
+   "based": "London, UK",
+   "bio": "British artist making public works about environment and urban life.",
+   "why": "Pollution Pods make city air a series of rooms you breathe in, one after another.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.michaelpinsky.com"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "英国艺术家，创作关于环境与城市生活的公共作品。",
+   "why_zh": "《Pollution Pods》把各城市的空气变成一个接一个可以走进去呼吸的房间。",
+   "based_zh": "英国伦敦",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "teamlab",
+   "name": "teamLab",
+   "kind": "studio",
+   "role": "Art collective",
+   "based": "Tokyo, Japan",
+   "bio": "Interdisciplinary collective founded in 2001 making large interactive digital installations.",
+   "why": "Its water works make projected koi and waterfalls respond to visitors' bodies in real time.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.teamlab.art"
+   },
+   "role_zh": "艺术团体",
+   "bio_zh": "2001 年成立的跨学科团体，创作大型互动数字装置。",
+   "why_zh": "它的水主题作品让投影的锦鲤与瀑布实时回应观众的身体。",
+   "based_zh": "日本东京",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eliza-mcnitt",
+   "name": "Eliza McNitt",
+   "kind": "person",
+   "role": "Director",
+   "based": "New York, USA",
+   "bio": "American director of science-driven VR, including Spheres and Fistful of Stars.",
+   "why": "Spheres lets the viewer hold planets and fall into a black hole, a cosmic scale reached through the body.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "role_zh": "导演",
+   "bio_zh": "美国导演，创作以科学为基础的 VR，包括《Spheres》与《Fistful of Stars》。",
+   "why_zh": "《Spheres》让观众手捧行星、坠入黑洞，用身体抵达宇宙尺度。",
+   "based_zh": "美国纽约",
+   "connected_to": [
+    "atlas-v"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "atlas-v",
+   "name": "Atlas V",
+   "kind": "studio",
+   "role": "Immersive production studio",
+   "based": "Paris, France",
+   "bio": "French studio producing VR and immersive works, including Spheres and Battlescar.",
+   "why": "Producer behind several festival VR works that play with cosmic and planetary scale.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://atlasv.io"
+   },
+   "role_zh": "沉浸式制作工作室",
+   "bio_zh": "法国工作室，制作 VR 与沉浸式作品，包括《Spheres》与《Battlescar》。",
+   "why_zh": "多部玩转宇宙与行星尺度的电影节 VR 作品的制作方。",
+   "based_zh": "法国巴黎",
+   "connected_to": [
+    "eliza-mcnitt"
+   ],
+   "discovered_via": "eliza-mcnitt"
+  },
+  {
+   "id": "felix-and-paul-studios",
+   "name": "Felix & Paul Studios",
+   "kind": "studio",
+   "role": "Immersive entertainment studio",
+   "based": "Montreal, Canada",
+   "bio": "Montreal studio known for cinematic VR, including the Space Explorers series filmed aboard the ISS.",
+   "why": "Space Explorers gives viewers the orbital overview of Earth filmed from inside the station.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://www.felixandpaul.com"
+   },
+   "role_zh": "沉浸式娱乐工作室",
+   "bio_zh": "蒙特利尔工作室，以电影级 VR 闻名，包括在国际空间站拍摄的《Space Explorers》系列。",
+   "why_zh": "《Space Explorers》让观众从空间站内部获得俯瞰地球的轨道视角。",
+   "based_zh": "加拿大蒙特利尔",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bbc",
+   "name": "BBC",
+   "kind": "company",
+   "role": "Public broadcaster",
+   "based": "London, UK",
+   "bio": "British public broadcaster whose research and VR teams made Home: A VR Spacewalk.",
+   "why": "Home: A VR Spacewalk puts visitors outside the ISS with the whole Earth beneath them.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://www.bbc.co.uk"
+   },
+   "role_zh": "公共广播机构",
+   "bio_zh": "英国公共广播机构，其研发与 VR 团队制作了《Home: A VR Spacewalk》。",
+   "why_zh": "《Home: A VR Spacewalk》让观众置身国际空间站外，整个地球就在脚下。",
+   "based_zh": "英国伦敦",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "laurie-anderson",
+   "name": "Laurie Anderson",
+   "kind": "person",
+   "role": "Artist, composer and performer",
+   "based": "New York, USA",
+   "bio": "American multimedia artist who has made several VR works with Hsin-Chien Huang, including Chalkroom and To the Moon.",
+   "why": "To the Moon uses VR to lift viewers off Earth and let them see their planet from the Moon.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://laurieanderson.com"
+   },
+   "role_zh": "艺术家、作曲家与表演者",
+   "bio_zh": "美国多媒体艺术家，与黄心健合作多件 VR 作品，包括《Chalkroom》与《To the Moon》。",
+   "why_zh": "《To the Moon》用 VR 把观众送离地球，从月球回望自己的星球。",
+   "based_zh": "美国纽约",
+   "connected_to": [
+    "hsin-chien-huang"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hsin-chien-huang",
+   "name": "Hsin-Chien Huang",
+   "kind": "person",
+   "role": "New media artist",
+   "based": "Taipei, Taiwan",
+   "bio": "Taiwanese artist and designer working in VR and interactive media, frequent collaborator of Laurie Anderson.",
+   "why": "His VR works give viewers bodies that fly, float and fall through cosmic and dream spaces.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "新媒体艺术家",
+   "bio_zh": "台湾艺术家与设计师，从事 VR 与互动媒体创作，长期与 Laurie Anderson 合作。",
+   "why_zh": "他的 VR 作品给观众一个能在宇宙与梦境空间中飞行、漂浮和坠落的身体。",
+   "based_zh": "中国台湾台北",
+   "connected_to": [
+    "laurie-anderson"
+   ],
+   "discovered_via": "laurie-anderson"
+  },
+  {
+   "id": "danfung-dennis",
+   "name": "Danfung Dennis",
+   "kind": "person",
+   "role": "Filmmaker",
+   "based": "San Francisco, USA",
+   "bio": "American filmmaker and founder of Condition One; directed the This Is Climate Change VR series.",
+   "why": "Melting Ice uses 360° film to stand viewers on the Greenland ice sheet as it melts.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "role_zh": "电影人",
+   "bio_zh": "美国电影人，Condition One 创始人，执导 VR 系列《This Is Climate Change》。",
+   "why_zh": "《Melting Ice》用 360° 影像让观众站在正在融化的格陵兰冰盖上。",
+   "based_zh": "美国旧金山",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "emblematic-group",
+   "name": "Emblematic Group",
+   "kind": "studio",
+   "role": "Immersive journalism studio",
+   "based": "Los Angeles, USA",
+   "bio": "Studio founded by Nonny de la Peña producing room-scale immersive journalism.",
+   "why": "Greenland Melting combined volumetric capture and 360° video to walk viewers along a retreating glacier.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://emblematicgroup.com"
+   },
+   "role_zh": "沉浸式新闻工作室",
+   "bio_zh": "由 Nonny de la Peña 创立的工作室，制作房间尺度的沉浸式新闻。",
+   "why_zh": "《Greenland Melting》结合体积捕捉与 360° 影像，带观众沿着退缩的冰川行走。",
+   "based_zh": "美国洛杉矶",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "monkeystack",
+   "name": "Monkeystack",
+   "kind": "studio",
+   "role": "Digital production studio",
+   "based": "Adelaide, Australia",
+   "bio": "Australian studio that produced Thin Ice VR with explorer Tim Jarvis.",
+   "why": "Thin Ice VR retraces Shackleton's Antarctic route to show the ice as it is now.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {
+    "site": "https://www.thinicevr.com"
+   },
+   "role_zh": "数字制作工作室",
+   "bio_zh": "澳大利亚工作室，与探险家 Tim Jarvis 合作制作《Thin Ice VR》。",
+   "why_zh": "《Thin Ice VR》重走 Shackleton 的南极路线，呈现今天的冰。",
+   "based_zh": "澳大利亚阿德莱德",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "adrien-m-claire-b",
+   "name": "Adrien M & Claire B",
+   "kind": "studio",
+   "role": "Digital arts and performance company",
+   "based": "Lyon, France",
+   "bio": "Company of Adrien Mondot and Claire Bardainne making digital and living arts, from stage works to AR and VR.",
+   "why": "Acqua Alta turns a flood into drawn, moving water a viewer steps into through a book, phone or headset.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.am-cb.net"
+   },
+   "role_zh": "数字艺术与表演团体",
+   "bio_zh": "Adrien Mondot 与 Claire Bardainne 的团体，创作从舞台到 AR、VR 的数字与现场艺术。",
+   "why_zh": "《Acqua Alta》把一场洪水变成手绘的流动之水，观众通过书、手机或头显走入其中。",
+   "based_zh": "法国里昂",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "stanford-vhil",
+   "name": "Stanford Virtual Human Interaction Lab",
+   "kind": "lab",
+   "role": "Research lab",
+   "based": "Stanford, USA",
+   "bio": "Lab directed by Jeremy Bailenson studying the psychology of virtual reality and embodiment.",
+   "why": "Its Ocean Acidification Experience gave participants a coral body to feel the ocean change.",
+   "disciplines": [
+    "hci",
+    "science"
+   ],
+   "links": {
+    "site": "https://vhil.stanford.edu"
+   },
+   "role_zh": "研究实验室",
+   "bio_zh": "由 Jeremy Bailenson 领导的实验室，研究虚拟现实与具身的心理学。",
+   "why_zh": "它的海洋酸化体验让参与者拥有一副珊瑚的身体，感受海洋的变化。",
+   "based_zh": "美国斯坦福",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "vision3",
+   "name": "Vision3",
+   "kind": "studio",
+   "role": "Immersive studio",
+   "based": "London, UK",
+   "bio": "London studio founded by Chris Parks; made Drop in the Ocean with Conservation International.",
+   "why": "Drop in the Ocean shrinks visitors to plankton scale to ride a jellyfish through a polluted sea.",
+   "disciplines": [
+    "film",
+    "design"
+   ],
+   "links": {},
+   "role_zh": "沉浸式工作室",
+   "bio_zh": "由 Chris Parks 创立的伦敦工作室，与国际保护组织合作制作《Drop in the Ocean》。",
+   "why_zh": "《Drop in the Ocean》把观众缩小到浮游生物的尺度，骑着水母穿过被污染的海洋。",
+   "based_zh": "英国伦敦",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "melodie-mousset",
+   "name": "Mélodie Mousset",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Zurich, Switzerland",
+   "bio": "French-Swiss artist making VR works about the body, including HanaHana and The Jellyfish.",
+   "why": "The Jellyfish lets a participant's voice become the movement of sea creatures.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家",
+   "bio_zh": "法瑞艺术家，创作关于身体的 VR 作品，包括《HanaHana》与《The Jellyfish》。",
+   "why_zh": "《The Jellyfish》让参与者的声音变成海洋生物的运动。",
+   "based_zh": "瑞士苏黎世",
+   "connected_to": [
+    "edo-fouilloux"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "edo-fouilloux",
+   "name": "Edo Fouilloux",
+   "kind": "person",
+   "role": "Creative technologist",
+   "based": "Switzerland",
+   "bio": "Creative director and co-founder of the social music VR platform PatchXR.",
+   "why": "Co-created The Jellyfish, a voice-driven underwater VR work.",
+   "disciplines": [
+    "design"
+   ],
+   "links": {
+    "site": "https://patchxr.com"
+   },
+   "role_zh": "创意技术专家",
+   "bio_zh": "社交音乐 VR 平台 PatchXR 的创意总监与联合创始人。",
+   "why_zh": "联合创作了以声音驱动的水下 VR 作品《The Jellyfish》。",
+   "based_zh": "瑞士",
+   "connected_to": [
+    "melodie-mousset"
+   ],
+   "discovered_via": "melodie-mousset"
+  },
+  {
+   "id": "john-desnoyers-stewart",
+   "name": "John Desnoyers-Stewart",
+   "kind": "person",
+   "role": "Artist and HCI researcher",
+   "based": "Vancouver, Canada",
+   "bio": "Researcher at Simon Fraser University's iSpace Lab working on social VR and bio-responsive installations.",
+   "why": "JeL links two people's breathing to the swimming of a single jellyfish.",
+   "disciplines": [
+    "hci",
+    "art"
+   ],
+   "links": {},
+   "role_zh": "艺术家与人机交互研究者",
+   "bio_zh": "西蒙菲莎大学 iSpace 实验室研究者，研究社交 VR 与生物反馈装置。",
+   "why_zh": "《JeL》把两个人的呼吸连接到同一只水母的游动上。",
+   "based_zh": "加拿大温哥华",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chelanie-beaudin-quintin",
+   "name": "Chélanie Beaudin-Quintin",
+   "kind": "person",
+   "role": "Director",
+   "based": "Montreal, Canada",
+   "bio": "Quebec director working in film and virtual reality.",
+   "why": "Directed Bodies of Water, a VR dance work about being transformed by water.",
+   "disciplines": [
+    "film"
+   ],
+   "links": {},
+   "role_zh": "导演",
+   "bio_zh": "魁北克导演，从事电影与虚拟现实创作。",
+   "why_zh": "执导了关于被水改变的 VR 舞蹈作品《Bodies of Water》。",
+   "based_zh": "加拿大蒙特利尔",
+   "connected_to": [
+    "caroline-laurin-beaucage"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "caroline-laurin-beaucage",
+   "name": "Caroline Laurin-Beaucage",
+   "kind": "person",
+   "role": "Choreographer",
+   "based": "Montreal, Canada",
+   "bio": "Quebec choreographer and director of the company Lorganisme.",
+   "why": "Choreographed bodies underwater for the VR work Bodies of Water.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.lorganisme.com"
+   },
+   "role_zh": "编舞家",
+   "bio_zh": "魁北克编舞家，Lorganisme 舞团艺术总监。",
+   "why_zh": "为 VR 作品《Bodies of Water》编排了水下的身体。",
+   "based_zh": "加拿大蒙特利尔",
+   "connected_to": [
+    "chelanie-beaudin-quintin"
+   ],
+   "discovered_via": "chelanie-beaudin-quintin"
+  },
+  {
+   "id": "luke-jerram",
+   "name": "Luke Jerram",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Bristol, UK",
+   "bio": "British artist known for touring works such as Museum of the Moon and Gaia.",
+   "why": "Gaia gives the public the orbital overview of Earth at the scale of a room.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.lukejerram.com"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "英国艺术家，以巡回作品《Museum of the Moon》和《Gaia》闻名。",
+   "why_zh": "《Gaia》以房间尺度把俯瞰地球的轨道视角带给公众。",
+   "based_zh": "英国布里斯托",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "stephan-harding",
+   "name": "Stephan Harding",
+   "kind": "person",
+   "role": "Ecologist and educator",
+   "based": "Devon, UK",
+   "bio": "Ecologist and Gaia theorist at Schumacher College who designed the Deep Time Walk.",
+   "why": "Deep Time Walk maps Earth's 4.6-billion-year history onto a walk of 4.6 km.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {
+    "site": "https://www.deeptimewalk.org"
+   },
+   "role_zh": "生态学家与教育者",
+   "bio_zh": "舒马赫学院的生态学家与盖亚理论学者，设计了“深时间漫步”。",
+   "why_zh": "“深时间漫步”把地球 46 亿年的历史映射到 4.6 公里的步行上。",
+   "based_zh": "英国德文",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "roger-payne",
+   "name": "Roger Payne",
+   "kind": "person",
+   "role": "Biologist",
+   "based": "USA",
+   "bio": "American biologist (1935–2023) who, with Scott McVay, discovered that humpback whales sing.",
+   "why": "His 1970 album of whale song is the reference point for every later attempt to hear the ocean as whales do.",
+   "disciplines": [
+    "science"
+   ],
+   "links": {},
+   "role_zh": "生物学家",
+   "bio_zh": "美国生物学家（1935–2023），与 Scott McVay 一起发现座头鲸会唱歌。",
+   "why_zh": "他 1970 年的鲸歌唱片是此后所有“像鲸一样听海”的尝试的参照。",
+   "based_zh": "美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "john-luther-adams",
+   "name": "John Luther Adams",
+   "kind": "person",
+   "role": "Composer",
+   "based": "USA",
+   "bio": "American composer whose music comes from Alaskan landscape and weather; Pulitzer Prize 2014.",
+   "why": "His 'Become' trilogy asks listeners to become ocean, river and desert through sound.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.johnlutheradams.net"
+   },
+   "role_zh": "作曲家",
+   "bio_zh": "美国作曲家，音乐源自阿拉斯加的景观与天气，2014 年获普利策奖。",
+   "why_zh": "他的“成为”三部曲让听者通过声音成为海洋、河流与沙漠。",
+   "based_zh": "美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jakob-kudsk-steensen",
+   "name": "Jakob Kudsk Steensen",
+   "kind": "person",
+   "role": "Artist",
+   "based": "Berlin, Germany",
+   "bio": "Danish artist who builds game-engine ecosystems from field recordings and photogrammetry.",
+   "why": "His worlds are built from real wetlands and forests so that visitors inhabit an ecosystem at nonhuman scales.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://www.jakobkudsksteensen.com"
+   },
+   "role_zh": "艺术家",
+   "bio_zh": "丹麦艺术家，用野外录音与摄影测量在游戏引擎中构建生态系统。",
+   "why_zh": "他的世界以真实的湿地与森林为材料，让观众在非人类的尺度上栖居于生态系统中。",
+   "based_zh": "德国柏林",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ursula-biemann",
+   "name": "Ursula Biemann",
+   "kind": "person",
+   "role": "Artist and theorist",
+   "based": "Zurich, Switzerland",
+   "bio": "Swiss video artist working on geology, climate and Indigenous knowledge.",
+   "why": "Acoustic Ocean imagines the sea as a sensing body reached through hydrophones and a Sámi biologist-diver.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "links": {
+    "site": "https://www.geobodies.org"
+   },
+   "role_zh": "艺术家与理论家",
+   "bio_zh": "瑞士录像艺术家，关注地质、气候与原住民知识。",
+   "why_zh": "《Acoustic Ocean》把海洋想象成一个感知的身体，通过水听器与一位萨米族潜水生物学家抵达。",
+   "based_zh": "瑞士苏黎世",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "refik-anadol",
+   "name": "Refik Anadol",
+   "kind": "person",
+   "role": "Media artist",
+   "based": "Los Angeles, USA",
+   "bio": "Turkish-American artist making AI data sculptures and immersive installations.",
+   "why": "Glacier Dreams turns image archives of Icelandic glaciers into a multisensory room.",
+   "disciplines": [
+    "art"
+   ],
+   "links": {
+    "site": "https://refikanadol.com"
+   },
+   "role_zh": "媒体艺术家",
+   "bio_zh": "土耳其裔美国艺术家，创作 AI 数据雕塑与沉浸式装置。",
+   "why_zh": "《Glacier Dreams》把冰岛冰川的图像档案变成一个多感官的房间。",
+   "based_zh": "美国洛杉矶",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "char-davies--osmose",
+   "creator_ids": [
+    "char-davies"
+   ],
+   "title": "Osmose",
+   "year": 1995,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "breath",
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A VR work in which the immersant floats through a grid, a forest, a pond, clouds and an abyss, rising by breathing in and sinking by breathing out.",
+   "description_zh": "一件 VR 作品：体验者漂浮着穿过网格、森林、池塘、云层与深渊，吸气上升，呼气下沉。",
+   "idea_en": "Breath and balance replace hands and eyes as the way to move, so the body behaves like a diver or a cloud rather than a tool user.",
+   "idea_zh": "以呼吸与平衡取代手和眼睛来移动，让身体像潜水者或一朵云，而不是一个操纵工具的人。",
+   "method": "Head-mounted display with a vest that measures chest expansion for vertical motion and body tilt for direction; real-time 3D sound; audience watches the immersant's shadow and view.",
+   "method_zh": "头戴显示器加一件测量胸腔起伏（控制升降）与身体倾斜（控制方向）的背心；实时三维声音；观众可看到体验者的剪影与视野。",
+   "keywords": [
+    "breath interface",
+    "floating",
+    "Softimage",
+    "immersant",
+    "forest",
+    "cloud"
+   ],
+   "also": [
+    "tree"
+   ],
+   "shown_at": [
+    "Musée d'art contemporain de Montréal 1995"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=54O4VP3tCoY"
+   },
+   "images": [
+    "https://www.immersence.com/images/osmose/Osm_Tree_Pond_600.jpg",
+    "https://www.immersence.com/images/osmose/Osm_Subt_Earth_600_v2.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/240806.240808",
+    "doi": "10.1145/240806.240808",
+    "venue": "ACM SIGGRAPH Computer Graphics 1996",
+    "title": "Osmose: towards broadening the aesthetics of virtual reality"
+   },
+   "source_url": "https://www.immersence.com/osmose/"
+  },
+  {
+   "id": "char-davies--ephemere",
+   "creator_ids": [
+    "char-davies"
+   ],
+   "title": "Ephémère",
+   "year": 1998,
+   "field": "river",
+   "sub": "earth",
+   "senses": [
+    "breath",
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A breath-controlled VR landscape in three layers — land, earth below it, and the interior of the body — where seeds, rivers and organs come and go with the seasons.",
+   "description_zh": "一个用呼吸控制的 VR 景观，分为地表、地下与身体内部三层，种子、河流与器官随季节出现又消失。",
+   "idea_en": "Descending by breath through soil and into the body makes landscape and body one continuous, changing substance.",
+   "idea_zh": "用呼吸下沉，穿过土壤进入身体内部，让景观与身体成为一种连续而不断变化的物质。",
+   "method": "Same breath-and-balance vest as Osmose with a head-mounted display; elements transform over time as the immersant lingers or passes.",
+   "method_zh": "与《Osmose》相同的呼吸与平衡背心加头戴显示器；场景元素会随体验者停留或经过而随时间变化。",
+   "keywords": [
+    "breath interface",
+    "soil",
+    "river",
+    "seeds",
+    "body interior",
+    "seasons"
+   ],
+   "also": [
+    "tree"
+   ],
+   "shown_at": [
+    "National Gallery of Canada 1998"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XCWaMll0leI"
+   },
+   "images": [
+    "https://www.immersence.com/images/ephemere/Eph_Autumn_Flux_I_600.jpg",
+    "https://www.immersence.com/images/ephemere/016_Ephemere_Installation_View_2.jpg"
+   ],
+   "source_url": "https://www.immersence.com/ephemere/"
+  },
+  {
+   "id": "owen-harris--deep",
+   "creator_ids": [
+    "owen-harris"
+   ],
+   "title": "DEEP",
+   "year": 2016,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "breath",
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "game",
+   "description": "A meditative VR world under the sea where the player drifts among glowing rocks and corals, moving only by slow, deep breaths.",
+   "description_zh": "一个冥想式的海底 VR 世界，玩家在发光的岩石与珊瑚间漂流，只靠缓慢的深呼吸移动。",
+   "idea_en": "Breathing like a diver becomes the only way through the water, so calm is not a message but the mechanics of the body.",
+   "idea_zh": "像潜水者一样呼吸成为穿越水域的唯一方式，平静不再是一句提示，而是身体的运作机制。",
+   "method": "Custom stretch-sensor belt measures diaphragm expansion and maps it to buoyancy and forward motion in a headset.",
+   "method_zh": "定制的拉伸传感腰带测量膈肌起伏，映射为头显中的浮力与前进。",
+   "keywords": [
+    "breath belt",
+    "biofeedback",
+    "underwater",
+    "anxiety",
+    "Monobanda Play",
+    "Niki Smit"
+   ],
+   "also": [
+    "fish"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qIhZhdmPQ_8"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/56a1092da128e65fa42a11fa/1585418439909-AH0BEHDJN736S99KKYEG/Screenshot_102.3696.jpg"
+   ],
+   "source_url": "https://www.exploredeep.com"
+  },
+  {
+   "id": "wevr--theblu",
+   "creator_ids": [
+    "wevr"
+   ],
+   "title": "theBlu",
+   "year": 2016,
+   "field": "fish",
+   "sub": "cetacean",
+   "senses": [
+    "time-scale",
+    "vision"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A room-scale VR series set on a shipwreck deck and in the deep sea; in the first episode a blue whale swims up and looks the visitor in the eye.",
+   "description_zh": "一个房间尺度的 VR 系列，场景在沉船甲板与深海；第一集中一头蓝鲸游近，与观众对视。",
+   "idea_en": "Standing still while an 80-foot whale passes makes the visitor feel their own size as the whale might see it.",
+   "idea_zh": "静静站着看一头约 25 米长的鲸经过，让观众以鲸的眼光感受到自己的渺小。",
+   "method": "Real-time 3D in HTC Vive room-scale tracking; the whale's eye and body are animated to respond to where the visitor stands.",
+   "method_zh": "基于 HTC Vive 房间尺度追踪的实时三维；鲸的眼睛与身体动画会回应观众站立的位置。",
+   "keywords": [
+    "blue whale",
+    "Encounter",
+    "Reef Migration",
+    "Luminous Abyss",
+    "HTC Vive",
+    "room-scale"
+   ],
+   "shown_at": [
+    "HTC Vive launch 2016"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KrE66T2-eAA"
+   },
+   "images": [
+    "https://cdn.prod.website-files.com/664649d6380bc93a9f4e1b31/66594a8cd2889d358b9bb8d4_blu-bg.jpg"
+   ],
+   "source_url": "https://wevr.com/theblu"
+  },
+  {
+   "id": "llyr-ap-cenydd--ocean-rift",
+   "creator_ids": [
+    "llyr-ap-cenydd"
+   ],
+   "title": "Ocean Rift",
+   "year": 2014,
+   "field": "fish",
+   "sub": "fish",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "game",
+   "description": "A VR 'water safari' with a dozen habitats where the player swims among dolphins, sharks, turtles, rays, whales and prehistoric reptiles.",
+   "description_zh": "一个 VR“水下游猎”，有十几个栖息地，玩家与海豚、鲨鱼、海龟、鳐鱼、鲸和史前爬行动物同游。",
+   "idea_en": "Landmark counterpoint: the player swims as a human diver, but animals that steer themselves, flock and react make the ocean a place with its own agents rather than a diorama.",
+   "idea_zh": "标志性对照作品：玩家以人类潜水者的身份游动，但动物自主游动、成群并作出反应，让海洋成为有自己行动者的地方，而不是一个布景。",
+   "method": "Procedural animation from the developer's PhD research drives each animal's swimming and flocking; runs on PC VR and Quest.",
+   "method_zh": "开发者博士研究中的程序化动画驱动每只动物的游动与群聚；运行于 PC VR 与 Quest。",
+   "keywords": [
+    "dolphin",
+    "shark",
+    "manatee",
+    "procedural animation",
+    "Oculus Rift",
+    "Quest"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Nnsln2TjDtM"
+   },
+   "source_url": "https://ocean-rift.com"
+  },
+  {
+   "id": "giant-squid--abzu",
+   "creator_ids": [
+    "giant-squid"
+   ],
+   "title": "ABZÛ",
+   "year": 2016,
+   "field": "fish",
+   "sub": "fish",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "An underwater adventure game where a diver swims through reefs and ruins, rides whales and meditates to watch fish behave on their own.",
+   "description_zh": "一款水下冒险游戏：潜水者游过珊瑚礁与遗迹，骑着鲸鱼前进，也可以静坐冥想，观看鱼群自主行动。",
+   "idea_en": "Landmark counterpoint: the player is a human diver, but thousands of simulated fish and a meditation mode that follows any one of them shift attention from the diver to the life of the school.",
+   "idea_zh": "标志性对照作品：玩家扮演人类潜水者，但成千上万条模拟的鱼，以及可以跟随其中任意一条的冥想模式，把注意力从潜水者转向鱼群的生活。",
+   "method": "Custom boids-style simulation drives up to about 10,000 fish of real species; meditation statues switch the camera to follow individual animals.",
+   "method_zh": "自研的类 boids 群体模拟驱动约一万条真实物种的鱼；冥想雕像把镜头切换为跟随单个动物。",
+   "keywords": [
+    "schooling",
+    "boids",
+    "whale",
+    "Matt Nava",
+    "reef"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=P2G54w8H4oM"
+   },
+   "images": [
+    "https://freight.cargo.site/i/b316099b899a921b4decfe9870f05bbf6d555de2b270bebd36c26b417bced41e/thumb8.jpg"
+   ],
+   "source_url": "https://abzugame.com"
+  },
+  {
+   "id": "bossa-studios--i-am-fish",
+   "creator_ids": [
+    "bossa-studios"
+   ],
+   "title": "I Am Fish",
+   "year": 2021,
+   "field": "fish",
+   "sub": "fish",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A physics game in which four fish, escaped from a pet shop, roll their bowls, puff up and leap across kitchens and cliffs to reach the ocean.",
+   "description_zh": "一款物理游戏：四条从宠物店逃出的鱼推着鱼缸滚动、鼓成球、跃过厨房与悬崖，奔向大海。",
+   "idea_en": "Each fish has one body trick — flying, puffing, chomping, rolling a bowl — so the player learns the world through a fish's limits.",
+   "idea_zh": "每条鱼只有一种身体技能——飞、鼓气、啃咬、滚鱼缸——玩家通过鱼的局限认识世界。",
+   "method": "Physics-based controls map each species' movement (pufferfish inflation, flying-fish gliding) to the gamepad.",
+   "method_zh": "基于物理的操控把每个物种的运动（河豚鼓气、飞鱼滑翔）映射到手柄上。",
+   "keywords": [
+    "goldfish",
+    "pufferfish",
+    "flying fish",
+    "piranha",
+    "physics comedy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=M280Ztm1ibg"
+   },
+   "images": [
+    "https://www.iamfishgame.com/ogimage.jpg"
+   ],
+   "source_url": "https://www.iamfishgame.com"
+  },
+  {
+   "id": "e-line-media--beyond-blue",
+   "creator_ids": [
+    "e-line-media"
+   ],
+   "title": "Beyond Blue",
+   "year": 2020,
+   "field": "fish",
+   "sub": "cetacean",
+   "senses": [
+    "hearing",
+    "vision"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "An ocean exploration game in which a marine scientist dives with a sperm whale family, scanning animals and listening to their calls through hydrophones.",
+   "description_zh": "一款海洋探索游戏：一位海洋科学家与抹香鲸家族一起下潜，扫描动物并通过水听器聆听它们的叫声。",
+   "idea_en": "Landmark counterpoint: the player stays a human scientist, but listening is the core task, following whale families by their sounds with science from the Blue Planet II team.",
+   "idea_zh": "标志性对照作品：玩家始终是人类科学家，但聆听是核心任务，凭声音追踪鲸的家族，科学内容来自《蓝色星球 II》团队。",
+   "method": "Game with a scanner and sonar mode; built with BBC Studios and ocean scientists, and includes short documentary films.",
+   "method_zh": "游戏包含扫描器与声呐模式；与 BBC Studios 和海洋科学家合作开发，附有纪录短片。",
+   "keywords": [
+    "sperm whale",
+    "hydrophone",
+    "Blue Planet II",
+    "BBC Studios",
+    "OceanX"
+   ],
+   "also": [
+    "bat"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Ci2s6aXjRyI"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/6721261e98fc254b2a649dcc/b5f23413-b9ae-4f0c-a5b5-15b5a5a673f2/BeyondBlue_FullGame_MasterImage_v2.png"
+   ],
+   "source_url": "https://www.beyondbluegame.com"
+  },
+  {
+   "id": "arika--endless-ocean",
+   "creator_ids": [
+    "arika"
+   ],
+   "title": "Endless Ocean",
+   "year": 2007,
+   "field": "fish",
+   "sub": "fish",
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A diving game series (2007–2024) where players explore open seas without combat, meeting, feeding and identifying hundreds of marine species.",
+   "description_zh": "一个潜水游戏系列（2007–2024），玩家在没有战斗的开放海域探索，与数百种海洋生物相遇、喂食并辨认它们。",
+   "idea_en": "Landmark counterpoint: the player is a human diver; without enemies or timers, the only goal is to spend time among sea animals and learn who they are.",
+   "idea_zh": "标志性对照作品：玩家是人类潜水者；没有敌人也没有计时，唯一的目标是与海洋动物共度时光并认识它们。",
+   "method": "Wii and Switch games with free-roaming dives, species encyclopedia and, in Luminous (2024), shared online dives.",
+   "method_zh": "Wii 与 Switch 游戏，可自由潜水，附物种图鉴；《Luminous》（2024）加入多人在线潜水。",
+   "keywords": [
+    "Wii",
+    "Nintendo Switch",
+    "Luminous",
+    "diving",
+    "species encyclopedia"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Wj2T6FK5rPA"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/c/cc/Endless_Ocean_Coverart.png"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Endless_Ocean"
+  },
+  {
+   "id": "lynette-wallworth--coral-rekindling-venus",
+   "creator_ids": [
+    "lynette-wallworth"
+   ],
+   "title": "Coral: Rekindling Venus",
+   "year": 2012,
+   "field": "fish",
+   "sub": "reef",
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "dome",
+    "film360"
+   ],
+   "kind": "film",
+   "description": "A fulldome film that fills planetarium domes with fluorescing corals and reef life, premiered in planetariums worldwide around the 2012 transit of Venus.",
+   "description_zh": "一部球幕电影，让天文馆穹顶布满荧光珊瑚与珊瑚礁生命，于 2012 年金星凌日前后在全球天文馆首映。",
+   "idea_en": "Lying under a dome of coral turns the sky into a reef, placing the viewer inside a colonial animal at planetary scale.",
+   "idea_zh": "躺在珊瑚穹顶之下，天空变成了珊瑚礁，观众仿佛进入一个行星尺度的群体动物体内。",
+   "method": "Fulldome projection of underwater microscopy and fluorescence footage from the Great Barrier Reef, with a score featuring Antony and the Johnsons.",
+   "method_zh": "球幕投影大堡礁的水下显微与荧光影像，配乐由 Antony and the Johnsons 参与。",
+   "keywords": [
+    "coral",
+    "fluorescence",
+    "Great Barrier Reef",
+    "planetarium",
+    "transit of Venus"
+   ],
+   "also": [
+    "river"
+   ],
+   "shown_at": [
+    "Planetariums worldwide, transit of Venus 2012"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=cysFRCSM7Nw"
+   },
+   "source_url": "https://www.lynettewallworth.com"
+  },
+  {
+   "id": "stanford-vhil--ocean-acidification",
+   "creator_ids": [
+    "stanford-vhil"
+   ],
+   "title": "The Stanford Ocean Acidification Experience",
+   "year": 2016,
+   "field": "fish",
+   "sub": "reef",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "prototype",
+   "description": "A VR field trip that follows carbon dioxide from car exhausts into the sea, then tells participants that their body has become a coral and lets them watch their reef lose life as the water acidifies.",
+   "description_zh": "一次 VR 实地考察：跟随二氧化碳从汽车尾气进入海洋，随后告诉参与者他们的身体已变成珊瑚，让他们看着自己的礁石在酸化的海水中失去生机。",
+   "idea_en": "Being given a coral body, then seeing it bleach, makes a slow chemical process happen to 'me' within minutes.",
+   "idea_zh": "先获得一副珊瑚的身体，再看着它白化，让一个缓慢的化学过程在几分钟内发生在“我”身上。",
+   "method": "Oculus Rift DK2 or HTC Vive; narration tells users they are coral, and looking down shows a coral avatar; studied in classroom trials.",
+   "method_zh": "Oculus Rift DK2 或 HTC Vive；旁白告诉用户他们是珊瑚，低头会看到珊瑚化身；已在课堂实验中研究。",
+   "keywords": [
+    "coral avatar",
+    "ocean acidification",
+    "Jeremy Bailenson",
+    "embodiment",
+    "climate education"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=G6mmXcNE7co"
+   },
+   "paper": {
+    "url": "https://doi.org/10.3389/fpsyg.2018.02364",
+    "doi": "10.3389/fpsyg.2018.02364",
+    "venue": "Frontiers in Psychology 2018",
+    "title": "Immersive Virtual Reality Field Trips Facilitate Learning About Climate Change"
+   },
+   "source_url": "https://vhil.stanford.edu"
+  },
+  {
+   "id": "vision3--drop-in-the-ocean",
+   "creator_ids": [
+    "vision3"
+   ],
+   "title": "Drop in the Ocean",
+   "year": 2019,
+   "field": "fish",
+   "sub": "reef",
+   "senses": [
+    "time-scale",
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A multi-user VR experience that shrinks four visitors to about five centimetres and has them ride a jellyfish among plankton and whale sharks, clearing plastic from the water.",
+   "description_zh": "一个多人 VR 体验：四位观众被缩小到约五厘米，骑着水母穿过浮游生物与鲸鲨，清理水中的塑料。",
+   "idea_en": "Becoming plankton-sized makes the ocean's smallest drifters and its plastic fragments the same scale as your body.",
+   "idea_zh": "缩小到浮游生物的大小，让海洋中最小的漂流者和塑料碎片与你的身体同样大小。",
+   "method": "Markerless full-body tracking with 12 cameras and The Captury Live, HP Reverb headsets, and a physical jellyfish-shaped booth.",
+   "method_zh": "用 12 台摄像机与 The Captury Live 做无标记全身追踪，配合 HP Reverb 头显和一个水母造型的实体展位。",
+   "keywords": [
+    "plankton",
+    "jellyfish",
+    "whale shark",
+    "plastic",
+    "Conservation International",
+    "Peter Parks"
+   ],
+   "shown_at": [
+    "Tribeca Film Festival 2019"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Ps5zZMGM4yo"
+   },
+   "images": [
+    "https://static.wixstatic.com/media/f08ce2_2fd24f10cd2d46cc986a1ea629ec5cb7~mv2.jpg/v1/fill/w_720,h_420,al_c,lg_1,q_80/f08ce2_2fd24f10cd2d46cc986a1ea629ec5cb7~mv2.jpg"
+   ],
+   "source_url": "https://www.target3d.co.uk/post/immersive-vr-takes-tribeca-film-festival-by-storm"
+  },
+  {
+   "id": "melodie-mousset--the-jellyfish",
+   "creator_ids": [
+    "melodie-mousset",
+    "edo-fouilloux"
+   ],
+   "title": "The Jellyfish",
+   "year": 2020,
+   "field": "fish",
+   "sub": "reef",
+   "senses": [
+    "hearing",
+    "breath"
+   ],
+   "medium": [
+    "vr",
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "An underwater VR soundscape where glowing jellyfish invite the participant to sing, and their bodies pulse, stretch and echo with the pitch and strength of the voice.",
+   "description_zh": "一个水下 VR 声景：发光的水母邀请参与者歌唱，它们的身体随声音的音高与强度搏动、伸展并发出回响。",
+   "idea_en": "Singing through jellyfish makes the voice a shared body with drifting animals rather than a signal sent to them.",
+   "idea_zh": "通过水母歌唱，让声音成为与漂流动物共享的身体，而不是发给它们的信号。",
+   "method": "Headset microphone input drives the jellyfish animation and sound in real time; built with the PatchXR engine for Quest.",
+   "method_zh": "头显麦克风的输入实时驱动水母的动画与声音；基于 PatchXR 引擎，运行于 Quest。",
+   "keywords": [
+    "jellyfish",
+    "voice",
+    "singing",
+    "PatchXR",
+    "Sing a Jelly",
+    "synesthesia"
+   ],
+   "shown_at": [
+    "Zabludowicz Collection, 360 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=iWXokeqNxcE"
+   },
+   "images": [
+    "https://fabbula.com/wp-content/uploads/2021/05/melodie-mousset_the-jellyfish_2021-2.png"
+   ],
+   "source_url": "https://fabbula.com/artists/the-jellyfish-by-melodie-mousset-edo-fouilloux/"
+  },
+  {
+   "id": "john-desnoyers-stewart--jel",
+   "creator_ids": [
+    "john-desnoyers-stewart"
+   ],
+   "title": "JeL",
+   "year": 2019,
+   "field": "fish",
+   "sub": "reef",
+   "senses": [
+    "breath",
+    "collective-sense"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "prototype",
+   "description": "A two-person VR installation set underwater, where each person's breathing moves a jellyfish, and breathing in sync grows a glass-sponge structure between them.",
+   "description_zh": "一个双人 VR 水下装置：每个人的呼吸驱动一只水母，两人呼吸同步时，一个玻璃海绵般的结构在他们之间生长。",
+   "idea_en": "Breathing as a jellyfish, and with another person, turns pulsing propulsion into a shared rhythm with the reef.",
+   "idea_zh": "像水母一样呼吸，并与另一个人一起呼吸，把水母的搏动推进变成与礁石共享的节律。",
+   "method": "Chest-worn breath sensors on two users drive a shared VR scene; physiological synchrony drives the growth of a procedural sponge.",
+   "method_zh": "两位用户佩戴胸部呼吸传感器，驱动共享的 VR 场景；生理同步驱动程序化海绵的生长。",
+   "keywords": [
+    "jellyfish",
+    "glass sponge",
+    "breath synchrony",
+    "biofeedback",
+    "iSpace Lab",
+    "Simon Fraser University"
+   ],
+   "shown_at": [
+    "CHI 2019 Late-Breaking Work"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZffFnL1Gs-k"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3290607.3312845",
+    "doi": "10.1145/3290607.3312845",
+    "venue": "CHI EA 2019",
+    "title": "JeL: Connecting Through Breath in Virtual Reality"
+   }
+  },
+  {
+   "id": "tamiko-thiel--unexpected-growth",
+   "creator_ids": [
+    "tamiko-thiel"
+   ],
+   "title": "Unexpected Growth",
+   "year": 2018,
+   "field": "fish",
+   "sub": "reef",
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "ar"
+   ],
+   "kind": "artwork",
+   "description": "An AR work on the Whitney Museum's terrace where a coral reef made of plastic waste grows around visitors, changing with the time of day.",
+   "description_zh": "惠特尼美术馆露台上的 AR 作品：一片由塑料垃圾构成的珊瑚礁在观众周围生长，并随一天中的时间变化。",
+   "idea_en": "A future flooded city is seen from the coral's side: the reef has taken over, and humans stand where fish would swim.",
+   "idea_zh": "从珊瑚的视角看被淹没的未来城市：礁石已经占领一切，人类站在本该是鱼游动的地方。",
+   "method": "Location-based AR app on smartphones, anchored to the Whitney terrace; reef state follows the local clock. Made with /p.",
+   "method_zh": "基于位置的手机 AR 应用，锚定在惠特尼露台；珊瑚礁状态随当地时间变化。与 /p 合作。",
+   "keywords": [
+    "coral",
+    "plastic",
+    "sea-level rise",
+    "Whitney Museum",
+    "location-based AR"
+   ],
+   "also": [
+    "river"
+   ],
+   "shown_at": [
+    "Whitney Museum of American Art 2018"
+   ],
+   "images": [
+    "https://tamikothiel.com/unexpectedgrowth/media/UnexpectedGrowth_10p_800w.jpg",
+    "https://tamikothiel.com/unexpectedgrowth/media/UnexpectedGrowth_3phases_800w.jpg"
+   ],
+   "source_url": "https://tamikothiel.com/unexpectedgrowth/"
+  },
+  {
+   "id": "roger-payne--songs-of-the-humpback-whale",
+   "creator_ids": [
+    "roger-payne"
+   ],
+   "title": "Songs of the Humpback Whale",
+   "year": 1970,
+   "field": "fish",
+   "sub": "cetacean",
+   "senses": [
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "An LP of hydrophone recordings of humpback whale songs off Bermuda, the best-selling nature recording and a catalyst of the Save the Whales movement.",
+   "description_zh": "一张收录百慕大海域座头鲸歌声水听器录音的唱片，是最畅销的自然录音，也推动了“拯救鲸鱼”运动。",
+   "idea_en": "Counterpoint: hearing whales sing long, structured songs made their inner world imaginable to humans for the first time.",
+   "idea_zh": "对照作品：听到鲸鱼唱出漫长而有结构的歌，人们第一次能够想象它们的内心世界。",
+   "method": "Hydrophone recordings by Frank Watlington and Roger Payne, released on vinyl by Capitol Records.",
+   "method_zh": "由 Frank Watlington 与 Roger Payne 录制的水听器录音，Capitol Records 发行黑胶唱片。",
+   "keywords": [
+    "humpback whale",
+    "hydrophone",
+    "whale song",
+    "Bermuda",
+    "Save the Whales"
+   ],
+   "also": [
+    "bat"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=b-Uj_2Cqb-4"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/d/d2/Roger_Payne_-_Whale.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Songs_of_the_Humpback_Whale_(album)"
+  },
+  {
+   "id": "jana-winderen--energy-field",
+   "creator_ids": [
+    "jana-winderen"
+   ],
+   "title": "Energy Field",
+   "year": 2010,
+   "field": "fish",
+   "sub": "fish",
+   "senses": [
+    "hearing"
+   ],
+   "medium": [
+    "audio",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A multichannel sound work built from hydrophone recordings in the Barents Sea, Greenland and Norway: cod, crustaceans and ice heard from beneath the surface.",
+   "description_zh": "一件多声道声音作品，取材于巴伦支海、格陵兰与挪威的水听器录音：从水面之下听见鳕鱼、甲壳动物与冰。",
+   "idea_en": "Listening below the surface reveals that the sea is loud with fish and shrimp, a world humans usually take as silent.",
+   "idea_zh": "在水面之下聆听，会发现海洋充满鱼与虾的声音——一个人们通常以为寂静的世界。",
+   "method": "Hydrophone field recordings, some pitched into human hearing range, composed for multichannel speakers and released on Touch.",
+   "method_zh": "水听器野外录音，部分经过变调进入人耳可听范围，为多声道扬声器创作并由 Touch 发行。",
+   "keywords": [
+    "hydrophone",
+    "cod",
+    "Barents Sea",
+    "crustaceans",
+    "Touch",
+    "Golden Nica"
+   ],
+   "also": [
+    "bat"
+   ],
+   "shown_at": [
+    "Ultima Festival Oslo 2010",
+    "Prix Ars Electronica Golden Nica 2011"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xfaYlz2_9lc"
+   },
+   "source_url": "https://www.janawinderen.com"
+  },
+  {
+   "id": "jana-winderen--spring-bloom",
+   "creator_ids": [
+    "jana-winderen"
+   ],
+   "title": "Spring Bloom in the Marginal Ice Zone",
+   "year": 2017,
+   "field": "fish",
+   "sub": "reef",
+   "senses": [
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "audio",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A sound installation from hydrophone recordings at the edge of Arctic sea ice during the spring phytoplankton bloom, voicing the animals that feed on it.",
+   "description_zh": "一件声音装置，取材于北极海冰边缘春季浮游植物大爆发时的水听器录音，让以此为食的动物发声。",
+   "idea_en": "The plankton bloom, half of Earth's oxygen, becomes something you can stand inside and hear.",
+   "idea_zh": "浮游生物大爆发——地球一半氧气的来源——变成可以置身其中聆听的东西。",
+   "method": "Hydrophone recordings from Barents Sea research cruises, spatialised in a multichannel installation.",
+   "method_zh": "来自巴伦支海科考航次的水听器录音，在多声道装置中空间化呈现。",
+   "keywords": [
+    "phytoplankton",
+    "sea ice",
+    "Barents Sea",
+    "hydrophone",
+    "ice edge"
+   ],
+   "also": [
+    "river"
+   ],
+   "shown_at": [
+    "Sonic Acts Festival Amsterdam 2017",
+    "Post Natural Studies, CentroCentro Madrid 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=oxGIQF3iRYM"
+   },
+   "source_url": "https://www.janawinderen.com"
+  },
+  {
+   "id": "teamlab--koi-and-people",
+   "creator_ids": [
+    "teamlab"
+   ],
+   "title": "Drawing on the Water Surface Created by the Dance of Koi and People – Infinity",
+   "year": 2016,
+   "field": "fish",
+   "sub": "fish",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "dome"
+   ],
+   "kind": "artwork",
+   "description": "Visitors wade knee-deep in water where projected koi swim around their legs; when a koi touches a person it bursts into flowers.",
+   "description_zh": "观众在齐膝深的水中行走，投影的锦鲤在腿边游动；锦鲤碰到人时会化作花朵散开。",
+   "idea_en": "Standing in the pond makes your body part of the fish's environment: the koi swerve around you as around a rock.",
+   "idea_zh": "站在池中，你的身体成为鱼的环境的一部分：锦鲤像绕开石头一样绕开你。",
+   "method": "Real-time computer graphics projected onto a shallow pool; tracking of visitors' positions steers each koi's swimming.",
+   "method_zh": "实时计算机图像投影在浅水池上；追踪观众位置并据此引导每条锦鲤的游动。",
+   "keywords": [
+    "koi",
+    "water",
+    "projection",
+    "teamLab Planets",
+    "wading"
+   ],
+   "also": [
+    "river"
+   ],
+   "shown_at": [
+    "teamLab Planets Tokyo 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mv5O5Rkc6d8"
+   },
+   "source_url": "https://www.teamlab.art"
+  },
+  {
+   "id": "aki-inomata--hermit-crab-shelter",
+   "creator_ids": [
+    "aki-inomata"
+   ],
+   "title": "Why Not Hand Over a “Shelter” to Hermit Crabs?",
+   "year": 2009,
+   "field": "fish",
+   "sub": "aquatic",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "Living hermit crabs in an aquarium are offered clear 3D-printed shells topped with miniature cities from around the world, and some choose to move into them.",
+   "description_zh": "水族箱中的活寄居蟹得到了透明的 3D 打印贝壳，壳上是世界各地城市的微缩模型，有些寄居蟹会选择搬进去。",
+   "idea_en": "Counterpoint: the crab, not the artist, decides whether a human-made city becomes its home, so design is judged from the animal's side.",
+   "idea_zh": "对照作品：由寄居蟹而不是艺术家来决定一座人造城市能否成为它的家，设计是从动物的立场被评判的。",
+   "method": "CT scans of real shells give the inner spiral; the artist 3D-prints resin shells with city skylines, and the crabs are filmed as they switch shells.",
+   "method_zh": "用 CT 扫描真实贝壳获得内部螺旋结构，艺术家以树脂 3D 打印带有城市天际线的贝壳，并拍摄寄居蟹换壳的过程。",
+   "keywords": [
+    "hermit crab",
+    "3D printing",
+    "CT scan",
+    "shell",
+    "borders",
+    "No Man's Land"
+   ],
+   "shown_at": [
+    "No Man's Land, former French Embassy Tokyo 2009"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4qMrcdjpYEM"
+   },
+   "images": [
+    "https://www.aki-inomata.com/shared/img/works/10/10-01.jpg",
+    "https://www.aki-inomata.com/shared/img/works/10/10-02.jpg"
+   ],
+   "source_url": "https://www.aki-inomata.com/works/hermit/"
+  },
+  {
+   "id": "leah-barclay--river-listening",
+   "creator_ids": [
+    "leah-barclay"
+   ],
+   "title": "River Listening",
+   "year": 2014,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "hearing"
+   ],
+   "medium": [
+    "audio",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "A sound art and science project in which communities listen to four Queensland rivers through hydrophones in listening labs, sound maps, performances and installations.",
+   "description_zh": "一个声音艺术与科学项目：社区通过水听器在聆听工作坊、声音地图、表演与装置中聆听昆士兰的四条河流。",
+   "idea_en": "Listening underwater lets people judge a river's health by the sounds of the life inside it, which cannot be seen from the bank.",
+   "idea_zh": "在水下聆听，让人凭河中生命的声音判断河流的健康，而这些从岸上是看不到的。",
+   "method": "Hydrophone recordings with the Australian Rivers Institute on the Brisbane, Mary, Noosa and Logan rivers, shared through workshops and online sound maps.",
+   "method_zh": "与澳大利亚河流研究所合作，在布里斯班河、玛丽河、努沙河与洛根河进行水听器录音，通过工作坊与在线声音地图分享。",
+   "keywords": [
+    "hydrophone",
+    "aquatic bioacoustics",
+    "Brisbane River",
+    "Noosa Biosphere Reserve",
+    "sound map"
+   ],
+   "also": [
+    "fish"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=dGAcUChycp4"
+   },
+   "images": [
+    "http://leahbarclay.com/wp-content/uploads/2015/03/1.Leah_LoganRiver.jpg",
+    "http://leahbarclay.com/wp-content/uploads/2015/03/UnderWater.png"
+   ],
+   "source_url": "https://leahbarclay.com/portfolio_page/river-listening/"
+  },
+  {
+   "id": "annea-lockwood--sound-map-hudson",
+   "creator_ids": [
+    "annea-lockwood"
+   ],
+   "title": "A Sound Map of the Hudson River",
+   "year": 1982,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "audio",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A sound installation and recording that follows the Hudson River from its source in the Adirondacks to the Atlantic, through recordings made at many points along its course.",
+   "description_zh": "一件声音装置与录音作品，从阿迪朗达克山脉的源头到大西洋，沿河多处录音，追随哈德逊河的全程。",
+   "idea_en": "Counterpoint: listening to a river from source to mouth lets the listener travel at the river's pace and hear its changing voice.",
+   "idea_zh": "对照作品：从源头听到入海口，让听者以河流的节奏旅行，听见它不断变化的声音。",
+   "method": "Field recordings with microphones and hydrophones along the river, edited into a continuous piece with a map for the installation.",
+   "method_zh": "沿河用麦克风与水听器进行野外录音，剪辑成连续作品，装置中配有地图。",
+   "keywords": [
+    "Hudson River",
+    "sound map",
+    "field recording",
+    "source to mouth"
+   ],
+   "shown_at": [
+    "Hudson River Museum 1982"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=R_t3-cMyrkI"
+   },
+   "source_url": "https://www.annealockwood.com",
+   "collections": [
+    "book-counterpoints"
+   ]
+  },
+  {
+   "id": "annea-lockwood--sound-map-danube",
+   "creator_ids": [
+    "annea-lockwood"
+   ],
+   "title": "A Sound Map of the Danube",
+   "year": 2005,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "audio",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A multichannel installation and three-CD set tracing the Danube from the Black Forest to the Black Sea through underwater and shoreline recordings and the voices of people living on it.",
+   "description_zh": "一件多声道装置与三张 CD，从黑森林到黑海追随多瑙河，收录水下与岸边的录音以及沿岸居民的声音。",
+   "idea_en": "A river is heard as one moving body across ten countries, with human voices as only one part of it.",
+   "idea_zh": "一条河被听作跨越十个国家的一个流动身体，人声只是其中一部分。",
+   "method": "Hydrophone and microphone recordings made over several years along the river, arranged for surround installation.",
+   "method_zh": "多年间沿河进行的水听器与麦克风录音，编排为环绕声装置。",
+   "keywords": [
+    "Danube",
+    "hydrophone",
+    "sound map",
+    "Black Sea"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qwsnWZ4dwz0"
+   },
+   "source_url": "https://www.annealockwood.com"
+  },
+  {
+   "id": "hildegard-westerkamp--kits-beach-soundwalk",
+   "creator_ids": [
+    "hildegard-westerkamp"
+   ],
+   "title": "Kits Beach Soundwalk",
+   "year": 1989,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "hearing"
+   ],
+   "medium": [
+    "audio",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "A soundscape composition in which the composer's voice guides the listener along a Vancouver beach, filtering out city noise to bring forward the tiny sounds of barnacles and water.",
+   "description_zh": "一首声景作品：作曲家的声音引导听者走过温哥华的一处海滩，滤掉城市噪音，放大藤壶与海水的细小声音。",
+   "idea_en": "Counterpoint: attention itself is the technology; filtering the city lets the shore's small lives be heard.",
+   "idea_zh": "对照作品：注意力本身就是技术；过滤掉城市，岸边的小生命才能被听见。",
+   "method": "Stereo tape composition with narration; band-pass filtering removes traffic rumble to reveal barnacles clicking at low tide.",
+   "method_zh": "带旁白的立体声磁带作品；带通滤波去除交通轰鸣，显出退潮时藤壶的咔嗒声。",
+   "keywords": [
+    "soundwalk",
+    "barnacles",
+    "Vancouver",
+    "World Soundscape Project",
+    "acoustic ecology"
+   ],
+   "also": [
+    "fish"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hg96nU6ltLk"
+   },
+   "source_url": "https://www.hildegardwesterkamp.ca",
+   "collections": [
+    "book-counterpoints"
+   ]
+  },
+  {
+   "id": "bill-fontana--river-sounding",
+   "creator_ids": [
+    "bill-fontana"
+   ],
+   "title": "River Sounding",
+   "year": 2010,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "hearing"
+   ],
+   "medium": [
+    "audio",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A sound installation that relayed underwater and structural sounds of the Thames into the rooms and light wells of Somerset House beside it.",
+   "description_zh": "一件声音装置，把泰晤士河的水下声音与结构振动传入河畔萨默塞特宫的房间与天井。",
+   "idea_en": "The river is brought indoors as sound, so visitors stand inside the Thames without getting wet.",
+   "idea_zh": "河流以声音的形式被带进室内，观众不湿身就能站在泰晤士河里。",
+   "method": "Hydrophones in the Thames (and likely vibration sensors on nearby structures) feed a multichannel speaker system in the building.",
+   "method_zh": "泰晤士河中的水听器（可能还有附近结构上的振动传感器）把信号送入建筑内的多声道扬声器系统。",
+   "keywords": [
+    "Thames",
+    "hydrophone",
+    "Somerset House",
+    "sound sculpture"
+   ],
+   "shown_at": [
+    "Somerset House London 2010"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=lSAshwqRfnA"
+   },
+   "source_url": "https://resoundings.org"
+  },
+  {
+   "id": "chris-watson--weather-report",
+   "creator_ids": [
+    "chris-watson"
+   ],
+   "title": "Weather Report",
+   "year": 2003,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "audio"
+   ],
+   "kind": "artwork",
+   "description": "An album of three long compositions from field recordings; its central track compresses weeks of the Vatnajökull glacier's movement in Iceland into eighteen minutes.",
+   "description_zh": "一张由三首长篇野外录音作品组成的专辑；其中心曲目把冰岛瓦特纳冰川几周的运动压缩成十八分钟。",
+   "idea_en": "Time compression lets a human hear a glacier as a moving, cracking, melting being.",
+   "idea_zh": "时间压缩让人能把冰川听作一个会移动、会碎裂、会融化的存在。",
+   "method": "Contact microphones and hydrophones placed in and under the ice over weeks, edited into a time-compressed piece released on Touch.",
+   "method_zh": "把接触式麦克风与水听器放置在冰内与冰下数周，剪辑成时间压缩的作品，由 Touch 发行。",
+   "keywords": [
+    "Vatnajökull",
+    "glacier",
+    "hydrophone",
+    "time compression",
+    "Touch"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CH2o-FGrWdE"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Chris_Watson"
+  },
+  {
+   "id": "katie-paterson--vatnajokull",
+   "creator_ids": [
+    "katie-paterson"
+   ],
+   "title": "Vatnajökull (the sound of)",
+   "year": 2007,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "audio",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A live phone line to a microphone in Jökulsárlón lagoon under Vatnajökull: anyone could call a number and hear the glacier melting in real time.",
+   "description_zh": "一条连接到瓦特纳冰川下杰古沙龙冰湖中麦克风的实时电话线：任何人拨通号码，都能实时听到冰川融化。",
+   "idea_en": "A phone call makes a glacier a being you can ring up and listen to, as it disappears.",
+   "idea_zh": "一通电话让冰川成为你可以拨通并聆听的存在，而它正在消失。",
+   "method": "Underwater microphone connected to an amplifier and mobile phone in the lagoon, with the number displayed in neon in the gallery.",
+   "method_zh": "冰湖中的水下麦克风连接放大器与手机，画廊中以霓虹灯显示电话号码。",
+   "keywords": [
+    "Vatnajökull",
+    "Jökulsárlón",
+    "phone line",
+    "glacier melt",
+    "neon"
+   ],
+   "images": [
+    "https://i0.wp.com/katiepaterson.org/wp-content/uploads/2022/02/Katie_Paterson_Vatnajokull_3-1.jpg?resize=1920%2C1442&ssl=1",
+    "https://i0.wp.com/katiepaterson.org/wp-content/uploads/2022/02/Katie_Paterson_Vatnajokull_5.jpg?resize=1920%2C1440&ssl=1"
+   ],
+   "source_url": "https://katiepaterson.org/artwork/vatnajokull-the-sound-of/"
+  },
+  {
+   "id": "katie-paterson--langjokull",
+   "creator_ids": [
+    "katie-paterson"
+   ],
+   "title": "Langjökull, Snæfellsjökull, Sólheimajökull",
+   "year": 2007,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "audio",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "Three records cast in ice from the meltwater of three Icelandic glaciers, carrying recordings of those glaciers, played on turntables until they melted away.",
+   "description_zh": "三张用三座冰岛冰川融水冻成的冰唱片，刻有这些冰川的录音，在唱机上播放直到融化殆尽。",
+   "idea_en": "The glacier plays its own sound as it melts, so listening and disappearing are the same event.",
+   "idea_zh": "冰川在融化中播放自己的声音，聆听与消失成了同一件事。",
+   "method": "Meltwater frozen in record moulds, played simultaneously on three turntables; filmed as the records melted.",
+   "method_zh": "融水在唱片模具中冻结，用三台唱机同时播放，并拍摄唱片融化的过程。",
+   "keywords": [
+    "glacier",
+    "ice record",
+    "meltwater",
+    "turntable",
+    "Iceland"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=lfNDUjGqSVU"
+   },
+   "source_url": "https://katiepaterson.org/artwork/langjokull-snaefellsjokull-solheimajokull/"
+  },
+  {
+   "id": "olafur-eliasson--ice-watch",
+   "creator_ids": [
+    "olafur-eliasson"
+   ],
+   "title": "Ice Watch",
+   "year": 2014,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "touch",
+    "time-scale"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "Twelve blocks of glacial ice from Greenland's fjords placed in a clock formation in a public square, left to melt while people touch, lean on and listen to them.",
+   "description_zh": "从格陵兰峡湾运来的十二块冰川冰以钟面形状摆放在公共广场上，任其融化，人们触摸、倚靠、聆听它们。",
+   "idea_en": "Touching ice thousands of years old makes the glacier's time and its loss physically present.",
+   "idea_zh": "触摸数千年的古冰，让冰川的时间与它的消逝变得可以亲身感受。",
+   "method": "Free-floating icebergs harvested from Nuup Kangerlua fjord, shipped in refrigerated containers and arranged as a clock face.",
+   "method_zh": "从努克峡湾打捞的漂浮冰块，用冷藏集装箱运来，摆成钟面。",
+   "keywords": [
+    "Greenland",
+    "glacial ice",
+    "Minik Rosing",
+    "COP21",
+    "clock"
+   ],
+   "shown_at": [
+    "Copenhagen 2014",
+    "Place du Panthéon Paris, COP21 2015",
+    "Tate Modern London 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qd-JRGBKSXA"
+   },
+   "images": [
+    "https://res.cloudinary.com/olafureliasson-net/image/private/q_auto:eco,c_fit,h_640,w_640/img/ice-watch_18019.jpg",
+    "https://res.cloudinary.com/olafureliasson-net/image/private/q_auto:eco,c_fit,h_640,w_640/img/ice-watch_18017.jpg"
+   ],
+   "source_url": "https://olafureliasson.net/artwork/ice-watch-2014/"
+  },
+  {
+   "id": "olafur-eliasson--rainbow",
+   "creator_ids": [
+    "olafur-eliasson",
+    "acute-art"
+   ],
+   "title": "Rainbow",
+   "year": 2017,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "vision",
+    "collective-sense"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A multi-user VR work in which visitors stand inside a curtain of falling rain and see a rainbow form as they move; other visitors appear as figures of light.",
+   "description_zh": "一件多人 VR 作品：观众站在落下的雨幕之中，随着移动看到彩虹形成；其他观众以光的身影出现。",
+   "idea_en": "A rainbow exists only between a body, water droplets and light, so the viewer co-produces the weather they see.",
+   "idea_zh": "彩虹只存在于身体、水滴与光之间，观众与自己看到的天气共同生成。",
+   "method": "Networked room-scale VR with physically based simulation of light refracting through rain droplets; produced by Acute Art.",
+   "method_zh": "联网的房间尺度 VR，对光在雨滴中折射进行基于物理的模拟；由 Acute Art 制作。",
+   "keywords": [
+    "rainbow",
+    "rain",
+    "light",
+    "multi-user VR",
+    "Acute Art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Z74cSovLh-s"
+   },
+   "source_url": "https://olafureliasson.net",
+   "collections": [
+    "acute-art-vr"
+   ]
+  },
+  {
+   "id": "marina-abramovic--rising",
+   "creator_ids": [
+    "marina-abramovic",
+    "acute-art"
+   ],
+   "title": "Rising",
+   "year": 2018,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A VR work in which the artist's avatar stands in a glass tank that slowly fills with water; the viewer can raise a hand to her, and is shown melting polar ice and rising seas.",
+   "description_zh": "一件 VR 作品：艺术家的化身站在一个慢慢注满水的玻璃水箱中；观众可以向她举起手，并被带到融化的极地冰层与上涨的海面前。",
+   "idea_en": "Sea-level rise is felt as water climbing another person's body, face to face.",
+   "idea_zh": "海平面上升被感受为水沿着另一个人的身体一点点升高，而你就面对着她。",
+   "method": "Volumetric capture of the artist placed in a real-time VR scene with hand tracking; viewer's gesture changes the scene; produced by Acute Art.",
+   "method_zh": "对艺术家进行体积捕捉，置于带手部追踪的实时 VR 场景；观众的手势会改变场景；由 Acute Art 制作。",
+   "keywords": [
+    "sea-level rise",
+    "polar ice",
+    "volumetric capture",
+    "tank",
+    "Acute Art"
+   ],
+   "shown_at": [
+    "Lisson Gallery London 2018",
+    "Eye Filmmuseum Amsterdam 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=lQ3Yxi6pCvc"
+   },
+   "source_url": "https://acuteart.com",
+   "collections": [
+    "acute-art-vr"
+   ]
+  },
+  {
+   "id": "random-international--rain-room",
+   "creator_ids": [
+    "random-international"
+   ],
+   "title": "Rain Room",
+   "year": 2012,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A hundred square metres of continuous falling water that stops wherever a person walks, so visitors move through rain without getting wet.",
+   "description_zh": "一百平方米持续落下的雨，人走到哪里雨就在哪里停止，观众在雨中行走却不会淋湿。",
+   "idea_en": "The rain senses you: weather responds to the body, and visitors learn to move slowly so the water can read them.",
+   "idea_zh": "雨能感知你：天气回应身体，观众学会慢慢移动，好让雨读懂他们。",
+   "method": "3D depth cameras track visitors and switch off overhead solenoid valves in a pattern around each body; water is recycled.",
+   "method_zh": "三维深度摄像头追踪观众，并关闭每个人身体周围上方的电磁阀；水循环使用。",
+   "keywords": [
+    "rain",
+    "depth cameras",
+    "solenoid valves",
+    "Barbican",
+    "MoMA"
+   ],
+   "shown_at": [
+    "Barbican Curve London 2012",
+    "MoMA New York 2013",
+    "LACMA 2015"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=FslABAyj2OA"
+   },
+   "source_url": "https://www.random-international.com"
+  },
+  {
+   "id": "daan-roosegaarde--waterlicht",
+   "creator_ids": [
+    "daan-roosegaarde"
+   ],
+   "title": "Waterlicht",
+   "year": 2015,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A 'virtual flood' of shifting blue light lines drawn over people's heads at the height the water would reach without dikes.",
+   "description_zh": "一场“虚拟洪水”：变幻的蓝色光线在人们头顶上方，标出没有堤坝时水会达到的高度。",
+   "idea_en": "Standing under the light, people feel themselves underwater, on the seabed of a sea that is held back.",
+   "idea_zh": "站在光下，人们感到自己身处水下，站在被拦住的大海海底。",
+   "method": "LED lines and lenses project wave patterns shaped by software and wind onto the night sky over a public site.",
+   "method_zh": "LED 光线与透镜把由软件与风塑造的波浪图案投射到公共场所上方的夜空。",
+   "keywords": [
+    "flood",
+    "LED",
+    "dikes",
+    "Museumplein",
+    "sea-level rise"
+   ],
+   "shown_at": [
+    "Westervoort 2015",
+    "Museumplein Amsterdam 2016"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LWzPm_ponkI"
+   },
+   "images": [
+    "https://cdn.prod.website-files.com/6683beecb76948bee8843558/66cfb15dd70d897cb22cfd9b_Waterlicht%20Roosegaarde.png_new.webp"
+   ],
+   "source_url": "https://www.studioroosegaarde.net/project/waterlicht"
+  },
+  {
+   "id": "teamlab--universe-of-water-particles",
+   "creator_ids": [
+    "teamlab"
+   ],
+   "title": "Universe of Water Particles",
+   "year": 2013,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "installation",
+    "dome"
+   ],
+   "kind": "artwork",
+   "description": "A digital waterfall rendered from hundreds of thousands of simulated water particles; in later versions it flows over a rock and around visitors who stand in its path.",
+   "description_zh": "一道由数十万个模拟水粒子渲染的数字瀑布；后来的版本从岩石上流下，并绕过站在水流中的观众。",
+   "idea_en": "Water flows around the visitor as around a stone, making the body an obstacle that shapes the stream.",
+   "idea_zh": "水像绕过石头一样绕过观众，身体成为塑造水流的障碍物。",
+   "method": "Particle-based fluid simulation of water interacting with virtual terrain, projected at room scale and responding to tracked bodies.",
+   "method_zh": "基于粒子的流体模拟，让水与虚拟地形相互作用，以房间尺度投影并回应被追踪的身体。",
+   "keywords": [
+    "waterfall",
+    "particle simulation",
+    "teamLab Borderless",
+    "projection"
+   ],
+   "shown_at": [
+    "teamLab Borderless Tokyo 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=WWuDTBpPZbA"
+   },
+   "images": [
+    "https://teamlab-site.imagewave.pictures/b5EBo9Uo-OK6SM09ZTkEZQ/83c311d3-0613-47f4-59ed-f060ce518200/width=1200,format=jpeg"
+   ],
+   "source_url": "https://www.teamlab.art/w/waterparticles/"
+  },
+  {
+   "id": "adrien-m-claire-b--acqua-alta",
+   "creator_ids": [
+    "adrien-m-claire-b"
+   ],
+   "title": "Acqua Alta — Crossing the Mirror",
+   "year": 2019,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "ar",
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A pop-up book read through a tablet in AR, and a VR version, telling of a couple whose house is flooded, with drawn water rising through the pages.",
+   "description_zh": "一本通过平板 AR 阅读的立体书，以及一个 VR 版本，讲述一对夫妇的房子被淹没，手绘的水在书页间上涨。",
+   "idea_en": "Drawn water that flows and swallows people turns a flood into something the viewer's own gaze moves through.",
+   "idea_zh": "流动并吞没人物的手绘之水，把洪水变成观众视线穿行其中的东西。",
+   "method": "Paper pop-up book with an AR app that overlays animated ink drawings, plus a VR adaptation of the same world.",
+   "method_zh": "纸质立体书配 AR 应用叠加动画水墨，并有同一世界的 VR 改编版。",
+   "keywords": [
+    "flood",
+    "pop-up book",
+    "ink drawing",
+    "Venice acqua alta"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QkRKyE07Mh0"
+   },
+   "source_url": "https://www.am-cb.net/en/projets/acqua-alta-crossing-the-mirror"
+  },
+  {
+   "id": "chelanie-beaudin-quintin--bodies-of-water",
+   "creator_ids": [
+    "chelanie-beaudin-quintin",
+    "caroline-laurin-beaucage"
+   ],
+   "title": "Une eau la nuit / Bodies of Water",
+   "year": 2024,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "body",
+    "breath"
+   ],
+   "medium": [
+    "vr",
+    "film360"
+   ],
+   "kind": "film",
+   "description": "A ten-minute VR dance film shot underwater in a public swimming pool at night, where the viewer holds their breath and floats among dancers transformed by water.",
+   "description_zh": "一部十分钟的 VR 舞蹈影片，夜间在公共游泳池水下拍摄，观众屏住呼吸，漂浮在被水改变的舞者之间。",
+   "idea_en": "Water is the partner that reshapes bodies: in it, humans move with the resistance and weightlessness of aquatic beings.",
+   "idea_zh": "水是重塑身体的舞伴：在水中，人以水生生命的阻力与失重方式移动。",
+   "method": "Stereoscopic 360° capture underwater with choreography devised for buoyancy and breath-hold.",
+   "method_zh": "水下立体 360° 拍摄，编舞为浮力与屏息而设计。",
+   "keywords": [
+    "dance",
+    "swimming pool",
+    "underwater",
+    "breath-hold",
+    "Venice Immersive"
+   ],
+   "shown_at": [
+    "Venice Immersive 2024 (Competition)",
+    "GIFF 2024"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1008939802"
+   },
+   "images": [
+    "https://xrmust.com/wp-content/uploads/2024/07/XRMust_BodiesOfWater_poster.webp"
+   ],
+   "source_url": "https://xrmust.com/all-experiences/bodies-of-water/"
+  },
+  {
+   "id": "john-luther-adams--become-ocean",
+   "creator_ids": [
+    "john-luther-adams"
+   ],
+   "title": "Become Ocean",
+   "year": 2013,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "audio",
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "A 42-minute orchestral work in which three groups of instruments swell and recede like tides and waves, meeting in great crests; Pulitzer Prize 2014.",
+   "description_zh": "一首 42 分钟的管弦乐作品，三组乐器像潮汐与海浪一样涨落，在巨大的浪峰处交汇；2014 年获普利策奖。",
+   "idea_en": "Counterpoint: the title is an instruction; listening is meant to dissolve the listener into the sea as sea levels rise.",
+   "idea_zh": "对照作品：标题本身就是一条指令；聆听意在让听者在海平面上升之际融入大海。",
+   "method": "Orchestra split into three spatially separated ensembles, each cycling at different tempos to produce overlapping waves.",
+   "method_zh": "乐团分为三个空间上分开的组，各自以不同速度循环，形成交叠的波浪。",
+   "keywords": [
+    "orchestra",
+    "tides",
+    "Seattle Symphony",
+    "Pulitzer Prize",
+    "Become River"
+   ],
+   "shown_at": [
+    "Seattle Symphony 2013",
+    "Pulitzer Prize for Music 2014"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yGIEvUOf-JU"
+   },
+   "source_url": "https://www.johnlutheradams.net"
+  },
+  {
+   "id": "jakob-kudsk-steensen--berl-berl",
+   "creator_ids": [
+    "jakob-kudsk-steensen"
+   ],
+   "title": "Berl-Berl",
+   "year": 2021,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "time-scale",
+    "hearing"
+   ],
+   "medium": [
+    "installation",
+    "screen"
+   ],
+   "kind": "artwork",
+   "description": "A live-simulated swamp filling Halle am Berghain, built from Berlin's remaining wetlands, where the ecosystem grows and changes through day, night and seasons.",
+   "description_zh": "一片实时模拟的沼泽，布满柏林 Halle am Berghain，以柏林残存的湿地为素材，生态系统随昼夜与季节生长变化。",
+   "idea_en": "The city is seen from the swamp it was built on: water, reeds and mud come back as the main character.",
+   "idea_zh": "从城市脚下的沼泽来看这座城市：水、芦苇与泥浆重新成为主角。",
+   "method": "Game-engine simulation from photogrammetry and field recordings of Berlin wetlands, shown on large screens and a sculptural water system.",
+   "method_zh": "用柏林湿地的摄影测量与野外录音在游戏引擎中实时模拟，呈现在大屏幕与雕塑化的水系统中。",
+   "keywords": [
+    "wetland",
+    "swamp",
+    "photogrammetry",
+    "game engine",
+    "LAS Art Foundation"
+   ],
+   "also": [
+    "tree"
+   ],
+   "shown_at": [
+    "Halle am Berghain Berlin 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=BOreIFDsvCA"
+   },
+   "source_url": "https://www.jakobkudsksteensen.com"
+  },
+  {
+   "id": "ursula-biemann--acoustic-ocean",
+   "creator_ids": [
+    "ursula-biemann"
+   ],
+   "title": "Acoustic Ocean",
+   "year": 2018,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "hearing"
+   ],
+   "medium": [
+    "screen",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A video installation in which a Sámi biologist-diver on the Lofoten coast listens to marine life with hydrophones, parabolic microphones and recording gear.",
+   "description_zh": "一件录像装置：罗弗敦海岸的一位萨米族潜水生物学家用水听器、抛物面麦克风等设备聆听海洋生命。",
+   "idea_en": "Counterpoint: the scientist becomes an amphibian listener, an assemblage of body and instruments tuned to the sea.",
+   "idea_zh": "对照作品：科学家成为两栖的聆听者，是身体与仪器组成的、调谐于大海的组合体。",
+   "method": "Single-channel video with underwater and parabolic-microphone recordings, filmed on the Norwegian Arctic coast and shown as an installation.",
+   "method_zh": "单频道录像，配合水下与抛物面麦克风录音，在挪威北极海岸拍摄，以装置形式展出。",
+   "keywords": [
+    "Sámi",
+    "hydrophone",
+    "Lofoten",
+    "amphibian",
+    "Taipei Biennial"
+   ],
+   "also": [
+    "fish"
+   ],
+   "shown_at": [
+    "Taipei Biennial 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pfM2YkNTcDc"
+   },
+   "images": [
+    "https://geobodies.org/wp-content/uploads/2022/03/aav-ao-cover-large-aspect-ratio-770-433.jpg"
+   ],
+   "source_url": "https://www.geobodies.org/art-and-videos/acoustic-ocean"
+  },
+  {
+   "id": "refik-anadol--glacier-dreams",
+   "creator_ids": [
+    "refik-anadol"
+   ],
+   "title": "Glacier Dreams",
+   "year": 2023,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "multisensory",
+    "vision"
+   ],
+   "medium": [
+    "installation",
+    "dome"
+   ],
+   "kind": "artwork",
+   "description": "A room-scale AI data painting built from millions of images of Icelandic glaciers, with generated sound and scent.",
+   "description_zh": "一件房间尺度的 AI 数据绘画，基于数百万张冰岛冰川图像生成，并配有生成的声音与气味。",
+   "idea_en": "The glacier is rendered as a machine's memory of ice: an archive that moves like meltwater around the viewer.",
+   "idea_zh": "冰川被呈现为机器对冰的记忆：一个在观众周围像融水一样流动的档案。",
+   "method": "Generative AI model trained on glacier photographs and data, output on LED walls with spatial sound and diffused scent.",
+   "method_zh": "用冰川照片与数据训练的生成式 AI 模型，输出到 LED 墙上，配合空间声音与扩散的气味。",
+   "keywords": [
+    "glacier",
+    "AI",
+    "generative",
+    "Iceland",
+    "scent"
+   ],
+   "shown_at": [
+    "Art Dubai 2023",
+    "Art Basel 2023"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=b_q7MAjmfto"
+   },
+   "source_url": "https://refikanadol.com"
+  },
+  {
+   "id": "danfung-dennis--melting-ice",
+   "creator_ids": [
+    "danfung-dennis"
+   ],
+   "title": "Melting Ice",
+   "year": 2017,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "film360"
+   ],
+   "kind": "film",
+   "description": "A 360° film from the This Is Climate Change series, presented by Al Gore, that stands the viewer on the Greenland ice sheet among meltwater rivers and moulins.",
+   "description_zh": "《This Is Climate Change》系列中的一部 360° 影片，由 Al Gore 介绍，让观众站在格陵兰冰盖上的融水河与冰川竖井之间。",
+   "idea_en": "Landmark climate VR that others respond to: it shows the ice rather than letting you become it.",
+   "idea_zh": "被广泛引用的气候 VR 地标作品：它展示冰，而不是让你成为冰。",
+   "method": "Stereoscopic 360° video shot on the ice sheet by Condition One, distributed by Within.",
+   "method_zh": "Condition One 在冰盖上拍摄的立体 360° 视频，由 Within 发行。",
+   "keywords": [
+    "Greenland",
+    "ice sheet",
+    "moulin",
+    "Al Gore",
+    "Condition One",
+    "Within"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MwSLTGjPqG8"
+   }
+  },
+  {
+   "id": "emblematic-group--greenland-melting",
+   "creator_ids": [
+    "emblematic-group"
+   ],
+   "title": "Greenland Melting",
+   "year": 2017,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "vr",
+    "film360"
+   ],
+   "kind": "film",
+   "description": "A room-scale VR documentary with FRONTLINE and NOVA that takes viewers to Greenland's glaciers with NASA scientists and shows their retreat over time.",
+   "description_zh": "与 FRONTLINE 和 NOVA 合作的房间尺度 VR 纪录片，带观众与 NASA 科学家一起前往格陵兰冰川，并呈现冰川随时间的退缩。",
+   "idea_en": "Walking along a glacier front as years of retreat play out compresses glacial time to human scale.",
+   "idea_zh": "沿着冰川前缘行走，看多年的退缩在眼前上演，把冰川时间压缩到人的尺度。",
+   "method": "Photogrammetry and volumetric capture combined with 360° video; glacier edge positions over decades animated in room-scale VR.",
+   "method_zh": "摄影测量与体积捕捉结合 360° 视频；几十年间冰川边缘的位置在房间尺度 VR 中以动画呈现。",
+   "keywords": [
+    "Greenland",
+    "glacier retreat",
+    "NASA",
+    "FRONTLINE",
+    "NOVA",
+    "Nonny de la Peña"
+   ],
+   "shown_at": [
+    "Venice Film Festival VR 2017"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=lxd9-GZqprE"
+   },
+   "images": [
+    "https://emblematicgroup.com/wp-content/uploads/2017/08/emblematic_slider_902x543_1.jpg"
+   ],
+   "source_url": "https://emblematicgroup.com/experiences/greenland-melting/"
+  },
+  {
+   "id": "monkeystack--thin-ice-vr",
+   "creator_ids": [
+    "monkeystack"
+   ],
+   "title": "Thin Ice VR",
+   "year": 2021,
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "vr",
+    "film360"
+   ],
+   "kind": "film",
+   "description": "A VR documentary following explorer Tim Jarvis along Shackleton's 1914 Antarctic route to see how climate change has altered the ice.",
+   "description_zh": "一部 VR 纪录片，跟随探险家 Tim Jarvis 重走 Shackleton 1914 年的南极路线，看气候变化如何改变了冰。",
+   "idea_en": "The ice is revisited a century later, so the viewer measures its loss with their own presence.",
+   "idea_zh": "一个世纪后重访冰原，观众用自己的在场去衡量冰的消逝。",
+   "method": "Photogrammetry and 360° video captured in Antarctica and South Georgia, assembled into an interactive VR experience.",
+   "method_zh": "在南极与南乔治亚岛拍摄的摄影测量与 360° 视频，组合成可交互的 VR 体验。",
+   "keywords": [
+    "Antarctica",
+    "Shackleton",
+    "Tim Jarvis",
+    "South Georgia",
+    "photogrammetry"
+   ],
+   "shown_at": [
+    "Adelaide Film Festival 2021",
+    "South Australian Museum 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NWcwqRn6rVc"
+   },
+   "images": [
+    "https://www.thinicevr.com/wp-content/uploads/2021/05/ThinIce_MobileStatic-640x320px.png"
+   ],
+   "source_url": "https://www.thinicevr.com"
+  },
+  {
+   "id": "tamiko-thiel--atmos-sphaerae",
+   "creator_ids": [
+    "tamiko-thiel"
+   ],
+   "title": "Atmos Sphaerae",
+   "year": 2020,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "vision",
+    "breath"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A VR work of floating spheres, each holding a different atmosphere or waterscape, that visitors look into and pass through.",
+   "description_zh": "一件 VR 作品，漂浮的球体中各自装着不同的大气或水景，观众可以望进去、穿行其中。",
+   "idea_en": "Atmospheres become objects you can hold at arm's length and then enter, making air a place rather than a void.",
+   "idea_zh": "大气变成可以在手臂长度之外端详、然后进入的物体，让空气成为一个地方，而不是虚空。",
+   "method": "Real-time VR built in a game engine, first released for DiMoDa 4.0 (Dis/Location) and later shown as an installation.",
+   "method_zh": "用游戏引擎制作的实时 VR，最初为 DiMoDa 4.0（Dis/Location）发布，后以装置形式展出。",
+   "keywords": [
+    "atmosphere",
+    "spheres",
+    "water",
+    "DiMoDa",
+    "Christiane Paul"
+   ],
+   "also": [
+    "fish"
+   ],
+   "shown_at": [
+    "DiMoDa 4.0 Dis/Location 2020",
+    "Gazelli Art House 2022"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=BGZrTPnNnwA"
+   },
+   "images": [
+    "https://tamikothiel.com/atmos-sphaerae/media/AtmosSphaerae-Gazelli-Installation2022c_1024px.jpg"
+   ],
+   "source_url": "https://tamikothiel.com/atmos-sphaerae/"
+  },
+  {
+   "id": "olafur-eliasson--the-weather-project",
+   "creator_ids": [
+    "olafur-eliasson"
+   ],
+   "title": "The Weather Project",
+   "year": 2003,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "vision",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "An artificial sun of mono-frequency lamps and a haze-filled Turbine Hall at Tate Modern, with a mirrored ceiling where visitors lay down and saw themselves as small figures under the sky.",
+   "description_zh": "泰特现代美术馆涡轮大厅中由单频灯组成的人造太阳与弥漫的薄雾，镜面天花板让躺下的观众看到自己成为天空下的小小身影。",
+   "idea_en": "Counterpoint: weather is staged indoors so people experience it together, as a shared atmosphere rather than a backdrop.",
+   "idea_zh": "对照作品：天气在室内被搭建出来，让人们一起感受它，作为共享的大气而不是背景。",
+   "method": "Semicircle of mono-frequency sodium lamps doubled by a mirrored ceiling, with humidifiers releasing sugar-water mist.",
+   "method_zh": "半圆形单频钠灯经镜面天花板映成完整的圆，加湿器释放糖水雾。",
+   "keywords": [
+    "sun",
+    "mist",
+    "Turbine Hall",
+    "Tate Modern",
+    "mirror"
+   ],
+   "shown_at": [
+    "Tate Modern Unilever Series 2003"
+   ],
+   "images": [
+    "https://res.cloudinary.com/olafureliasson-net/image/private/q_auto:eco,c_fit,h_640,w_640/img/the-weather-project_21881.jpg",
+    "https://res.cloudinary.com/olafureliasson-net/image/private/q_auto:eco,c_fit,h_640,w_640/img/the-weather-project_8200.jpg"
+   ],
+   "source_url": "https://olafureliasson.net/artwork/the-weather-project-2003/"
+  },
+  {
+   "id": "olafur-eliasson--wunderkammer",
+   "creator_ids": [
+    "olafur-eliasson",
+    "acute-art"
+   ],
+   "title": "Wunderkammer",
+   "year": 2020,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "vision"
+   ],
+   "medium": [
+    "ar"
+   ],
+   "kind": "artwork",
+   "description": "A collection of AR objects placed in one's home — a rain cloud, the sun, a rainbow, a puffin, a floating stone and more — released during the 2020 lockdowns.",
+   "description_zh": "一组可以放进家中的 AR 物件——雨云、太阳、彩虹、海鹦、漂浮的石头等——在 2020 年封城期间发布。",
+   "idea_en": "Weather is brought into the living room at hand scale, so a cloud raining on the carpet makes the atmosphere domestic.",
+   "idea_zh": "天气以手掌尺度被带进客厅，一朵在地毯上下雨的云让大气变得日常。",
+   "method": "Smartphone AR app by Acute Art placing animated objects with light and rain simulation in the user's space.",
+   "method_zh": "Acute Art 的手机 AR 应用，把带有光照与降雨模拟的动画物件放入用户空间。",
+   "keywords": [
+    "rain cloud",
+    "sun",
+    "rainbow",
+    "puffin",
+    "Acute Art",
+    "lockdown"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4-UT2MYSjMo"
+   },
+   "images": [
+    "https://res.cloudinary.com/olafureliasson-net/image/private/q_auto:eco,c_fit,h_640,w_640/img/wunderkammer_23497.jpg",
+    "https://res.cloudinary.com/olafureliasson-net/image/private/q_auto:eco,c_fit,h_640,w_640/img/wunderkammer_23499.jpg"
+   ],
+   "source_url": "https://olafureliasson.net/artwork/wunderkammer-2020/",
+   "collections": [
+    "acute-art-vr"
+   ]
+  },
+  {
+   "id": "rafael-lozano-hemmer--vicious-circular-breathing",
+   "creator_ids": [
+    "rafael-lozano-hemmer"
+   ],
+   "title": "Vicious Circular Breathing",
+   "year": 2013,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "breath"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A sealed glass room of motorised bellows and brown paper bags where visitors may enter and breathe air already breathed by everyone before them.",
+   "description_zh": "一个密封的玻璃房间，装有电动风箱与牛皮纸袋，观众可以进入并呼吸之前所有人呼出过的空气。",
+   "idea_en": "Air becomes a shared, recycled body: to enter is to take in the breath of strangers.",
+   "idea_zh": "空气成为共享、循环的身体：进入就意味着吸入陌生人的呼吸。",
+   "method": "Closed-circuit system of bellows, tubes and paper bags that inflate and deflate like lungs; entry requires signing a risk waiver.",
+   "method_zh": "由风箱、管道与像肺一样鼓起又瘪下的纸袋组成的闭合循环系统；进入者需签署风险声明。",
+   "keywords": [
+    "breath",
+    "bellows",
+    "paper bags",
+    "shared air",
+    "Venice Biennale"
+   ],
+   "shown_at": [
+    "Borusan Contemporary Istanbul 2013",
+    "Musée d'art contemporain de Montréal 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=b5BG4F8Nd7g"
+   },
+   "images": [
+    "https://www.lozano-hemmer.com/image_sets/vicious_circular_breathing/monterrey_2019/vcb_monterrey_2019_my_505A7355_t.jpg"
+   ],
+   "source_url": "https://www.lozano-hemmer.com/vicious_circular_breathing.php"
+  },
+  {
+   "id": "rafael-lozano-hemmer--last-breath",
+   "creator_ids": [
+    "rafael-lozano-hemmer"
+   ],
+   "title": "Last Breath",
+   "year": 2012,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "breath",
+    "time-scale"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A device that stores a breath of Cuban singer Omara Portuondo in a brown paper bag and circulates it forever, inflating and deflating as if breathing.",
+   "description_zh": "一个装置，把古巴歌手 Omara Portuondo 的一口呼吸储存在牛皮纸袋中，让它永远循环，像呼吸一样鼓起又瘪下。",
+   "idea_en": "A single breath is kept alive as air in motion, outliving the body that exhaled it.",
+   "idea_zh": "一口呼吸以流动的空气被保存下来，比呼出它的身体活得更久。",
+   "method": "Sealed bellows and tubing circulate the stored air through a paper bag; a display counts the breaths.",
+   "method_zh": "密封的风箱与管道让储存的空气在纸袋中循环；显示屏计数呼吸次数。",
+   "keywords": [
+    "breath",
+    "Omara Portuondo",
+    "paper bag",
+    "bellows"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=C9s-MUdXmm4"
+   },
+   "images": [
+    "https://www.lozano-hemmer.com/image_sets/last_breath/naples_2024/last_breath_naples_2024_rlh_001_t.jpg"
+   ],
+   "source_url": "https://www.lozano-hemmer.com/last_breath.php"
+  },
+  {
+   "id": "rafael-lozano-hemmer--atmospheric-memory",
+   "creator_ids": [
+    "rafael-lozano-hemmer"
+   ],
+   "title": "Atmospheric Memory",
+   "year": 2019,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "breath",
+    "hearing",
+    "multisensory"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "An exhibition of works that capture visitors' voices and breath in the air — as ripples in water, vapour clouds, words in mist and weather — inspired by Charles Babbage's idea that the air is a library of every word ever spoken.",
+   "description_zh": "一个展览，把观众的声音与呼吸捕捉在空气中——化为水面波纹、蒸汽云、雾中的文字与天气——灵感来自 Charles Babbage 关于空气是所有话语之图书馆的设想。",
+   "idea_en": "The atmosphere is treated as a recording medium that holds every breath and word.",
+   "idea_zh": "大气被当作一种记录介质，保存着每一次呼吸与每一句话。",
+   "method": "Microphones, breath sensors, vapour printers, ultrasonic misters and water tanks translate speech and breath into visible air and water patterns.",
+   "method_zh": "麦克风、呼吸传感器、蒸汽打印机、超声波雾化器与水箱，把话语与呼吸转化为可见的空气与水的图案。",
+   "keywords": [
+    "Charles Babbage",
+    "breath",
+    "vapour",
+    "mist",
+    "Manchester International Festival"
+   ],
+   "also": [
+    "robot"
+   ],
+   "shown_at": [
+    "Manchester International Festival 2019"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=RdduY-CUBHM"
+   },
+   "source_url": "https://www.lozano-hemmer.com/atmospheric_memory.php"
+  },
+  {
+   "id": "tomas-saraceno--aerocene",
+   "creator_ids": [
+    "tomas-saraceno"
+   ],
+   "title": "Aerocene",
+   "year": 2015,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "performance",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "An open community and art project flying sculptures lifted only by the sun's heat and the air, with no fossil fuels, helium or batteries.",
+   "description_zh": "一个开放的社群与艺术项目，放飞只靠太阳热量与空气升起的雕塑，不用化石燃料、氦气或电池。",
+   "idea_en": "To float on air and sun alone is to live with the atmosphere as a medium, following winds instead of routes.",
+   "idea_zh": "只靠空气与阳光漂浮，就是把大气当作生活的介质，追随风而不是航线。",
+   "method": "Solar balloon sculptures of lightweight film heated by sunlight; community launches with open-source 'Aerocene Explorer' kits.",
+   "method_zh": "用轻薄薄膜制作、由阳光加热的太阳能气球雕塑；社群用开源的“Aerocene Explorer”套件放飞。",
+   "keywords": [
+    "solar balloon",
+    "air",
+    "fossil-free",
+    "Aerocene Explorer",
+    "COP21"
+   ],
+   "shown_at": [
+    "COP21 Paris, Grand Palais 2015"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZIyljW9ejxU"
+   },
+   "images": [
+    "https://aerocene.org/wp-content/uploads/2020/03/TS_09MAS_museo-prato_00121edit.jpg"
+   ],
+   "source_url": "https://aerocene.org/"
+  },
+  {
+   "id": "tomas-saraceno--fly-with-aerocene-pacha",
+   "creator_ids": [
+    "tomas-saraceno"
+   ],
+   "title": "Fly with Aerocene Pacha",
+   "year": 2020,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "A solar-powered balloon flight over the Salinas Grandes in Argentina that carried a person aloft using only sun and air, made with local Indigenous communities.",
+   "description_zh": "在阿根廷萨利纳斯大盐沼上空的一次太阳能气球飞行，只靠阳光与空气把人带上天空，与当地原住民社群共同完成。",
+   "idea_en": "A human body is lifted by the atmosphere alone, joining the air as a traveller rather than a passenger of engines.",
+   "idea_zh": "人的身体仅靠大气被托起，作为旅行者而不是引擎的乘客加入空气之中。",
+   "method": "Tethered solar balloon heated by sunlight, flown in a record-setting human flight on 25 January 2020.",
+   "method_zh": "由阳光加热的系留太阳能气球，于 2020 年 1 月 25 日完成创纪录的载人飞行。",
+   "keywords": [
+    "solar balloon",
+    "Salinas Grandes",
+    "Argentina",
+    "record flight",
+    "Indigenous communities"
+   ],
+   "shown_at": [
+    "CONNECT, BTS 2020"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=AG_UXEXg_Mk"
+   },
+   "images": [
+    "https://aerocene.org/wp-content/uploads/2020/01/19ARG_BTS_AerocenePacha_03637-1.jpg"
+   ],
+   "source_url": "https://aerocene.org/pacha/"
+  },
+  {
+   "id": "tomas-saraceno--in-orbit",
+   "creator_ids": [
+    "tomas-saraceno"
+   ],
+   "title": "in orbit",
+   "year": 2013,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "body",
+    "collective-sense"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A walkable net suspended 25 metres above the piazza of K21 Ständehaus, with giant air-filled spheres, where visitors climb and feel each other's movements through the mesh.",
+   "description_zh": "悬挂在 K21 Ständehaus 中庭上方 25 米的可行走网，配有巨大的充气球体，观众攀爬其中，并通过网感受彼此的动作。",
+   "idea_en": "Walking on air like a cloud-dweller, and sensing others through vibration, borrows a spider's way of knowing space.",
+   "idea_zh": "像云中居民一样在空中行走，通过振动感知他人，借用了蜘蛛认识空间的方式。",
+   "method": "Three layers of steel-wire mesh spanning 2,500 m², with PVC spheres; the net transmits the movements of up to ten visitors.",
+   "method_zh": "三层钢丝网，面积 2500 平方米，配 PVC 球体；网会传递多达十名观众的动作。",
+   "keywords": [
+    "net",
+    "cloud cities",
+    "K21",
+    "Düsseldorf",
+    "vibration"
+   ],
+   "also": [
+    "insect"
+   ],
+   "shown_at": [
+    "K21 Ständehaus Düsseldorf 2013"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ROqL-8h_7DM"
+   },
+   "images": [
+    "https://studiotomassaraceno.org/files/ts_11k21_51331-1400x933-e1614949390714.jpg"
+   ],
+   "source_url": "https://studiotomassaraceno.org/in-orbit/"
+  },
+  {
+   "id": "fujiko-nakaya--fog-sculpture",
+   "creator_ids": [
+    "fujiko-nakaya"
+   ],
+   "title": "Fog Sculpture",
+   "year": 1970,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "vision",
+    "touch",
+    "multisensory"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A series of sculptures of artificial fog, begun at the Pepsi Pavilion at Expo '70, which envelop visitors, erase sight lines and move with wind and temperature.",
+   "description_zh": "一系列人工雾雕塑，始于 1970 年大阪世博会百事馆，包裹观众、抹去视线，并随风与温度移动。",
+   "idea_en": "Standing inside a cloud, people lose their outlines and feel weather as a body around them.",
+   "idea_zh": "站在云中，人失去轮廓，感到天气是环绕自己的一个身体。",
+   "method": "High-pressure pumps push pure water through micro-nozzles to make droplets small enough to hang in the air, choreographed with local wind data.",
+   "method_zh": "高压泵把纯净水压过微型喷嘴，产生能悬浮在空气中的细小水滴，并依据当地风况编排。",
+   "keywords": [
+    "fog",
+    "cloud",
+    "Expo '70",
+    "Pepsi Pavilion",
+    "E.A.T.",
+    "Thomas Mee"
+   ],
+   "shown_at": [
+    "Expo '70 Osaka",
+    "Exploratorium Fog Bridge 2013"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=f0ynptF97n4"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Fujiko_Nakaya"
+  },
+  {
+   "id": "michael-pinsky--pollution-pods",
+   "creator_ids": [
+    "michael-pinsky"
+   ],
+   "title": "Pollution Pods",
+   "year": 2017,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "breath",
+    "smell",
+    "multisensory"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "Five linked geodesic domes that recreate the air of London, Beijing, New Delhi, São Paulo and Tautra in Norway, which visitors walk through and breathe.",
+   "description_zh": "五个相连的测地线穹顶，重现伦敦、北京、新德里、圣保罗与挪威陶特拉的空气，观众穿行其中并呼吸。",
+   "idea_en": "Air quality becomes an experience of the lungs, smell and eyes rather than a number.",
+   "idea_zh": "空气质量变成肺、嗅觉与眼睛的体验，而不是一个数字。",
+   "method": "Mixtures of safe chemicals, scent and humidity calibrated to each city's pollution profile, released inside each dome.",
+   "method_zh": "按各城市污染特征调配的安全化学物质、气味与湿度，释放到每个穹顶内。",
+   "keywords": [
+    "air pollution",
+    "geodesic dome",
+    "Beijing",
+    "New Delhi",
+    "Climate Futures Trondheim"
+   ],
+   "shown_at": [
+    "Trondheim 2017",
+    "Somerset House London 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=I7nMME-3aC8"
+   },
+   "source_url": "https://www.michaelpinsky.com/project/pollution-pods/"
+  },
+  {
+   "id": "jenova-chen--cloud",
+   "creator_ids": [
+    "jenova-chen"
+   ],
+   "title": "Cloud",
+   "year": 2005,
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A student game from USC in which a boy in hospital dreams of flying, gathering clouds into larger ones and making it rain over the land.",
+   "description_zh": "一款南加州大学的学生游戏：住院的男孩梦见自己飞翔，把云聚成更大的云，在大地上降雨。",
+   "idea_en": "Landmark counterpoint: the player is a dreaming boy, not a cloud, but pulling, merging and raining clouds makes weather a material shaped by the body.",
+   "idea_zh": "标志性对照作品：玩家是一个做梦的男孩而不是云，但牵引、融合云朵并降雨，让天气成为身体塑造的材料。",
+   "method": "PC game made by a USC Interactive Media student team; the mouse draws clouds together and triggers rain.",
+   "method_zh": "南加州大学互动媒体学生团队制作的电脑游戏；用鼠标聚拢云朵并触发降雨。",
+   "keywords": [
+    "cloud",
+    "rain",
+    "flight",
+    "USC Interactive Media",
+    "student game"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zM0NwnQV0Nk"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/8/89/Cloudbox.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Cloud_(video_game)"
+  },
+  {
+   "id": "eric-chahi--from-dust",
+   "creator_ids": [
+    "eric-chahi"
+   ],
+   "title": "From Dust",
+   "year": 2011,
+   "field": "river",
+   "sub": "earth",
+   "senses": [
+    "touch",
+    "time-scale"
+   ],
+   "medium": [
+    "game",
+    "screen"
+   ],
+   "kind": "game",
+   "description": "A god game in which the player, as 'the Breath', scoops and pours sand, water and lava to reshape an island and protect a tribe from floods and eruptions.",
+   "description_zh": "一款上帝模拟游戏：玩家作为“气息”，舀起并倾倒沙、水与熔岩，重塑岛屿，保护一个部落免受洪水与火山喷发。",
+   "idea_en": "The player is a geological force, learning how rivers carve sand and lava hardens into rock.",
+   "idea_zh": "玩家是一股地质力量，学习河流如何切割沙地、熔岩如何凝成岩石。",
+   "method": "Real-time simulation of sediment, water flow, erosion and lava on a heightfield terrain.",
+   "method_zh": "在高度场地形上实时模拟沉积、水流、侵蚀与熔岩。",
+   "keywords": [
+    "erosion",
+    "lava",
+    "water simulation",
+    "Ubisoft Montpellier",
+    "god game"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mkdAssf3kJA"
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/3/3b/From_Dust_cover.png"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/From_Dust"
+  },
+  {
+   "id": "stephan-harding--deep-time-walk",
+   "creator_ids": [
+    "stephan-harding"
+   ],
+   "title": "Deep Time Walk",
+   "year": 2016,
+   "field": "river",
+   "sub": "earth",
+   "senses": [
+    "time-scale",
+    "body"
+   ],
+   "medium": [
+    "audio",
+    "performance"
+   ],
+   "kind": "artwork",
+   "description": "An audio walk in which each metre walked equals a million years, so a 4.6 km walk takes the listener through Earth's whole history, with humans arriving in the last few centimetres.",
+   "description_zh": "一段音频漫步：每走一米等于一百万年，4.6 公里的行走带听者穿越地球的全部历史，人类只出现在最后几厘米。",
+   "idea_en": "Walking deep time with your own legs turns geological scale into bodily effort and distance.",
+   "idea_zh": "用自己的双腿走过深时间，把地质尺度变成身体的努力与距离。",
+   "method": "Smartphone app with a dramatised audio script by the ecologist, synchronised to GPS distance walked.",
+   "method_zh": "手机应用，由生态学家撰写的戏剧化音频脚本与 GPS 记录的步行距离同步。",
+   "keywords": [
+    "deep time",
+    "Gaia",
+    "Schumacher College",
+    "audio walk",
+    "GPS"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5kY24DUm0VM"
+   },
+   "images": [
+    "https://www.deeptimewalk.org/wp-content/uploads/2017/12/feature-product-app.jpg"
+   ],
+   "source_url": "https://www.deeptimewalk.org/"
+  },
+  {
+   "id": "katie-paterson--earth-moon-earth",
+   "creator_ids": [
+    "katie-paterson"
+   ],
+   "title": "Earth–Moon–Earth (Moonlight Sonata Reflected from the Surface of the Moon)",
+   "year": 2007,
+   "field": "river",
+   "sub": "planet",
+   "senses": [
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "audio",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "Beethoven's Moonlight Sonata translated into Morse code, bounced off the Moon by radio and played back on a self-playing piano with the notes the Moon's surface lost.",
+   "description_zh": "贝多芬的《月光奏鸣曲》被转成摩尔斯电码，用无线电发射到月球再反射回来，由自动钢琴演奏，缺失的音符被月面吞没。",
+   "idea_en": "The Moon becomes a co-author: its craters and shadows erase parts of the music.",
+   "idea_zh": "月球成为共同作者：它的环形山与阴影抹去了部分音乐。",
+   "method": "Earth–Moon–Earth radio transmission by amateur radio operators; received Morse code re-translated into a score for a player piano.",
+   "method_zh": "由业余无线电爱好者完成地-月-地无线电传输；接收到的摩尔斯电码重新转为自动钢琴的乐谱。",
+   "keywords": [
+    "Moon",
+    "EME radio",
+    "Morse code",
+    "Moonlight Sonata",
+    "player piano"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zwUSkLf1OVg"
+   },
+   "images": [
+    "https://i0.wp.com/katiepaterson.org/wp-content/uploads/2022/02/Katie_Paterson_EME_4_33.jpg?resize=1920%2C2947&ssl=1"
+   ],
+   "source_url": "https://katiepaterson.org/artwork/earth-moon-earth/"
+  },
+  {
+   "id": "eliza-mcnitt--spheres",
+   "creator_ids": [
+    "eliza-mcnitt",
+    "atlas-v"
+   ],
+   "title": "Spheres",
+   "year": 2018,
+   "field": "river",
+   "sub": "planet",
+   "senses": [
+    "time-scale",
+    "hearing"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "film",
+   "description": "An interactive VR series in three chapters where the viewer holds planets, listens to the sounds of space and falls into a black hole, narrated by Millie Bobby Brown, Jessica Chastain and Patti Smith.",
+   "description_zh": "一个三章互动 VR 系列：观众手捧行星、聆听太空的声音、坠入黑洞，由 Millie Bobby Brown、Jessica Chastain 与 Patti Smith 旁白。",
+   "idea_en": "Cosmic scale is reached through the hands and ears: you hold a star system and hear gravitational waves.",
+   "idea_zh": "用手与耳抵达宇宙尺度：你握着一个星系，听见引力波。",
+   "method": "Real-time VR with hand controllers and spatial audio based on astrophysical data, including LIGO gravitational-wave sounds.",
+   "method_zh": "带手柄与空间音频的实时 VR，基于天体物理数据，包括 LIGO 的引力波声音。",
+   "keywords": [
+    "black hole",
+    "gravitational waves",
+    "LIGO",
+    "Darren Aronofsky",
+    "Protozoa Pictures"
+   ],
+   "shown_at": [
+    "Sundance New Frontier 2018",
+    "Venice VR 2018 Grand Jury Prize"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Wv6P36Z4HDA"
+   },
+   "images": [
+    "https://atlasv.io/wp-content/uploads/2026/01/Spheres_Key-Art-scaled.jpg"
+   ],
+   "source_url": "https://atlasv.io/spheres/"
+  },
+  {
+   "id": "felix-and-paul-studios--space-explorers",
+   "creator_ids": [
+    "felix-and-paul-studios"
+   ],
+   "title": "Space Explorers: The ISS Experience",
+   "year": 2020,
+   "field": "river",
+   "sub": "planet",
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "film360",
+    "dome"
+   ],
+   "kind": "film",
+   "description": "A cinematic VR series filmed aboard the International Space Station, including the first spacewalk filmed in 3D 360°, with the Earth turning below.",
+   "description_zh": "一个在国际空间站上拍摄的电影级 VR 系列，包括首次以三维 360° 拍摄的太空行走，地球在下方旋转。",
+   "idea_en": "It offers the 'overview effect' — Earth seen whole, from outside — as a first-person view.",
+   "idea_zh": "它以第一人称提供“总观效应”——从外部看到完整的地球。",
+   "method": "Custom 3D 360° cameras built with TIME Studios and operated by astronauts inside and outside the ISS.",
+   "method_zh": "与 TIME Studios 合作定制的三维 360° 摄像机，由宇航员在空间站内外操作。",
+   "keywords": [
+    "ISS",
+    "overview effect",
+    "spacewalk",
+    "TIME Studios",
+    "3D 360"
+   ],
+   "shown_at": [
+    "The Infinite exhibition 2021"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KfH_ZGdm-T8"
+   },
+   "images": [
+    "https://www.felixandpaul.com/img/share.jpg"
+   ],
+   "source_url": "https://www.felixandpaul.com/?spaceexplorers"
+  },
+  {
+   "id": "bbc--home-a-vr-spacewalk",
+   "creator_ids": [
+    "bbc"
+   ],
+   "title": "Home: A VR Spacewalk",
+   "year": 2017,
+   "field": "river",
+   "sub": "planet",
+   "senses": [
+    "vision",
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A VR experience that puts visitors in a spacesuit outside the International Space Station, working on the hull with the whole Earth turning below.",
+   "description_zh": "一个 VR 体验，让观众穿着宇航服置身国际空间站外，在舱体上作业，整个地球在脚下转动。",
+   "idea_en": "Floating in orbit makes the planet a single body you see in one glance, and your own body small and fragile beside it.",
+   "idea_zh": "在轨道上漂浮，让星球成为一眼可见的整体，而你的身体在它旁边渺小而脆弱。",
+   "method": "Real-time Unreal Engine scene on Rift and Vive, developed with astronaut Tim Peake's input; the installation version monitored visitors' heart rate (likely).",
+   "method_zh": "在 Rift 与 Vive 上运行的实时 Unreal Engine 场景，开发中听取了宇航员 Tim Peake 的意见；装置版本可能监测了观众心率。",
+   "keywords": [
+    "ISS",
+    "spacewalk",
+    "Tim Peake",
+    "Unreal Engine",
+    "overview effect"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=T1Wzgm8DkkU"
+   }
+  },
+  {
+   "id": "laurie-anderson--to-the-moon",
+   "creator_ids": [
+    "laurie-anderson",
+    "hsin-chien-huang"
+   ],
+   "title": "To the Moon",
+   "year": 2018,
+   "field": "river",
+   "sub": "planet",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A 15-minute VR work in which the viewer is shot out from Earth, walks on the Moon, glides through space debris and DNA skeletons, and is thrown off a lunar mountain.",
+   "description_zh": "一件 15 分钟的 VR 作品：观众从地球被发射出去，在月球上行走，穿过太空垃圾与 DNA 骨架，最后被从月球山上抛下。",
+   "idea_en": "Seeing Earth from the Moon, in low gravity, turns the planet into something distant and lost.",
+   "idea_zh": "在低重力中从月球回望地球，让这颗星球变得遥远而失落。",
+   "method": "Real-time VR with hand controllers and low-gravity locomotion across six scenes.",
+   "method_zh": "带手柄与低重力移动方式的实时 VR，共六个场景。",
+   "keywords": [
+    "Moon",
+    "low gravity",
+    "space debris",
+    "Louisiana Museum",
+    "Manchester International Festival"
+   ],
+   "shown_at": [
+    "Louisiana Museum of Modern Art 2018",
+    "Manchester International Festival 2019"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GJcjcWcSItk"
+   },
+   "source_url": "https://laurieanderson.com"
+  },
+  {
+   "id": "luke-jerram--gaia",
+   "creator_ids": [
+    "luke-jerram"
+   ],
+   "title": "Gaia",
+   "year": 2018,
+   "field": "river",
+   "sub": "planet",
+   "senses": [
+    "vision",
+    "time-scale"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A seven-metre illuminated globe printed with NASA imagery of Earth, hung in cathedrals, museums and festivals with a surround soundscape.",
+   "description_zh": "一个七米直径的发光地球仪，印有 NASA 地球影像，悬挂在大教堂、博物馆与节庆现场，配有环绕声景。",
+   "idea_en": "Counterpoint: a screen-free overview effect, seeing the whole planet hanging at human scale.",
+   "idea_zh": "对照作品：无需屏幕的“总观效应”，在人的尺度上看见悬挂着的完整星球。",
+   "method": "Internally lit inflatable sculpture printed with NASA Blue Marble imagery at about 1.8 million to one, with music by Dan Jones.",
+   "method_zh": "内部照明的充气雕塑，印有约 1:180 万比例的 NASA“蓝色弹珠”影像，Dan Jones 配乐。",
+   "keywords": [
+    "Earth",
+    "overview effect",
+    "NASA imagery",
+    "Blue Marble",
+    "touring artwork"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sjvw-8VwAbw"
+   },
+   "images": [
+    "https://my-gaia.com/www.my-gaia.com/wp-content/uploads/2018/03/0231-1-1.jpg"
+   ],
+   "source_url": "https://my-gaia.com/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Face Jumping (Gorman & Cannizzaro, 2025)",
+   "why": "Venice Immersive 2025 VR where an aquarium axolotl pulls the viewer into water and through several nonhuman perspectives; multispecies, so left for the animals batch.",
+   "link": "https://mediaenviron.org/article/161234-liquid-vr-exhibition-review-venice-immersive-2025",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "SOLWATA (Felix Gaedtke & Gayatri Parameswaran, 2026)",
+   "why": "Venice Immersive 2026 mixed-reality work set in the Solomon Islands, likely about sea-level rise; not yet verified.",
+   "link": "https://xrmust.com/xr-magazine/venice-immersive-2026-10th-edition/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Planet ∞ (Momoko Seto, 2017)",
+   "why": "VR short in a ruined world after climate change populated by giant carnivorous tadpoles; perspective and scale not verified.",
+   "link": "https://www.youtube.com/watch?v=gKcmHYc4BtA",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Octopocalypse (Max Sacker & Arite Szadkowski, 2026)",
+   "why": "Venice Immersive 2026 installation about ocean creatures; octopus batch may want it.",
+   "link": "https://xrmust.com/xr-magazine/venice-immersive-2026-10th-edition/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Leah Barclay — Ocean Listening / Hydrology",
+   "why": "Hydrophone projects on the Great Barrier Reef (2016) and an immersive sound environment of aquatic ecosystems; good companions to River Listening.",
+   "link": "https://leahbarclay.com/portfolio_page/hydrology/",
+   "found_via": "leah-barclay",
+   "status": "open"
+  },
+  {
+   "name": "John Luther Adams — Become River (2010)",
+   "why": "Chamber orchestra work, sibling to Become Ocean; could be added as a river counterpoint.",
+   "link": "https://www.youtube.com/watch?v=dfTPF6IwtRk",
+   "found_via": "john-luther-adams",
+   "status": "open"
+  },
+  {
+   "name": "Annea Lockwood — Becoming Air",
+   "why": "Recent work whose title matches the air sub-category; content not checked.",
+   "link": "https://www.youtube.com/watch?v=hv1Q8nqC4XY",
+   "found_via": "annea-lockwood",
+   "status": "open"
+  },
+  {
+   "name": "Ursula Biemann — Becoming Earth",
+   "why": "Exhibition and research platform on Earth systems and Indigenous knowledge; possible earth/deep-time entry.",
+   "link": "https://www.youtube.com/watch?v=BlDV-CuMZ0A",
+   "found_via": "ursula-biemann",
+   "status": "open"
+  },
+  {
+   "name": "Coral Compass: Fighting Climate Change in Palau (Stanford VHIL, 2017)",
+   "why": "360° film about Palau's reefs; shows rather than embodies, so skipped.",
+   "link": "https://www.youtube.com/watch?v=JgApJAarFkY",
+   "found_via": "stanford-vhil",
+   "status": "off_topic"
+  },
+  {
+   "name": "Our Blue Planet VR (BBC Earth)",
+   "why": "3D 360° dives with manta rays and octopuses; nature documentary without embodiment.",
+   "link": "https://www.youtube.com/watch?v=MIFVtVYfU90",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Feed and Grow: Fish (2016)",
+   "why": "Indie game where the player is a fish that grows by eating others; developer not verified.",
+   "link": "https://www.youtube.com/watch?v=i1zwzRkzSaY",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Adventure: Ice Dive / Submerged (Apple Immersive, 2024)",
+   "why": "Apple Vision Pro immersive films underwater and under ice, shown at Venice Immersive 2025; human protagonists.",
+   "link": "https://www.labiennale.org/en/news/venice-immersive-selection-and-competition-announced",
+   "found_via": "seed",
+   "status": "off_topic"
+  },
+  {
+   "name": "Doug Aitken — Underwater Pavilions (2016)",
+   "why": "Mirrored sculptures moored underwater off Catalina Island that divers swim through; no official video found.",
+   "link": "https://www.dougaitkenworkshop.com",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Seeds not found: Becoming Coral, Hydrocosm, We Are Ocean, In the Belly of the Whale, Vertical Oceans, Whale VR",
+   "why": "Searched on YouTube and the web without finding a verifiable XR work under these titles. (Breathe is Diego Galafassi's Sundance 2020 work, covered by the festivals batch.)",
+   "link": "",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Paul Walde — Requiem for a Glacier (2013)",
+   "why": "Orchestral performance on the Farnham Glacier in British Columbia; glacier counterpoint.",
+   "link": "",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Agnes Meyer-Brandis — Cloud Core Scanner (2009)",
+   "why": "Artist research on cloud formation in zero gravity; air/weather counterpoint.",
+   "link": "",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
+}
