@@ -2,7 +2,7 @@
 
 用 XR 与感官技术让人成为另一种存在（蝙蝠、鼹鼠、鱼、章鱼、鸟、昆虫、动物、真菌、树、河流、机器人）的作品目录：艺术作品、沉浸式影片、游戏、研究原型与论文，由 Reality Design Lab 为《Experiencing More-than-Humans》一书整理。每件作品都列出核心想法、实现方式，以及视频、图片和论文链接。
 
-https://becoming.reality.design · 2026-09-28 · 118 位创作者 · 131 件作品
+https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -56,6 +56,13 @@ https://becoming.reality.design · 2026-09-28 · 118 位创作者 · 131 件作�
 - 图片: https://yiouwang.org/wp-content/uploads/2022/01/BATOPIA_Human_to_Bat.jpg https://yiouwang.org/wp-content/uploads/Batopia_game_scene_52-1024x542.png
 - 项目主页: https://yiouwang.org/portfolio/batopia-empathic-listening/
 
+#### BatSight — Samira Poudratchi (2024)
+- 类型: 研究原型 · 感官: 回声定位, 听觉与振动 · 媒介: 可穿戴与感官装置, 游戏, 增强现实
+- 核心想法: 像蝙蝠一样玩：只靠耳朵在真实空间中导航。
+- 作品内容: 一款音频游戏：蒙眼玩家戴着声呐头戴设备在实体迷宫中行走，障碍物被转换成音乐声音。
+- 实现方式: 头戴超声波测距传感器，通过耳机映射为音乐提示，在类 AR 的实体迷宫中进行。
+- 论文: https://doi.org/10.17083/ijsg.v11i1.718 (International Journal of Serious Games 2024)
+
 #### EchoVision — Botao 'Amber' Hu, Jiabao Li, Danlin Huang, Reality Design Lab (2024)
 - 类型: 艺术作品 · 感官: 回声定位, 听觉与振动, 改变的视觉 · 媒介: 混合现实, 多感官装置
 - 展出于: SIGGRAPH Asia 2024 Art Papers & XR; UbiComp/ISWC 2024 Design Exhibition; IEEE VIS 2024 Arts Program; West Bund Art Festival 2024; TANK Art Festival 2024; The Contemporary Austin / Fusebox 2024; SXSW 2025 XR Experience; IEEE VR 2025 XR Gallery; ACM CHI 2025 Interactivity; Augmented Humans 2025 Best Demo Award; CURRENTS New Media 2025; Plásmata 3, Onassis Stegi, Athens 2025
@@ -77,6 +84,21 @@ https://becoming.reality.design · 2026-09-28 · 118 位创作者 · 131 件作�
 - 图片: https://static.wixstatic.com/media/d3b537_b626097b5cf7487dbf6534e5de61e602f000.jpg https://static.wixstatic.com/media/d3b537_e41f0c44438d411a80537c8f091eeaea~mv2.jpg https://static.wixstatic.com/media/d3b537_873d05ab58a749ac8115da3777735c85~mv2.jpg
 - 项目主页: https://www.zhengmahler.world/whatisitliketobeavirtualbat
 
+#### Echolocation-Enabled Virtual Environments — Ronny Andrade (2022)
+- 类型: 论文 · 感官: 回声定位, 听觉与振动 · 媒介: VR 头显, 空间音频, 游戏
+- 核心想法: 已经在使用回声定位的人，是设计 VR 回声定位的最佳人选。
+- 作品内容: 盲人回声定位专家参与设计并测试可以通过弹舌与聆听回声来探索的虚拟环境。
+- 实现方式: 通过焦点小组进行参与式设计，并在游戏引擎中做了两轮声线追踪回声原型迭代。
+- 论文: https://doi.org/10.1145/3516448 (ACM Transactions on Accessible Computing 2022)
+
+#### Auditory Feedback for Navigation with Echoes — Anastassia Andreasen (2019)
+- 类型: 论文 · 感官: 回声定位, 听觉与振动 · 媒介: VR 头显, 空间音频
+- 核心想法: 回声定位可以在 VR 中作为导航技能被学会，而不仅仅是被模拟的效果。
+- 作品内容: 一套训练流程，让明眼人只靠回声在虚拟迷宫中导航，并研究他们形成的定向策略。
+- 实现方式: 通过耳机实时渲染自发的弹舌声及其在虚拟迷宫中的反射。
+- 论文: https://doi.org/10.1109/tvcg.2019.2898787 (IEEE TVCG 2019 (IEEE VR 2019))
+- 视频: https://www.youtube.com/watch?v=Z8ndSJDbSok
+
 #### What Is It Like to Be a Virtual Bat? — Anastassia Andreasen (2018)
 - 类型: 论文 · 感官: 回声定位, 身体图式与运动 · 媒介: VR 头显
 - 核心想法: 把内格尔的问题变成设计任务：把蝙蝠的身体与蝙蝠的听觉结合起来。
@@ -84,6 +106,13 @@ https://becoming.reality.design · 2026-09-28 · 118 位创作者 · 131 件作�
 - 实现方式: 头戴显示器加手臂追踪实现扇翅，用 HRTF 实时渲染空间音频回声。
 - 论文: https://doi.org/10.1007/978-3-030-06134-0_57 (ArtsIT 2018 (LNICST 2019))
 - 视频: https://www.youtube.com/watch?v=uB2ApqoNzzU
+
+#### Bat-Modelled Sonar in Virtual Environments — Dean A. Waters (2007)
+- 类型: 论文 · 感官: 回声定位, 听觉与振动 · 媒介: VR 头显, 空间音频
+- 核心想法: 早期证据：蝙蝠式的回声处理可以引导人在 VR 中移动。
+- 作品内容: 一位蝙蝠生物学家把蝙蝠声呐模型用作人在虚拟环境中移动的导航工具，延续了他 2001 年的“虚拟蝙蝠”研究。
+- 实现方式: 根据虚拟场景几何计算合成的调频叫声与回声，以双耳方式播放（细节依据摘要级资料；很可能是桌面 VR）。
+- 论文: https://doi.org/10.1016/j.ijhcs.2007.06.001 (International Journal of Human-Computer Studies 2007)
 
 #### Darker Than Night — Eduardo Kac (1999)
 - 类型: 艺术作品 · 感官: 回声定位, 听觉与振动 · 媒介: VR 头显, 多感官装置
@@ -343,6 +372,17 @@ https://becoming.reality.design · 2026-09-28 · 118 位创作者 · 131 件作�
 ### 共享与集体的身体
 
 多人共享一个身体，或多个身体如同一体地行动。
+
+#### TentacUs — Botao 'Amber' Hu, Danlin Huang, Reality Design Lab (2025)
+- 类型: 表演 · 感官: 触觉, 集体与网络感知, 身体图式与运动 · 媒介: 混合现实, 可穿戴与感官装置, 表演与参与式
+- 展出于: SIGGRAPH Asia 2025 XR
+- 核心想法: 成为章鱼，意味着没有中心的智能：许多身体作为同一生命的触手去感知与移动。
+- 作品内容: 一场混合现实仪式：舞者左手相牵围成一圈，每人成为一只集体“章鱼”的一条触手；一只右手感到的周围环境，会以振动传给相邻的人。
+- 实现方式: 柔软织物触手手套内置智能手机：LiDAR 感知距离，振动马达把触觉波传给相邻舞者；触碰数据以点云形式绘制在现场的 3D 高斯泼溅扫描上，供观众观看。
+- 论文: https://doi.org/10.1145/3761667.3761962 (SIGGRAPH Asia 2025 XR)
+- 图片: https://arxiv.org/html/2511.12533v3/images/tentacus.jpg https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/afd62d02-7102-4a26-b5b4-03df6cc2744b/image2/public
+- 项目主页: https://amber.botao.hu/design/tentacus
+- 代码: https://github.com/realitydeslab/tentacus
 
 #### GravField — Botao 'Amber' Hu, Reality Design Lab (2024)
 - 类型: 表演 · 感官: 身体图式与运动, 集体与网络感知, 听觉与振动 · 媒介: 混合现实, 表演与参与式, 空间音频
@@ -848,6 +888,16 @@ https://becoming.reality.design · 2026-09-28 · 118 位创作者 · 131 件作�
 - 论文: https://doi.org/10.1145/2407336.2407344 (ACM VRST 2012)
 - 视频: https://www.youtube.com/watch?v=5Dm0wH9TDjw
 
+#### Animal Superpowers — Chris Woebken, Kenichi Okada (2008)
+- 类型: 研究原型 · 感官: 改变的视觉, 磁感应, 身体图式与运动 · 媒介: 可穿戴与感官装置
+- 展出于: Design and the Elastic Mind, MoMA New York 2008
+- 核心想法: 每个装置借用一种动物感官，并适配儿童的身体和游戏，让好奇心成为界面。
+- 作品内容: 一组给儿童的可穿戴设备：用手上的显微镜把视觉放大 50 倍的“蚂蚁装置”、朝选定方向振动的“鸟装置”、把声音压低并把视线抬高 30 厘米的“长颈鹿装置”；2015 年又加入可以听见超声的“蝙蝠护目镜”。
+- 实现方式: 手持显微摄像头连接头部显示、GPS 驱动振动、变声配合加高底座，以及超声波蝙蝠探测器。
+- 视频: https://www.youtube.com/watch?v=L9oTcez2CXU
+- 图片: https://freight.cargo.site/t/original/i/ad1784c02faa9d2afb6614fa878b4982436d2d58292e1349ebee13b3d8c6a682/2232862656_cba3f094c1_o.jpg https://freight.cargo.site/t/original/i/067d74e44844e7aca2661cd3baab576aa3fb852d9130e7525a1d6fce5ad67c0d/animals3.jpg
+- 项目主页: https://www.chriswoebken.com/animal-superpowers
+
 #### Placeholder — Brenda Laurel, Rachel Strickland (1993)
 - 类型: 艺术作品 · 感官: 改变的视觉, 身体图式与运动, 听觉与振动 · 媒介: VR 头显
 - 展出于: Banff Centre for the Arts 1993
@@ -1290,14 +1340,14 @@ https://becoming.reality.design · 2026-09-28 · 118 位创作者 · 131 件作�
 
 ## 创作者
 
-- **Botao 'Amber' Hu** (5) — 设计研究者；Reality Design Lab 主理人；牛津大学博士候选人. 研究横跨身体美学设计、混合现实与超越人类的感知调谐，发明了开源头显 HoloKit。专著《Experiencing More-than-Humans》的第一作者，主导了 EchoVision、FungiSync、TentacUs、GravField 与 City of Sparkles 等作品。 https://amber.botao.hu
-- **Reality Design Lab** (5) — 由 Botao 'Amber' Hu 主持的混合现实独立设计研究实验室. 以“设计新现实”为宗旨，创作混合现实艺术作品，开发开源工具（HoloKit、HoloField、HoloMask、Unity 版 MultipeerConnectivity），并开展教学项目。 https://reality.design
+- **Botao 'Amber' Hu** (6) — 设计研究者；Reality Design Lab 主理人；牛津大学博士候选人. 研究横跨身体美学设计、混合现实与超越人类的感知调谐，发明了开源头显 HoloKit。专著《Experiencing More-than-Humans》的第一作者，主导了 EchoVision、FungiSync、TentacUs、GravField 与 City of Sparkles 等作品。 https://amber.botao.hu
+- **Reality Design Lab** (6) — 由 Botao 'Amber' Hu 主持的混合现实独立设计研究实验室. 以“设计新现实”为宗旨，创作混合现实艺术作品，开发开源工具（HoloKit、HoloField、HoloMask、Unity 版 MultipeerConnectivity），并开展教学项目。 https://reality.design
 - **SOMNIACS** (5) — 瑞士 VR 飞行模拟器公司，Birdly 的开发者. 2015 年由 Max Rheiner、Thomas Tobler 与 Fabian Troxler 在苏黎世创立，把苏黎世艺术大学的研究原型 Birdly 做成面向博物馆和场馆的全身飞行模拟器。 https://www.birdlyvr.com/
+- **Anastassia Andreasen** (4) — 虚拟现实与声音研究者，奥尔堡大学哥本哈根校区. Anastassia Andreasen 在 Stefania Serafin 的多感官体验实验室研究 VR 中的蝙蝠化身与回声定位。
+- **Danlin Huang** (4) — 艺术家、设计研究者与 AR 开发者. 毕业于中国美术学院工业设计与媒体艺术方向，曾任 Reality Design Lab 研究助理。用 XR、生物传感与 AI 拓展身体经验；FeltSight 的主要设计者，专著《Experiencing More-than-Humans》合著者。 https://danlinhuang.com
 - **Rachel McDonnell** (4) — 都柏林圣三一学院创意技术教授. Rachel McDonnell 在都柏林圣三一学院图形组领导关于虚拟人、化身与感知的研究。
 - **Stanford Virtual Human Interaction Lab** (4) — 研究实验室. 由 Jeremy Bailenson 领导的实验室，研究虚拟现实与具身的心理学。 https://vhil.stanford.edu
-- **Anastassia Andreasen** (3) — 虚拟现实与声音研究者，奥尔堡大学哥本哈根校区. Anastassia Andreasen 在 Stefania Serafin 的多感官体验实验室研究 VR 中的蝙蝠化身与回声定位。
 - **Andrey Krekhov** (3) — 游戏与虚拟现实研究者，杜伊斯堡-埃森大学. Andrey Krekhov 与 Sebastian Cmentowski、Katharina Emmerich、Jens Krüger 一起研究 VR 游戏中的化身、移动方式与身体所有感。
-- **Danlin Huang** (3) — 艺术家、设计研究者与 AR 开发者. 毕业于中国美术学院工业设计与媒体艺术方向，曾任 Reality Design Lab 研究助理。用 XR、生物传感与 AI 拓展身体经验；FeltSight 的主要设计者，专著《Experiencing More-than-Humans》合著者。 https://danlinhuang.com
 - **Marshmallow Laser Feast** (3) — 体验式艺术家团体. 2011 年由 Memo Akten、Robin McNicholas 与 Barnaby Steel 在伦敦创立，现由 McNicholas、Steel 与 Ersin Han Ersin 主导。团体以研究为基础，创作关于呼吸、树木、动物及其相互联系的多感官装置、VR 与影像作品，常用 LiDAR 扫描、医学影像与科学数据构建画面。 https://marshmallowlaserfeast.com
 - **New Folder Games** (3) — 制作“I Am”系列动物模拟游戏的 VR 工作室. 开发 I Am Cat、I Am Bird、I Am Monkey 等 VR 沙盒游戏的工作室，每一款都围绕一种动物身体展开。 https://newfolderstudio.com/
 - **Akimi Oyanagi** (2) — 虚拟现实研究者，丰桥技术科学大学 / 东京大学. Akimi Oyanagi 研究对鸟类化身的身体所有感及其心理效应。
@@ -1331,8 +1381,10 @@ https://becoming.reality.design · 2026-09-28 · 118 位创作者 · 131 件作�
 - **Carolina Ramirez-Figueroa** (1) — 英国皇家艺术学院信息体验设计专业高级导师. 英国皇家艺术学院的设计师与研究者，工作横跨生物设计、档案与沉浸媒体，关注微生物生命与时间。 https://www.rca.ac.uk/more/staff/dr-carolina-ramirez-figueroa/
 - **Charl Linssen** (1) — 计算神经科学研究者、响应式物件创作者. 从事神经动力学计算模拟的研究者，业余制作能对环境作出反应、仿佛有生命的电子与机器人物件。
 - **Chris Milk** (1) — 艺术家与导演. 美国导演，Within 联合创始人，以早期互动装置与 VR 闻名。 http://milk.co
+- **Chris Woebken** (1) — 设计师、未来研究者. 在纽约工作的德国设计师，Extrapolation Factory 联合创始人，作品被 MoMA 收藏。 https://www.chriswoebken.com/
 - **Danyang Peng** (1) — 人机交互研究者，庆应义塾大学媒体设计研究科. Danyang Peng 设计受动物感官启发的触觉导航。
 - **David Chaseling** (1) — 独立 VR 开发者. 独立开发者，与 Dylan Van Beek 共同开发了 VR 章鱼平台游戏 I Am Octopus。
+- **Dean A. Waters** (1) — 蝙蝠生物学家，利兹大学 / 约克大学. Dean Waters 研究蝙蝠回声定位，并较早地为虚拟世界中的人类导航构建蝙蝠声呐模型。
 - **Diego Galafassi** (1) — 艺术家与可持续性研究者. 巴西裔艺术家与研究者（斯德哥尔摩韧性中心），以沉浸式媒体关注气候。
 - **Don Allison** (1) — VR 研究者，佐治亚理工学院 GVU 中心. 佐治亚理工学院研究生研究者，1990 年代中期与 Larry F. Hodges 及亚特兰大动物园共同主导“虚拟现实大猩猩展”。
 - **Elie Zananiri** (1) — 创意技术专家. 创意编程者，《Forager》技术总监，为蘑菇生长搭建了体积化延时摄影管线。
@@ -1356,6 +1408,7 @@ https://becoming.reality.design · 2026-09-28 · 118 位创作者 · 131 件作�
 - **Jun Rekimoto** (1) — 东京大学教授；Sony CSL. 人机交互研究者，其实验室研究人类增强，从随头部运动的无人机到由肌肉电刺激驱动的手。 https://lab.rekimoto.org
 - **Keisuke Suzuki** (1) — 研究者，意识科学与 VR. 萨塞克斯大学 Sackler 意识科学中心研究者，构建用于研究感知的 VR 平台。
 - **Keita Higuchi** (1) — 人机交互研究者. 在东京大学历本纯一实验室期间制作了 Flying Head——一架跟随操作者头部运动的无人机。
+- **Kenichi Okada** (1) — 设计师. 日本设计师，毕业于皇家艺术学院 Design Interactions 专业，与 Chris Woebken 共同创作 Animal Superpowers。
 - **Kevin Ponto** (1) — 虚拟现实研究者，威斯康星大学麦迪逊分校发现研究所. Kevin Ponto 与 David Gagnon 的 Field Day Lab 合作，研究用于科学与学习的虚拟环境。
 - **Kimiko Ryokai** (1) — 加州大学伯克利分校信息学院教授. 加州大学伯克利分校信息学院与新媒体中心教授，研究面向创造、学习与觉察的实体与移动技术。 https://www.ischool.berkeley.edu/people/kimiko-ryokai
 - **Konstantina Kilteni** (1) — 神经科学家，卡罗林斯卡学院 / 唐德斯研究所. Konstantina Kilteni 研究身体表征与自我触碰；她与 Mel Slater 一起定义了 VR 中的“具身感”。
@@ -1377,6 +1430,8 @@ https://becoming.reality.design · 2026-09-28 · 118 位创作者 · 131 件作�
 - **Polymorf** (1) — 多感官 XR 跨学科艺术团体. 由 Marcel van Brakel 主导的荷兰团体，以触觉服、软体机器人、气味与食物打造多感官 VR 装置。 https://polymorf.nl
 - **Rachel Strickland** (1) — 建筑师、影像艺术家. 美国建筑师、电影人与交互设计师，联合执导 Placeholder，并在班夫拍摄其地景。
 - **Ready At Dawn** (1) — 游戏工作室. 以 VR 游戏 Lone Echo 与 Echo VR 闻名的游戏工作室。
+- **Ronny Andrade** (1) — 无障碍与人机交互研究者，墨尔本大学. Ronny Andrade 与盲人回声定位专家合作设计基于回声定位的虚拟环境。
+- **Samira Poudratchi** (1) — 游戏研究者，大不里士伊斯兰艺术大学. Samira Poudratchi 设计用于导航的音频游戏。
 - **Sarah Silverblatt-Buser** (1) — 编舞与 XR 艺术家. 美国编舞与电影人，创作以动作为基础的 VR 与舞蹈影像。
 - **Seungwoo Je** (1) — 人机交互研究者，南方科技大学. Seungwoo Je 领导沉浸式设计组，研究 VR 触觉设备。
 - **Shuai Zou** (1) — 媒体艺术家与研究者，香港科技大学（广州）. Shuai Zou 与 Zeyu Wang 实验室的同事创作了《庄周梦蝶》VR。

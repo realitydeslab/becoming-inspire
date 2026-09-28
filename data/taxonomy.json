@@ -693,15 +693,6 @@
    "desc_en": "The annotated portfolio of Hu, Huang & Shin's monograph: the works whose design the book reports first-hand.",
    "desc_zh": "Hu、Huang 与 Shin 专著中的注释作品集：书中以第一手方式记述其设计过程的作品。",
    "url": "https://experiencing-mth.github.io"
-  },
-  {
-   "id": "book-counterpoints",
-   "type": "book",
-   "en": "Experiencing More-than-Humans — counterpoints",
-   "zh": "《Experiencing More-than-Humans》对照作品",
-   "desc_en": "External works the book's outline names as artistic or scientific counterpoints to its chapters.",
-   "desc_zh": "书稿大纲中列为各章艺术或科学对照的外部作品。",
-   "url": "https://experiencing-mth.github.io"
   }
  ],
  "relations": [

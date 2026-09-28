@@ -608,38 +608,6 @@
   "batch": "plants-fungi"
  },
  {
-  "name": "Be the Creek",
-  "why": "Book portfolio work (Ch. 8, river): hydrophones, spatial audio and somatic force fields for a watercourse. No public page or media found.",
-  "link": "https://experiencing-mth.github.io",
-  "found_via": "botao-hu",
-  "status": "no_media",
-  "batch": "portfolio"
- },
- {
-  "name": "Making Kin with Creek as Fish",
-  "why": "Book portfolio work (Ch. 9, fish): XR body remapping through a fish-creek relation. In development; no public page or media found.",
-  "link": "https://experiencing-mth.github.io",
-  "found_via": "botao-hu",
-  "status": "no_media",
-  "batch": "portfolio"
- },
- {
-  "name": "Becoming Chairs",
-  "why": "Book portfolio work (Ch. 10, robot/object): XR stillness and affordance estrangement. In development; no public page or media found.",
-  "link": "https://experiencing-mth.github.io",
-  "found_via": "botao-hu",
-  "status": "no_media",
-  "batch": "portfolio"
- },
- {
-  "name": "Augmented Noticing (corpus paper)",
-  "why": "Annotated-portfolio study for Ch. 13; page lists CHI 2027, authors hidden, under review, no abstract or media.",
-  "link": "https://amber.botao.hu/project/augmented-noticing",
-  "found_via": "botao-hu",
-  "status": "no_media",
-  "batch": "portfolio"
- },
- {
   "name": "Body Oracle (Danlin Huang, Ke Huang)",
   "why": "AI hieroglyphs for collective bodily poses; well documented (DOI 10.1145/3749893.3749912) but not a becoming-other work.",
   "link": "https://reality.design/project/body-oracle",

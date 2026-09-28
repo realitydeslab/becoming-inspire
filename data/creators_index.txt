@@ -2,7 +2,7 @@ abandon-normal-devices | Abandon Normal Devices | 1 works
 adam-drogemuller | Adam Drogemuller | 1 works
 adriaan-lokman | Adriaan Lokman | 1 works
 akimi-oyanagi | Akimi Oyanagi | 2 works
-anastassia-andreasen | Anastassia Andreasen | 3 works
+anastassia-andreasen | Anastassia Andreasen | 4 works
 anatole-lecuyer | Anatole Lécuyer | 2 works
 andrey-krekhov | Andrey Krekhov | 3 works
 anil-seth | Anil Seth | 1 works
@@ -14,17 +14,19 @@ barbara-schuler | Barbara Schuler | 1 works
 bartabas | Bartabas | 1 works
 bernhard-riecke | Bernhard E. Riecke | 2 works
 bianca-kennedy | Bianca Kennedy | 1 works
-botao-hu | Botao 'Amber' Hu | 5 works
+botao-hu | Botao 'Amber' Hu | 6 works
 breakpoint-one | Breakpoint One | 1 works
 brenda-laurel | Brenda Laurel | 1 works
 carolina-ramirez-figueroa | Carolina Ramirez-Figueroa | 1 works
 char-davies | Char Davies | 2 works
 charl-linssen | Charl Linssen | 1 works
 chris-milk | Chris Milk | 1 works
+chris-woebken | Chris Woebken | 1 works
 daniel-pimentel | Daniel Pimentel | 2 works
-danlin-huang | Danlin Huang | 3 works
+danlin-huang | Danlin Huang | 4 works
 danyang-peng | Danyang Peng | 1 works
 david-chaseling | David Chaseling | 1 works
+dean-waters | Dean A. Waters | 1 works
 diego-galafassi | Diego Galafassi | 1 works
 don-allison | Don Allison | 1 works
 edith-jorisch | Édith Jorisch | 1 works
@@ -50,6 +52,7 @@ joren-vandenbroucke | Joren Vandenbroucke | 1 works
 jun-rekimoto | Jun Rekimoto | 1 works
 keisuke-suzuki | Keisuke Suzuki | 1 works
 keita-higuchi | Keita Higuchi | 1 works
+kenichi-okada | Kenichi Okada | 1 works
 kevin-ponto | Kevin Ponto | 1 works
 kimiko-ryokai | Kimiko Ryokai | 1 works
 konstantina-kilteni | Konstantina Kilteni | 1 works
@@ -79,7 +82,9 @@ polymorf | Polymorf | 1 works
 rachel-mcdonnell | Rachel McDonnell | 4 works
 rachel-strickland | Rachel Strickland | 1 works
 ready-at-dawn | Ready At Dawn | 1 works
-reality-design-lab | Reality Design Lab | 5 works
+reality-design-lab | Reality Design Lab | 6 works
+ronny-andrade | Ronny Andrade | 1 works
+samira-poudratchi | Samira Poudratchi | 1 works
 sarah-silverblatt-buser | Sarah Silverblatt-Buser | 1 works
 seungwoo-je | Seungwoo Je | 1 works
 shengdong-zhao | Shengdong Zhao | 2 works

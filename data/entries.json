@@ -968,6 +968,52 @@
    "work_count": 1
   },
   {
+   "id": "chris-woebken",
+   "links": {
+    "site": "https://www.chriswoebken.com/"
+   },
+   "connected_to": [
+    "kenichi-okada"
+   ],
+   "name": "Chris Woebken",
+   "kind": "person",
+   "role": "Designer and futures researcher",
+   "role_zh": "设计师、未来研究者",
+   "based": "Brooklyn, USA",
+   "based_zh": "布鲁克林，美国",
+   "bio": "German designer in New York, co-founder of the Extrapolation Factory; his work is in the MoMA collection.",
+   "bio_zh": "在纽约工作的德国设计师，Extrapolation Factory 联合创始人，作品被 MoMA 收藏。",
+   "why": "Animal Superpowers is an early design project that turns animal senses into wearable devices for children.",
+   "why_zh": "Animal Superpowers 是把动物感官做成儿童可穿戴设备的早期设计项目。",
+   "disciplines": [
+    "design"
+   ],
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "kenichi-okada",
+   "links": {},
+   "connected_to": [
+    "chris-woebken"
+   ],
+   "name": "Kenichi Okada",
+   "kind": "person",
+   "role": "Designer",
+   "role_zh": "设计师",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Japanese designer, graduate of the Royal College of Art Design Interactions programme, who co-created Animal Superpowers with Chris Woebken.",
+   "bio_zh": "日本设计师，毕业于皇家艺术学院 Design Interactions 专业，与 Chris Woebken 共同创作 Animal Superpowers。",
+   "why": "Co-author of Animal Superpowers, a key reference for animal-sense wearables.",
+   "why_zh": "Animal Superpowers 的共同作者，这是动物感官可穿戴设备的重要参照。",
+   "disciplines": [
+    "design"
+   ],
+   "discovered_via": "chris-woebken",
+   "work_count": 1
+  },
+  {
    "id": "baobab-studios",
    "links": {
     "site": "https://www.baobabstudios.com/"
@@ -2172,7 +2218,7 @@
    "why_zh": "她的研究是 VR 中“成为蝙蝠”最完整的系列：身体、翅膀、飞行与声呐。",
    "based_zh": "哥本哈根，丹麦",
    "discovered_via": "seed",
-   "work_count": 3
+   "work_count": 4
   },
   {
    "id": "stefania-serafin",
@@ -2213,6 +2259,67 @@
    "bio_zh": "Danyang Peng 设计受动物感官启发的触觉导航。",
    "why_zh": "提出“仿生共情”：像回声定位动物那样感知空间。",
    "based_zh": "横滨，日本",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "ronny-andrade",
+   "links": {},
+   "connected_to": [],
+   "name": "Ronny Andrade",
+   "kind": "person",
+   "role": "Accessibility and HCI researcher, University of Melbourne",
+   "based": "Melbourne, Australia",
+   "bio": "Ronny Andrade works with expert blind echolocators to design echolocation-based virtual environments.",
+   "why": "Grounds VR echolocation in the practice of people who actually echolocate.",
+   "disciplines": [
+    "hci"
+   ],
+   "role_zh": "无障碍与人机交互研究者，墨尔本大学",
+   "bio_zh": "Ronny Andrade 与盲人回声定位专家合作设计基于回声定位的虚拟环境。",
+   "why_zh": "让 VR 回声定位扎根于真正使用回声定位的人的实践。",
+   "based_zh": "墨尔本，澳大利亚",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "dean-waters",
+   "links": {},
+   "connected_to": [],
+   "name": "Dean A. Waters",
+   "kind": "person",
+   "role": "Bat biologist, University of Leeds / York",
+   "based": "UK",
+   "bio": "Dean Waters studies bat echolocation and built early bat-sonar models for human navigation in virtual worlds.",
+   "why": "His 'virtual bat' work (2001, 2007) is the first VR study of bat sonar for people.",
+   "disciplines": [
+    "science",
+    "hci"
+   ],
+   "role_zh": "蝙蝠生物学家，利兹大学 / 约克大学",
+   "bio_zh": "Dean Waters 研究蝙蝠回声定位，并较早地为虚拟世界中的人类导航构建蝙蝠声呐模型。",
+   "why_zh": "他的“虚拟蝙蝠”研究（2001、2007）是最早面向人的蝙蝠声呐 VR 研究。",
+   "based_zh": "英国",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "samira-poudratchi",
+   "links": {},
+   "connected_to": [],
+   "name": "Samira Poudratchi",
+   "kind": "person",
+   "role": "Game researcher, Tabriz Islamic Art University",
+   "based": "Tabriz, Iran",
+   "bio": "Samira Poudratchi designs audio games for navigation.",
+   "why": "BatSight uses a sonar headset to play a maze by ear.",
+   "disciplines": [
+    "games"
+   ],
+   "role_zh": "游戏研究者，大不里士伊斯兰艺术大学",
+   "bio_zh": "Samira Poudratchi 设计用于导航的音频游戏。",
+   "why_zh": "BatSight 用声呐头戴设备让人靠耳朵走迷宫。",
+   "based_zh": "大不里士，伊朗",
    "discovered_via": "seed",
    "work_count": 1
   },
@@ -3249,7 +3356,7 @@
     "design"
    ],
    "discovered_via": "seed",
-   "work_count": 5
+   "work_count": 6
   },
   {
    "id": "danlin-huang",
@@ -3276,7 +3383,7 @@
     "art"
    ],
    "discovered_via": "seed",
-   "work_count": 3
+   "work_count": 4
   },
   {
    "id": "reality-design-lab",
@@ -3303,7 +3410,7 @@
     "hci"
    ],
    "discovered_via": "seed",
-   "work_count": 5
+   "work_count": 6
   },
   {
    "id": "jiabao-li",
@@ -4340,6 +4447,71 @@
    ]
   },
   {
+   "id": "botao-hu--tentacus",
+   "creator_ids": [
+    "botao-hu",
+    "danlin-huang",
+    "reality-design-lab"
+   ],
+   "title": "TentacUs",
+   "year": 2025,
+   "field": "octopus",
+   "sub": "collective",
+   "senses": [
+    "touch",
+    "collective-sense",
+    "body"
+   ],
+   "medium": [
+    "mr",
+    "wearable",
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "A mixed-reality ritual in which dancers join left hands in a ring and each becomes one tentacle of a collective octopus-like being; what one right hand senses nearby is passed as vibration to its neighbours.",
+   "description_zh": "一场混合现实仪式：舞者左手相牵围成一圈，每人成为一只集体“章鱼”的一条触手；一只右手感到的周围环境，会以振动传给相邻的人。",
+   "idea_en": "Becoming octopus means intelligence without a centre: many bodies sense and move as arms of one being.",
+   "idea_zh": "成为章鱼，意味着没有中心的智能：许多身体作为同一生命的触手去感知与移动。",
+   "method": "Soft-textile tentacle gloves hold smartphones whose LiDAR senses proximity and whose vibration motors broadcast haptic waves to neighbours; touch data are drawn as point clouds over a 3D Gaussian-splat scan on a public display.",
+   "method_zh": "柔软织物触手手套内置智能手机：LiDAR 感知距离，振动马达把触觉波传给相邻舞者；触碰数据以点云形式绘制在现场的 3D 高斯泼溅扫描上，供观众观看。",
+   "keywords": [
+    "octopus",
+    "tentacle",
+    "distributed cognition",
+    "vibrotactile",
+    "LiDAR",
+    "3D Gaussian Splatting",
+    "Donna Haraway"
+   ],
+   "shown_at": [
+    "SIGGRAPH Asia 2025 XR"
+   ],
+   "images": [
+    "https://arxiv.org/html/2511.12533v3/images/tentacus.jpg",
+    "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/afd62d02-7102-4a26-b5b4-03df6cc2744b/image2/public"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3761667.3761962",
+    "doi": "10.1145/3761667.3761962",
+    "venue": "SIGGRAPH Asia 2025 XR",
+    "title": "I Become Tentacle, We Become \"Tentacus\": A Mixed Reality Ritual for Distributed Bodies and Collective Minds"
+   },
+   "source_url": "https://amber.botao.hu/design/tentacus",
+   "code_url": "https://github.com/realitydeslab/tentacus",
+   "collections": [
+    "book-portfolio",
+    "siggraph-xr"
+   ],
+   "video": {},
+   "also": [],
+   "relation": "becoming",
+   "disciplines": [
+    "art",
+    "design",
+    "hci"
+   ]
+  },
+  {
    "id": "shuai-zou--dream-of-zhuang-zhou",
    "creator_ids": [
     "shuai-zou"
@@ -4560,6 +4732,52 @@
    "disciplines": [
     "art",
     "hci"
+   ]
+  },
+  {
+   "id": "samira-poudratchi--batsight",
+   "creator_ids": [
+    "samira-poudratchi"
+   ],
+   "title": "BatSight",
+   "year": 2024,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "wearable",
+    "game",
+    "ar"
+   ],
+   "kind": "prototype",
+   "description": "An audio game in which blindfolded players walk through a physical maze guided by a sonar headset that turns obstacles into musical sounds.",
+   "description_zh": "一款音频游戏：蒙眼玩家戴着声呐头戴设备在实体迷宫中行走，障碍物被转换成音乐声音。",
+   "idea_en": "Play as a bat: navigate a real space by ear alone.",
+   "idea_zh": "像蝙蝠一样玩：只靠耳朵在真实空间中导航。",
+   "method": "Head-mounted ultrasonic distance sensors mapped to musical cues over headphones, in an AR-style physical maze.",
+   "method_zh": "头戴超声波测距传感器，通过耳机映射为音乐提示，在类 AR 的实体迷宫中进行。",
+   "keywords": [
+    "sonar headset",
+    "audio game",
+    "maze",
+    "blindfold",
+    "serious games"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.17083/ijsg.v11i1.718",
+    "doi": "10.17083/ijsg.v11i1.718",
+    "venue": "International Journal of Serious Games 2024",
+    "title": "BatSight: A Navigation Game to Map Environmental Information into Audio Cues"
+   },
+   "video": {},
+   "images": [],
+   "also": [],
+   "relation": "becoming",
+   "disciplines": [
+    "games"
    ]
   },
   {
@@ -5999,6 +6217,52 @@
    ]
   },
   {
+   "id": "ronny-andrade--echolocation-virtual-environments",
+   "creator_ids": [
+    "ronny-andrade"
+   ],
+   "title": "Echolocation-Enabled Virtual Environments",
+   "year": 2022,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "vr",
+    "audio",
+    "game"
+   ],
+   "kind": "paper",
+   "description": "Expert blind echolocators helped design and test virtual environments that can be explored by clicking and listening to echoes.",
+   "description_zh": "盲人回声定位专家参与设计并测试可以通过弹舌与聆听回声来探索的虚拟环境。",
+   "idea_en": "People who already echolocate are the best designers of echolocation in VR.",
+   "idea_zh": "已经在使用回声定位的人，是设计 VR 回声定位的最佳人选。",
+   "method": "Participatory design with focus groups and two prototype iterations of acoustic ray-traced echoes in a game engine.",
+   "method_zh": "通过焦点小组进行参与式设计，并在游戏引擎中做了两轮声线追踪回声原型迭代。",
+   "keywords": [
+    "echolocation",
+    "blind",
+    "accessibility",
+    "participatory design",
+    "TACCESS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3516448",
+    "doi": "10.1145/3516448",
+    "venue": "ACM Transactions on Accessible Computing 2022",
+    "title": "A Participatory Design Approach to Creating Echolocation-Enabled Virtual Environments"
+   },
+   "video": {},
+   "images": [],
+   "also": [],
+   "relation": "becoming",
+   "disciplines": [
+    "hci"
+   ]
+  },
+  {
    "id": "michiteru-kitazaki--srl-in-vr",
    "creator_ids": [
     "michiteru-kitazaki"
@@ -7100,6 +7364,57 @@
     "doi": "10.1145/3313831.3376557",
     "venue": "CHI 2020",
     "title": "Virtually-Extended Proprioception: Providing Spatial Reference in VR through an Appended Virtual Limb"
+   },
+   "images": [],
+   "also": [],
+   "relation": "becoming",
+   "disciplines": [
+    "hci"
+   ]
+  },
+  {
+   "id": "anastassia-andreasen--echo-navigation-training",
+   "creator_ids": [
+    "anastassia-andreasen"
+   ],
+   "title": "Auditory Feedback for Navigation with Echoes",
+   "year": 2019,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "vr",
+    "audio"
+   ],
+   "kind": "paper",
+   "description": "A training procedure in which sighted people learn to navigate a virtual maze by echoes alone, and the orientation strategies they develop.",
+   "description_zh": "一套训练流程，让明眼人只靠回声在虚拟迷宫中导航，并研究他们形成的定向策略。",
+   "idea_en": "Echolocation can be learned in VR as a navigation skill, not only simulated as an effect.",
+   "idea_zh": "回声定位可以在 VR 中作为导航技能被学会，而不仅仅是被模拟的效果。",
+   "method": "Real-time acoustic rendering of self-produced clicks and their reflections in a virtual maze over headphones.",
+   "method_zh": "通过耳机实时渲染自发的弹舌声及其在虚拟迷宫中的反射。",
+   "keywords": [
+    "echolocation",
+    "navigation",
+    "training",
+    "Michele Geronazzo",
+    "IEEE TVCG"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Z8ndSJDbSok",
+    "platform": "youtube",
+    "id": "Z8ndSJDbSok",
+    "thumbnail": "https://i.ytimg.com/vi/Z8ndSJDbSok/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/tvcg.2019.2898787",
+    "doi": "10.1109/tvcg.2019.2898787",
+    "venue": "IEEE TVCG 2019 (IEEE VR 2019)",
+    "title": "Auditory Feedback for Navigation with Echoes in Virtual Environments: Training Procedure and Orientation Strategies"
    },
    "images": [],
    "also": [],
@@ -9851,6 +10166,119 @@
     "doi": "10.1007/978-3-642-03904-1_48",
     "venue": "IFMBE Proceedings 2009",
     "title": "Virtual Chameleon - A System to Provide Different Views to Both Eyes"
+   },
+   "video": {},
+   "images": [],
+   "also": [],
+   "collections": [
+    "early-becoming-1965-2012"
+   ],
+   "relation": "becoming",
+   "disciplines": [
+    "hci",
+    "science"
+   ]
+  },
+  {
+   "id": "chris-woebken--animal-superpowers",
+   "creator_ids": [
+    "chris-woebken",
+    "kenichi-okada"
+   ],
+   "title": "Animal Superpowers",
+   "year": 2008,
+   "field": "animal",
+   "sub": "multispecies",
+   "also": [
+    "insect",
+    "bird",
+    "bat"
+   ],
+   "senses": [
+    "vision",
+    "magnetic",
+    "body"
+   ],
+   "medium": [
+    "wearable"
+   ],
+   "kind": "prototype",
+   "description": "A set of wearable devices for children: an ant apparatus that magnifies vision 50 times through hand-mounted microscopes, a bird device that vibrates toward a chosen direction, and a giraffe device that lowers the voice and raises the eyes by 30 cm; bat goggles for hearing ultrasound followed in 2015.",
+   "description_zh": "一组给儿童的可穿戴设备：用手上的显微镜把视觉放大 50 倍的“蚂蚁装置”、朝选定方向振动的“鸟装置”、把声音压低并把视线抬高 30 厘米的“长颈鹿装置”；2015 年又加入可以听见超声的“蝙蝠护目镜”。",
+   "idea_en": "Each device borrows one animal sense and fits it to a child's body and play, so curiosity becomes the interface.",
+   "idea_zh": "每个装置借用一种动物感官，并适配儿童的身体和游戏，让好奇心成为界面。",
+   "method": "Hand-mounted microscope cameras feeding a head display, a GPS unit driving vibration, voice pitch shifting with raised stilts, and an ultrasonic bat detector.",
+   "method_zh": "手持显微摄像头连接头部显示、GPS 驱动振动、变声配合加高底座，以及超声波蝙蝠探测器。",
+   "keywords": [
+    "ant",
+    "bird",
+    "giraffe",
+    "bat",
+    "magnetoreception",
+    "microscope",
+    "children",
+    "Royal College of Art"
+   ],
+   "shown_at": [
+    "Design and the Elastic Mind, MoMA New York 2008"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=L9oTcez2CXU",
+    "platform": "youtube",
+    "id": "L9oTcez2CXU",
+    "thumbnail": "https://i.ytimg.com/vi/L9oTcez2CXU/hqdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://freight.cargo.site/t/original/i/ad1784c02faa9d2afb6614fa878b4982436d2d58292e1349ebee13b3d8c6a682/2232862656_cba3f094c1_o.jpg",
+    "https://freight.cargo.site/t/original/i/067d74e44844e7aca2661cd3baab576aa3fb852d9130e7525a1d6fce5ad67c0d/animals3.jpg"
+   ],
+   "source_url": "https://www.chriswoebken.com/animal-superpowers",
+   "paper": {},
+   "collections": [
+    "early-becoming-1965-2012"
+   ],
+   "relation": "becoming",
+   "disciplines": [
+    "design"
+   ]
+  },
+  {
+   "id": "dean-waters--bat-modelled-sonar",
+   "creator_ids": [
+    "dean-waters"
+   ],
+   "title": "Bat-Modelled Sonar in Virtual Environments",
+   "year": 2007,
+   "field": "bat",
+   "sub": "echolocation",
+   "senses": [
+    "echolocation",
+    "hearing"
+   ],
+   "medium": [
+    "vr",
+    "audio"
+   ],
+   "kind": "paper",
+   "description": "A bat biologist's model of bat sonar used as a navigation tool for people moving through virtual environments, following his 2001 'virtual bat'.",
+   "description_zh": "一位蝙蝠生物学家把蝙蝠声呐模型用作人在虚拟环境中移动的导航工具，延续了他 2001 年的“虚拟蝙蝠”研究。",
+   "idea_en": "Early proof that bat-style echo processing can guide human movement in VR.",
+   "idea_zh": "早期证据：蝙蝠式的回声处理可以引导人在 VR 中移动。",
+   "method": "Synthetic frequency-modulated calls and echoes computed from the virtual geometry, played binaurally (details from abstract-level sources; likely desktop VR).",
+   "method_zh": "根据虚拟场景几何计算合成的调频叫声与回声，以双耳方式播放（细节依据摘要级资料；很可能是桌面 VR）。",
+   "keywords": [
+    "bat",
+    "sonar",
+    "virtual bat",
+    "Husam Abulula",
+    "IJHCS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.ijhcs.2007.06.001",
+    "doi": "10.1016/j.ijhcs.2007.06.001",
+    "venue": "International Journal of Human-Computer Studies 2007",
+    "title": "Using bat-modelled sonar as a navigational tool in virtual environments"
    },
    "video": {},
    "images": [],

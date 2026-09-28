@@ -2802,10 +2802,7 @@
    "images": [
     "https://media.superradiance.net/cdn-cgi/image/width=1200,fit=scale-down,format=auto,onerror=redirect/memotv/projects/2017/learning-to-see/images/learning-to-see.jpg"
    ],
-   "source_url": "https://www.memo.tv/works/learning-to-see/",
-   "collections": [
-    "book-counterpoints"
-   ]
+   "source_url": "https://www.memo.tv/works/learning-to-see/"
   },
   {
    "id": "trevor-paglen--sight-machine",
@@ -2842,10 +2839,7 @@
    ],
    "video": {
     "url": "https://www.youtube.com/watch?v=5mg3MXETfj4"
-   },
-   "collections": [
-    "book-counterpoints"
-   ]
+   }
   },
   {
    "id": "trevor-paglen--imagenet-roulette",

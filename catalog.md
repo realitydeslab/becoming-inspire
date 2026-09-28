@@ -2,7 +2,7 @@
 
 A catalog of works that use XR and sensory technology to let people become another being or thing — bat, mole, fish, octopus, bird, insect, animal, fungi, tree, river, robot: artworks, immersive films, games, research prototypes and papers, compiled by Reality Design Lab for the book Experiencing More-than-Humans. Each work lists its core idea, how it works, and links to its video, images and paper.
 
-https://becoming.reality.design · 2026-09-28 · 118 creators · 131 works
+https://becoming.reality.design · 2026-09-28 · 123 creators · 137 works
 
 ## How an AI assistant should use this file
 
@@ -56,6 +56,13 @@ Seeing with sound: bats, dolphins and human echolocation made perceptible.
 - Images: https://yiouwang.org/wp-content/uploads/2022/01/BATOPIA_Human_to_Bat.jpg https://yiouwang.org/wp-content/uploads/Batopia_game_scene_52-1024x542.png
 - Project page: https://yiouwang.org/portfolio/batopia-empathic-listening/
 
+#### BatSight — Samira Poudratchi (2024)
+- Type: Research prototype · Senses: Echolocation, Hearing & vibration · Medium: Wearable & sensory device, Game, AR
+- Idea: Play as a bat: navigate a real space by ear alone.
+- What it is: An audio game in which blindfolded players walk through a physical maze guided by a sonar headset that turns obstacles into musical sounds.
+- How it works: Head-mounted ultrasonic distance sensors mapped to musical cues over headphones, in an AR-style physical maze.
+- Paper: https://doi.org/10.17083/ijsg.v11i1.718 (International Journal of Serious Games 2024)
+
 #### EchoVision — Botao 'Amber' Hu, Jiabao Li, Danlin Huang, Reality Design Lab (2024)
 - Type: Artwork · Senses: Echolocation, Hearing & vibration, Altered vision · Medium: Mixed reality, Multisensory installation
 - Shown at: SIGGRAPH Asia 2024 Art Papers & XR; UbiComp/ISWC 2024 Design Exhibition; IEEE VIS 2024 Arts Program; West Bund Art Festival 2024; TANK Art Festival 2024; The Contemporary Austin / Fusebox 2024; SXSW 2025 XR Experience; IEEE VR 2025 XR Gallery; ACM CHI 2025 Interactivity; Augmented Humans 2025 Best Demo Award; CURRENTS New Media 2025; Plásmata 3, Onassis Stegi, Athens 2025
@@ -77,6 +84,21 @@ Seeing with sound: bats, dolphins and human echolocation made perceptible.
 - Images: https://static.wixstatic.com/media/d3b537_b626097b5cf7487dbf6534e5de61e602f000.jpg https://static.wixstatic.com/media/d3b537_e41f0c44438d411a80537c8f091eeaea~mv2.jpg https://static.wixstatic.com/media/d3b537_873d05ab58a749ac8115da3777735c85~mv2.jpg
 - Project page: https://www.zhengmahler.world/whatisitliketobeavirtualbat
 
+#### Echolocation-Enabled Virtual Environments — Ronny Andrade (2022)
+- Type: Paper · Senses: Echolocation, Hearing & vibration · Medium: VR headset, Spatial audio, Game
+- Idea: People who already echolocate are the best designers of echolocation in VR.
+- What it is: Expert blind echolocators helped design and test virtual environments that can be explored by clicking and listening to echoes.
+- How it works: Participatory design with focus groups and two prototype iterations of acoustic ray-traced echoes in a game engine.
+- Paper: https://doi.org/10.1145/3516448 (ACM Transactions on Accessible Computing 2022)
+
+#### Auditory Feedback for Navigation with Echoes — Anastassia Andreasen (2019)
+- Type: Paper · Senses: Echolocation, Hearing & vibration · Medium: VR headset, Spatial audio
+- Idea: Echolocation can be learned in VR as a navigation skill, not only simulated as an effect.
+- What it is: A training procedure in which sighted people learn to navigate a virtual maze by echoes alone, and the orientation strategies they develop.
+- How it works: Real-time acoustic rendering of self-produced clicks and their reflections in a virtual maze over headphones.
+- Paper: https://doi.org/10.1109/tvcg.2019.2898787 (IEEE TVCG 2019 (IEEE VR 2019))
+- Video: https://www.youtube.com/watch?v=Z8ndSJDbSok
+
 #### What Is It Like to Be a Virtual Bat? — Anastassia Andreasen (2018)
 - Type: Paper · Senses: Echolocation, Body schema & movement · Medium: VR headset
 - Idea: Nagel's question turned into a design brief: combine a bat body with bat hearing.
@@ -84,6 +106,13 @@ Seeing with sound: bats, dolphins and human echolocation made perceptible.
 - How it works: Head-mounted display with arm tracking for wing flapping and real-time spatial audio echoes rendered with HRTFs.
 - Paper: https://doi.org/10.1007/978-3-030-06134-0_57 (ArtsIT 2018 (LNICST 2019))
 - Video: https://www.youtube.com/watch?v=uB2ApqoNzzU
+
+#### Bat-Modelled Sonar in Virtual Environments — Dean A. Waters (2007)
+- Type: Paper · Senses: Echolocation, Hearing & vibration · Medium: VR headset, Spatial audio
+- Idea: Early proof that bat-style echo processing can guide human movement in VR.
+- What it is: A bat biologist's model of bat sonar used as a navigation tool for people moving through virtual environments, following his 2001 'virtual bat'.
+- How it works: Synthetic frequency-modulated calls and echoes computed from the virtual geometry, played binaurally (details from abstract-level sources; likely desktop VR).
+- Paper: https://doi.org/10.1016/j.ijhcs.2007.06.001 (International Journal of Human-Computer Studies 2007)
 
 #### Darker Than Night — Eduardo Kac (1999)
 - Type: Artwork · Senses: Echolocation, Hearing & vibration · Medium: VR headset, Multisensory installation
@@ -343,6 +372,17 @@ Homuncular flexibility: embodying bodies with more or other limbs than ours.
 ### Shared & collective bodies
 
 One body shared by many people, or many bodies moving as one.
+
+#### TentacUs — Botao 'Amber' Hu, Danlin Huang, Reality Design Lab (2025)
+- Type: Performance · Senses: Touch & haptics, Collective & networked, Body schema & movement · Medium: Mixed reality, Wearable & sensory device, Performance & participatory
+- Shown at: SIGGRAPH Asia 2025 XR
+- Idea: Becoming octopus means intelligence without a centre: many bodies sense and move as arms of one being.
+- What it is: A mixed-reality ritual in which dancers join left hands in a ring and each becomes one tentacle of a collective octopus-like being; what one right hand senses nearby is passed as vibration to its neighbours.
+- How it works: Soft-textile tentacle gloves hold smartphones whose LiDAR senses proximity and whose vibration motors broadcast haptic waves to neighbours; touch data are drawn as point clouds over a 3D Gaussian-splat scan on a public display.
+- Paper: https://doi.org/10.1145/3761667.3761962 (SIGGRAPH Asia 2025 XR)
+- Images: https://arxiv.org/html/2511.12533v3/images/tentacus.jpg https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/afd62d02-7102-4a26-b5b4-03df6cc2744b/image2/public
+- Project page: https://amber.botao.hu/design/tentacus
+- Code: https://github.com/realitydeslab/tentacus
 
 #### GravField — Botao 'Amber' Hu, Reality Design Lab (2024)
 - Type: Performance · Senses: Body schema & movement, Collective & networked, Hearing & vibration · Medium: Mixed reality, Performance & participatory, Spatial audio
@@ -848,6 +888,16 @@ Works that let you move through the perspectives of several species.
 - Paper: https://doi.org/10.1145/2407336.2407344 (ACM VRST 2012)
 - Video: https://www.youtube.com/watch?v=5Dm0wH9TDjw
 
+#### Animal Superpowers — Chris Woebken, Kenichi Okada (2008)
+- Type: Research prototype · Senses: Altered vision, Magnetic sense, Body schema & movement · Medium: Wearable & sensory device
+- Shown at: Design and the Elastic Mind, MoMA New York 2008
+- Idea: Each device borrows one animal sense and fits it to a child's body and play, so curiosity becomes the interface.
+- What it is: A set of wearable devices for children: an ant apparatus that magnifies vision 50 times through hand-mounted microscopes, a bird device that vibrates toward a chosen direction, and a giraffe device that lowers the voice and raises the eyes by 30 cm; bat goggles for hearing ultrasound followed in 2015.
+- How it works: Hand-mounted microscope cameras feeding a head display, a GPS unit driving vibration, voice pitch shifting with raised stilts, and an ultrasonic bat detector.
+- Video: https://www.youtube.com/watch?v=L9oTcez2CXU
+- Images: https://freight.cargo.site/t/original/i/ad1784c02faa9d2afb6614fa878b4982436d2d58292e1349ebee13b3d8c6a682/2232862656_cba3f094c1_o.jpg https://freight.cargo.site/t/original/i/067d74e44844e7aca2661cd3baab576aa3fb852d9130e7525a1d6fce5ad67c0d/animals3.jpg
+- Project page: https://www.chriswoebken.com/animal-superpowers
+
 #### Placeholder — Brenda Laurel, Rachel Strickland (1993)
 - Type: Artwork · Senses: Altered vision, Body schema & movement, Hearing & vibration · Medium: VR headset
 - Shown at: Banff Centre for the Arts 1993
@@ -1290,14 +1340,14 @@ Seeing and hearing as neural networks, sensors and algorithms do.
 
 ## Creators
 
-- **Botao 'Amber' Hu** (5) — Designer-researcher; Director of Reality Design Lab; DPhil candidate, University of Oxford. Works across somaesthetic design, mixed reality and more-than-human attunement, and invented the open-source HoloKit headset. Lead author of the monograph Experiencing More-than-Humans and of the portfolio works EchoVision, FungiSync, TentacUs, GravField and City of Sparkles. https://amber.botao.hu
-- **Reality Design Lab** (5) — Independent design research lab for mixed reality, directed by Botao 'Amber' Hu. Makes mixed-reality artworks, open-source toolkits (HoloKit, HoloField, HoloMask, MultipeerConnectivity for Unity) and teaching programmes under the motto 'design new realities'. https://reality.design
+- **Botao 'Amber' Hu** (6) — Designer-researcher; Director of Reality Design Lab; DPhil candidate, University of Oxford. Works across somaesthetic design, mixed reality and more-than-human attunement, and invented the open-source HoloKit headset. Lead author of the monograph Experiencing More-than-Humans and of the portfolio works EchoVision, FungiSync, TentacUs, GravField and City of Sparkles. https://amber.botao.hu
+- **Reality Design Lab** (6) — Independent design research lab for mixed reality, directed by Botao 'Amber' Hu. Makes mixed-reality artworks, open-source toolkits (HoloKit, HoloField, HoloMask, MultipeerConnectivity for Unity) and teaching programmes under the motto 'design new realities'. https://reality.design
 - **SOMNIACS** (5) — Swiss VR simulator company behind Birdly. Zurich company founded in 2015 by Max Rheiner, Thomas Tobler and Fabian Troxler to turn the ZHdK research prototype Birdly into full-body flight simulators for museums and venues. https://www.birdlyvr.com/
+- **Anastassia Andreasen** (4) — VR and sound researcher, Aalborg University Copenhagen. Anastassia Andreasen worked in Stefania Serafin's Multisensory Experience Lab on bat embodiment and echolocation in VR.
+- **Danlin Huang** (4) — Artist, designer-researcher and AR developer. Trained in industrial design and media art at the China Academy of Art; research assistant at Reality Design Lab. Uses XR, biosensors and AI to enrich bodily experience; lead designer of FeltSight and co-author of the monograph Experiencing More-than-Humans. https://danlinhuang.com
 - **Rachel McDonnell** (4) — Professor of Creative Technologies, Trinity College Dublin. Rachel McDonnell leads research on virtual humans, avatars and perception at Trinity College Dublin's graphics group.
 - **Stanford Virtual Human Interaction Lab** (4) — Research lab. Lab directed by Jeremy Bailenson studying the psychology of virtual reality and embodiment. https://vhil.stanford.edu
-- **Anastassia Andreasen** (3) — VR and sound researcher, Aalborg University Copenhagen. Anastassia Andreasen worked in Stefania Serafin's Multisensory Experience Lab on bat embodiment and echolocation in VR.
 - **Andrey Krekhov** (3) — Games and VR researcher, University of Duisburg-Essen. Andrey Krekhov studies avatars, locomotion and body ownership in VR games with Sebastian Cmentowski, Katharina Emmerich and Jens Krüger.
-- **Danlin Huang** (3) — Artist, designer-researcher and AR developer. Trained in industrial design and media art at the China Academy of Art; research assistant at Reality Design Lab. Uses XR, biosensors and AI to enrich bodily experience; lead designer of FeltSight and co-author of the monograph Experiencing More-than-Humans. https://danlinhuang.com
 - **Marshmallow Laser Feast** (3) — Experiential artist collective. London collective founded in 2011 by Memo Akten, Robin McNicholas and Barnaby Steel, now led by McNicholas, Steel and Ersin Han Ersin. It makes research-led multisensory installations, VR and video works about breath, trees, animals and the systems that connect them, often built from LiDAR scans, medical imaging and scientific datasets. https://marshmallowlaserfeast.com
 - **New Folder Games** (3) — VR game studio making 'I Am' animal simulators. Studio behind a line of VR sandbox games titled I Am Cat, I Am Bird and I Am Monkey, each built around one animal body. https://newfolderstudio.com/
 - **Akimi Oyanagi** (2) — VR researcher, Toyohashi University of Technology / University of Tokyo. Akimi Oyanagi studies body ownership of bird avatars and their psychological effects.
@@ -1331,8 +1381,10 @@ Seeing and hearing as neural networks, sensors and algorithms do.
 - **Carolina Ramirez-Figueroa** (1) — Senior Tutor, Information Experience Design, Royal College of Art. Designer and researcher at the Royal College of Art working across biodesign, archives and immersive media, with a focus on microbial life and time. https://www.rca.ac.uk/more/staff/dr-carolina-ramirez-figueroa/
 - **Charl Linssen** (1) — Computational neuroscientist and maker of responsive objects. Researcher in computer simulation of neural dynamics who also builds electronic and robotic objects that respond to their surroundings as if animated.
 - **Chris Milk** (1) — Artist and director. American director and co-founder of Within, known for early interactive installations and VR. http://milk.co
+- **Chris Woebken** (1) — Designer and futures researcher. German designer in New York, co-founder of the Extrapolation Factory; his work is in the MoMA collection. https://www.chriswoebken.com/
 - **Danyang Peng** (1) — HCI researcher, Keio University Graduate School of Media Design. Danyang Peng designs haptic navigation inspired by animal senses.
 - **David Chaseling** (1) — Independent VR developer. Independent developer who co-created the VR octopus platformer I Am Octopus with Dylan Van Beek.
+- **Dean A. Waters** (1) — Bat biologist, University of Leeds / York. Dean Waters studies bat echolocation and built early bat-sonar models for human navigation in virtual worlds.
 - **Diego Galafassi** (1) — Artist and sustainability researcher. Brazilian-born artist and researcher (Stockholm Resilience Centre) working with immersive media and climate.
 - **Don Allison** (1) — VR researcher, GVU Center, Georgia Tech. Georgia Tech graduate researcher who led the Virtual Reality Gorilla Exhibit with Larry F. Hodges and Zoo Atlanta in the mid-1990s.
 - **Elie Zananiri** (1) — Creative technologist. Creative coder and technical director of Forager, who built its volumetric time-lapse pipeline for mushroom growth.
@@ -1356,6 +1408,7 @@ Seeing and hearing as neural networks, sensors and algorithms do.
 - **Jun Rekimoto** (1) — Professor, University of Tokyo; Sony CSL. HCI researcher whose lab works on human augmentation, from drones driven by head motion to hands moved by electrical muscle stimulation. https://lab.rekimoto.org
 - **Keisuke Suzuki** (1) — Researcher, consciousness science and VR. Researcher (Sackler Centre for Consciousness Science, University of Sussex) who builds VR platforms to study perception.
 - **Keita Higuchi** (1) — HCI researcher. Researcher who, in Jun Rekimoto's lab at the University of Tokyo, built Flying Head, a drone that follows the pilot's head.
+- **Kenichi Okada** (1) — Designer. Japanese designer, graduate of the Royal College of Art Design Interactions programme, who co-created Animal Superpowers with Chris Woebken.
 - **Kevin Ponto** (1) — VR researcher, Wisconsin Institute for Discovery, University of Wisconsin–Madison. Kevin Ponto works on virtual environments for science and learning, with David Gagnon's Field Day Lab.
 - **Kimiko Ryokai** (1) — Professor, UC Berkeley School of Information. Professor at the UC Berkeley School of Information and the Berkeley Center for New Media whose research designs tangible and mobile technologies for creativity, learning and noticing. https://www.ischool.berkeley.edu/people/kimiko-ryokai
 - **Konstantina Kilteni** (1) — Neuroscientist, Karolinska Institutet / Donders Institute. Konstantina Kilteni studies body representation and self-touch; with Mel Slater she defined the sense of embodiment in VR.
@@ -1377,6 +1430,8 @@ Seeing and hearing as neural networks, sensors and algorithms do.
 - **Polymorf** (1) — Interdisciplinary artist collective for multisensory XR. Dutch collective led by Marcel van Brakel that builds multisensory VR installations with haptic suits, soft robotics, scent and food. https://polymorf.nl
 - **Rachel Strickland** (1) — Architect and video artist. American architect, filmmaker and interaction designer who co-directed Placeholder and shot its landscapes in Banff.
 - **Ready At Dawn** (1) — Game studio. Game studio known for the VR games Lone Echo and Echo VR.
+- **Ronny Andrade** (1) — Accessibility and HCI researcher, University of Melbourne. Ronny Andrade works with expert blind echolocators to design echolocation-based virtual environments.
+- **Samira Poudratchi** (1) — Game researcher, Tabriz Islamic Art University. Samira Poudratchi designs audio games for navigation.
 - **Sarah Silverblatt-Buser** (1) — Choreographer and XR artist. American choreographer and filmmaker making movement-based VR and dance films.
 - **Seungwoo Je** (1) — HCI researcher, Southern University of Science and Technology. Seungwoo Je leads the Immersive Design Group, working on haptic devices for VR.
 - **Shuai Zou** (1) — Media artist and researcher, HKUST (Guangzhou). Shuai Zou and colleagues in Zeyu Wang's lab made The Dream of Zhuang Zhou.
