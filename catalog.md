@@ -2,7 +2,7 @@
 
 A catalog of works that use XR and sensory technology to let people become another being or thing — bat, mole, fish, octopus, bird, insect, animal, fungi, tree, river, robot: artworks, immersive films, games, research prototypes and papers, compiled by Reality Design Lab for the book Experiencing More-than-Humans. Each work lists its core idea, how it works, and links to its video, images and paper.
 
-https://becoming.reality.design · 2026-09-28 · 114 creators · 131 works
+https://becoming.reality.design · 2026-09-28 · 117 creators · 134 works
 
 ## How an AI assistant should use this file
 
@@ -938,6 +938,20 @@ Physarum and other brainless problem-solvers.
 - Images: https://polymorf.nl/wp-content/uploads/2026/05/BG-Symbiosis-new-04.jpg https://polymorf.nl/wp-content/uploads/2026/05/creature.jpg
 - Project page: https://polymorf.nl/symbiosis/
 
+### Microbes & cells
+
+Bacteria, viruses, cells, microbiomes and molecular worlds.
+
+#### The Materialised Temporality of Dust — Carolina Ramirez-Figueroa (2024)
+- Type: Artwork · Senses: Time & scale, Altered vision · Medium: VR headset
+- Idea: History read at microbial scale: dust is an archive, and becoming one of its microbes swaps the human timeline for dormancy, sporulation and slow accumulation.
+- What it is: A VR experience in which the visitor becomes a microbe living in the dust of the Royal College of Art's Kensington library. They wake inside an out-of-scale bookshelf and pass through decades of the room's history before returning to the library as it is today.
+- How it works: Microbes sampled from library dust, archival photographs and 3D scans of the space are combined into a VR journey following Bacillus subtilis.
+- Paper: https://doi.org/10.1017/btd.2024.21 (Research Directions: Biotechnology Design 2025)
+- Video: https://www.youtube.com/watch?v=8AAy5Phd0Fw
+- Images: https://rca-media2.rca.ac.uk/images/Screenshot_2025-03-18_at_12.36.3.2e16d0ba.fill-1200x1200.png
+- Project page: https://www.rca.ac.uk/more/staff/dr-carolina-ramirez-figueroa/transcript-for-the-materialised-temporality-of-dust-vr-project-by-carolina-ramirez-figueroa-video/
+
 ### Symbiosis & lichen
 
 Lichen, holobionts and life as entanglement.
@@ -975,6 +989,16 @@ Growing, breathing and living for centuries as a tree.
 - Paper: https://doi.org/10.1038/s41598-022-05184-0 (Scientific Reports 2022)
 - Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-05184-0/MediaObjects/41598_2022_5184_Fig1_HTML.png
 - Project page: https://www.nature.com/articles/s41598-022-05184-0
+
+#### We Live in an Ocean of Air — Marshmallow Laser Feast (2018)
+- Type: Artwork · Senses: Breath & interoception, Multisensory, Altered vision · Medium: VR headset, Multisensory installation
+- Shown at: Salon 009, Saatchi Gallery, London 2018–19; Observations on Being, Coventry 2021; Phi Centre, Montreal 2021–22; ArtScience Museum, Singapore 2022; Plásmata: Bodies, Dreams, and Data, Onassis Foundation, Athens 2022; Works of Nature, ACMI, Melbourne 2023–24; Breathe | Mauri Ora, Te Papa, Wellington 2025–26
+- Idea: Breath is shared with trees: each exhale feeds the sequoia and each inhale comes from it, so the boundary between body and plant becomes a loop.
+- What it is: A multi-user VR installation in which visitors stand beneath a giant sequoia and see their own exhaled breath as particles that flow into the tree, while its oxygen flows back into them. Later editions present it as a large video installation.
+- How it works: Untethered VR with backpack PCs, hand tracking, breath sensors and heart-rate monitors that turn each visitor's breathing and pulse into real-time particles; binaural sound, scent diffusion and wind machines; sequoia data from the Treehugger LiDAR scans.
+- Video: https://vimeo.com/303589503
+- Images: https://marshmallowlaserfeast.com/app/uploads/2023/11/Copy-of-OceanOfAir_Saatchi_-12-of-34_sml.jpg https://marshmallowlaserfeast.com/app/uploads/2023/11/Copy-of-OceanOfAir_Saatchi_-26-of-34.jpg https://marshmallowlaserfeast.com/app/uploads/2024/02/We-Live-in-an-Ocean-of-Air-by-Marshmallow-Laser-Feast-Works-of-Nature-ACMI-2023-image-by-Eugene-Hyland_13295.jpg
+- Project page: https://marshmallowlaserfeast.com/project/we-live-in-an-ocean-of-air/
 
 #### Tree — Milica Zec, Winslow Porter (2017)
 - Type: Artwork · Senses: Body schema & movement, Touch & haptics, Smell & taste · Medium: VR headset, Multisensory installation
@@ -1134,6 +1158,16 @@ Being a chair, a table, a bed: bearing weight, waiting, being sat on.
 - How it works: XR stillness, altered affordances, spatial persistence and restrained interaction interrupt habitual use of the chair (details in development).
 - Project page: https://experiencing-mth.github.io
 
+#### Unconventional Self — Werner van der Zwan, Charl Linssen (2022)
+- Type: Artwork · Senses: Body schema & movement, Altered vision, Touch & haptics · Medium: VR headset, Multisensory installation
+- Shown at: V2_ Winter Sessions 2022, WORM Rotterdam; Ars Electronica 2023 (V2_ Summer Sessions, POSTCITY); Immersive Tech Week Rotterdam; Meta.Morf 2024, Trøndelag Centre for Contemporary Art, Trondheim
+- Idea: Becoming a chair means learning a body through its resistance: the object's awkward, limited movements become your own possibilities and vulnerabilities.
+- What it is: A telepresence installation in which a visitor wearing a VR headset sees through, and moves as, a motorised folding chair. A spoken choreographic text guides them as they learn what this stiff new body can and cannot do among other animated furniture.
+- How it works: A camera on the found-furniture robot streams to a 3DOF VR headset; the participant's head and control inputs drive windshield-wiper motors in the chair's legs.
+- Video: https://www.youtube.com/watch?v=KPql0D_korQ
+- Images: https://ars.electronica.art/who-owns-the-truth/files/2023/08/53171000244_5d3ded64c4_k-1499x1000.jpg https://ars.electronica.art/who-owns-the-truth/files/2023/08/unconventional-selfwerner-van-der-zwan_charl-linssen-1.jpg https://freight.cargo.site/w/1100/i/V2167003497395615679433510820540/WhatsApp-Image-2024-10-02-at-12.30.52.jpeg
+- Project page: https://ververwant.nl/Unconventional-Self
+
 ## Becoming Robot
 
 Machinic worlds: robot and drone bodies, AI and machine perception, and cyborg senses.
@@ -1285,6 +1319,7 @@ Seeing and hearing as neural networks, sensors and algorithms do.
 - **Anastassia Andreasen** (3) — VR and sound researcher, Aalborg University Copenhagen. Anastassia Andreasen worked in Stefania Serafin's Multisensory Experience Lab on bat embodiment and echolocation in VR.
 - **Andrey Krekhov** (3) — Games and VR researcher, University of Duisburg-Essen. Andrey Krekhov studies avatars, locomotion and body ownership in VR games with Sebastian Cmentowski, Katharina Emmerich and Jens Krüger.
 - **Danlin Huang** (3) — Artist, designer-researcher and AR developer. Trained in industrial design and media art at the China Academy of Art; research assistant at Reality Design Lab. Uses XR, biosensors and AI to enrich bodily experience; lead designer of FeltSight and co-author of the monograph Experiencing More-than-Humans. https://danlinhuang.com
+- **Marshmallow Laser Feast** (3) — Experiential artist collective. London collective founded in 2011 by Memo Akten, Robin McNicholas and Barnaby Steel, now led by McNicholas, Steel and Ersin Han Ersin. It makes research-led multisensory installations, VR and video works about breath, trees, animals and the systems that connect them, often built from LiDAR scans, medical imaging and scientific datasets. https://marshmallowlaserfeast.com
 - **New Folder Games** (3) — VR game studio making 'I Am' animal simulators. Studio behind a line of VR sandbox games titled I Am Cat, I Am Bird and I Am Monkey, each built around one animal body. https://newfolderstudio.com/
 - **Akimi Oyanagi** (2) — VR researcher, Toyohashi University of Technology / University of Tokyo. Akimi Oyanagi studies body ownership of bird avatars and their psychological effects.
 - **Anatole Lécuyer** (2) — Research director, Inria Rennes (Hybrid team). Anatole Lécuyer leads Inria's Hybrid team on VR, haptics and brain–computer interfaces.
@@ -1295,7 +1330,6 @@ Seeing and hearing as neural networks, sensors and algorithms do.
 - **Eduardo Kac** (2) — Bioart and telepresence artist. Brazilian-American artist who coined the term transgenic art; known for GFP Bunny and the plantimal Edunia. https://www.ekac.org
 - **Kouta Minamizawa** (2) — Professor, Keio University Graduate School of Media Design (KMD). Haptics researcher who leads the Embodied Media Project at Keio KMD, working on telexistence, haptic transmission and shared bodies. https://embodiedmedia.org
 - **Laura Aymerich-Franch** (2) — Researcher, humanoid robot embodiment. Researcher who, at the CNRS-AIST Joint Robotics Laboratory, studied how people come to feel embodied in the HRP-2 humanoid robot.
-- **Marshmallow Laser Feast** (2) — Experiential artist collective. London collective founded in 2011 by Memo Akten, Robin McNicholas and Barnaby Steel, now led by McNicholas, Steel and Ersin Han Ersin. It makes research-led multisensory installations, VR and video works about breath, trees, animals and the systems that connect them, often built from LiDAR scans, medical imaging and scientific datasets. https://marshmallowlaserfeast.com
 - **Michiteru Kitazaki** (2) — Professor of perception, Toyohashi University of Technology. Michiteru Kitazaki studies visual perception, body ownership and shared or extra bodies in VR (JST ERATO Inami Jizai Body project).
 - **Natalia Cabrera** (2) — XR director, co-founder of Nanai Studio. Chilean filmmaker and media artist (NYU ITP) who co-founded Nanai Studio with Selva Gonzalez; directed Hypha and Symbiotica. https://www.nanai.studio
 - **Omar A. Khan** (2) — VR researcher, University of Calgary. Omar A. Khan studies avatar embodiment, locomotion and haptics for non-human bodies in VR.
@@ -1315,6 +1349,8 @@ Seeing and hearing as neural networks, sensors and algorithms do.
 - **Bianca Kennedy** (1) — Artist. German artist who works with The Swan Collective on hand-sculpted, photogrammetry-captured VR.
 - **Breakpoint One** (1) — XR studio. German XR studio that made VR Plant Journey with the Leibniz Institute of Plant Genetics and Crop Plant Research (IPK). https://breakpoint.one
 - **Brenda Laurel** (1) — Designer, researcher and author of Computers as Theatre. American interaction designer and researcher, author of Computers as Theatre and co-founder of Purple Moon; produced the VR work Placeholder at Interval Research.
+- **Carolina Ramirez-Figueroa** (1) — Senior Tutor, Information Experience Design, Royal College of Art. Designer and researcher at the Royal College of Art working across biodesign, archives and immersive media, with a focus on microbial life and time. https://www.rca.ac.uk/more/staff/dr-carolina-ramirez-figueroa/
+- **Charl Linssen** (1) — Computational neuroscientist and maker of responsive objects. Researcher in computer simulation of neural dynamics who also builds electronic and robotic objects that respond to their surroundings as if animated.
 - **Chris Milk** (1) — Artist and director. American director and co-founder of Within, known for early interactive installations and VR. http://milk.co
 - **Danyang Peng** (1) — HCI researcher, Keio University Graduate School of Media Design. Danyang Peng designs haptic navigation inspired by animal senses.
 - **David Chaseling** (1) — Independent VR developer. Independent developer who co-created the VR octopus platformer I Am Octopus with Dylan Van Beek.
@@ -1380,6 +1416,7 @@ Seeing and hearing as neural networks, sensors and algorithms do.
 - **Ubisoft Montreal** (1) — Game studio of Ubisoft, Montreal. Large Ubisoft studio known for Assassin's Creed and Far Cry; its Fun House team made the early VR title Eagle Flight. https://montreal.ubisoft.com/
 - **Visiontrick Media** (1) — Game studio. Swedish independent studio (director Rui Guerreiro) behind the VR games Pan-Pan and Mare. https://www.visiontrick.com
 - **Viviana Álvarez Chomón** (1) — Designer and media arts researcher. Chilean designer and researcher in media arts who develops science-art VR experiences with biologists.
+- **Werner van der Zwan** (1) — Artist and filmmaker. Dutch artist and filmmaker who fits found objects and scrapyard furniture with motors and code so that they move like characters. https://ververwant.nl
 - **Within** (1) — VR studio (Chris Milk & Aaron Koblin). Studio founded by Chris Milk and Aaron Koblin, early producer of cinematic and social VR. https://www.with.in
 - **Xin Liu** (1) — Artist and engineer, co-founder of slow immediate. Artist-engineer and MIT Media Lab alumna whose studio slow immediate (with Gershon Dublon) makes works on perception, the body and the environment. https://slowimmediate.com
 - **Xinmiao Lan** (1) — Communication researcher, University of Amsterdam. Xinmiao Lan studies avatars and the Proteus effect with Zeph van Berlo.

@@ -4,7 +4,10 @@
  "works": [
   {
    "id": "reality-design-lab--becoming-chairs",
-   "creator_ids": ["reality-design-lab", "botao-hu"],
+   "creator_ids": [
+    "reality-design-lab",
+    "botao-hu"
+   ],
    "title": "Becoming Chairs",
    "year": 2026,
    "status": "in-development",
@@ -12,8 +15,15 @@
    "relation": "becoming",
    "field": "chair",
    "sub": "furniture",
-   "senses": ["body", "time-scale", "touch"],
-   "medium": ["mr", "installation"],
+   "senses": [
+    "body",
+    "time-scale",
+    "touch"
+   ],
+   "medium": [
+    "mr",
+    "installation"
+   ],
    "kind": "artwork",
    "description": "An XR work in development in which participants take the position of an everyday chair: stillness, load, wear and orientation replace the chair's ordinary availability for use.",
    "description_zh": "一件开发中的 XR 作品：参与者处在一把日常椅子的位置上，以静止、承重、磨损与朝向，取代椅子平日“随时可用”的状态。",
@@ -21,13 +31,25 @@
    "idea_zh": "可供性陌生化：让物脱离它被期待的用途，使它的依存、阻力与物质历史变得可感知——而不是去感受椅子的感受。",
    "method": "XR stillness, altered affordances, spatial persistence and restrained interaction interrupt habitual use of the chair (details in development).",
    "method_zh": "以 XR 中的静止、被改变的可供性、空间持续性与克制的交互，打断人对椅子的习惯性使用（细节仍在开发中）。",
-   "keywords": ["chair", "affordance estrangement", "object-oriented ontology", "vibrant matter", "stillness", "Experiencing More-than-Humans Ch. 10"],
+   "keywords": [
+    "chair",
+    "affordance estrangement",
+    "object-oriented ontology",
+    "vibrant matter",
+    "stillness",
+    "Experiencing More-than-Humans"
+   ],
    "source_url": "https://experiencing-mth.github.io",
-   "collections": ["book-portfolio"]
+   "collections": [
+    "book-portfolio"
+   ]
   },
   {
    "id": "reality-design-lab--be-the-creek",
-   "creator_ids": ["reality-design-lab", "botao-hu"],
+   "creator_ids": [
+    "reality-design-lab",
+    "botao-hu"
+   ],
    "title": "Be the Creek",
    "year": 2026,
    "status": "in-development",
@@ -35,8 +57,15 @@
    "relation": "becoming",
    "field": "river",
    "sub": "water",
-   "senses": ["body", "time-scale", "hearing"],
-   "medium": ["mr", "wearable"],
+   "senses": [
+    "body",
+    "time-scale",
+    "hearing"
+   ],
+   "medium": [
+    "mr",
+    "wearable"
+   ],
    "kind": "artwork",
    "description": "An XR work in development in which participants experience flow, duration and relation as a creek rather than as a visitor standing beside one.",
    "description_zh": "一件开发中的 XR 作品：参与者以一条溪流的方式体验流动、时长与关系，而不是站在溪边的访客。",
@@ -44,13 +73,24 @@
    "idea_zh": "成为水，是节奏与尺度的改变：是流动与时长，而不是某个生物的视角。",
    "method": "Mixed-reality embodiment of flow, duration and relation (details in development).",
    "method_zh": "以混合现实具身呈现流动、时长与关系（细节仍在开发中）。",
-   "keywords": ["creek", "watershed", "flow", "hydrological time", "Experiencing More-than-Humans Ch. 8"],
+   "keywords": [
+    "creek",
+    "watershed",
+    "flow",
+    "hydrological time",
+    "Experiencing More-than-Humans"
+   ],
    "source_url": "https://experiencing-mth.github.io",
-   "collections": ["book-portfolio"]
+   "collections": [
+    "book-portfolio"
+   ]
   },
   {
    "id": "reality-design-lab--making-kin-with-creek-as-fish",
-   "creator_ids": ["reality-design-lab", "botao-hu"],
+   "creator_ids": [
+    "reality-design-lab",
+    "botao-hu"
+   ],
    "title": "Making Kin with Creek as Fish",
    "year": 2026,
    "status": "in-development",
@@ -58,9 +98,18 @@
    "relation": "becoming",
    "field": "fish",
    "sub": "fish",
-   "also": ["river"],
-   "senses": ["body", "vision", "multisensory"],
-   "medium": ["mr", "wearable"],
+   "also": [
+    "river"
+   ],
+   "senses": [
+    "body",
+    "vision",
+    "multisensory"
+   ],
+   "medium": [
+    "mr",
+    "wearable"
+   ],
    "kind": "artwork",
    "description": "An XR work in development that remaps the participant's body to approach current, shelter, sensing and watershed infrastructure through a fish's relation to its creek.",
    "description_zh": "一件开发中的 XR 作品：重新映射参与者的身体，借一条鱼与溪流的关系去接近水流、庇护、感知与流域基础设施。",
@@ -68,9 +117,18 @@
    "idea_zh": "把共情从“占有”（感受鱼的感受）转向在共享而不均等的流域中的回应能力。",
    "method": "XR body remapping for current, shelter and sensing in a fish–creek relation (details in development).",
    "method_zh": "以 XR 身体重映射呈现鱼与溪流关系中的水流、庇护与感知（细节仍在开发中）。",
-   "keywords": ["fish", "creek", "watershed", "body remapping", "multispecies kin", "Experiencing More-than-Humans Ch. 9"],
+   "keywords": [
+    "fish",
+    "creek",
+    "watershed",
+    "body remapping",
+    "multispecies kin",
+    "Experiencing More-than-Humans"
+   ],
    "source_url": "https://experiencing-mth.github.io",
-   "collections": ["book-portfolio"]
+   "collections": [
+    "book-portfolio"
+   ]
   }
  ],
  "leads": []

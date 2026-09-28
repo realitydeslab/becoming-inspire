@@ -2,7 +2,7 @@
 
 用 XR 与感官技术让人成为另一种存在（蝙蝠、鼹鼠、鱼、章鱼、鸟、昆虫、动物、真菌、树、河流、机器人）的作品目录：艺术作品、沉浸式影片、游戏、研究原型与论文，由 Reality Design Lab 为《Experiencing More-than-Humans》一书整理。每件作品都列出核心想法、实现方式，以及视频、图片和论文链接。
 
-https://becoming.reality.design · 2026-09-28 · 114 位创作者 · 131 件作品
+https://becoming.reality.design · 2026-09-28 · 117 位创作者 · 134 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -938,6 +938,20 @@ https://becoming.reality.design · 2026-09-28 · 114 位创作者 · 131 件作�
 - 图片: https://polymorf.nl/wp-content/uploads/2026/05/BG-Symbiosis-new-04.jpg https://polymorf.nl/wp-content/uploads/2026/05/creature.jpg
 - 项目主页: https://polymorf.nl/symbiosis/
 
+### 微生物与细胞
+
+细菌、病毒、细胞、微生物组与分子世界。
+
+#### The Materialised Temporality of Dust — Carolina Ramirez-Figueroa (2024)
+- 类型: 艺术作品 · 感官: 时间与尺度, 改变的视觉 · 媒介: VR 头显
+- 核心想法: 以微生物的尺度阅读历史：尘埃是一座档案馆，成为其中的一个微生物，就是用休眠、孢子形成与缓慢堆积替换人类的时间线。
+- 作品内容: 一件 VR 作品：观众成为英国皇家艺术学院肯辛顿图书馆尘埃中的一个微生物。他们在比例失调的书架里醒来，穿过这个房间几十年的历史，最后回到今天的图书馆。
+- 实现方式: 把图书馆尘埃中采集的微生物、档案照片与空间 3D 扫描结合成一段跟随枯草芽孢杆菌（Bacillus subtilis）的 VR 旅程。
+- 论文: https://doi.org/10.1017/btd.2024.21 (Research Directions: Biotechnology Design 2025)
+- 视频: https://www.youtube.com/watch?v=8AAy5Phd0Fw
+- 图片: https://rca-media2.rca.ac.uk/images/Screenshot_2025-03-18_at_12.36.3.2e16d0ba.fill-1200x1200.png
+- 项目主页: https://www.rca.ac.uk/more/staff/dr-carolina-ramirez-figueroa/transcript-for-the-materialised-temporality-of-dust-vr-project-by-carolina-ramirez-figueroa-video/
+
 ### 共生与地衣
 
 地衣、共生总体与作为纠缠的生命。
@@ -975,6 +989,16 @@ https://becoming.reality.design · 2026-09-28 · 114 位创作者 · 131 件作�
 - 论文: https://doi.org/10.1038/s41598-022-05184-0 (Scientific Reports 2022)
 - 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-05184-0/MediaObjects/41598_2022_5184_Fig1_HTML.png
 - 项目主页: https://www.nature.com/articles/s41598-022-05184-0
+
+#### We Live in an Ocean of Air — Marshmallow Laser Feast (2018)
+- 类型: 艺术作品 · 感官: 呼吸与内感受, 多感官, 改变的视觉 · 媒介: VR 头显, 多感官装置
+- 展出于: Salon 009, Saatchi Gallery, London 2018–19; Observations on Being, Coventry 2021; Phi Centre, Montreal 2021–22; ArtScience Museum, Singapore 2022; Plásmata: Bodies, Dreams, and Data, Onassis Foundation, Athens 2022; Works of Nature, ACMI, Melbourne 2023–24; Breathe | Mauri Ora, Te Papa, Wellington 2025–26
+- 核心想法: 呼吸与树共享：每一次呼气都在喂养红杉，每一次吸气都来自它，身体与植物的边界变成一个循环。
+- 作品内容: 一件多人 VR 装置：观众站在巨型红杉下，看见自己呼出的气息化作粒子流入树中，而树释放的氧气又流回身体。后续版本以大型影像装置形式展出。
+- 实现方式: 背包电脑驱动的无线 VR，配有手部追踪、呼吸传感器与心率监测，把每位观众的呼吸与脉搏实时转化为粒子；配合双耳声音、气味扩散与风机；红杉数据来自《Treehugger》的 LiDAR 扫描。
+- 视频: https://vimeo.com/303589503
+- 图片: https://marshmallowlaserfeast.com/app/uploads/2023/11/Copy-of-OceanOfAir_Saatchi_-12-of-34_sml.jpg https://marshmallowlaserfeast.com/app/uploads/2023/11/Copy-of-OceanOfAir_Saatchi_-26-of-34.jpg https://marshmallowlaserfeast.com/app/uploads/2024/02/We-Live-in-an-Ocean-of-Air-by-Marshmallow-Laser-Feast-Works-of-Nature-ACMI-2023-image-by-Eugene-Hyland_13295.jpg
+- 项目主页: https://marshmallowlaserfeast.com/project/we-live-in-an-ocean-of-air/
 
 #### Tree — Milica Zec, Winslow Porter (2017)
 - 类型: 艺术作品 · 感官: 身体图式与运动, 触觉, 嗅觉与味觉 · 媒介: VR 头显, 多感官装置
@@ -1134,6 +1158,16 @@ https://becoming.reality.design · 2026-09-28 · 114 位创作者 · 131 件作�
 - 实现方式: 以 XR 中的静止、被改变的可供性、空间持续性与克制的交互，打断人对椅子的习惯性使用（细节仍在开发中）。
 - 项目主页: https://experiencing-mth.github.io
 
+#### Unconventional Self — Werner van der Zwan, Charl Linssen (2022)
+- 类型: 艺术作品 · 感官: 身体图式与运动, 改变的视觉, 触觉 · 媒介: VR 头显, 多感官装置
+- 展出于: V2_ Winter Sessions 2022, WORM Rotterdam; Ars Electronica 2023 (V2_ Summer Sessions, POSTCITY); Immersive Tech Week Rotterdam; Meta.Morf 2024, Trøndelag Centre for Contemporary Art, Trondheim
+- 核心想法: 成为一把椅子，就是通过阻力去认识一具身体：物件笨拙而有限的动作，变成了你自己的可能与脆弱。
+- 作品内容: 一件远程临场装置：观众戴上 VR 头显，透过一把装了电机的折叠椅去看，并以它的身体移动。一段口述的编舞文本引导他们在其他会动的家具之间，摸索这具僵硬的新身体能做什么、不能做什么。
+- 实现方式: 装在拾得家具机器人上的摄像头把画面传到三自由度 VR 头显；参与者的头部动作与操控输入驱动椅腿里的雨刮电机。
+- 视频: https://www.youtube.com/watch?v=KPql0D_korQ
+- 图片: https://ars.electronica.art/who-owns-the-truth/files/2023/08/53171000244_5d3ded64c4_k-1499x1000.jpg https://ars.electronica.art/who-owns-the-truth/files/2023/08/unconventional-selfwerner-van-der-zwan_charl-linssen-1.jpg https://freight.cargo.site/w/1100/i/V2167003497395615679433510820540/WhatsApp-Image-2024-10-02-at-12.30.52.jpeg
+- 项目主页: https://ververwant.nl/Unconventional-Self
+
 ## 成为机器人
 
 机器的世界：机器人与无人机的身体、AI 与机器感知，以及赛博格感官。
@@ -1285,6 +1319,7 @@ https://becoming.reality.design · 2026-09-28 · 114 位创作者 · 131 件作�
 - **Anastassia Andreasen** (3) — 虚拟现实与声音研究者，奥尔堡大学哥本哈根校区. Anastassia Andreasen 在 Stefania Serafin 的多感官体验实验室研究 VR 中的蝙蝠化身与回声定位。
 - **Andrey Krekhov** (3) — 游戏与虚拟现实研究者，杜伊斯堡-埃森大学. Andrey Krekhov 与 Sebastian Cmentowski、Katharina Emmerich、Jens Krüger 一起研究 VR 游戏中的化身、移动方式与身体所有感。
 - **Danlin Huang** (3) — 艺术家、设计研究者与 AR 开发者. 毕业于中国美术学院工业设计与媒体艺术方向，曾任 Reality Design Lab 研究助理。用 XR、生物传感与 AI 拓展身体经验；FeltSight 的主要设计者，专著《Experiencing More-than-Humans》合著者。 https://danlinhuang.com
+- **Marshmallow Laser Feast** (3) — 体验式艺术家团体. 2011 年由 Memo Akten、Robin McNicholas 与 Barnaby Steel 在伦敦创立，现由 McNicholas、Steel 与 Ersin Han Ersin 主导。团体以研究为基础，创作关于呼吸、树木、动物及其相互联系的多感官装置、VR 与影像作品，常用 LiDAR 扫描、医学影像与科学数据构建画面。 https://marshmallowlaserfeast.com
 - **New Folder Games** (3) — 制作“I Am”系列动物模拟游戏的 VR 工作室. 开发 I Am Cat、I Am Bird、I Am Monkey 等 VR 沙盒游戏的工作室，每一款都围绕一种动物身体展开。 https://newfolderstudio.com/
 - **Akimi Oyanagi** (2) — 虚拟现实研究者，丰桥技术科学大学 / 东京大学. Akimi Oyanagi 研究对鸟类化身的身体所有感及其心理效应。
 - **Anatole Lécuyer** (2) — Inria 雷恩研究主任（Hybrid 团队）. Anatole Lécuyer 领导 Inria 的 Hybrid 团队，研究 VR、触觉与脑机接口。
@@ -1295,7 +1330,6 @@ https://becoming.reality.design · 2026-09-28 · 114 位创作者 · 131 件作�
 - **Eduardo Kac** (2) — 生物艺术与远程临场艺术家. 巴西裔美国艺术家，提出“转基因艺术”一词，代表作包括《GFP Bunny》与“植物动物”Edunia。 https://www.ekac.org
 - **Kouta Minamizawa** (2) — 庆应义塾大学媒体设计研究科（KMD）教授. 触觉研究者，主持庆应 KMD 的 Embodied Media Project，研究远程临场、触觉传输与共享身体。 https://embodiedmedia.org
 - **Laura Aymerich-Franch** (2) — 研究者，人形机器人具身. 曾在 CNRS-AIST 联合机器人实验室研究人们如何对 HRP-2 人形机器人产生具身感的研究者。
-- **Marshmallow Laser Feast** (2) — 体验式艺术家团体. 2011 年由 Memo Akten、Robin McNicholas 与 Barnaby Steel 在伦敦创立，现由 McNicholas、Steel 与 Ersin Han Ersin 主导。团体以研究为基础，创作关于呼吸、树木、动物及其相互联系的多感官装置、VR 与影像作品，常用 LiDAR 扫描、医学影像与科学数据构建画面。 https://marshmallowlaserfeast.com
 - **Michiteru Kitazaki** (2) — 感知研究教授，丰桥技术科学大学. 北崎充晃研究视知觉、身体所有感以及 VR 中的共享身体与额外身体（JST ERATO 稻见自在化身体项目）。
 - **Natalia Cabrera** (2) — XR 导演，Nanai Studio 联合创始人. 智利电影人与媒体艺术家（NYU ITP 毕业），与 Selva Gonzalez 共同创办 Nanai Studio，执导《Hypha》与《Symbiotica》。 https://www.nanai.studio
 - **Omar A. Khan** (2) — 虚拟现实研究者，卡尔加里大学. Omar A. Khan 研究 VR 中非人类身体的化身、移动方式与触觉。
@@ -1315,6 +1349,8 @@ https://becoming.reality.design · 2026-09-28 · 114 位创作者 · 131 件作�
 - **Bianca Kennedy** (1) — 艺术家. 德国艺术家，与 The Swan Collective 合作，用手工雕塑加摄影测量制作 VR。
 - **Breakpoint One** (1) — XR 工作室. 德国 XR 工作室，与莱布尼茨植物遗传与作物研究所（IPK）合作开发《VR Plant Journey》。 https://breakpoint.one
 - **Brenda Laurel** (1) — 设计师、研究者，《Computers as Theatre》作者. 美国交互设计师与研究者，著有《Computers as Theatre》，联合创立 Purple Moon；在 Interval Research 制作了 VR 作品 Placeholder。
+- **Carolina Ramirez-Figueroa** (1) — 英国皇家艺术学院信息体验设计专业高级导师. 英国皇家艺术学院的设计师与研究者，工作横跨生物设计、档案与沉浸媒体，关注微生物生命与时间。 https://www.rca.ac.uk/more/staff/dr-carolina-ramirez-figueroa/
+- **Charl Linssen** (1) — 计算神经科学研究者、响应式物件创作者. 从事神经动力学计算模拟的研究者，业余制作能对环境作出反应、仿佛有生命的电子与机器人物件。
 - **Chris Milk** (1) — 艺术家与导演. 美国导演，Within 联合创始人，以早期互动装置与 VR 闻名。 http://milk.co
 - **Danyang Peng** (1) — 人机交互研究者，庆应义塾大学媒体设计研究科. Danyang Peng 设计受动物感官启发的触觉导航。
 - **David Chaseling** (1) — 独立 VR 开发者. 独立开发者，与 Dylan Van Beek 共同开发了 VR 章鱼平台游戏 I Am Octopus。
@@ -1380,6 +1416,7 @@ https://becoming.reality.design · 2026-09-28 · 114 位创作者 · 131 件作�
 - **Ubisoft Montreal** (1) — 育碧旗下游戏工作室，蒙特利尔. 育碧的大型工作室，以《刺客信条》《孤岛惊魂》闻名；其 Fun House 团队制作了早期 VR 游戏 Eagle Flight。 https://montreal.ubisoft.com/
 - **Visiontrick Media** (1) — 游戏工作室. 瑞典独立工作室（导演 Rui Guerreiro），开发了 VR 游戏《Pan-Pan》与《Mare》。 https://www.visiontrick.com
 - **Viviana Álvarez Chomón** (1) — 设计师与媒体艺术研究者. 智利设计师与媒体艺术研究者，与生物学家合作开发科学艺术类 VR 体验。
+- **Werner van der Zwan** (1) — 艺术家、电影人. 荷兰艺术家、电影人，用电机和程序改装拾得物与废旧家具，让它们像角色一样动起来。 https://ververwant.nl
 - **Within** (1) — VR 工作室（Chris Milk 与 Aaron Koblin）. 由 Chris Milk 与 Aaron Koblin 创立的工作室，电影化与社交 VR 的早期制作者。 https://www.with.in
 - **Xin Liu** (1) — 艺术家与工程师，slow immediate 工作室联合创始人. 艺术家兼工程师，MIT Media Lab 校友；她与 Gershon Dublon 创办的工作室 slow immediate 关注感知、身体与环境。 https://slowimmediate.com
 - **Xinmiao Lan** (1) — 传播学研究者，阿姆斯特丹大学. Xinmiao Lan 与 Zeph van Berlo 研究化身与普罗透斯效应。

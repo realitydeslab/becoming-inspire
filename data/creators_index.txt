@@ -17,7 +17,9 @@ bianca-kennedy | Bianca Kennedy | 1 works
 botao-hu | Botao 'Amber' Hu | 8 works
 breakpoint-one | Breakpoint One | 1 works
 brenda-laurel | Brenda Laurel | 1 works
+carolina-ramirez-figueroa | Carolina Ramirez-Figueroa | 1 works
 char-davies | Char Davies | 2 works
+charl-linssen | Charl Linssen | 1 works
 chris-milk | Chris Milk | 1 works
 daniel-pimentel | Daniel Pimentel | 2 works
 danlin-huang | Danlin Huang | 3 works
@@ -55,7 +57,7 @@ lai-guan-yuan | Lai Guan-yuan | 1 works
 larry-f-hodges | Larry F. Hodges | 1 works
 laura-aymerich-franch | Laura Aymerich-Franch | 2 works
 marc-erich-latoschik | Marc Erich Latoschik | 1 works
-marshmallow-laser-feast | Marshmallow Laser Feast | 2 works
+marshmallow-laser-feast | Marshmallow Laser Feast | 3 works
 martin-kocur | Martin Kocur | 1 works
 maryam-alimardani | Maryam Alimardani | 1 works
 max-rheiner | Max Rheiner | 1 works
@@ -100,6 +102,7 @@ treta-studios | Treta Studios | 1 works
 ubisoft-montreal | Ubisoft Montreal | 1 works
 visiontrick-media | Visiontrick Media | 1 works
 viviana-alvarez-chomon | Viviana Álvarez Chomón | 1 works
+werner-van-der-zwan | Werner van der Zwan | 1 works
 winslow-porter | Winslow Porter | 2 works
 within | Within | 1 works
 xin-liu | Xin Liu | 1 works

@@ -10071,5 +10071,68 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "video:youtube:KPql0D_korQ": {
+  "url": "https://www.youtube.com/watch?v=KPql0D_korQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "KPql0D_korQ",
+  "title": "Winter Sessions 2022 - Unconventional Self by Charl Linssen & Werner van der Zwan 1080p",
+  "author": "V2_ Lab for the Unstable Media",
+  "thumbnail": "https://i.ytimg.com/vi/KPql0D_korQ/hqdefault.jpg"
+ },
+ "img:https://ars.electronica.art/who-owns-the-truth/files/2023/08/53171000244_5d3ded64c4_k-1499x1000.jpg": {
+  "url": "https://ars.electronica.art/who-owns-the-truth/files/2023/08/53171000244_5d3ded64c4_k-1499x1000.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/who-owns-the-truth/files/2023/08/unconventional-selfwerner-van-der-zwan_charl-linssen-1.jpg": {
+  "url": "https://ars.electronica.art/who-owns-the-truth/files/2023/08/unconventional-selfwerner-van-der-zwan_charl-linssen-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://freight.cargo.site/w/1100/i/V2167003497395615679433510820540/WhatsApp-Image-2024-10-02-at-12.30.52.jpeg": {
+  "url": "https://freight.cargo.site/w/1100/i/V2167003497395615679433510820540/WhatsApp-Image-2024-10-02-at-12.30.52.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:8AAy5Phd0Fw": {
+  "url": "https://www.youtube.com/watch?v=8AAy5Phd0Fw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "8AAy5Phd0Fw",
+  "title": "The Materialised Temporality of Dust",
+  "author": "Carolina Ramirez-Figueroa",
+  "thumbnail": "https://i.ytimg.com/vi/8AAy5Phd0Fw/hqdefault.jpg"
+ },
+ "img:https://rca-media2.rca.ac.uk/images/Screenshot_2025-03-18_at_12.36.3.2e16d0ba.fill-1200x1200.png": {
+  "url": "https://rca-media2.rca.ac.uk/images/Screenshot_2025-03-18_at_12.36.3.2e16d0ba.fill-1200x1200.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1017/btd.2024.21": {
+  "doi": "10.1017/btd.2024.21",
+  "ok": true,
+  "type": "doi",
+  "title": "The materialised temporality of dust: developing a biodesign methodology to spatialise time and temporalise space",
+  "year": 2025,
+  "venue": "Research Directions: Biotechnology Design",
+  "url": "https://doi.org/10.1017/btd.2024.21"
+ },
+ "ytmax:KPql0D_korQ": {
+  "url": "https://i.ytimg.com/vi/KPql0D_korQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:8AAy5Phd0Fw": {
+  "url": "https://i.ytimg.com/vi/8AAy5Phd0Fw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
  }
 }

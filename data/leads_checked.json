@@ -200,6 +200,14 @@
   "batch": "games"
  },
  {
+  "name": "Sitting with the Other (Werner van der Zwan & Charl Linssen)",
+  "why": "Named in the Augmented Noticing interview list as their chair VR work; no public source under this title. It is most likely the same project as Unconventional Self, or a paper about it.",
+  "link": "https://ververwant.nl/Unconventional-Self",
+  "found_via": "werner-van-der-zwan",
+  "status": "duplicate",
+  "batch": "gdoc-works"
+ },
+ {
   "name": "Collisions (Lynette Wallworth, 2016)",
   "why": "Nyarri Morgan's Country and the Maralinga atomic tests; a human, not nonhuman, perspective, so left out.",
   "link": "https://www.youtube.com/watch?v=-NZHLtmNi_s",

@@ -1423,6 +1423,78 @@
    "work_count": 1
   },
   {
+   "id": "werner-van-der-zwan",
+   "links": {
+    "site": "https://ververwant.nl",
+    "instagram": "https://instagram.com/ververwant"
+   },
+   "connected_to": [
+    "charl-linssen"
+   ],
+   "name": "Werner van der Zwan",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "based": "Rotterdam, Netherlands",
+   "bio": "Dutch artist and filmmaker who fits found objects and scrapyard furniture with motors and code so that they move like characters.",
+   "why": "His telepresence furniture lets a person inhabit an everyday object, a rare XR case of becoming a thing rather than a creature.",
+   "disciplines": [
+    "art"
+   ],
+   "role_zh": "艺术家、电影人",
+   "bio_zh": "荷兰艺术家、电影人，用电机和程序改装拾得物与废旧家具，让它们像角色一样动起来。",
+   "why_zh": "他的远程临场家具让人住进一件日常物品里，是 XR 中少见的“成为物”而非成为生物的案例。",
+   "based_zh": "鹿特丹，荷兰",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "charl-linssen",
+   "links": {},
+   "connected_to": [
+    "werner-van-der-zwan"
+   ],
+   "name": "Charl Linssen",
+   "kind": "person",
+   "role": "Computational neuroscientist and maker of responsive objects",
+   "based": "Netherlands",
+   "bio": "Researcher in computer simulation of neural dynamics who also builds electronic and robotic objects that respond to their surroundings as if animated.",
+   "why": "Brings the neuroscience of body ownership and sensorimotor feedback to the telepresence chair he co-created with Werner van der Zwan.",
+   "disciplines": [
+    "science",
+    "art"
+   ],
+   "role_zh": "计算神经科学研究者、响应式物件创作者",
+   "bio_zh": "从事神经动力学计算模拟的研究者，业余制作能对环境作出反应、仿佛有生命的电子与机器人物件。",
+   "why_zh": "他把身体所有感与感觉运动反馈的神经科学带进了与 Werner van der Zwan 合作的远程临场椅子。",
+   "based_zh": "荷兰",
+   "discovered_via": "werner-van-der-zwan",
+   "work_count": 1
+  },
+  {
+   "id": "carolina-ramirez-figueroa",
+   "links": {
+    "site": "https://www.rca.ac.uk/more/staff/dr-carolina-ramirez-figueroa/",
+    "youtube": "https://www.youtube.com/@CarolinaRamirez-Figueroa"
+   },
+   "connected_to": [],
+   "name": "Carolina Ramirez-Figueroa",
+   "kind": "person",
+   "role": "Senior Tutor, Information Experience Design, Royal College of Art",
+   "based": "London, UK",
+   "bio": "Designer and researcher at the Royal College of Art working across biodesign, archives and immersive media, with a focus on microbial life and time.",
+   "why": "Her VR work lets visitors become a dust-borne microbe and read a building's history at microbial scale.",
+   "disciplines": [
+    "design",
+    "science"
+   ],
+   "role_zh": "英国皇家艺术学院信息体验设计专业高级导师",
+   "bio_zh": "英国皇家艺术学院的设计师与研究者，工作横跨生物设计、档案与沉浸媒体，关注微生物生命与时间。",
+   "why_zh": "她的 VR 作品让观众成为尘埃中的一个微生物，以微生物的尺度阅读一栋建筑的历史。",
+   "based_zh": "伦敦，英国",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
    "id": "lai-guan-yuan",
    "links": {},
    "connected_to": [],
@@ -2793,7 +2865,7 @@
     "film"
    ],
    "discovered_via": "seed",
-   "work_count": 2
+   "work_count": 3
   },
   {
    "id": "abandon-normal-devices",
@@ -3400,7 +3472,7 @@
     "watershed",
     "flow",
     "hydrological time",
-    "Experiencing More-than-Humans Ch. 8"
+    "Experiencing More-than-Humans"
    ],
    "source_url": "https://experiencing-mth.github.io",
    "collections": [
@@ -3450,7 +3522,7 @@
     "object-oriented ontology",
     "vibrant matter",
     "stillness",
-    "Experiencing More-than-Humans Ch. 10"
+    "Experiencing More-than-Humans"
    ],
    "source_url": "https://experiencing-mth.github.io",
    "collections": [
@@ -3600,7 +3672,7 @@
     "watershed",
     "body remapping",
     "multispecies kin",
-    "Experiencing More-than-Humans Ch. 9"
+    "Experiencing More-than-Humans"
    ],
    "source_url": "https://experiencing-mth.github.io",
    "collections": [
@@ -5280,6 +5352,64 @@
    ]
   },
   {
+   "id": "carolina-ramirez-figueroa--materialised-temporality-of-dust",
+   "creator_ids": [
+    "carolina-ramirez-figueroa"
+   ],
+   "title": "The Materialised Temporality of Dust",
+   "year": 2024,
+   "scope": "core",
+   "relation": "becoming",
+   "field": "fungi",
+   "sub": "microbe",
+   "senses": [
+    "time-scale",
+    "vision"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A VR experience in which the visitor becomes a microbe living in the dust of the Royal College of Art's Kensington library. They wake inside an out-of-scale bookshelf and pass through decades of the room's history before returning to the library as it is today.",
+   "description_zh": "一件 VR 作品：观众成为英国皇家艺术学院肯辛顿图书馆尘埃中的一个微生物。他们在比例失调的书架里醒来，穿过这个房间几十年的历史，最后回到今天的图书馆。",
+   "idea_en": "History read at microbial scale: dust is an archive, and becoming one of its microbes swaps the human timeline for dormancy, sporulation and slow accumulation.",
+   "idea_zh": "以微生物的尺度阅读历史：尘埃是一座档案馆，成为其中的一个微生物，就是用休眠、孢子形成与缓慢堆积替换人类的时间线。",
+   "method": "Microbes sampled from library dust, archival photographs and 3D scans of the space are combined into a VR journey following Bacillus subtilis.",
+   "method_zh": "把图书馆尘埃中采集的微生物、档案照片与空间 3D 扫描结合成一段跟随枯草芽孢杆菌（Bacillus subtilis）的 VR 旅程。",
+   "keywords": [
+    "dust",
+    "microbe",
+    "Bacillus subtilis",
+    "microbiome",
+    "archive",
+    "3D scanning",
+    "biodesign",
+    "Royal College of Art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8AAy5Phd0Fw",
+    "platform": "youtube",
+    "id": "8AAy5Phd0Fw",
+    "thumbnail": "https://i.ytimg.com/vi/8AAy5Phd0Fw/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://rca-media2.rca.ac.uk/images/Screenshot_2025-03-18_at_12.36.3.2e16d0ba.fill-1200x1200.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1017/btd.2024.21",
+    "doi": "10.1017/btd.2024.21",
+    "venue": "Research Directions: Biotechnology Design 2025",
+    "title": "The materialised temporality of dust: developing a biodesign methodology to spatialise time and temporalise space"
+   },
+   "source_url": "https://www.rca.ac.uk/more/staff/dr-carolina-ramirez-figueroa/transcript-for-the-materialised-temporality-of-dust-vr-project-by-carolina-ramirez-figueroa-video/",
+   "also": [],
+   "disciplines": [
+    "design",
+    "science"
+   ]
+  },
+  {
    "id": "rachel-mcdonnell--eagle-actor-training",
    "creator_ids": [
     "rachel-mcdonnell"
@@ -6234,6 +6364,73 @@
    "relation": "becoming",
    "disciplines": [
     "games"
+   ]
+  },
+  {
+   "id": "werner-van-der-zwan--unconventional-self",
+   "creator_ids": [
+    "werner-van-der-zwan",
+    "charl-linssen"
+   ],
+   "title": "Unconventional Self",
+   "year": 2022,
+   "scope": "core",
+   "relation": "becoming",
+   "field": "chair",
+   "sub": "furniture",
+   "also": [
+    "robot"
+   ],
+   "senses": [
+    "body",
+    "vision",
+    "touch"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A telepresence installation in which a visitor wearing a VR headset sees through, and moves as, a motorised folding chair. A spoken choreographic text guides them as they learn what this stiff new body can and cannot do among other animated furniture.",
+   "description_zh": "一件远程临场装置：观众戴上 VR 头显，透过一把装了电机的折叠椅去看，并以它的身体移动。一段口述的编舞文本引导他们在其他会动的家具之间，摸索这具僵硬的新身体能做什么、不能做什么。",
+   "idea_en": "Becoming a chair means learning a body through its resistance: the object's awkward, limited movements become your own possibilities and vulnerabilities.",
+   "idea_zh": "成为一把椅子，就是通过阻力去认识一具身体：物件笨拙而有限的动作，变成了你自己的可能与脆弱。",
+   "method": "A camera on the found-furniture robot streams to a 3DOF VR headset; the participant's head and control inputs drive windshield-wiper motors in the chair's legs.",
+   "method_zh": "装在拾得家具机器人上的摄像头把画面传到三自由度 VR 头显；参与者的头部动作与操控输入驱动椅腿里的雨刮电机。",
+   "keywords": [
+    "chair",
+    "folding chair",
+    "telepresence robotics",
+    "furniture robotics",
+    "found objects",
+    "body ownership",
+    "Kafka Metamorphosis",
+    "V2_ Lab for the Unstable Media",
+    "Marta Wörmer"
+   ],
+   "shown_at": [
+    "V2_ Winter Sessions 2022, WORM Rotterdam",
+    "Ars Electronica 2023 (V2_ Summer Sessions, POSTCITY)",
+    "Immersive Tech Week Rotterdam",
+    "Meta.Morf 2024, Trøndelag Centre for Contemporary Art, Trondheim"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KPql0D_korQ",
+    "platform": "youtube",
+    "id": "KPql0D_korQ",
+    "thumbnail": "https://i.ytimg.com/vi/KPql0D_korQ/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://ars.electronica.art/who-owns-the-truth/files/2023/08/53171000244_5d3ded64c4_k-1499x1000.jpg",
+    "https://ars.electronica.art/who-owns-the-truth/files/2023/08/unconventional-selfwerner-van-der-zwan_charl-linssen-1.jpg",
+    "https://freight.cargo.site/w/1100/i/V2167003497395615679433510820540/WhatsApp-Image-2024-10-02-at-12.30.52.jpeg"
+   ],
+   "source_url": "https://ververwant.nl/Unconventional-Self",
+   "paper": {},
+   "disciplines": [
+    "art",
+    "science"
    ]
   },
   {
@@ -8088,6 +8285,75 @@
    "disciplines": [
     "games",
     "hci"
+   ]
+  },
+  {
+   "id": "marshmallow-laser-feast--we-live-in-an-ocean-of-air",
+   "creator_ids": [
+    "marshmallow-laser-feast"
+   ],
+   "title": "We Live in an Ocean of Air",
+   "year": 2018,
+   "field": "tree",
+   "sub": "tree",
+   "also": [
+    "river"
+   ],
+   "senses": [
+    "breath",
+    "multisensory",
+    "vision"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "A multi-user VR installation in which visitors stand beneath a giant sequoia and see their own exhaled breath as particles that flow into the tree, while its oxygen flows back into them. Later editions present it as a large video installation.",
+   "description_zh": "一件多人 VR 装置：观众站在巨型红杉下，看见自己呼出的气息化作粒子流入树中，而树释放的氧气又流回身体。后续版本以大型影像装置形式展出。",
+   "idea_en": "Breath is shared with trees: each exhale feeds the sequoia and each inhale comes from it, so the boundary between body and plant becomes a loop.",
+   "idea_zh": "呼吸与树共享：每一次呼气都在喂养红杉，每一次吸气都来自它，身体与植物的边界变成一个循环。",
+   "method": "Untethered VR with backpack PCs, hand tracking, breath sensors and heart-rate monitors that turn each visitor's breathing and pulse into real-time particles; binaural sound, scent diffusion and wind machines; sequoia data from the Treehugger LiDAR scans.",
+   "method_zh": "背包电脑驱动的无线 VR，配有手部追踪、呼吸传感器与心率监测，把每位观众的呼吸与脉搏实时转化为粒子；配合双耳声音、气味扩散与风机；红杉数据来自《Treehugger》的 LiDAR 扫描。",
+   "keywords": [
+    "giant sequoia",
+    "breath",
+    "photosynthesis",
+    "respiration",
+    "heart rate",
+    "breath sensor",
+    "scent",
+    "wind",
+    "Merlin Sheldrake",
+    "Saatchi Gallery"
+   ],
+   "shown_at": [
+    "Salon 009, Saatchi Gallery, London 2018–19",
+    "Observations on Being, Coventry 2021",
+    "Phi Centre, Montreal 2021–22",
+    "ArtScience Museum, Singapore 2022",
+    "Plásmata: Bodies, Dreams, and Data, Onassis Foundation, Athens 2022",
+    "Works of Nature, ACMI, Melbourne 2023–24",
+    "Breathe | Mauri Ora, Te Papa, Wellington 2025–26"
+   ],
+   "video": {
+    "url": "https://vimeo.com/303589503",
+    "platform": "vimeo",
+    "id": "303589503",
+    "thumbnail": "https://i.vimeocdn.com/video/759651358-5fffffce0afc610e12b0d7a01275d858a4dc8f79a6f27d3d0b291c5ab59cd407-d?f=webp&region=us",
+    "embeddable": true
+   },
+   "images": [
+    "https://marshmallowlaserfeast.com/app/uploads/2023/11/Copy-of-OceanOfAir_Saatchi_-12-of-34_sml.jpg",
+    "https://marshmallowlaserfeast.com/app/uploads/2023/11/Copy-of-OceanOfAir_Saatchi_-26-of-34.jpg",
+    "https://marshmallowlaserfeast.com/app/uploads/2024/02/We-Live-in-an-Ocean-of-Air-by-Marshmallow-Laser-Feast-Works-of-Nature-ACMI-2023-image-by-Eugene-Hyland_13295.jpg"
+   ],
+   "source_url": "https://marshmallowlaserfeast.com/project/we-live-in-an-ocean-of-air/",
+   "paper": {},
+   "relation": "becoming",
+   "disciplines": [
+    "art",
+    "film"
    ]
   },
   {
