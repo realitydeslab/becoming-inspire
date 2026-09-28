@@ -1,0 +1,15 @@
+# Becoming Inspire
+
+> A catalog of works that use XR and sensory technology to let people become another being or thing — bat, mole, fish, octopus, bird, insect, animal, fungi, tree, river, robot: artworks, immersive films, games, research prototypes and papers, compiled by Reality Design Lab for the book Experiencing More-than-Humans. Each work lists its core idea, how it works, and links to its video, images and paper.
+
+0 creators, 0 works (Becoming Mole (0), Becoming Bat (0), Becoming Fish (0), Becoming Octopus (0), Becoming Bird (0), Becoming Insect (0), Becoming Animal (0), Becoming Fungi (0), Becoming Tree (0), Becoming River (0), Becoming Robot (0), Foundations (0)), 0 with papers, 0 organizations & resources, updated 2026-09-28. Bilingual (English / Simplified Chinese).
+
+## Full catalog
+
+- [English catalog](https://becoming.reality.design/catalog.md): every becoming and sub-category with all works, then all creators
+- [Chinese catalog](https://becoming.reality.design/catalog.zh.md): 中文版完整目录
+- [Raw data (JSON)](https://becoming.reality.design/data/entries.json)
+
+## Website
+
+- [https://becoming.reality.design](https://becoming.reality.design): images and videos, paper links, filters by becoming, sense, medium and type, starring and SKILL.md export

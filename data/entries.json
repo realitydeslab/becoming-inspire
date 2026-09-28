@@ -1,0 +1,664 @@
+{
+ "generated": "2026-09-28",
+ "taxonomy": {
+  "fields": [
+   {
+    "id": "mole",
+    "en": "Becoming Mole",
+    "zh": "成为鼹鼠",
+    "desc_en": "Touch-first and subterranean worlds: star-nosed moles, worms and soil life, and sight taken away so that touch can lead.",
+    "desc_zh": "以触觉为先的地下世界：星鼻鼹鼠、蚯蚓与土壤生命，以及拿走视觉、让触觉引路的体验。",
+    "subs": [
+     {
+      "id": "touch",
+      "en": "Touch-first worlds",
+      "zh": "触觉优先的世界",
+      "desc_en": "Experiences where haptics and touch replace vision as the main way of knowing.",
+      "desc_zh": "以触觉和触感替代视觉、成为主要认知方式的体验。"
+     },
+     {
+      "id": "underground",
+      "en": "Underground & soil life",
+      "zh": "地下与土壤生命",
+      "desc_en": "Moles, worms, burrowing animals and the life of soil.",
+      "desc_zh": "鼹鼠、蚯蚓、穴居动物与土壤里的生命。"
+     },
+     {
+      "id": "reduced",
+      "en": "Reduced sight & darkness",
+      "zh": "削弱视觉与黑暗",
+      "desc_en": "Darkness, blurred or removed sight, and the ethics of simulating blindness.",
+      "desc_zh": "黑暗、模糊或移除的视觉，以及模拟失明的伦理问题。"
+     }
+    ]
+   },
+   {
+    "id": "bat",
+    "en": "Becoming Bat",
+    "zh": "成为蝙蝠",
+    "desc_en": "Echolocation and sonic worlds: hearing space like a bat or dolphin, infrasound, vibration and deep listening.",
+    "desc_zh": "回声定位与声音的世界：像蝙蝠或海豚那样听见空间，次声、振动与深度聆听。",
+    "subs": [
+     {
+      "id": "echolocation",
+      "en": "Echolocation",
+      "zh": "回声定位",
+      "desc_en": "Seeing with sound: bats, dolphins and human echolocation made perceptible.",
+      "desc_zh": "用声音看：让蝙蝠、海豚与人类的回声定位变得可感知。"
+     },
+     {
+      "id": "sonic",
+      "en": "Sonic umwelten",
+      "zh": "声音环境界",
+      "desc_en": "Hearing ranges and vibration senses of other animals: infrasound, ultrasound, seismic listening.",
+      "desc_zh": "其他动物的听觉范围与振动感官：次声、超声、地震波聆听。"
+     },
+     {
+      "id": "bat-life",
+      "en": "Bats & night life",
+      "zh": "蝙蝠与夜行生命",
+      "desc_en": "Works about bats and nocturnal animals as beings, beyond their sense.",
+      "desc_zh": "把蝙蝠与夜行动物作为生命本身（而不只是感官）来呈现的作品。"
+     }
+    ]
+   },
+   {
+    "id": "fish",
+    "en": "Becoming Fish",
+    "zh": "成为鱼",
+    "desc_en": "Aquatic life: fish, whales and dolphins, coral, jellyfish and plankton, and the lateral line, buoyancy and pressure of water.",
+    "desc_zh": "水中生命：鱼、鲸与海豚、珊瑚、水母与浮游生物，以及侧线、浮力与水压。",
+    "subs": [
+     {
+      "id": "fish",
+      "en": "Fish",
+      "zh": "鱼",
+      "desc_en": "Swimming, schooling and sensing as a fish: lateral line, electroreception, underwater vision.",
+      "desc_zh": "像鱼一样游动、成群与感知：侧线、电感受、水下视觉。"
+     },
+     {
+      "id": "cetacean",
+      "en": "Whales & dolphins",
+      "zh": "鲸与海豚",
+      "desc_en": "Becoming whales and dolphins: song, scale, migration and sonar.",
+      "desc_zh": "成为鲸与海豚：歌声、尺度、迁徙与声呐。"
+     },
+     {
+      "id": "reef",
+      "en": "Coral, jellyfish & plankton",
+      "zh": "珊瑚、水母与浮游生物",
+      "desc_en": "Reefs, jellyfish, plankton and other drifting or colonial sea life.",
+      "desc_zh": "珊瑚礁、水母、浮游生物与其他漂流或群体性海洋生命。"
+     },
+     {
+      "id": "aquatic",
+      "en": "Other aquatic life",
+      "zh": "其他水生生命",
+      "desc_en": "Amphibians, crustaceans, sea mammals and life at the water's edge.",
+      "desc_zh": "两栖动物、甲壳类、海洋哺乳动物与水边的生命。"
+     }
+    ]
+   },
+   {
+    "id": "octopus",
+    "en": "Becoming Octopus",
+    "zh": "成为章鱼",
+    "desc_en": "Distributed and extended bodies: cephalopods, tentacles and tails, supernumerary limbs, shared and collective bodies.",
+    "desc_zh": "分布式与延展的身体：头足类、触手与尾巴、额外肢体、共享与集体的身体。",
+    "subs": [
+     {
+      "id": "cephalopod",
+      "en": "Cephalopods",
+      "zh": "头足类",
+      "desc_en": "Octopus, squid and cuttlefish: distributed nervous systems, camouflage, arms that think.",
+      "desc_zh": "章鱼、鱿鱼与乌贼：分布式神经系统、伪装、会思考的腕足。"
+     },
+     {
+      "id": "limbs",
+      "en": "Tails, tentacles & extra limbs",
+      "zh": "尾巴、触手与额外肢体",
+      "desc_en": "Homuncular flexibility: embodying bodies with more or other limbs than ours.",
+      "desc_zh": "小人弹性：在拥有更多或不同肢体的身体里生活。"
+     },
+     {
+      "id": "collective",
+      "en": "Shared & collective bodies",
+      "zh": "共享与集体的身体",
+      "desc_en": "One body shared by many people, or many bodies moving as one.",
+      "desc_zh": "多人共享一个身体，或多个身体如同一体地行动。"
+     }
+    ]
+   },
+   {
+    "id": "bird",
+    "en": "Becoming Bird",
+    "zh": "成为鸟",
+    "desc_en": "Flight and avian senses: flying as a bird, magnetoreception, ultraviolet vision, birdsong and the flock.",
+    "desc_zh": "飞行与鸟类感官：像鸟一样飞、磁感应、紫外视觉、鸟鸣与鸟群。",
+    "subs": [
+     {
+      "id": "flight",
+      "en": "Flight",
+      "zh": "飞行",
+      "desc_en": "Flying with wings and a bird's body.",
+      "desc_zh": "以翅膀和鸟的身体飞行。"
+     },
+     {
+      "id": "avian-senses",
+      "en": "Avian senses",
+      "zh": "鸟类感官",
+      "desc_en": "Magnetic sense, ultraviolet and wide-field vision, birdsong.",
+      "desc_zh": "磁感应、紫外与广角视觉、鸟鸣。"
+     },
+     {
+      "id": "flock",
+      "en": "Flocks & migration",
+      "zh": "鸟群与迁徙",
+      "desc_en": "Murmurations, migration routes and moving as a flock.",
+      "desc_zh": "椋鸟群飞、迁徙路线与作为鸟群一起移动。"
+     }
+    ]
+   },
+   {
+    "id": "insect",
+    "en": "Becoming Insect",
+    "zh": "成为昆虫",
+    "desc_en": "Small scales and many eyes: bees and pollinators, ants and colonies, butterflies, spiders and compound vision.",
+    "desc_zh": "微小尺度与复眼：蜜蜂与传粉者、蚂蚁与群落、蝴蝶、蜘蛛与复眼视觉。",
+    "subs": [
+     {
+      "id": "bee",
+      "en": "Bees & pollinators",
+      "zh": "蜜蜂与传粉者",
+      "desc_en": "Seeing flowers in ultraviolet, the waggle dance, the hive.",
+      "desc_zh": "在紫外光下看花、摇摆舞、蜂巢。"
+     },
+     {
+      "id": "colony",
+      "en": "Ants & colonies",
+      "zh": "蚂蚁与群落",
+      "desc_en": "Superorganisms, pheromone trails, swarm intelligence.",
+      "desc_zh": "超个体、信息素路径、群体智能。"
+     },
+     {
+      "id": "insect-other",
+      "en": "Butterflies, spiders & others",
+      "zh": "蝴蝶、蜘蛛与其他",
+      "desc_en": "Butterflies and metamorphosis, spiders and vibration, flies, mosquitoes and dragonflies.",
+      "desc_zh": "蝴蝶与变态、蜘蛛与振动、苍蝇、蚊子与蜻蜓。"
+     }
+    ]
+   },
+   {
+    "id": "animal",
+    "en": "Becoming Animal",
+    "zh": "成为动物",
+    "desc_en": "Other animals: companion and farm animals, wild mammals, reptiles, and works that move between many species.",
+    "desc_zh": "其他动物：伴侣动物与农场动物、野生哺乳动物、爬行动物，以及在多个物种之间切换视角的作品。",
+    "subs": [
+     {
+      "id": "companion",
+      "en": "Companion & farm animals",
+      "zh": "伴侣与农场动物",
+      "desc_en": "Dogs, cats, cows, pigs, chickens: the animals humans live with.",
+      "desc_zh": "狗、猫、牛、猪、鸡：与人共同生活的动物。"
+     },
+     {
+      "id": "wild",
+      "en": "Wild mammals",
+      "zh": "野生哺乳动物",
+      "desc_en": "Deer, foxes, wolves, elephants, bears, primates and other wild mammals.",
+      "desc_zh": "鹿、狐狸、狼、大象、熊、灵长类与其他野生哺乳动物。"
+     },
+     {
+      "id": "reptile",
+      "en": "Reptiles & amphibians",
+      "zh": "爬行与两栖动物",
+      "desc_en": "Snakes, lizards, frogs, turtles: infrared pits, chameleon eyes, cold blood.",
+      "desc_zh": "蛇、蜥蜴、青蛙、乌龟：红外颊窝、变色龙之眼、冷血。"
+     },
+     {
+      "id": "multispecies",
+      "en": "Many species",
+      "zh": "多物种视角",
+      "desc_en": "Works that let you move through the perspectives of several species.",
+      "desc_zh": "让你在多个物种的视角之间穿行的作品。"
+     }
+    ]
+   },
+   {
+    "id": "fungi",
+    "en": "Becoming Fungi",
+    "zh": "成为真菌",
+    "desc_en": "Networked and microbial life: mycelium, slime mould, bacteria, cells and symbiosis, at slow time and tiny scale.",
+    "desc_zh": "网络化与微生物的生命：菌丝、黏菌、细菌、细胞与共生，处在缓慢时间与微小尺度上。",
+    "subs": [
+     {
+      "id": "mycelium",
+      "en": "Mycelium & mushrooms",
+      "zh": "菌丝与蘑菇",
+      "desc_en": "Fungal networks, spores, decomposition and the wood-wide web.",
+      "desc_zh": "真菌网络、孢子、分解与“木联网”。"
+     },
+     {
+      "id": "slime",
+      "en": "Slime mould",
+      "zh": "黏菌",
+      "desc_en": "Physarum and other brainless problem-solvers.",
+      "desc_zh": "多头绒泡菌等没有大脑的问题解决者。"
+     },
+     {
+      "id": "microbe",
+      "en": "Microbes & cells",
+      "zh": "微生物与细胞",
+      "desc_en": "Bacteria, viruses, cells, microbiomes and molecular worlds.",
+      "desc_zh": "细菌、病毒、细胞、微生物组与分子世界。"
+     },
+     {
+      "id": "symbiosis",
+      "en": "Symbiosis & lichen",
+      "zh": "共生与地衣",
+      "desc_en": "Lichen, holobionts and life as entanglement.",
+      "desc_zh": "地衣、共生总体与作为纠缠的生命。"
+     }
+    ]
+   },
+   {
+    "id": "tree",
+    "en": "Becoming Tree",
+    "zh": "成为树",
+    "desc_en": "Plants and forests: trees, flowers and roots, photosynthesis, plant time and forest ecosystems.",
+    "desc_zh": "植物与森林：树、花与根、光合作用、植物时间与森林生态。",
+    "subs": [
+     {
+      "id": "tree",
+      "en": "Trees",
+      "zh": "树",
+      "desc_en": "Growing, breathing and living for centuries as a tree.",
+      "desc_zh": "像一棵树那样生长、呼吸、活上几百年。"
+     },
+     {
+      "id": "plant",
+      "en": "Plants & flowers",
+      "zh": "植物与花",
+      "desc_en": "Plants, flowers, roots and seeds; plant sensing and signalling.",
+      "desc_zh": "植物、花、根与种子；植物的感知与信号。"
+     },
+     {
+      "id": "forest",
+      "en": "Forests & ecosystems",
+      "zh": "森林与生态系统",
+      "desc_en": "Forests, meadows and whole ecosystems as the one you become.",
+      "desc_zh": "把森林、草地与整个生态系统当作你要成为的对象。"
+     }
+    ]
+   },
+   {
+    "id": "river",
+    "en": "Becoming River",
+    "zh": "成为河流",
+    "desc_en": "Elemental and planetary worlds: rivers, creeks and oceans, ice, air and breath, rock and soil, planets and deep time.",
+    "desc_zh": "元素与行星尺度的世界：河流、溪流与海洋，冰、空气与呼吸，岩石与土壤，行星与深时间。",
+    "subs": [
+     {
+      "id": "water",
+      "en": "Rivers, oceans & ice",
+      "zh": "河流、海洋与冰",
+      "desc_en": "Becoming a river, a creek, the sea, a glacier or rain.",
+      "desc_zh": "成为一条河、一道溪、大海、冰川或雨。"
+     },
+     {
+      "id": "air",
+      "en": "Air, breath & weather",
+      "zh": "空气、呼吸与天气",
+      "desc_en": "Atmosphere, wind, clouds and breath shared with the more-than-human.",
+      "desc_zh": "大气、风、云，以及与非人类共享的呼吸。"
+     },
+     {
+      "id": "earth",
+      "en": "Rock, soil & deep time",
+      "zh": "岩石、土壤与深时间",
+      "desc_en": "Stones, mountains, minerals and geological time.",
+      "desc_zh": "石头、山脉、矿物与地质时间。"
+     },
+     {
+      "id": "planet",
+      "en": "Planets & cosmos",
+      "zh": "行星与宇宙",
+      "desc_en": "Earth as a whole, other planets and cosmic scale.",
+      "desc_zh": "作为整体的地球、其他行星与宇宙尺度。"
+     }
+    ]
+   },
+   {
+    "id": "robot",
+    "en": "Becoming Robot",
+    "zh": "成为机器人",
+    "desc_en": "Machinic worlds: robot and drone bodies, AI and machine perception, objects and things, and cyborg senses.",
+    "desc_zh": "机器的世界：机器人与无人机的身体、AI 与机器感知、物与物件，以及赛博格感官。",
+    "subs": [
+     {
+      "id": "robot-body",
+      "en": "Robot & drone bodies",
+      "zh": "机器人与无人机身体",
+      "desc_en": "Embodying a robot, a drone or a vehicle from the inside.",
+      "desc_zh": "从内部成为一个机器人、一架无人机或一辆载具。"
+     },
+     {
+      "id": "machine-senses",
+      "en": "AI & machine perception",
+      "zh": "AI 与机器感知",
+      "desc_en": "Seeing and hearing as neural networks, sensors and algorithms do.",
+      "desc_zh": "像神经网络、传感器与算法那样看和听。"
+     },
+     {
+      "id": "object",
+      "en": "Objects & things",
+      "zh": "物与物件",
+      "desc_en": "Becoming a chair, a stone, a tool: object-oriented experience.",
+      "desc_zh": "成为一把椅子、一块石头、一件工具：以物为中心的体验。"
+     },
+     {
+      "id": "cyborg",
+      "en": "Cyborg & new senses",
+      "zh": "赛博格与新感官",
+      "desc_en": "Devices that add senses humans lack: magnetic north, infrared, seismic or data senses.",
+      "desc_zh": "为人增加原本没有的感官的装置：磁北、红外、地震或数据感官。"
+     }
+    ]
+   },
+   {
+    "id": "foundations",
+    "en": "Foundations",
+    "zh": "理论基础",
+    "desc_en": "Theory, surveys, critiques and methods behind nonhuman experience in XR: umwelt, embodiment science, the empathy-machine debate.",
+    "desc_zh": "XR 中非人类体验背后的理论、综述、批评与方法：环境界、具身科学、“共情机器”之争。",
+    "subs": [
+     {
+      "id": "theory",
+      "en": "Theory & philosophy",
+      "zh": "理论与哲学",
+      "desc_en": "Umwelt, what it is like to be a bat, becoming-animal, arts of noticing.",
+      "desc_zh": "环境界、“成为蝙蝠是什么感觉”、生成-动物、觉察的艺术。"
+     },
+     {
+      "id": "embodiment",
+      "en": "Embodiment science",
+      "zh": "具身科学",
+      "desc_en": "Body ownership, avatars, homuncular flexibility and presence research.",
+      "desc_zh": "身体所有感、化身、小人弹性与临场感研究。"
+     },
+     {
+      "id": "survey",
+      "en": "Surveys & reviews",
+      "zh": "综述",
+      "desc_en": "Surveys and systematic reviews of nonhuman or more-than-human XR.",
+      "desc_zh": "关于非人类或超越人类 XR 的综述与系统性回顾。"
+     },
+     {
+      "id": "critique",
+      "en": "Critique & ethics",
+      "zh": "批评与伦理",
+      "desc_en": "The empathy-machine debate, simulation ethics, anthropomorphism.",
+      "desc_zh": "“共情机器”之争、模拟的伦理、拟人化。"
+     },
+     {
+      "id": "method",
+      "en": "Methods & toolkits",
+      "zh": "方法与工具",
+      "desc_en": "Design methods, frameworks and toolkits for nonhuman perspective design.",
+      "desc_zh": "用于非人类视角设计的方法、框架与工具。"
+     }
+    ]
+   }
+  ],
+  "senses": [
+   [
+    "vision",
+    "Altered vision",
+    "改变的视觉"
+   ],
+   [
+    "echolocation",
+    "Echolocation",
+    "回声定位"
+   ],
+   [
+    "hearing",
+    "Hearing & vibration",
+    "听觉与振动"
+   ],
+   [
+    "touch",
+    "Touch & haptics",
+    "触觉"
+   ],
+   [
+    "smell",
+    "Smell & taste",
+    "嗅觉与味觉"
+   ],
+   [
+    "magnetic",
+    "Magnetic sense",
+    "磁感应"
+   ],
+   [
+    "electric",
+    "Electroreception",
+    "电感受"
+   ],
+   [
+    "thermal",
+    "Heat & infrared",
+    "热与红外"
+   ],
+   [
+    "body",
+    "Body schema & movement",
+    "身体图式与运动"
+   ],
+   [
+    "breath",
+    "Breath & interoception",
+    "呼吸与内感受"
+   ],
+   [
+    "time-scale",
+    "Time & scale",
+    "时间与尺度"
+   ],
+   [
+    "collective-sense",
+    "Collective & networked",
+    "集体与网络感知"
+   ],
+   [
+    "multisensory",
+    "Multisensory",
+    "多感官"
+   ]
+  ],
+  "mediums": [
+   [
+    "vr",
+    "VR headset",
+    "VR 头显",
+    "Head-mounted virtual reality.",
+    "头戴式虚拟现实。"
+   ],
+   [
+    "ar",
+    "AR",
+    "增强现实",
+    "Augmented reality on phones, tablets or see-through glasses.",
+    "在手机、平板或透视眼镜上的增强现实。"
+   ],
+   [
+    "mr",
+    "Mixed reality",
+    "混合现实",
+    "Passthrough or spatial computing that blends the room with the virtual.",
+    "把房间与虚拟内容融合的透视或空间计算。"
+   ],
+   [
+    "film360",
+    "360° / immersive film",
+    "360°/沉浸式影片",
+    "Cinematic VR and immersive documentaries.",
+    "电影式 VR 与沉浸式纪录片。"
+   ],
+   [
+    "dome",
+    "Dome, CAVE & projection",
+    "穹顶、CAVE 与投影",
+    "Fulldome, CAVE, projection-mapped rooms.",
+    "球幕、CAVE 与投影映射空间。"
+   ],
+   [
+    "installation",
+    "Multisensory installation",
+    "多感官装置",
+    "Physical installations with scent, wind, heat, vibration or props.",
+    "带有气味、风、热、振动或道具的实体装置。"
+   ],
+   [
+    "wearable",
+    "Wearable & sensory device",
+    "可穿戴与感官装置",
+    "Haptic suits, sensory substitution and augmentation devices, EMS.",
+    "触觉服、感官替代与增强装置、肌肉电刺激。"
+   ],
+   [
+    "audio",
+    "Spatial audio",
+    "空间音频",
+    "Headphone or speaker works where sound is the medium.",
+    "以声音为媒介的耳机或扬声器作品。"
+   ],
+   [
+    "game",
+    "Game",
+    "游戏",
+    "Console, PC or mobile games, including VR games.",
+    "主机、PC 或手机游戏，包括 VR 游戏。"
+   ],
+   [
+    "performance",
+    "Performance & participatory",
+    "表演与参与式",
+    "Live performance, dance, workshops, walks.",
+    "现场表演、舞蹈、工作坊与行走。"
+   ],
+   [
+    "screen",
+    "Screen & web",
+    "屏幕与网页",
+    "Non-immersive related works: film, web, interactive screen.",
+    "非沉浸式的相关作品：影片、网页、屏幕交互。"
+   ]
+  ],
+  "kinds": [
+   [
+    "artwork",
+    "Artwork",
+    "艺术作品"
+   ],
+   [
+    "film",
+    "Immersive film",
+    "沉浸式影片"
+   ],
+   [
+    "game",
+    "Game",
+    "游戏"
+   ],
+   [
+    "prototype",
+    "Research prototype",
+    "研究原型"
+   ],
+   [
+    "paper",
+    "Paper",
+    "论文"
+   ],
+   [
+    "product",
+    "Product",
+    "产品"
+   ],
+   [
+    "performance",
+    "Performance",
+    "表演"
+   ],
+   [
+    "publication",
+    "Book / theory",
+    "书籍/理论"
+   ]
+  ],
+  "disciplines": [
+   [
+    "art",
+    "Art",
+    "艺术"
+   ],
+   [
+    "film",
+    "Film & immersive storytelling",
+    "电影与沉浸式叙事"
+   ],
+   [
+    "games",
+    "Games",
+    "游戏"
+   ],
+   [
+    "hci",
+    "HCI & interaction research",
+    "人机交互研究"
+   ],
+   [
+    "design",
+    "Design",
+    "设计"
+   ],
+   [
+    "science",
+    "Science",
+    "科学"
+   ],
+   [
+    "theory",
+    "Theory & humanities",
+    "理论与人文"
+   ]
+  ],
+  "collections": [
+   {
+    "id": "book-portfolio",
+    "type": "book",
+    "en": "Experiencing More-than-Humans — portfolio",
+    "zh": "《Experiencing More-than-Humans》作品集",
+    "desc_en": "The annotated portfolio of Hu, Huang & Shin's monograph: the works whose design the book reports first-hand.",
+    "desc_zh": "Hu、Huang 与 Shin 专著中的注释作品集：书中以第一手方式记述其设计过程的作品。",
+    "url": "https://experiencing-mth.github.io"
+   },
+   {
+    "id": "book-counterpoints",
+    "type": "book",
+    "en": "Experiencing More-than-Humans — counterpoints",
+    "zh": "《Experiencing More-than-Humans》对照作品",
+    "desc_en": "External works the book's outline names as artistic or scientific counterpoints to its chapters.",
+    "desc_zh": "书稿大纲中列为各章艺术或科学对照的外部作品。",
+    "url": "https://experiencing-mth.github.io"
+   }
+  ]
+ },
+ "creators": [],
+ "works": [],
+ "orgs": []
+}
