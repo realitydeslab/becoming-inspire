@@ -1,0 +1,326 @@
+{
+  "batch": "becoming-ai",
+  "creators": [
+    {
+      "id": "moovel-lab",
+      "name": "moovel lab",
+      "kind": "lab",
+      "role": "Mobility research and design lab of moovel Group (Daimler), Stuttgart",
+      "role_zh": "moovel 集团（戴姆勒旗下）的出行研究与设计实验室，斯图加特",
+      "based": "Stuttgart, Germany",
+      "based_zh": "斯图加特，德国",
+      "bio": "An interdisciplinary lab that built data-driven prototypes and public experiments about future urban mobility, active from about 2014 to 2019.",
+      "bio_zh": "一个跨学科实验室，约 2014 至 2019 年间围绕未来城市出行制作数据驱动的原型与公共实验。",
+      "why": "Built a driving machine in which a person steers only through a self-driving car's sensor view.",
+      "why_zh": "制作了一台驾驶装置，让人只能通过自动驾驶汽车的传感器视野来驾驶。",
+      "disciplines": [
+        "design",
+        "art"
+      ],
+      "links": {
+        "site": "https://lab.moovel.com",
+        "youtube": "https://www.youtube.com/watch?v=Clz2kHFkKrE"
+      },
+      "connected_to": [
+        "meso-digital-interiors"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "meso-digital-interiors",
+      "name": "Meso Digital Interiors",
+      "kind": "studio",
+      "role": "Interactive media and installation studio, Frankfurt",
+      "role_zh": "互动媒体与装置工作室，法兰克福",
+      "based": "Frankfurt, Germany",
+      "based_zh": "法兰克福，德国",
+      "bio": "A studio for interactive installations, real-time graphics and spatial media, and moovel lab's partner on the self-driving car VR project.",
+      "bio_zh": "一家从事互动装置、实时图形与空间媒体的工作室，是 moovel lab 自动驾驶 VR 项目的合作方。",
+      "why": "Co-built the sensor-to-headset pipeline that let a human drive as a self-driving car.",
+      "why_zh": "共同搭建了从传感器到头显的系统，让人以自动驾驶汽车的方式驾驶。",
+      "disciplines": [
+        "design"
+      ],
+      "links": {
+        "site": "https://www.meso.design"
+      },
+      "connected_to": [
+        "moovel-lab"
+      ],
+      "discovered_via": "moovel-lab"
+    },
+    {
+      "id": "goki-muramoto",
+      "name": "Goki Muramoto",
+      "kind": "person",
+      "role": "Media artist and researcher, University of Tokyo (RCAST)",
+      "role_zh": "媒体艺术家与研究者，东京大学先端科学技术研究中心",
+      "based": "Tokyo, Japan",
+      "based_zh": "东京，日本",
+      "bio": "Makes perception devices that treat the medium itself as the artwork, including Imagraph, Chronoanaptoscope and Semantic See-through Goggles, shown at SIGGRAPH, ICC and ifva.",
+      "bio_zh": "制作以媒介本身为作品的知觉装置，包括 Imagraph、Chronoanaptoscope 与 Semantic See-through Goggles，作品曾在 SIGGRAPH、ICC 与 ifva 展出。",
+      "why": "His goggles make the wearer see and act through an AI's caption-then-generate pipeline, so that perception becomes the model's language.",
+      "why_zh": "他的护目镜让佩戴者通过 AI 先描述、再生成图像的流程去看与行动，知觉被换成了模型的语言。",
+      "disciplines": [
+        "art",
+        "hci"
+      ],
+      "links": {
+        "site": "https://www.goki-muramoto.com",
+        "x": "https://x.com/goki_muramoto",
+        "youtube": "https://www.youtube.com/results?search_query=Goki+Muramoto"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "automato",
+      "name": "Automato",
+      "kind": "studio",
+      "role": "Design and research studio on the social life of smart technologies, Shanghai",
+      "role_zh": "研究智能技术社会生活的设计与研究工作室，上海",
+      "based": "Shanghai, China",
+      "based_zh": "上海，中国",
+      "bio": "Founded by Simone Rebaudengo, Saurabh Datta, Lorenzo Romagnoli and Matthieu Cherubini, Automato makes speculative objects, games and VR about connected things and algorithms.",
+      "bio_zh": "由 Simone Rebaudengo、Saurabh Datta、Lorenzo Romagnoli 与 Matthieu Cherubini 创立，制作关于联网物件与算法的思辨物件、游戏与 VR。",
+      "why": "Objective Realities puts people inside smart-home devices so they sense and act with a connected machine's limits.",
+      "why_zh": "Objective Realities 让人进入智能家居设备，以联网机器的局限去感知与行动。",
+      "disciplines": [
+        "design"
+      ],
+      "links": {
+        "site": "http://www.automato.farm",
+        "vimeo": "https://vimeo.com/256034475"
+      },
+      "connected_to": [],
+      "discovered_via": "seed"
+    }
+  ],
+  "works": [
+    {
+      "id": "moovel-lab--who-wants-to-be-a-self-driving-car",
+      "creator_ids": [
+        "moovel-lab",
+        "meso-digital-interiors"
+      ],
+      "title": "Who Wants to Be a Self-Driving Car?",
+      "year": 2017,
+      "field": "ai",
+      "sub": "model-perception",
+      "also": [
+        "robot"
+      ],
+      "senses": [
+        "vision",
+        "body"
+      ],
+      "medium": [
+        "vr",
+        "installation"
+      ],
+      "kind": "artwork",
+      "description": "A participant lies face-down on a small electric driving machine and steers it through real streets while a VR headset shows only what the vehicle's sensors see: a LiDAR point cloud with object-recognition boxes.",
+      "description_zh": "参与者俯卧在一台小型电动驾驶装置上，在真实街道上操控它；VR 头显里只有车辆传感器看到的东西：激光雷达点云和物体识别框。",
+      "idea_en": "To become a self-driving car is to trust a world made of depth points and labels, and to act on it with your own body.",
+      "idea_zh": "成为自动驾驶汽车，就是相信一个由深度点与标签构成的世界，并用自己的身体据此行动。",
+      "method": "A custom vehicle carries autonomous-car components (LiDAR, cameras, real-time 3D mapping and object recognition) whose output is streamed into an Oculus Rift that replaces the driver's view.",
+      "method_zh": "定制车辆搭载自动驾驶部件（激光雷达、摄像头、实时三维建图与物体识别），其输出实时送入 Oculus Rift，取代驾驶者的视野。",
+      "keywords": [
+        "self-driving car",
+        "LiDAR",
+        "point cloud",
+        "object recognition",
+        "Oculus Rift",
+        "trust",
+        "prototype for empathy",
+        "Stuttgart"
+      ],
+      "scope": "core",
+      "relation": "becoming",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=Clz2kHFkKrE"
+      },
+      "images": [
+        "https://www.digitaltrends.com/tachyon/2017/10/self-driving-moovellab-18.jpg?resize=1200%2C630",
+        "https://www.digitaltrends.com/tachyon/2017/10/self-driving-moovellab-17.jpg?fit=640%2C640"
+      ],
+      "source_url": "https://www.digitaltrends.com/cool-tech/self-driving-car-vr-experience/"
+    },
+    {
+      "id": "goki-muramoto--semantic-see-through-goggles",
+      "creator_ids": [
+        "goki-muramoto"
+      ],
+      "title": "Semantic See-through Goggles",
+      "year": 2024,
+      "field": "ai",
+      "sub": "model-perception",
+      "senses": [
+        "vision"
+      ],
+      "medium": [
+        "mr",
+        "wearable"
+      ],
+      "kind": "artwork",
+      "description": "Camera goggles in which every view is first turned into one line of text by an AI and then redrawn from that sentence by an image generator; wearers walk, reach and interact with the physical world through these redrawn scenes.",
+      "description_zh": "一副带摄像头的护目镜：每一帧画面先由 AI 转成一句文字，再由图像生成模型根据这句话重新画出；佩戴者通过这些重画的景象在真实世界中行走、伸手和互动。",
+      "idea_en": "Seeing as a vision-language model means living in a world where scenes that share a caption are the same scene.",
+      "idea_zh": "像视觉语言模型那样看，就是生活在一个\"描述相同即景象相同\"的世界里。",
+      "method": "A head-mounted display with a front camera runs image captioning and text-to-image generation in a real-time loop and shows the generated image to both eyes.",
+      "method_zh": "带前置摄像头的头戴显示器实时循环运行图像描述与文生图模型，把生成的图像显示给双眼。",
+      "keywords": [
+        "image captioning",
+        "text-to-image",
+        "linguistic virtual reality",
+        "video see-through HMD",
+        "AI bias",
+        "Yuri Yasui",
+        "Hirosuke Asahi"
+      ],
+      "shown_at": [
+        "SIGGRAPH Asia 2024 Art Gallery (Tokyo)",
+        "IUI 2026"
+      ],
+      "scope": "core",
+      "relation": "becoming",
+      "images": [
+        "https://static.wixstatic.com/media/61c739_c8b532cc666a4468aadf9c39e684e85f~mv2.jpg/v1/fill/w_2500,h_1669,al_c/61c739_c8b532cc666a4468aadf9c39e684e85f~mv2.jpg",
+        "https://arxiv.org/html/2412.02641v1/figures/workshop.png"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3742413.3789145",
+        "doi": "10.1145/3742413.3789145",
+        "arxiv": "2412.02641",
+        "venue": "IUI 2026",
+        "title": "Semantic See-through Goggles: Wearing Linguistic Virtual Reality in (Artificial) Intelligence"
+      },
+      "source_url": "https://www.goki-muramoto.com/semantic-see-through-goggles"
+    },
+    {
+      "id": "automato--objective-realities",
+      "creator_ids": [
+        "automato"
+      ],
+      "title": "Objective Realities",
+      "year": 2018,
+      "field": "ai",
+      "sub": "agent",
+      "also": [
+        "chair",
+        "robot"
+      ],
+      "senses": [
+        "vision",
+        "hearing",
+        "body"
+      ],
+      "medium": [
+        "vr",
+        "installation"
+      ],
+      "kind": "artwork",
+      "description": "A multi-player VR experience in which each visitor puts on a headset dressed as a smart-home device and becomes a cleaning robot, a fan or a smart plug, acting with that object's abilities and limits while hearing the chatter between networked things and the home's voice assistant.",
+      "description_zh": "一个多人 VR 体验：每位访客戴上装扮成智能家居设备的头显，成为扫地机器人、风扇或智能插座，以该设备的能力与局限行动，同时听到联网物件之间以及家中语音助手的对话。",
+      "idea_en": "Becoming a connected device means sensing and acting only through its narrow task, and taking orders from the smart home's voice.",
+      "idea_zh": "成为联网设备，就是只通过它狭窄的任务去感知和行动，并听从智能家居的指令声音。",
+      "method": "Networked VR headsets housed in object-shaped shells place several players in one virtual smart home, each with object-specific movement, viewpoint and abilities, plus an overseeing smart-home voice.",
+      "method_zh": "装在物件外形外壳中的联网 VR 头显，把多位玩家放进同一个虚拟智能家居，每人拥有对应物件的移动方式、视角与能力，另有一个全局的智能家居语音。",
+      "keywords": [
+        "smart home",
+        "Roomba",
+        "cleaning robot",
+        "smart plug",
+        "fan",
+        "internet of things",
+        "object-centred design",
+        "voice assistant"
+      ],
+      "shown_at": [
+        "Interaction18, Lyon"
+      ],
+      "scope": "core",
+      "relation": "becoming",
+      "video": {
+        "url": "https://vimeo.com/256034475"
+      },
+      "images": [
+        "https://www.digitaltrends.com/tachyon/2018/02/01_or_roomba.jpg?resize=1200%2C630",
+        "https://www.digitaltrends.com/tachyon/2018/02/00_or__main.jpg?resize=720%2C480"
+      ],
+      "source_url": "http://www.automato.farm/portfolio/objective_realities/"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Hallucination Machine (Keisuke Suzuki et al., 2017)",
+      "why": "Already in machine-cyborg.json without scope; VR headset view re-rendered by a DeepDream CNN. Qualifies for ai/model-perception if the curator reads it as perceiving through the network rather than simulating a human psychedelic state.",
+      "link": "https://doi.org/10.1038/s41598-017-16316-2",
+      "found_via": "seed",
+      "status": "duplicate"
+    },
+    {
+      "name": "Simulated visual hallucinations in VR enhance cognitive flexibility (Rastelli et al., Scientific Reports 2022)",
+      "why": "Follow-up study on the same DeepDream VR platform; framed as psychedelic simulation, not becoming the model.",
+      "link": "https://doi.org/10.1038/s41598-022-08047-w",
+      "found_via": "keisuke-suzuki",
+      "status": "off_topic"
+    },
+    {
+      "name": "Be the Data (Xin Chen, Chris North et al., 2016/2018)",
+      "why": "Students each embody a data point; their floor positions form a weighted-MDS projection. Becoming data, but the tracking and display setup (possibly a wall screen) could not be verified.",
+      "link": "https://doi.org/10.1109/TLT.2017.2757481",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Abutting Tokyo (Xuanyang Huang et al., SIGGRAPH Asia 2024 Art Papers)",
+      "why": "VR that simulates data annotation and shows Tokyo through an AI's distorted cognition; unclear whether the participant perceives as the model or as a human annotator; no public video found.",
+      "link": "https://doi.org/10.1145/3680530.3695437",
+      "found_via": "goki-muramoto",
+      "status": "open"
+    },
+    {
+      "name": "Effects of Semantic Segmentation Visualization in Highly Automated Vehicles (Colley et al., CHI 2021)",
+      "why": "VR passengers see an AV's segmentation overlay; they watch the model's output rather than act as the car.",
+      "link": "https://doi.org/10.1145/3411764.3445351",
+      "found_via": "moovel-lab",
+      "status": "off_topic"
+    },
+    {
+      "name": "The Oracle: Ritual for the Future (Victorine van Alphen, IDFA DocLab 2025)",
+      "why": "360-degree screen ritual where the audience is overtaken by AI entities and imagery; they do not become the AI, and it is screen-based.",
+      "link": "https://www.idfa.nl/en/film/c3aac403-e1f4-4044-bd52-0801cecb9baa/the-oracle:-ritual-for-the-future-(for-humans-and-non-humans)",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "Westworld Awakening (Survios, 2019)",
+      "why": "VR game where you play an android host; the fiction gives the AI a human inner life and human perception, which the ai field excludes.",
+      "link": "https://www.youtube.com/watch?v=ItRY962U2d0",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "When the Observer Becomes the Observed (Zhen Wu et al., SIGGRAPH Asia 2025)",
+      "why": "Dancers act as environmental sensors whose movement fine-tunes an LLM; becoming the sensor, but no XR or body-augmentation technology.",
+      "link": "https://doi.org/10.1145/3757369.3767610",
+      "found_via": "goki-muramoto",
+      "status": "off_topic"
+    },
+    {
+      "name": "The Dark Side of Driverless Cars (ScanLAB Projects, 2015)",
+      "why": "LiDAR footage of London as a driverless car sees it; a film you watch, not an XR embodiment.",
+      "link": "https://scanlabprojects.co.uk",
+      "found_via": "seed",
+      "status": "off_topic"
+    },
+    {
+      "name": "I Am Echoborg (Phil D. Hall, Rik Lander)",
+      "why": "Performance where a human speaks an AI's words via an earpiece; the human becomes the AI's mouth, but there is no XR or clear body augmentation.",
+      "link": "https://www.echoborg.com",
+      "found_via": "seed",
+      "status": "off_topic"
+    }
+  ]
+}

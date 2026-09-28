@@ -2,7 +2,7 @@
 
 A catalog of works that use XR and sensory technology to let people become another being or thing — bat, mole, fish, octopus, bird, insect, animal, fungi, tree, river, robot: artworks, immersive films, games, research prototypes and papers, compiled by Reality Design Lab for the book Experiencing More-than-Humans. Each work lists its core idea, how it works, and links to its video, images and paper.
 
-https://becoming.reality.design · 2026-09-28 · 132 creators · 145 works
+https://becoming.reality.design · 2026-09-28 · 136 creators · 148 works
 
 ## How an AI assistant should use this file
 
@@ -1286,6 +1286,16 @@ Machinic minds: perceiving as a neural network, acting as an AI agent, dissolvin
 
 Perceiving the world through classification, point clouds, latent spaces and machine vision.
 
+#### Semantic See-through Goggles — Goki Muramoto (2024)
+- Type: Artwork · Senses: Altered vision · Medium: Mixed reality, Wearable & sensory device
+- Shown at: SIGGRAPH Asia 2024 Art Gallery (Tokyo); IUI 2026
+- Idea: Seeing as a vision-language model means living in a world where scenes that share a caption are the same scene.
+- What it is: Camera goggles in which every view is first turned into one line of text by an AI and then redrawn from that sentence by an image generator; wearers walk, reach and interact with the physical world through these redrawn scenes.
+- How it works: A head-mounted display with a front camera runs image captioning and text-to-image generation in a real-time loop and shows the generated image to both eyes.
+- Paper: https://doi.org/10.1145/3742413.3789145 (IUI 2026)
+- Images: https://static.wixstatic.com/media/61c739_c8b532cc666a4468aadf9c39e684e85f~mv2.jpg/v1/fill/w_2500,h_1669,al_c/61c739_c8b532cc666a4468aadf9c39e684e85f~mv2.jpg https://arxiv.org/html/2412.02641v1/figures/workshop.png
+- Project page: https://www.goki-muramoto.com/semantic-see-through-goggles
+
 #### City of Sparkles — Botao 'Amber' Hu, Reality Design Lab (2019)
 - Type: Artwork · Senses: Altered vision, Time & scale · Medium: VR headset
 - Shown at: SIGGRAPH 2019 Immersive Pavilion; New Media Film Festival 2019; DTLA Film Festival 2019; IEEE VR 2025 XR Gallery; ISEA 2025 Seoul
@@ -1305,12 +1315,35 @@ Perceiving the world through classification, point clouds, latent spaces and mac
 - Paper: https://doi.org/10.1038/s41598-017-16316-2 (Scientific Reports 2017)
 - Video: https://www.youtube.com/watch?v=Clk4rAj6YuY
 
+#### Who Wants to Be a Self-Driving Car? — moovel lab, Meso Digital Interiors (2017)
+- Type: Artwork · Senses: Altered vision, Body schema & movement · Medium: VR headset, Multisensory installation
+- Idea: To become a self-driving car is to trust a world made of depth points and labels, and to act on it with your own body.
+- What it is: A participant lies face-down on a small electric driving machine and steers it through real streets while a VR headset shows only what the vehicle's sensors see: a LiDAR point cloud with object-recognition boxes.
+- How it works: A custom vehicle carries autonomous-car components (LiDAR, cameras, real-time 3D mapping and object recognition) whose output is streamed into an Oculus Rift that replaces the driver's view.
+- Video: https://www.youtube.com/watch?v=Clz2kHFkKrE
+- Images: https://www.digitaltrends.com/tachyon/2017/10/self-driving-moovellab-18.jpg?resize=1200%2C630 https://www.digitaltrends.com/tachyon/2017/10/self-driving-moovellab-17.jpg?fit=640%2C640
+- Project page: https://www.digitaltrends.com/cool-tech/self-driving-car-vr-experience/
+
 #### Floating Eye — Hiroo Iwata (2000)
 - Type: Artwork · Senses: Altered vision, Body schema & movement · Medium: Wearable & sensory device, Multisensory installation
 - Idea: Vision is handed to a floating machine: you steer your body from a bird's- or drone's-eye position outside it.
 - What it is: A camera hangs from a small blimp floating above the participant, who wears a dome-shaped display and walks while seeing only the blimp's wide-angle view, looking down on their own body.
 - How it works: Helium blimp tethered to the participant carries a wide-angle camera whose video is shown in a head-worn hemispherical screen.
 - Video: https://www.youtube.com/watch?v=In-M1eVAnYc
+
+### Being an AI agent
+
+Taking the position of an assistant, chatbot, recommender or autonomous agent.
+
+#### Objective Realities — Automato (2018)
+- Type: Artwork · Senses: Altered vision, Hearing & vibration, Body schema & movement · Medium: VR headset, Multisensory installation
+- Shown at: Interaction18, Lyon
+- Idea: Becoming a connected device means sensing and acting only through its narrow task, and taking orders from the smart home's voice.
+- What it is: A multi-player VR experience in which each visitor puts on a headset dressed as a smart-home device and becomes a cleaning robot, a fan or a smart plug, acting with that object's abilities and limits while hearing the chatter between networked things and the home's voice assistant.
+- How it works: Networked VR headsets housed in object-shaped shells place several players in one virtual smart home, each with object-specific movement, viewpoint and abilities, plus an overseeing smart-home voice.
+- Video: https://vimeo.com/256034475
+- Images: https://www.digitaltrends.com/tachyon/2018/02/01_or_roomba.jpg?resize=1200%2C630 https://www.digitaltrends.com/tachyon/2018/02/00_or__main.jpg?resize=720%2C480
+- Project page: http://www.automato.farm/portfolio/objective_realities/
 
 ## Becoming Robot
 
@@ -1458,6 +1491,7 @@ Embodying a robot, a drone or a vehicle from the inside.
 - **Another Axiom** (1) — VR game studio behind Gorilla Tag. Studio founded around Gorilla Tag, the social VR game first made by Kerestell "Lemming" Smith. https://gorillatagvr.com/
 - **Ars Electronica Futurelab** (1) — Art and technology research lab of Ars Electronica. In-house R&D lab of the Ars Electronica Center, founded in 1996, building immersive, robotic and public-space installations. https://ars.electronica.art/futurelab/
 - **Atsushi Wada** (1) — Animation director. Japanese independent animator (Berlinale Silver Bear for The Great Rabbit, 2012) known for slow, absurd hand-drawn films; If I Could See a Cat is his first VR work, produced by Kodansha VR Lab.
+- **Automato** (1) — Design and research studio on the social life of smart technologies, Shanghai. Founded by Simone Rebaudengo, Saurabh Datta, Lorenzo Romagnoli and Matthieu Cherubini, Automato makes speculative objects, games and VR about connected things and algorithms. http://www.automato.farm
 - **Aven-Le Zhou** (1) — Design researcher in more-than-human interaction. Designer and researcher working on AI, robotics and more-than-human interaction; senior author of Being Stone (DIS 2026). https://www.linkedin.com/in/avenlezhou/
 - **Baobab Studios** (1) — Interactive animation studio. Animation studio founded in 2015 by Eric Darnell and Maureen Fan, known for VR shorts Invasion!, Asteroids! and Crow: The Legend. https://www.baobabstudios.com/
 - **Barbara Schuler** (1) — Interaction designer, Zurich University of the Arts. Barbara Schuler and colleagues made a multisensory VR experience of being a hunting spider.
@@ -1478,6 +1512,7 @@ Embodying a robot, a drone or a vehicle from the inside.
 - **Firepunchd Games** (1) — Independent VR game studio, Germany. Small German studio that made the VR physics game Tentacular, published by Devolver Digital. https://www.tentacular.com/
 - **Fumio Mizuno** (1) — Engineer, Tohoku Institute of Technology. Fumio Mizuno built Virtual Chameleon, a wearable that lets each eye look in a different direction.
 - **Gamification Group, Tampere University** (1) — Games research group, Tampere University. Juho Hamari's Gamification Group studies games, VR and play, including Oğuz 'Oz' Buruk's work on embodied and more-than-human play.
+- **Goki Muramoto** (1) — Media artist and researcher, University of Tokyo (RCAST). Makes perception devices that treat the medium itself as the artwork, including Imagraph, Chronoanaptoscope and Semantic See-through Goggles, shown at SIGGRAPH, ICC and ifva. https://www.goki-muramoto.com
 - **Gowrishankar Ganesh** (1) — Robotics and neuroscience researcher, CNRS-LIRMM. Gowrishankar Ganesh studies human motor control and embodiment of tools and robots.
 - **Hiroo Iwata** (1) — VR researcher and device artist. Professor at the University of Tsukuba who pioneered haptic interfaces, locomotion devices and 'device art'; exhibited at Ars Electronica 1996–2001.
 - **Hiroshi Ishiguro** (1) — Roboticist, Osaka University and ATR. Builder of lifelike androids, including Geminoid HI-1, a teleoperated copy of himself used to study presence and body ownership. https://www.geminoid.jp
@@ -1508,6 +1543,7 @@ Embodying a robot, a drone or a vehicle from the inside.
 - **Maryam Alimardani** (1) — Researcher, brain-computer interfaces and robot embodiment. Researcher who, working with Ishiguro's group, used brain-computer interfaces to let people move android hands by thought.
 - **Max Rheiner** (1) — Interaction designer, creator of Birdly. Swiss artist and former lecturer in Interaction Design at the Zurich University of the Arts (ZHdK), where he built the first Birdly prototype in 2013 before co-founding SOMNIACS.
 - **Mel Slater** (1) — VR researcher, University of Barcelona (Event Lab); formerly UCL. Mel Slater pioneered research on presence and virtual body ownership, from body swaps to extended avatars.
+- **Meso Digital Interiors** (1) — Interactive media and installation studio, Frankfurt. A studio for interactive installations, real-time graphics and spatial media, and moovel lab's partner on the self-driving car VR project. https://www.meso.design
 - **Mie C. S. Egeberg** (1) — Medialogy researcher, Aalborg University. Mie Egeberg and colleagues, with Martin Kraus, studied ownership of virtual wings.
 - **Milica Zec** (1) — Film director and VR storyteller. Serbian-born director and editor who co-founded the VR studio New Reality Co. with Winslow Porter; directed Giant and Tree. https://www.treeofficial.com
 - **Miri Chekhanovich** (1) — Artist and filmmaker. Israeli-Canadian visual artist; co-created Plastisapiens with Édith Jorisch (NFB and DPT).
@@ -1556,4 +1592,5 @@ Embodying a robot, a drone or a vehicle from the inside.
 - **Zheng Mahler** (1) — Art and anthropology collective (Royce Ng and Daisy Bisenieks). Hong Kong collective formed by artist Royce Ng and anthrozoologist Daisy Bisenieks; their 'Lantau Trilogy' is a series of multispecies sensory ethnographies of the water buffalo, bats and fungi of Lantau Island. https://www.zhengmahler.world/
 - **Zoink** (1) — Independent game studio. Swedish studio behind Stick It to the Man!, Fe and the PlayStation VR game Ghost Giant. https://zoink.com
 - **micha cárdenas** (1) — Artist, performer and scholar of trans and digital media. Artist and professor at UC Santa Cruz whose work joins trans theory, mixed reality and wearable technology; author of Poetic Operations. https://michacardenas.sites.ucsc.edu
+- **moovel lab** (1) — Mobility research and design lab of moovel Group (Daimler), Stuttgart. An interdisciplinary lab that built data-driven prototypes and public experiments about future urban mobility, active from about 2014 to 2019. https://lab.moovel.com
 - **Édith Jorisch** (1) — Filmmaker. Canadian filmmaker and visual artist, co-creator of Plastisapiens.

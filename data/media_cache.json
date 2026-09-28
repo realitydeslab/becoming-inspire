@@ -10281,5 +10281,82 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "video:youtube:Clz2kHFkKrE": {
+  "url": "https://www.youtube.com/watch?v=Clz2kHFkKrE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Clz2kHFkKrE",
+  "title": "Who Wants To Be A Self Driving Car",
+  "author": "moovel becomes REACH NOW",
+  "thumbnail": "https://i.ytimg.com/vi/Clz2kHFkKrE/hqdefault.jpg"
+ },
+ "img:https://www.digitaltrends.com/tachyon/2017/10/self-driving-moovellab-18.jpg?resize=1200%2C630": {
+  "url": "https://www.digitaltrends.com/tachyon/2017/10/self-driving-moovellab-18.jpg?resize=1200%2C630",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.digitaltrends.com/tachyon/2017/10/self-driving-moovellab-17.jpg?fit=640%2C640": {
+  "url": "https://www.digitaltrends.com/tachyon/2017/10/self-driving-moovellab-17.jpg?fit=640%2C640",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://static.wixstatic.com/media/61c739_c8b532cc666a4468aadf9c39e684e85f~mv2.jpg/v1/fill/w_2500,h_1669,al_c/61c739_c8b532cc666a4468aadf9c39e684e85f~mv2.jpg": {
+  "url": "https://static.wixstatic.com/media/61c739_c8b532cc666a4468aadf9c39e684e85f~mv2.jpg/v1/fill/w_2500,h_1669,al_c/61c739_c8b532cc666a4468aadf9c39e684e85f~mv2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://arxiv.org/html/2412.02641v1/figures/workshop.png": {
+  "url": "https://arxiv.org/html/2412.02641v1/figures/workshop.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3742413.3789145": {
+  "doi": "10.1145/3742413.3789145",
+  "ok": true,
+  "type": "doi",
+  "title": "Semantic See-through Goggles: Wearing Linguistic Virtual Reality in (Artificial) Intelligence",
+  "year": 2026,
+  "venue": "Proceedings of the 31st International Conference on Intelligent User Interfaces",
+  "url": "https://doi.org/10.1145/3742413.3789145"
+ },
+ "arxiv:2412.02641": {
+  "arxiv": "2412.02641",
+  "ok": true,
+  "type": "arxiv",
+  "title": "SEMANTIC SEE-THROUGH GOGGLES: Wearing Linguistic Virtual Reality in (Artificial) Intelligence",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2412.02641"
+ },
+ "video:vimeo:256034475": {
+  "url": "https://vimeo.com/256034475",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "256034475",
+  "embeddable": true,
+  "title": "Objective realities",
+  "thumbnail": "https://i.vimeocdn.com/video/683659761-702f171d4ccf457b3fd546a0b4404536958c2021c20ca4b1c4c79ae1775f2a16-d?f=webp&region=us"
+ },
+ "img:https://www.digitaltrends.com/tachyon/2018/02/01_or_roomba.jpg?resize=1200%2C630": {
+  "url": "https://www.digitaltrends.com/tachyon/2018/02/01_or_roomba.jpg?resize=1200%2C630",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.digitaltrends.com/tachyon/2018/02/00_or__main.jpg?resize=720%2C480": {
+  "url": "https://www.digitaltrends.com/tachyon/2018/02/00_or__main.jpg?resize=720%2C480",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "ytmax:Clz2kHFkKrE": {
+  "url": "https://i.ytimg.com/vi/Clz2kHFkKrE/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
  }
 }

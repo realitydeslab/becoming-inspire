@@ -80,6 +80,70 @@
   "batch": "animals-art"
  },
  {
+  "name": "Hallucination Machine (Keisuke Suzuki et al., 2017)",
+  "why": "Already in machine-cyborg.json without scope; VR headset view re-rendered by a DeepDream CNN. Qualifies for ai/model-perception if the curator reads it as perceiving through the network rather than simulating a human psychedelic state.",
+  "link": "https://doi.org/10.1038/s41598-017-16316-2",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "becoming-ai"
+ },
+ {
+  "name": "Simulated visual hallucinations in VR enhance cognitive flexibility (Rastelli et al., Scientific Reports 2022)",
+  "why": "Follow-up study on the same DeepDream VR platform; framed as psychedelic simulation, not becoming the model.",
+  "link": "https://doi.org/10.1038/s41598-022-08047-w",
+  "found_via": "keisuke-suzuki",
+  "status": "off_topic",
+  "batch": "becoming-ai"
+ },
+ {
+  "name": "Effects of Semantic Segmentation Visualization in Highly Automated Vehicles (Colley et al., CHI 2021)",
+  "why": "VR passengers see an AV's segmentation overlay; they watch the model's output rather than act as the car.",
+  "link": "https://doi.org/10.1145/3411764.3445351",
+  "found_via": "moovel-lab",
+  "status": "off_topic",
+  "batch": "becoming-ai"
+ },
+ {
+  "name": "The Oracle: Ritual for the Future (Victorine van Alphen, IDFA DocLab 2025)",
+  "why": "360-degree screen ritual where the audience is overtaken by AI entities and imagery; they do not become the AI, and it is screen-based.",
+  "link": "https://www.idfa.nl/en/film/c3aac403-e1f4-4044-bd52-0801cecb9baa/the-oracle:-ritual-for-the-future-(for-humans-and-non-humans)",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "becoming-ai"
+ },
+ {
+  "name": "Westworld Awakening (Survios, 2019)",
+  "why": "VR game where you play an android host; the fiction gives the AI a human inner life and human perception, which the ai field excludes.",
+  "link": "https://www.youtube.com/watch?v=ItRY962U2d0",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "becoming-ai"
+ },
+ {
+  "name": "When the Observer Becomes the Observed (Zhen Wu et al., SIGGRAPH Asia 2025)",
+  "why": "Dancers act as environmental sensors whose movement fine-tunes an LLM; becoming the sensor, but no XR or body-augmentation technology.",
+  "link": "https://doi.org/10.1145/3757369.3767610",
+  "found_via": "goki-muramoto",
+  "status": "off_topic",
+  "batch": "becoming-ai"
+ },
+ {
+  "name": "The Dark Side of Driverless Cars (ScanLAB Projects, 2015)",
+  "why": "LiDAR footage of London as a driverless car sees it; a film you watch, not an XR embodiment.",
+  "link": "https://scanlabprojects.co.uk",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "becoming-ai"
+ },
+ {
+  "name": "I Am Echoborg (Phil D. Hall, Rik Lander)",
+  "why": "Performance where a human speaks an AI's words via an earpiece; the human becomes the AI's mouth, but there is no XR or clear body augmentation.",
+  "link": "https://www.echoborg.com",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "becoming-ai"
+ },
+ {
   "name": "Texada (Josephine Anderson & Claire Sanford, NFB, IDFA DocLab 2023)",
   "why": "VR documentary on limestone and geological time; limestone guides the story but the viewer stays a human observer, so it fails the becoming rule.",
   "link": "https://www.idfa.nl/en/film/62c61a0a-5b91-40d3-b3c6-16b8601658b6/texada/",

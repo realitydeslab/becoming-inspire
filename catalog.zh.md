@@ -2,7 +2,7 @@
 
 用 XR 与感官技术让人成为另一种存在（蝙蝠、鼹鼠、鱼、章鱼、鸟、昆虫、动物、真菌、树、河流、机器人）的作品目录：艺术作品、沉浸式影片、游戏、研究原型与论文，由 Reality Design Lab 为《Experiencing More-than-Humans》一书整理。每件作品都列出核心想法、实现方式，以及视频、图片和论文链接。
 
-https://becoming.reality.design · 2026-09-28 · 132 位创作者 · 145 件作品
+https://becoming.reality.design · 2026-09-28 · 136 位创作者 · 148 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -1286,6 +1286,16 @@ https://becoming.reality.design · 2026-09-28 · 132 位创作者 · 145 件作�
 
 通过分类、点云、潜在空间与机器视觉感知世界。
 
+#### Semantic See-through Goggles — Goki Muramoto (2024)
+- 类型: 艺术作品 · 感官: 改变的视觉 · 媒介: 混合现实, 可穿戴与感官装置
+- 展出于: SIGGRAPH Asia 2024 Art Gallery (Tokyo); IUI 2026
+- 核心想法: 像视觉语言模型那样看，就是生活在一个"描述相同即景象相同"的世界里。
+- 作品内容: 一副带摄像头的护目镜：每一帧画面先由 AI 转成一句文字，再由图像生成模型根据这句话重新画出；佩戴者通过这些重画的景象在真实世界中行走、伸手和互动。
+- 实现方式: 带前置摄像头的头戴显示器实时循环运行图像描述与文生图模型，把生成的图像显示给双眼。
+- 论文: https://doi.org/10.1145/3742413.3789145 (IUI 2026)
+- 图片: https://static.wixstatic.com/media/61c739_c8b532cc666a4468aadf9c39e684e85f~mv2.jpg/v1/fill/w_2500,h_1669,al_c/61c739_c8b532cc666a4468aadf9c39e684e85f~mv2.jpg https://arxiv.org/html/2412.02641v1/figures/workshop.png
+- 项目主页: https://www.goki-muramoto.com/semantic-see-through-goggles
+
 #### City of Sparkles — Botao 'Amber' Hu, Reality Design Lab (2019)
 - 类型: 艺术作品 · 感官: 改变的视觉, 时间与尺度 · 媒介: VR 头显
 - 展出于: SIGGRAPH 2019 Immersive Pavilion; New Media Film Festival 2019; DTLA Film Festival 2019; IEEE VR 2025 XR Gallery; ISEA 2025 Seoul
@@ -1305,12 +1315,35 @@ https://becoming.reality.design · 2026-09-28 · 132 位创作者 · 145 件作�
 - 论文: https://doi.org/10.1038/s41598-017-16316-2 (Scientific Reports 2017)
 - 视频: https://www.youtube.com/watch?v=Clk4rAj6YuY
 
+#### Who Wants to Be a Self-Driving Car? — moovel lab, Meso Digital Interiors (2017)
+- 类型: 艺术作品 · 感官: 改变的视觉, 身体图式与运动 · 媒介: VR 头显, 多感官装置
+- 核心想法: 成为自动驾驶汽车，就是相信一个由深度点与标签构成的世界，并用自己的身体据此行动。
+- 作品内容: 参与者俯卧在一台小型电动驾驶装置上，在真实街道上操控它；VR 头显里只有车辆传感器看到的东西：激光雷达点云和物体识别框。
+- 实现方式: 定制车辆搭载自动驾驶部件（激光雷达、摄像头、实时三维建图与物体识别），其输出实时送入 Oculus Rift，取代驾驶者的视野。
+- 视频: https://www.youtube.com/watch?v=Clz2kHFkKrE
+- 图片: https://www.digitaltrends.com/tachyon/2017/10/self-driving-moovellab-18.jpg?resize=1200%2C630 https://www.digitaltrends.com/tachyon/2017/10/self-driving-moovellab-17.jpg?fit=640%2C640
+- 项目主页: https://www.digitaltrends.com/cool-tech/self-driving-car-vr-experience/
+
 #### Floating Eye — Hiroo Iwata (2000)
 - 类型: 艺术作品 · 感官: 改变的视觉, 身体图式与运动 · 媒介: 可穿戴与感官装置, 多感官装置
 - 核心想法: 视觉交给一台漂浮的机器：你从身体之外、鸟或无人机的位置操控自己的身体。
 - 作品内容: 一台摄像机挂在参与者头顶上方漂浮的小飞艇上，参与者戴着穹顶形显示器行走，只能看到飞艇的广角画面，从上方俯视自己的身体。
 - 实现方式: 拴在参与者身上的氦气飞艇携带广角摄像机，画面显示在头戴式半球屏上。
 - 视频: https://www.youtube.com/watch?v=In-M1eVAnYc
+
+### 成为 AI 代理
+
+处在助手、聊天机器人、推荐系统或自主代理的位置上。
+
+#### Objective Realities — Automato (2018)
+- 类型: 艺术作品 · 感官: 改变的视觉, 听觉与振动, 身体图式与运动 · 媒介: VR 头显, 多感官装置
+- 展出于: Interaction18, Lyon
+- 核心想法: 成为联网设备，就是只通过它狭窄的任务去感知和行动，并听从智能家居的指令声音。
+- 作品内容: 一个多人 VR 体验：每位访客戴上装扮成智能家居设备的头显，成为扫地机器人、风扇或智能插座，以该设备的能力与局限行动，同时听到联网物件之间以及家中语音助手的对话。
+- 实现方式: 装在物件外形外壳中的联网 VR 头显，把多位玩家放进同一个虚拟智能家居，每人拥有对应物件的移动方式、视角与能力，另有一个全局的智能家居语音。
+- 视频: https://vimeo.com/256034475
+- 图片: https://www.digitaltrends.com/tachyon/2018/02/01_or_roomba.jpg?resize=1200%2C630 https://www.digitaltrends.com/tachyon/2018/02/00_or__main.jpg?resize=720%2C480
+- 项目主页: http://www.automato.farm/portfolio/objective_realities/
 
 ## 成为机器人
 
@@ -1458,6 +1491,7 @@ https://becoming.reality.design · 2026-09-28 · 132 位创作者 · 145 件作�
 - **Another Axiom** (1) — Gorilla Tag 背后的 VR 游戏工作室. 围绕 Gorilla Tag 成立的工作室，该社交 VR 游戏最初由 Kerestell “Lemming” Smith 独立开发。 https://gorillatagvr.com/
 - **Ars Electronica Futurelab** (1) — Ars Electronica 的艺术与技术研究实验室. Ars Electronica Center 的研发实验室，1996 年成立，制作沉浸式、机器人与公共空间装置。 https://ars.electronica.art/futurelab/
 - **Atsushi Wada** (1) — 动画导演. 日本独立动画作者（2012 年以《大兔子》获柏林银熊奖），以缓慢、荒诞的手绘动画闻名；《猫が見えたら》是他的首部 VR 作品，由讲谈社 VR Lab 制作。
+- **Automato** (1) — 研究智能技术社会生活的设计与研究工作室，上海. 由 Simone Rebaudengo、Saurabh Datta、Lorenzo Romagnoli 与 Matthieu Cherubini 创立，制作关于联网物件与算法的思辨物件、游戏与 VR。 http://www.automato.farm
 - **Aven-Le Zhou** (1) — 关注超越人类交互的设计研究者. 从事人工智能、机器人与超越人类交互的设计师和研究者，DIS 2026 论文《Being Stone》的通讯作者。 https://www.linkedin.com/in/avenlezhou/
 - **Baobab Studios** (1) — 交互动画工作室. 2015 年由 Eric Darnell 与 Maureen Fan 创立的动画工作室，以 VR 短片 Invasion!、Asteroids! 和 Crow: The Legend 闻名。 https://www.baobabstudios.com/
 - **Barbara Schuler** (1) — 交互设计师，苏黎世艺术大学. Barbara Schuler 与同事制作了一个成为狩猎蜘蛛的多感官 VR 体验。
@@ -1478,6 +1512,7 @@ https://becoming.reality.design · 2026-09-28 · 132 位创作者 · 145 件作�
 - **Firepunchd Games** (1) — 独立 VR 游戏工作室，德国. 德国小型工作室，制作了由 Devolver Digital 发行的 VR 物理游戏 Tentacular。 https://www.tentacular.com/
 - **Fumio Mizuno** (1) — 工程师，东北工业大学. Fumio Mizuno 制作了 Virtual Chameleon，一种让左右眼各看一个方向的可穿戴设备。
 - **Gamification Group, Tampere University** (1) — 游戏研究团队，坦佩雷大学. Juho Hamari 领导的游戏化研究组研究游戏、VR 与玩，其中包括 Oğuz 'Oz' Buruk 关于具身与超越人类之游戏的研究。
+- **Goki Muramoto** (1) — 媒体艺术家与研究者，东京大学先端科学技术研究中心. 制作以媒介本身为作品的知觉装置，包括 Imagraph、Chronoanaptoscope 与 Semantic See-through Goggles，作品曾在 SIGGRAPH、ICC 与 ifva 展出。 https://www.goki-muramoto.com
 - **Gowrishankar Ganesh** (1) — 机器人与神经科学研究者，法国国家科研中心 LIRMM. Gowrishankar Ganesh 研究人的运动控制，以及对工具与机器人的具身。
 - **Hiroo Iwata** (1) — 虚拟现实研究者与装置艺术家. 筑波大学教授，触觉界面、行走装置与“装置艺术（device art）”的开拓者；1996–2001 年多次在林茨电子艺术节展出。
 - **Hiroshi Ishiguro** (1) — 机器人学家，大阪大学与 ATR. 逼真仿生人的制造者，其中包括 Geminoid HI-1——他本人的遥控复制体，用于研究临场感与身体所有感。 https://www.geminoid.jp
@@ -1508,6 +1543,7 @@ https://becoming.reality.design · 2026-09-28 · 132 位创作者 · 145 件作�
 - **Maryam Alimardani** (1) — 研究者，脑机接口与机器人具身. 与石黑浩团队合作的研究者，用脑机接口让人以意念驱动仿生人的手。
 - **Max Rheiner** (1) — 交互设计师，Birdly 的创作者. 瑞士艺术家，曾任苏黎世艺术大学（ZHdK）交互设计讲师，2013 年在那里做出第一台 Birdly 原型，随后联合创立 SOMNIACS。
 - **Mel Slater** (1) — 虚拟现实研究者，巴塞罗那大学 Event Lab；曾任职伦敦大学学院. Mel Slater 开创了关于临场感与虚拟身体所有感的研究，从身体互换到延展化身。
+- **Meso Digital Interiors** (1) — 互动媒体与装置工作室，法兰克福. 一家从事互动装置、实时图形与空间媒体的工作室，是 moovel lab 自动驾驶 VR 项目的合作方。 https://www.meso.design
 - **Mie C. S. Egeberg** (1) — 媒体学研究者，奥尔堡大学. Mie Egeberg 与同事在 Martin Kraus 指导下研究对虚拟翅膀的所有感。
 - **Milica Zec** (1) — 电影导演与 VR 叙事创作者. 出生于塞尔维亚的导演与剪辑师，与 Winslow Porter 共同创办 VR 工作室 New Reality Co.，执导了《Giant》与《Tree》。 https://www.treeofficial.com
 - **Miri Chekhanovich** (1) — 艺术家与电影人. 以色列裔加拿大视觉艺术家；与 Édith Jorisch 合作《Plastisapiens》（加拿大国家电影局与 DPT 出品）。
@@ -1556,4 +1592,5 @@ https://becoming.reality.design · 2026-09-28 · 132 位创作者 · 145 件作�
 - **Zheng Mahler** (1) — 艺术与人类学团体（Royce Ng 与 Daisy Bisenieks）. 由艺术家 Royce Ng 与人类-动物关系学者 Daisy Bisenieks 组成的香港团体；其“大屿山三部曲”是围绕大屿山水牛、蝙蝠与真菌展开的多物种感官民族志。 https://www.zhengmahler.world/
 - **Zoink** (1) — 独立游戏工作室. 瑞典工作室，作品有《Stick It to the Man!》《Fe》以及 PlayStation VR 游戏《Ghost Giant》。 https://zoink.com
 - **micha cárdenas** (1) — 艺术家、表演者与跨性别及数字媒体学者. 加州大学圣克鲁兹分校的艺术家与教授，作品把跨性别理论、混合现实与可穿戴技术结合在一起，著有《Poetic Operations》。 https://michacardenas.sites.ucsc.edu
+- **moovel lab** (1) — moovel 集团（戴姆勒旗下）的出行研究与设计实验室，斯图加特. 一个跨学科实验室，约 2014 至 2019 年间围绕未来城市出行制作数据驱动的原型与公共实验。 https://lab.moovel.com
 - **Édith Jorisch** (1) — 电影人. 加拿大电影人与视觉艺术家，《Plastisapiens》联合创作者。

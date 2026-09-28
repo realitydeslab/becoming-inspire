@@ -80,6 +80,22 @@
   "batch": "animals-art"
  },
  {
+  "name": "Be the Data (Xin Chen, Chris North et al., 2016/2018)",
+  "why": "Students each embody a data point; their floor positions form a weighted-MDS projection. Becoming data, but the tracking and display setup (possibly a wall screen) could not be verified.",
+  "link": "https://doi.org/10.1109/TLT.2017.2757481",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "becoming-ai"
+ },
+ {
+  "name": "Abutting Tokyo (Xuanyang Huang et al., SIGGRAPH Asia 2024 Art Papers)",
+  "why": "VR that simulates data annotation and shows Tokyo through an AI's distorted cognition; unclear whether the participant perceives as the model or as a human annotator; no public video found.",
+  "link": "https://doi.org/10.1145/3680530.3695437",
+  "found_via": "goki-muramoto",
+  "status": "open",
+  "batch": "becoming-ai"
+ },
+ {
   "name": "We Are Dead Animals (Tote Tiere Maarten)",
   "why": "IDFA DocLab 2025 VR game: revive, eat and recombine photogrammetry-scanned dead animals; closer to mortality than becoming.",
   "link": "https://festival.idfa.nl/en/film/2199a031-3ed2-4e9d-8701-0a0cef4ceebe/we-are-dead-animals/",
