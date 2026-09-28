@@ -2,7 +2,7 @@
 
 > A catalog of works that use XR and sensory technology to let people become another being or thing — bat, mole, fish, octopus, bird, insect, animal, fungi, tree, river, robot: artworks, immersive films, games, research prototypes and papers, compiled by Reality Design Lab for the book Experiencing More-than-Humans. Each work lists its core idea, how it works, and links to its video, images and paper.
 
-435 creators, 569 works (Becoming Mole (12), Becoming Bat (24), Becoming Fish (38), Becoming Octopus (37), Becoming Bird (41), Becoming Insect (32), Becoming Animal (102), Becoming Fungi (31), Becoming Tree (61), Becoming River (69), Becoming Robot (99), Foundations (23)), 152 with papers, 0 organizations & resources, updated 2026-09-28. Bilingual (English / Simplified Chinese).
+114 creators, 131 works (Becoming Mole (1), Becoming Bat (8), Becoming Fish (9), Becoming Octopus (19), Becoming Bird (16), Becoming Insect (6), Becoming Animal (34), Becoming Fungi (6), Becoming Tree (9), Becoming River (6), Becoming Chair (1), Becoming Robot (16), Foundations (0)), 79 with papers, 0 organizations & resources, updated 2026-09-28. Bilingual (English / Simplified Chinese).
 
 ## Full catalog
 

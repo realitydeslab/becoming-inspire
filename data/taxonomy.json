@@ -349,11 +349,43 @@
    "short_zh": "河流"
   },
   {
+   "id": "chair",
+   "en": "Becoming Chair",
+   "zh": "成为椅子",
+   "short_en": "Chair",
+   "short_zh": "椅子",
+   "desc_en": "Material worlds: becoming a chair, a piece of furniture, a tool or a thing — stillness, being sat on, being used, and the affordances an object offers others.",
+   "desc_zh": "物质的世界：成为一把椅子、一件家具、一件工具或一个物——静止、被坐、被使用，以及物为他者提供的可供性。",
+   "subs": [
+    {
+     "id": "furniture",
+     "en": "Chairs & furniture",
+     "zh": "椅子与家具",
+     "desc_en": "Being a chair, a table, a bed: bearing weight, waiting, being sat on.",
+     "desc_zh": "成为椅子、桌子、床：承重、等待、被坐。"
+    },
+    {
+     "id": "object",
+     "en": "Objects & tools",
+     "zh": "物件与工具",
+     "desc_en": "Being an everyday object or tool, handled and used by others.",
+     "desc_zh": "成为被他人拿起和使用的日常物件或工具。"
+    },
+    {
+     "id": "thing",
+     "en": "Things & materials",
+     "zh": "物与材料",
+     "desc_en": "Inanimate things and materials experienced from the inside: object-oriented, non-corporeal bodies.",
+     "desc_zh": "从内部体验无生命的物与材料：以物为中心、非肉身的身体。"
+    }
+   ]
+  },
+  {
    "id": "robot",
    "en": "Becoming Robot",
    "zh": "成为机器人",
-   "desc_en": "Machinic worlds: robot and drone bodies, AI and machine perception, objects and things, and cyborg senses.",
-   "desc_zh": "机器的世界：机器人与无人机的身体、AI 与机器感知、物与物件，以及赛博格感官。",
+   "desc_en": "Machinic worlds: robot and drone bodies, AI and machine perception, and cyborg senses.",
+   "desc_zh": "机器的世界：机器人与无人机的身体、AI 与机器感知，以及赛博格感官。",
    "subs": [
     {
      "id": "robot-body",
@@ -368,13 +400,6 @@
      "zh": "AI 与机器感知",
      "desc_en": "Seeing and hearing as neural networks, sensors and algorithms do.",
      "desc_zh": "像神经网络、传感器与算法那样看和听。"
-    },
-    {
-     "id": "object",
-     "en": "Objects & things",
-     "zh": "物与物件",
-     "desc_en": "Becoming a chair, a stone, a tool: object-oriented experience.",
-     "desc_zh": "成为一把椅子、一块石头、一件工具：以物为中心的体验。"
     },
     {
      "id": "cyborg",

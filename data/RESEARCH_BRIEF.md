@@ -1,5 +1,7 @@
 # Research brief (for every research agent)
 
+> **Scope (user decision, 2026-09-28): only works that use XR technology to let the participant BECOME another being — embodied, whole-body, first-person, immersive** (VR / MR / AR headset or glasses, CAVE, dome, XR-driven body-tracked environment, telepresence HMD into a nonhuman body). Screen games, films you only watch, pure audio, stand-alone wearables, performance without XR, theory, encounters and counterpoints are out. Set `"scope": "core"` on every work you add; the build publishes only core works.
+
 Project: **Becoming Inspire** — a bilingual (English / Simplified Chinese) gallery of works that use XR and
 sensory technology to let people **become** another being or thing: an animal, a plant, a fungus, a river,
 a robot. Made by Reality Design Lab as research material for the book *Experiencing More-than-Humans:

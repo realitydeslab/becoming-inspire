@@ -34,10 +34,11 @@ CACHE = ROOT / "data" / "media_cache.json"
 COLLECTIONS = ROOT / "data" / "collections"
 MEDIA = ROOT / "data" / "media"
 ORGS = ROOT / "data" / "orgs"              # organizations & resources (separate category)
+SCOPE = ROOT / "data" / "scope"            # curation: { work_id: "core" | "out" } and fields.json { work_id: {field, sub} }
 RELATION = ROOT / "data" / "relation"      # curation: { work_id: "becoming" | "encounter" | "counterpoint" }
 DISCIPLINE = ROOT / "data" / "discipline"  # optional curation: { creator_id: [discipline ids] }, wins over batch values
 # categories that moved: old (field, sub) -> new; overrides.patch_works refines the sub
-LEGACY: dict = {}
+LEGACY = {("robot", "object"): ("chair", "object")}  # moved categories: (old field, old sub) -> (new field, new sub)
 
 
 def _check_mp4(url: str) -> dict:
@@ -169,6 +170,33 @@ def merge_creators(creators: dict, works: list, mapping: dict) -> None:
                 c["discovered_via"] = dst
 
 
+OUT_OF_SCOPE: set = set()  # ids left out by apply_scope; collection lists may still name them
+
+
+def apply_scope(works: list, mode: str) -> list:
+    """Keep only works in scope and apply curated field moves.
+
+    mode "core": a work is published when data/scope/*.json (or its own `scope` field) says "core";
+    works without a label are left out. mode "all": every work is published.
+    Excluded works stay in data/raw untouched.
+    """
+    labels: dict = {}
+    moves: dict = {}
+    for f in sorted(SCOPE.glob("*.json")) if SCOPE.exists() else []:
+        target = moves if f.stem.endswith("fields") else labels
+        target.update(json.loads(f.read_text()))
+    for w in works:
+        if w.get("id") in moves:
+            w.update({k: v for k, v in moves[w["id"]].items() if k in ("field", "sub")})
+            w["also"] = [a for a in w.get("also") or [] if a != w["field"]]
+    if mode != "core":
+        return works
+    kept = [w for w in works if (labels.get(w.get("id")) or w.get("scope")) == "core"]
+    OUT_OF_SCOPE.update(w.get("id") for w in works if w not in kept)
+    logger.info("scope core: %d of %d works published (%d out of scope, kept in data/raw)", len(kept), len(works), len(works) - len(kept))
+    return kept
+
+
 def verify(works: list, recheck: bool) -> dict:
     from check_media import check_arxiv, check_doi, check_image, transient  # noqa: PLC0415
     from check_video import check as check_video  # noqa: PLC0415
@@ -251,7 +279,7 @@ def apply_media(w: dict, cache: dict, problems: list) -> bool:
             problems.append({"id": w["id"], "what": "arxiv", "arxiv": p["arxiv"], "error": res.get("error")})
             p.pop("arxiv")
     w["paper"] = p if p.get("url") else {}
-    return bool(w["video"] or w["images"] or w["paper"])
+    return bool(w["video"] or w["images"] or w["paper"] or (w.get("status") == "in-development" and w.get("source_url")))
 
 
 def apply_collections(works: list, known: set, aliases: dict, min_size: int = 1, dropped: frozenset = frozenset()) -> set:
@@ -354,6 +382,7 @@ def main() -> None:
         if (w.get("field"), w.get("sub")) in LEGACY:
             w["field"], w["sub"] = LEGACY[(w["field"], w["sub"])]
         w.update(ov.get("patch_works", {}).get(w["id"], {}))
+    works = apply_scope(works, ov.get("scope", "all"))
     cache = verify(works, recheck)
 
     kept, problems, dropped = [], [], []
@@ -382,7 +411,7 @@ def main() -> None:
         c.pop("batches", None)
     aliases = ov.get("collection_aliases", {})
     tax["collections"] = [c for c in tax["collections"] if c["id"] not in aliases]
-    kept_cols = apply_collections(kept, {c["id"] for c in tax["collections"]}, aliases, ov.get("min_collection_size", 1), frozenset(ov.get("drop_works", [])))
+    kept_cols = apply_collections(kept, {c["id"] for c in tax["collections"]}, aliases, ov.get("min_collection_size", 1), frozenset(ov.get("drop_works", [])) | frozenset(OUT_OF_SCOPE))
     tax["collections"] = [c for c in tax["collections"] if c["id"] in kept_cols]
     allowed_disc = {d[0] for d in tax.get("disciplines", [])}
     disciplines = load_labels(DISCIPLINE, allowed_disc, "discipline")

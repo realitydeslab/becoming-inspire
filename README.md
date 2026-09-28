@@ -2,7 +2,7 @@
 
 **https://becoming.reality.design**
 
-Become more than human. A bilingual (English / 中文) gallery of works that use XR and sensory technology to let people **become another being or thing**: hear space as a bat, feel the ground as a mole, swim as a fish, move as an octopus, fly as a bird, breathe as a tree, flow as a river, see as a machine. It includes artworks, immersive films, games, research prototypes and papers. Every work has its core idea, how it works, and links to its video, images and paper.
+Become more than human. A bilingual (English / 中文) gallery of **embodied, whole-body, immersive XR works** in which the participant **becomes another being or thing**: hear space as a bat, feel the ground as a mole, swim as a fish, move as an octopus, fly as a bird, breathe as a tree, flow as a river, see as a machine. It includes XR artworks, immersive films, VR games and XR research prototypes. Screen games, films you only watch, audio works, stand-alone wearables and theory are deliberately left out. Every work has its core idea, how it works, and links to its video, images and paper.
 
 Built by [Reality Design Lab](https://reality.design) as research material for the book *Experiencing More-than-Humans: Augmented Noticing through Extended Reality* (Botao Amber Hu, Danlin Huang, Jae-eun Shin). It is a sibling of [More than Human Inspire](https://more-than-human.reality.design).
 

@@ -30,7 +30,7 @@ DISCIPLINES = {d[0] for d in TAX.get("disciplines", [])}
 KINDS = {k[0] for k in TAX["kinds"]}
 COLLECTIONS = {c["id"] for c in TAX.get("collections", [])} | {
     c["id"] for f in (ROOT / "data" / "collections" / "defs").glob("*.json") for c in json.loads(f.read_text())}
-LEGACY: dict = {}  # moved categories: (old field, old sub) -> (new field, new sub)
+LEGACY = {("robot", "object"): ("chair", "object")}  # moved categories: (old field, old sub) -> (new field, new sub)
 CJK = re.compile(r"[㐀-鿿]")
 
 WORK_EN = ("title", "description", "idea_en", "method")
@@ -119,6 +119,8 @@ def validate(path: Path) -> list[str]:
         medium = w.get("medium") or []
         if not 1 <= len(medium) <= 3 or any(m not in MEDIUMS for m in medium):
             errs.append(f"{who}: medium must be 1–3 of {sorted(MEDIUMS)}, got {medium}")
+        if w.get("scope") and w["scope"] not in ("core", "out"):
+            errs.append(f"{who}: scope must be 'core' or 'out'")
         if w.get("relation") and w["relation"] not in RELATIONS:
             errs.append(f"{who}: relation must be one of {sorted(RELATIONS)}")
         if not isinstance(w.get("shown_at", []), list):
@@ -128,7 +130,10 @@ def validate(path: Path) -> list[str]:
         if w.get("kind") not in KINDS:
             errs.append(f"{who}: kind must be one of {sorted(KINDS)}")
         paper = w.get("paper") or {}
-        if not (w.get("video") or w.get("images") or paper.get("url") or paper.get("doi") or paper.get("arxiv")):
+        in_dev = w.get("status") == "in-development"  # unreleased work: a text card, but it needs a project link
+        if in_dev and not w.get("source_url"):
+            errs.append(f"{who}: status 'in-development' needs source_url")
+        if not in_dev and not (w.get("video") or w.get("images") or paper.get("url") or paper.get("doi") or paper.get("arxiv")):
             errs.append(f"{who}: needs at least one of video, images, paper")
         if w.get("kind") == "paper" and not (paper.get("url") or paper.get("doi") or paper.get("arxiv")):
             errs.append(f"{who}: kind 'paper' needs paper.url, paper.doi or paper.arxiv")

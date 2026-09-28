@@ -50,6 +50,7 @@ Each research batch writes one file: `data/raw/<batch>.json`
   "method_zh": "中文：它是怎么做到的。",
   "keywords": ["mosquito", "owl", "dragonfly", "frog", "LiDAR", "binaural"],   // beings, techniques, proper nouns in original
   "shown_at": ["Sundance New Frontier 2016", "Abandon Normal Devices 2015"],   // optional: festivals, exhibitions, awards (proper nouns)
+  "scope": "core",                          // REQUIRED for publication: "core" = embodied immersive XR becoming (see RESEARCH_BRIEF scope)
 
   "video":  { "url": "https://vimeo.com/…" },          // optional: YouTube | Vimeo | X | direct .mp4
   "images": ["https://…/hero.jpg"],                     // optional: 1-4 direct image URLs (jpg/png/webp/gif)

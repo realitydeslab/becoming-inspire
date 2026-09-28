@@ -7,7 +7,7 @@ argument-hint: <name, lab, paper DOI/URL or project URL> [, another …] [--no-p
 
 Input: `$ARGUMENTS` — one or more people, labs, studios, companies, papers (DOI / arXiv / URL) or project pages, comma-separated. `--no-push` = build and preview locally, do not commit or publish.
 
-The gallery collects XR and sensory-technology works that let people become another being or thing (animal, plant, fungus, river, machine), organised by the chapters of *Experiencing More-than-Humans*.
+The gallery collects XR and sensory-technology works that let people become another being or thing (animal, plant, fungus, river, machine), organised by the chapters of *Experiencing More-than-Humans*. Only embodied, whole-body, immersive XR becoming works are in scope (see the Scope note in data/RESEARCH_BRIEF.md); set `"scope": "core"` on each work you add.
 Read `data/SCHEMA.md`, `data/taxonomy.json` and `data/RESEARCH_BRIEF.md` first.
 
 ## Steps

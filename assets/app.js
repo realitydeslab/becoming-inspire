@@ -6,7 +6,7 @@
   const I18N = window.MTH_I18N;
   const TX = window.MthText;
   const TAX = DATA.taxonomy;
-  const FIELDS = TAX.fields;
+  const FIELDS = TAX.fields.filter((f) => (DATA.works || []).some((w) => w.field === f.id));
   const COLS = TAX.collections || [];
   const APPS = TAX.mediums || [];
   const DISCS = TAX.disciplines || [];
@@ -122,7 +122,7 @@
 
   /* ---------- cards ---------- */
   const poster = (w) => w.video?.thumbnail || (w.images || [])[0] || "";
-  const paperPh = (w) => `<div class="ph ph--paper"><span class="ph__venue mono">${esc(w.paper?.venue || S().paper_card)}</span><span class="ph__title">${esc(w.title)}</span></div>`;
+  const paperPh = (w) => `<div class="ph ph--paper"><span class="ph__venue mono">${esc(w.status === "in-development" ? S().in_dev : w.paper?.venue || S().paper_card)}</span><span class="ph__title">${esc(w.title)}</span></div>`;
   function thumb(w) {
     const p = poster(w);
     if (p) return `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(p)}" alt="" onerror="this.outerHTML=this.dataset.ph" data-ph="${esc(paperPh(w))}">`;
@@ -177,7 +177,7 @@
   function renderChips() {
     $("#facetChips").innerHTML =
       chipRow(S().f_field, FIELDS.map((f) => [f.id, nm(f), (w) => inField(w, f.id)]), state.fields, "field", "f") +
-      (RELS.length ? chipRow(S().f_relation, RELS.map(([k]) => [k, relName(k), (w) => w.relation === k]), state.rels, "rel", "r") : "") +
+      (new Set(DATA.works.map((w) => w.relation)).size > 1 ? chipRow(S().f_relation, RELS.map(([k]) => [k, relName(k), (w) => w.relation === k]), state.rels, "rel", "r") : "") +
       (APPS.length ? chipRow(S().f_medium, APPS.map(([k]) => [k, appName(k), (w) => (w.medium || []).includes(k)]), state.apps, "app", "a") : "") +
       (DISCS.length ? chipRow(S().f_discipline, DISCS.map(([k]) => [k, discName(k), (w) => (w.disciplines || []).includes(k)]), state.discs, "disc", "d") : "") +
       chipRow(S().f_sense, TAX.senses.map(([k]) => [k, senseName(k), (w) => (w.senses || []).includes(k)]), state.senses, "sense", "o") +
