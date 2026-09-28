@@ -2,7 +2,7 @@
 
 用 XR 与感官技术让人成为另一种存在（蝙蝠、鼹鼠、鱼、章鱼、鸟、昆虫、动物、真菌、树、河流、机器人）的作品目录：艺术作品、沉浸式影片、游戏、研究原型与论文，由 Reality Design Lab 为《Experiencing More-than-Humans》一书整理。每件作品都列出核心想法、实现方式，以及视频、图片和论文链接。
 
-https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作品
+https://becoming.reality.design · 2026-09-28 · 132 位创作者 · 145 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -807,6 +807,14 @@ https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作�
 - 实现方式: 头显中的手部追踪，配三种动物手部模型；训练好的分类器为手势与各化身的一致性打分。
 - 论文: https://doi.org/10.1109/ismar62088.2024.00093 (IEEE ISMAR 2024)
 
+#### NariTan — Shogo Fukushima (2024)
+- 类型: 论文 · 感官: 身体图式与运动 · 媒介: VR 头显
+- 核心想法: 把非人类身体当作记忆的辅助：通过一具学习者从未拥有过的龙之身体的动作来学单词。
+- 作品内容: 一个沉浸式 VR 词汇学习系统：学习者化身为一条龙，用龙的身体演示英语单词。研究发现，与常规学习相比，一周后遗忘的单词更少。
+- 实现方式: 头显配合由学习者动作驱动的全身龙化身；比较了与传统学习相比的记忆保持、工作负荷与情绪，并改变化身数量进行实验。
+- 论文: https://doi.org/10.3390/mti8100093 (Multimodal Technologies and Interaction 2024)
+- 项目主页: https://doi.org/10.3390/mti8100093
+
 #### Plastisapiens — Miri Chekhanovich, Édith Jorisch (2022)
 - 类型: 艺术作品 · 感官: 身体图式与运动, 触觉 · 媒介: VR 头显
 - 展出于: Tribeca Immersive 2022; IDFA DocLab 2022
@@ -834,6 +842,15 @@ https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作�
 - 论文: https://doi.org/10.1145/3311350.3347172 (CHI PLAY 2019)
 - 视频: https://www.youtube.com/watch?v=fa2Ivv14GL4
 - 图片: https://ar5iv.labs.arxiv.org/html/1907.07466/assets/figures/teaser.jpg https://ar5iv.labs.arxiv.org/html/1907.07466/assets/figures/scorpion.jpg
+
+#### Ghost Giant — Zoink (2019)
+- 类型: 游戏 · 感官: 身体图式与运动, 时间与尺度 · 媒介: VR 头显, 游戏
+- 核心想法: 成为幽灵关乎尺度与隐形：你能改变整座小镇，却只能触及那唯一看得见你的人。
+- 作品内容: 一款 VR 解谜游戏：玩家是一个巨大的幽灵，除了孤独的男孩 Louis 之外谁也看不见他。玩家俯视一座玩具般的小镇，掀开屋顶、转动房子、移动物件来帮助男孩。
+- 实现方式: 在 PlayStation VR（Move 控制器）和 Oculus Quest 上运行的房间尺度 VR，世界以微缩比例搭建在坐着或站着的玩家周围。
+- 视频: https://www.youtube.com/watch?v=W2xNpID-w6s
+- 图片: https://upload.wikimedia.org/wikipedia/en/d/de/Ghost_giant_cover.jpg
+- 项目主页: https://en.wikipedia.org/wiki/Ghost_Giant
 
 #### The Illusion of Animal Body Ownership — Andrey Krekhov (2019)
 - 类型: 论文 · 感官: 身体图式与运动 · 媒介: VR 头显, 游戏
@@ -897,6 +914,16 @@ https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作�
 - 视频: https://www.youtube.com/watch?v=L9oTcez2CXU
 - 图片: https://freight.cargo.site/t/original/i/ad1784c02faa9d2afb6614fa878b4982436d2d58292e1349ebee13b3d8c6a682/2232862656_cba3f094c1_o.jpg https://freight.cargo.site/t/original/i/067d74e44844e7aca2661cd3baab576aa3fb852d9130e7525a1d6fce5ad67c0d/animals3.jpg
 - 项目主页: https://www.chriswoebken.com/animal-superpowers
+
+#### Becoming Dragon — micha cárdenas (2008)
+- 类型: 表演 · 感官: 身体图式与运动, 改变的视觉, 听觉与振动 · 媒介: VR 头显, 表演与参与式
+- 展出于: Vector Festival, Montreal 2018 (Becoming Dragon Redux)
+- 核心想法: 追问一年的“第二人生体验”能否替代变性手术前被要求的“真实生活体验”，并通向“物种重置”：把成为神话动物当作思考过渡的方式。
+- 作品内容: 一场长达 365 小时的混合现实表演：艺术家戴着头显，以龙的化身生活在 Second Life 中，只能通过视频画面看到现实世界。观众观看立体投影，听到她被处理成龙声的嗓音。
+- 实现方式: 带摄像头透视的头显、把表演者动作映射到 Second Life 龙身上的动作捕捉系统、Pure Data 变声程序，以及面向观众的立体投影。
+- 论文: https://doi.org/10.1117/12.806260 (SPIE Electronic Imaging 2009)
+- 视频: https://vimeo.com/3874238
+- 项目主页: https://michacardenas.sites.ucsc.edu/becoming-dragon/
 
 #### Placeholder — Brenda Laurel, Rachel Strickland (1993)
 - 类型: 艺术作品 · 感官: 改变的视觉, 身体图式与运动, 听觉与振动 · 媒介: VR 头显
@@ -1121,6 +1148,15 @@ https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作�
 - 图片: https://www.ischool.berkeley.edu/sites/default/files/article_teaser_image/img_3363_2.png
 - 项目主页: https://www.ischool.berkeley.edu/news/2023/human-computer-interaction-research-de-centers-humans-give-nature-voice
 
+#### SplashSim — New Jersey Governor's School of Engineering and Technology (2017)
+- 类型: 研究原型 · 感官: 身体图式与运动, 时间与尺度 · 媒介: VR 头显
+- 展出于: IEEE MIT Undergraduate Research Technology Conference 2017
+- 核心想法: 从一滴水内部讲述水循环：物态变化成了发生在你身上的事。
+- 作品内容: 一款手机 VR 应用：用户以一滴水的身份走完水循环，依次经历蒸发、凝结与降水。
+- 实现方式: 智能手机 VR 头显，借助陀螺仪追踪头部并配有空间音频；水滴的旅程是一组预设场景（很可能用 Unity 制作）。
+- 论文: https://doi.org/10.1109/urtc.2017.8284185 (IEEE MIT URTC 2017)
+- 项目主页: https://doi.org/10.1109/urtc.2017.8284185
+
 ### 空气、呼吸与天气
 
 大气、风、云，以及与非人类共享的呼吸。
@@ -1144,6 +1180,17 @@ https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作�
 - 视频: https://www.youtube.com/watch?v=8-pVNx5rpgg
 - 项目主页: https://voicesofvr.com/888-sundance-breathe-visualizes-how-breath-connects-us-to-each-other-in-social-ar-experience/
 
+#### Cloud-Avatar (RêvA / Walking Clouds) — Nathalie Delprat (2012)
+- 类型: 艺术作品 · 感官: 身体图式与运动, 改变的视觉 · 媒介: 穹顶、CAVE 与投影, 多感官装置
+- 展出于: Leonardo/Olats workshop 'Water is in the Air', Marseille 2012
+- 核心想法: 成为一朵云，就是学习一具没有边界的身体：你感到改变的是自己的密度，而不是轮廓。
+- 作品内容: 在一个大型沉浸式投影空间里，参与者被追踪的身体显示为一团云，可在不同密度的积云、层云与卷云之间切换，还会被风吹动。身体的动作改变云的聚集、稀薄与漂移。
+- 实现方式: 实时动作捕捉驱动粒子生成器，在 LIMSI-CNRS 的 EVE 沉浸空间（立体投影、类似 CAVE）里把身体渲染成不同类型的云。
+- 论文: https://doi.org/10.1162/leon_a_00681 (Leonardo 2014)
+- 视频: https://www.youtube.com/watch?v=kbU-RUcVcK8
+- 图片: https://i.ytimg.com/vi/hwSR_ihy-wI/maxresdefault.jpg
+- 项目主页: https://www.youtube.com/watch?v=hwSR_ihy-wI
+
 #### Osmose — Char Davies (1995)
 - 类型: 艺术作品 · 感官: 呼吸与内感受, 身体图式与运动 · 媒介: VR 头显, 多感官装置
 - 展出于: Musée d'art contemporain de Montréal 1995
@@ -1159,6 +1206,15 @@ https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作�
 
 石头、山脉、矿物与地质时间。
 
+#### Being Stone — Jiahe Li, Aven-Le Zhou, Martijn ten Bhömer (2026)
+- 类型: 研究原型 · 感官: 时间与尺度, 触觉, 身体图式与运动 · 媒介: VR 头显, 多感官装置
+- 展出于: ACM DIS 2026
+- 核心想法: 成为石头意味着放弃意图：能动性变得间接、分散，只能事后察觉，处在人的行动与矿物的持久之间。
+- 作品内容: 一件 VR 作品：参与者占据一块躺在水下世界里的石头的视角——它会随时间改变，却不带意图地行动。参与者要么先把玩一块真实的雕刻石头再进入 VR，要么在 VR 中一直触摸它。
+- 实现方式: 定制的水下 VR 场景与一块雕刻过的天然石头相连，石头装有光线、接近、触摸与姿态传感器；体验通过“虚拟（石头）具身问卷”和访谈来测量。
+- 论文: https://doi.org/10.1145/3802974.3808023 (DIS 2026 Companion)
+- 项目主页: https://doi.org/10.1145/3802974.3808023
+
 #### Collective Body — Sarah Silverblatt-Buser (2025)
 - 类型: 艺术作品 · 感官: 身体图式与运动, 集体与网络感知 · 媒介: VR 头显, 表演与参与式
 - 展出于: Venice Immersive 2025
@@ -1169,6 +1225,16 @@ https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作�
 - 图片: https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2025/Schede_film/970x647/Ve_Immersive/collective_body.jpg?itok=Ff8l25Pv
 - 项目主页: https://www.labiennale.org/en/cinema/2025/venice-immersive/collective-body
 
+#### Stone — Shinseungback Kimyonghun (2017)
+- 类型: 艺术作品 · 感官: 触觉, 听觉与振动, 时间与尺度 · 媒介: 多感官装置
+- 展出于: Goethe-Institut Shanghai commission 2017
+- 核心想法: 成为石头，就是静立不动，让大海一次又一次拍打在你的表面。
+- 作品内容: 在火山岛郁陵岛岸边一块石头上安装水位传感器记录海浪；展厅里 64 个电磁阀组成的结构重现浪打在这块石头上的节奏，观众走进其中“成为石头”。
+- 实现方式: 64 个水传感器与装在木板上的 64 个电磁阀，Arduino、自制软件、扬声器与投影。
+- 视频: https://vimeo.com/211470143
+- 图片: https://djhznh41oxwef.cloudfront.net/works/stone/ssbkyh_stone_01.png
+- 项目主页: http://ssbkyh.com/works/stone/
+
 #### Ephémère — Char Davies (1998)
 - 类型: 艺术作品 · 感官: 呼吸与内感受, 身体图式与运动, 时间与尺度 · 媒介: VR 头显, 多感官装置
 - 展出于: National Gallery of Canada 1998
@@ -1178,6 +1244,21 @@ https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作�
 - 视频: https://www.youtube.com/watch?v=XCWaMll0leI
 - 图片: https://www.immersence.com/images/ephemere/Eph_Autumn_Flux_I_600.jpg https://www.immersence.com/images/ephemere/016_Ephemere_Installation_View_2.jpg
 - 项目主页: https://www.immersence.com/ephemere/
+
+### 行星与宇宙
+
+作为整体的地球、其他行星与宇宙尺度。
+
+#### Star-Stuff: a way for the universe to know itself — John Desnoyers-Stewart (2021)
+- 类型: 艺术作品 · 感官: 身体图式与运动, 集体与网络感知 · 媒介: VR 头显
+- 展出于: SIGGRAPH 2022 Immersive Pavilion; FIVARS 2022
+- 核心想法: 把萨根的话当真：你的身体变成一个小星系，一起移动就是两个人认出彼此由同样星辰构成的方式。
+- 作品内容: 一件双人 VR 作品：每位体验者的身体被重新画成星座——恒星从心口涌出，绕着髋部旋转成一个螺旋星系，随动作改变形状。同伴可以是身边的朋友，也可以是远方的陌生人。
+- 实现方式: 头显手部追踪把双手映射为星座，躯干周围生成星场，并支持联网多人在场；通过 Hoame 在 Meta Quest 上发布。
+- 论文: https://doi.org/10.1145/3532834.3536198 (SIGGRAPH 2022 Immersive Pavilion)
+- 视频: https://www.youtube.com/watch?v=eRukMyGcVcI
+- 图片: https://history.siggraph.org/wp-content/uploads/2024/04/2022-Immersive-Pavilion-Desnoyers-Stewart_Star-Stuff-A-Way-for-the-Universe-to-Know-Itself.jpg https://fivars.net/wp-content/uploads/2022/09/Star-Stuff.jpg
+- 项目主页: http://ispace.iat.sfu.ca/project/star-stuff/
 
 ## 成为椅子
 
@@ -1361,6 +1442,7 @@ https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作�
 - **Daniel Pimentel** (2) — 沉浸式媒体研究者，俄勒冈大学. Daniel Pimentel 研究在 VR 与 AR 中化身为濒危野生动物如何改变人的共情与保护行为。
 - **EPFL Laboratory of Intelligent Systems** (2) — 由 Dario Floreano 领导的 EPFL 机器人实验室. EPFL 的机器人实验室，研究飞行机器人、仿生无人机与沉浸式飞行的身体-机器接口。 https://www.epfl.ch/labs/lis/
 - **Eduardo Kac** (2) — 生物艺术与远程临场艺术家. 巴西裔美国艺术家，提出“转基因艺术”一词，代表作包括《GFP Bunny》与“植物动物”Edunia。 https://www.ekac.org
+- **John Desnoyers-Stewart** (2) — 艺术家与人机交互研究者. 西蒙菲莎大学 iSpace 实验室研究者，研究社交 VR 与生物反馈装置。
 - **Kouta Minamizawa** (2) — 庆应义塾大学媒体设计研究科（KMD）教授. 触觉研究者，主持庆应 KMD 的 Embodied Media Project，研究远程临场、触觉传输与共享身体。 https://embodiedmedia.org
 - **Laura Aymerich-Franch** (2) — 研究者，人形机器人具身. 曾在 CNRS-AIST 联合机器人实验室研究人们如何对 HRP-2 人形机器人产生具身感的研究者。
 - **Michiteru Kitazaki** (2) — 感知研究教授，丰桥技术科学大学. 北崎充晃研究视知觉、身体所有感以及 VR 中的共享身体与额外身体（JST ERATO 稻见自在化身体项目）。
@@ -1376,6 +1458,7 @@ https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作�
 - **Another Axiom** (1) — Gorilla Tag 背后的 VR 游戏工作室. 围绕 Gorilla Tag 成立的工作室，该社交 VR 游戏最初由 Kerestell “Lemming” Smith 独立开发。 https://gorillatagvr.com/
 - **Ars Electronica Futurelab** (1) — Ars Electronica 的艺术与技术研究实验室. Ars Electronica Center 的研发实验室，1996 年成立，制作沉浸式、机器人与公共空间装置。 https://ars.electronica.art/futurelab/
 - **Atsushi Wada** (1) — 动画导演. 日本独立动画作者（2012 年以《大兔子》获柏林银熊奖），以缓慢、荒诞的手绘动画闻名；《猫が見えたら》是他的首部 VR 作品，由讲谈社 VR Lab 制作。
+- **Aven-Le Zhou** (1) — 关注超越人类交互的设计研究者. 从事人工智能、机器人与超越人类交互的设计师和研究者，DIS 2026 论文《Being Stone》的通讯作者。 https://www.linkedin.com/in/avenlezhou/
 - **Baobab Studios** (1) — 交互动画工作室. 2015 年由 Eric Darnell 与 Maureen Fan 创立的动画工作室，以 VR 短片 Invasion!、Asteroids! 和 Crow: The Legend 闻名。 https://www.baobabstudios.com/
 - **Barbara Schuler** (1) — 交互设计师，苏黎世艺术大学. Barbara Schuler 与同事制作了一个成为狩猎蜘蛛的多感官 VR 体验。
 - **Bartabas** (1) — 马术剧场导演（Zingaro 剧团）. 法国导演，Zingaro 马术剧团创始人，以马为主角的演出闻名。 https://www.bartabas.fr
@@ -1407,7 +1490,7 @@ https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作�
 - **Jaime Martínez Harms** (1) — 生物学家，智利农业研究所 La Cruz 中心. 智利农业研究所（INIA）La Cruz 中心的生物学家，研究传粉者视觉与植物-传粉者互动。
 - **Jean-Luc Lugrin** (1) — VR 研究者，维尔茨堡大学. 维尔茨堡大学人机交互组研究者，研究化身与具身。
 - **Jiabao Li** (1) — 艺术家、设计师与技术专家；美国东北大学副教授. 通过装置、XR、AI、生物艺术与表演探索超越人类的生态、女性主义生物技术与多物种智能；曾任 UT Austin 助理教授、苹果公司设计师。 https://www.jiabaoli.org
-- **John Desnoyers-Stewart** (1) — 艺术家与人机交互研究者. 西蒙菲莎大学 iSpace 实验室研究者，研究社交 VR 与生物反馈装置。
+- **Jiahe Li** (1) — 交互设计研究者. 设计研究者，DIS 2026 论文《Being Stone》的第一作者，合作者为 Hao Zhu、Yian Tang、Martijn ten Bhömer 与 Aven-Le Zhou。
 - **Joren Vandenbroucke** (1) — 动画与 VR 导演（Animal Tank）. 比利时 Animal Tank 工作室导演，以喜剧 VR 与动画见长。 https://www.animaltank.com
 - **Jun Rekimoto** (1) — 东京大学教授；Sony CSL. 人机交互研究者，其实验室研究人类增强，从随头部运动的无人机到由肌肉电刺激驱动的手。 https://lab.rekimoto.org
 - **Keisuke Suzuki** (1) — 研究者，意识科学与 VR. 萨塞克斯大学 Sackler 意识科学中心研究者，构建用于研究感知的 VR 平台。
@@ -1420,6 +1503,7 @@ https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作�
 - **Larry F. Hodges** (1) — VR 研究者，佐治亚理工学院，后任职克莱姆森大学. 虚拟环境研究者，以 VR 暴露疗法与临场感研究闻名。
 - **MHD Yamen Saraiji** (1) — 研究者，远程临场与身体增强. 工程师与研究者（先后在庆应 KMD 与 Sony），以 Fusion、MetaArms 等远程临场机器人与额外机械臂闻名。
 - **Marc Erich Latoschik** (1) — 维尔茨堡大学人机交互教授. 人机交互教授，主持化身、具身与社交 VR 研究。
+- **Martijn ten Bhömer** (1) — 研究可穿戴与具身交互的设计师和研究者. 荷兰设计研究者，研究智能纺织品、可穿戴设备与具身交互，《Being Stone》合著者。 https://www.mtbhomer.com
 - **Martin Kocur** (1) — 人机交互研究者，上奥地利应用科技大学. Martin Kocur 研究化身具身及其对感知与表现的影响。
 - **Maryam Alimardani** (1) — 研究者，脑机接口与机器人具身. 与石黑浩团队合作的研究者，用脑机接口让人以意念驱动仿生人的手。
 - **Max Rheiner** (1) — 交互设计师，Birdly 的创作者. 瑞士艺术家，曾任苏黎世艺术大学（ZHdK）交互设计讲师，2013 年在那里做出第一台 Birdly 原型，随后联合创立 SOMNIACS。
@@ -1429,7 +1513,9 @@ https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作�
 - **Miri Chekhanovich** (1) — 艺术家与电影人. 以色列裔加拿大视觉艺术家；与 Édith Jorisch 合作《Plastisapiens》（加拿大国家电影局与 DPT 出品）。
 - **Mélodie Mousset** (1) — 艺术家. 法瑞艺术家，创作关于身体的 VR 作品，包括《HanaHana》与《The Jellyfish》。
 - **Natan Sinigaglia** (1) — 视觉艺术家、实时图形设计师. 意大利视觉艺术家，以生成式与实时图形（vvvv）创作，长期与 Marshmallow Laser Feast 合作《Treehugger》与《Evolver》。 https://www.natansinigaglia.com
+- **Nathalie Delprat** (1) — 物理学者与艺术—科学研究者. LIMSI-CNRS（巴黎南大学）研究者，在实验室的 EVE 沉浸空间里用动作捕捉与粒子模拟搭建了 RêvA 云化身系统。
 - **Neven A. M. ElSayed** (1) — 增强现实研究者，南澳大学. Neven ElSayed 研究增强现实中的情境可视化。
+- **New Jersey Governor's School of Engineering and Technology** (1) — 罗格斯大学面向高中生的暑期科研项目. 由罗格斯大学主办的暑期项目，学生团队完成工程研究课题；2017 年 SplashSim 团队成员为 Nicole Chin、Aakash Gupte、John Nguyen、Sabrina Sukhin 与 Grace Wang，导师 Joe Mirizio。 https://soe.rutgers.edu/gset
 - **Pierre Zandrowicz** (1) — VR 导演（Atlas V）. 法国导演，沉浸式工作室 Atlas V 联合创始人。
 - **Polymorf** (1) — 多感官 XR 跨学科艺术团体. 由 Marcel van Brakel 主导的荷兰团体，以触觉服、软体机器人、气味与食物打造多感官 VR 装置。 https://polymorf.nl
 - **Rachel Strickland** (1) — 建筑师、影像艺术家. 美国建筑师、电影人与交互设计师，联合执导 Placeholder，并在班夫拍摄其地景。
@@ -1438,6 +1524,8 @@ https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作�
 - **Samira Poudratchi** (1) — 游戏研究者，大不里士伊斯兰艺术大学. Samira Poudratchi 设计用于导航的音频游戏。
 - **Sarah Silverblatt-Buser** (1) — 编舞与 XR 艺术家. 美国编舞与电影人，创作以动作为基础的 VR 与舞蹈影像。
 - **Seungwoo Je** (1) — 人机交互研究者，南方科技大学. Seungwoo Je 领导沉浸式设计组，研究 VR 触觉设备。
+- **Shinseungback Kimyonghun** (1) — 艺术二人组（申承白与金容勋）. 首尔的艺术二人组，自 2012 年起以装置作品探讨机器视觉、AI 的误差与环境。 http://ssbkyh.com
+- **Shogo Fukushima** (1) — 人机交互研究者. 研究者，2024 年与 Keigo Sakamoto、Yugo Nakamura 共同发表 NariTan：一个通过龙化身学习词汇的 VR 系统。
 - **Shuai Zou** (1) — 媒体艺术家与研究者，香港科技大学（广州）. Shuai Zou 与 Zeyu Wang 实验室的同事创作了《庄周梦蝶》VR。
 - **Shuto Takashita** (1) — 人机交互研究者，东京大学稻见实验室. Shuto Takashita 与稻见昌彦、北崎充晃合作，设计让人控制非人形身体部件的映射方式。
 - **Siyeon Kim** (1) — XR 动画导演，Studio Metapo. 韩国导演，XR 动画 My Name is O90 的作者，由 Studio Metapo 与韩国电影艺术学院制作。 http://studiometapo.com
@@ -1466,4 +1554,6 @@ https://becoming.reality.design · 2026-09-28 · 123 位创作者 · 137 件作�
 - **Yu-Lun Hsu** (1) — 人机交互研究者，台湾大学. Yu-Lun Hsu 与同事设计了 AnimalSense，一款关于动物感官的 VR 游戏。
 - **Yuting Xue** (1) — 媒体艺术家与研究者. 与 Elke Reinhuber 合作，研究关于植物感知与人-植物共生的沉浸式作品。
 - **Zheng Mahler** (1) — 艺术与人类学团体（Royce Ng 与 Daisy Bisenieks）. 由艺术家 Royce Ng 与人类-动物关系学者 Daisy Bisenieks 组成的香港团体；其“大屿山三部曲”是围绕大屿山水牛、蝙蝠与真菌展开的多物种感官民族志。 https://www.zhengmahler.world/
+- **Zoink** (1) — 独立游戏工作室. 瑞典工作室，作品有《Stick It to the Man!》《Fe》以及 PlayStation VR 游戏《Ghost Giant》。 https://zoink.com
+- **micha cárdenas** (1) — 艺术家、表演者与跨性别及数字媒体学者. 加州大学圣克鲁兹分校的艺术家与教授，作品把跨性别理论、混合现实与可穿戴技术结合在一起，著有《Poetic Operations》。 https://michacardenas.sites.ucsc.edu
 - **Édith Jorisch** (1) — 电影人. 加拿大电影人与视觉艺术家，《Plastisapiens》联合创作者。

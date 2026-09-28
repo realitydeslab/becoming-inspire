@@ -1061,6 +1061,190 @@
    "work_count": 1
   },
   {
+   "id": "jiahe-li",
+   "links": {},
+   "connected_to": [
+    "aven-le-zhou",
+    "martijn-ten-bhomer"
+   ],
+   "name": "Jiahe Li",
+   "kind": "person",
+   "role": "Interaction design researcher",
+   "based": "China",
+   "bio": "Designer-researcher and first author of Being Stone, a VR study of nonhuman embodiment presented at DIS 2026 with Hao Zhu, Yian Tang, Martijn ten Bhömer and Aven-Le Zhou.",
+   "why": "Being Stone is one of the very few realised XR works that asks a participant to become a rock rather than look at one.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "role_zh": "交互设计研究者",
+   "based_zh": "中国",
+   "bio_zh": "设计研究者，DIS 2026 论文《Being Stone》的第一作者，合作者为 Hao Zhu、Yian Tang、Martijn ten Bhömer 与 Aven-Le Zhou。",
+   "why_zh": "《Being Stone》是极少数已实现的 XR 作品之一，它让参与者成为一块石头，而不是观看石头。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "aven-le-zhou",
+   "links": {
+    "site": "https://www.linkedin.com/in/avenlezhou/"
+   },
+   "connected_to": [
+    "jiahe-li",
+    "martijn-ten-bhomer"
+   ],
+   "name": "Aven-Le Zhou",
+   "kind": "person",
+   "role": "Design researcher in more-than-human interaction",
+   "based": "Al Ain, United Arab Emirates",
+   "bio": "Designer and researcher working on AI, robotics and more-than-human interaction; senior author of Being Stone (DIS 2026).",
+   "why": "Supervised Being Stone, a VR prototype that frames becoming a stone as a design problem for nonhuman embodiment.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "role_zh": "关注超越人类交互的设计研究者",
+   "based_zh": "阿联酋艾因",
+   "bio_zh": "从事人工智能、机器人与超越人类交互的设计师和研究者，DIS 2026 论文《Being Stone》的通讯作者。",
+   "why_zh": "指导了《Being Stone》：这件 VR 原型把“成为一块石头”当作非人类具身的设计问题来处理。",
+   "discovered_via": "jiahe-li",
+   "work_count": 1
+  },
+  {
+   "id": "martijn-ten-bhomer",
+   "links": {
+    "site": "https://www.mtbhomer.com"
+   },
+   "connected_to": [
+    "aven-le-zhou",
+    "jiahe-li"
+   ],
+   "name": "Martijn ten Bhömer",
+   "kind": "person",
+   "role": "Designer and researcher in wearables and embodied interaction",
+   "based": "Ningbo, China",
+   "bio": "Dutch design researcher working on smart textiles, wearables and embodied interaction; co-author of Being Stone.",
+   "why": "Co-developed the sensor-equipped carved stone that links the physical rock to the participant's stone body in VR.",
+   "disciplines": [
+    "design",
+    "hci"
+   ],
+   "role_zh": "研究可穿戴与具身交互的设计师和研究者",
+   "based_zh": "中国宁波",
+   "bio_zh": "荷兰设计研究者，研究智能纺织品、可穿戴设备与具身交互，《Being Stone》合著者。",
+   "why_zh": "参与开发了装有传感器的雕刻石头，把实体岩石与参与者在 VR 中的石头身体连在一起。",
+   "discovered_via": "jiahe-li",
+   "work_count": 1
+  },
+  {
+   "id": "nathalie-delprat",
+   "links": {},
+   "connected_to": [],
+   "name": "Nathalie Delprat",
+   "kind": "person",
+   "role": "Physicist and art-science researcher",
+   "based": "Orsay, France",
+   "bio": "Researcher at LIMSI-CNRS (Université Paris-Sud) who built the RêvA cloud-avatar system with motion capture and particle simulation in the lab's EVE immersive room.",
+   "why": "Her cloud-avatar turns the participant's own tracked body into cumulus, stratus or cirrus, an early realised case of becoming weather.",
+   "disciplines": [
+    "science",
+    "art"
+   ],
+   "role_zh": "物理学者与艺术—科学研究者",
+   "based_zh": "法国奥赛",
+   "bio_zh": "LIMSI-CNRS（巴黎南大学）研究者，在实验室的 EVE 沉浸空间里用动作捕捉与粒子模拟搭建了 RêvA 云化身系统。",
+   "why_zh": "她的云化身把参与者被追踪的身体变成积云、层云或卷云，是“成为天气”的早期实现案例。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "nj-governors-school-engineering",
+   "links": {
+    "site": "https://soe.rutgers.edu/gset"
+   },
+   "connected_to": [],
+   "name": "New Jersey Governor's School of Engineering and Technology",
+   "kind": "lab",
+   "role": "Summer research programme for high-school students, Rutgers University",
+   "based": "New Brunswick, New Jersey, USA",
+   "bio": "Rutgers-hosted summer programme where student teams build engineering research projects; the 2017 SplashSim team was Nicole Chin, Aakash Gupte, John Nguyen, Sabrina Sukhin and Grace Wang, mentored by Joe Mirizio.",
+   "why": "SplashSim puts the user inside the water cycle as a single droplet, a rare first-person water becoming in VR education.",
+   "disciplines": [
+    "hci"
+   ],
+   "role_zh": "罗格斯大学面向高中生的暑期科研项目",
+   "based_zh": "美国新泽西州新不伦瑞克",
+   "bio_zh": "由罗格斯大学主办的暑期项目，学生团队完成工程研究课题；2017 年 SplashSim 团队成员为 Nicole Chin、Aakash Gupte、John Nguyen、Sabrina Sukhin 与 Grace Wang，导师 Joe Mirizio。",
+   "why_zh": "SplashSim 让用户以一滴水的身份进入水循环，是 VR 教育中少见的第一人称“成为水”的作品。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "micha-cardenas",
+   "links": {
+    "site": "https://michacardenas.sites.ucsc.edu"
+   },
+   "connected_to": [],
+   "name": "micha cárdenas",
+   "kind": "person",
+   "role": "Artist, performer and scholar of trans and digital media",
+   "based": "Santa Cruz, California, USA",
+   "bio": "Artist and professor at UC Santa Cruz whose work joins trans theory, mixed reality and wearable technology; author of Poetic Operations.",
+   "why": "Becoming Dragon used a head-mounted display and motion capture to live 365 hours as a dragon, the reference case for becoming a mythical creature through XR.",
+   "disciplines": [
+    "art",
+    "theory"
+   ],
+   "role_zh": "艺术家、表演者与跨性别及数字媒体学者",
+   "based_zh": "美国加州圣克鲁兹",
+   "bio_zh": "加州大学圣克鲁兹分校的艺术家与教授，作品把跨性别理论、混合现实与可穿戴技术结合在一起，著有《Poetic Operations》。",
+   "why_zh": "《Becoming Dragon》用头显和动作捕捉以龙的身份生活了 365 小时，是通过 XR 成为神话生物的参照案例。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "zoink",
+   "links": {
+    "site": "https://zoink.com"
+   },
+   "connected_to": [],
+   "name": "Zoink",
+   "kind": "studio",
+   "role": "Independent game studio",
+   "based": "Gothenburg, Sweden",
+   "bio": "Swedish studio behind Stick It to the Man!, Fe and the PlayStation VR game Ghost Giant.",
+   "why": "Ghost Giant casts the player as a huge, invisible spirit whose scale and hands are the whole interface.",
+   "disciplines": [
+    "games"
+   ],
+   "role_zh": "独立游戏工作室",
+   "based_zh": "瑞典哥德堡",
+   "bio_zh": "瑞典工作室，作品有《Stick It to the Man!》《Fe》以及 PlayStation VR 游戏《Ghost Giant》。",
+   "why_zh": "《Ghost Giant》让玩家扮演一个巨大而隐形的幽灵，它的体型和双手就是全部的交互方式。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "shogo-fukushima",
+   "links": {},
+   "connected_to": [],
+   "name": "Shogo Fukushima",
+   "kind": "person",
+   "role": "HCI researcher",
+   "based": "Japan",
+   "bio": "Researcher and first author of NariTan (2024) with Keigo Sakamoto and Yugo Nakamura, a VR system for vocabulary learning through a dragon avatar.",
+   "why": "NariTan is a published study in which the learner embodies a dragon in a headset, one of few documented mythical-creature avatars in HCI.",
+   "disciplines": [
+    "hci"
+   ],
+   "role_zh": "人机交互研究者",
+   "based_zh": "日本",
+   "bio_zh": "研究者，2024 年与 Keigo Sakamoto、Yugo Nakamura 共同发表 NariTan：一个通过龙化身学习词汇的 VR 系统。",
+   "why_zh": "NariTan 是一项已发表的研究，学习者戴上头显化身为龙，是人机交互中少有的有文献记录的神话生物化身。",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
    "id": "bartabas",
    "links": {
     "site": "https://www.bartabas.fr"
@@ -1650,6 +1834,28 @@
    "why_zh": "他的作品把观者的身体转移到漂浮的摄像机和巨型机器人里。",
    "disciplines": [
     "hci",
+    "art"
+   ],
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "shinseungback-kimyonghun",
+   "links": {
+    "site": "http://ssbkyh.com"
+   },
+   "connected_to": [],
+   "name": "Shinseungback Kimyonghun",
+   "kind": "studio",
+   "role": "Artist duo (Shin Seung Back and Kim Yong Hun)",
+   "role_zh": "艺术二人组（申承白与金容勋）",
+   "based": "Seoul, South Korea",
+   "based_zh": "首尔，韩国",
+   "bio": "Seoul-based duo making installations about machine vision, AI error and the environment since 2012.",
+   "bio_zh": "首尔的艺术二人组，自 2012 年起以装置作品探讨机器视觉、AI 的误差与环境。",
+   "why": "Their works let visitors see as a face-detection algorithm or stand as a stone that waves break on.",
+   "why_zh": "他们的作品让观众像人脸识别算法那样去看，或像一块礁石那样承受浪的拍打。",
+   "disciplines": [
     "art"
    ],
    "discovered_via": "seed",
@@ -3546,10 +3752,68 @@
    "why_zh": "《JeL》把两个人的呼吸连接到同一只水母的游动上。",
    "based_zh": "加拿大温哥华",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 2
   }
  ],
  "works": [
+  {
+   "id": "jiahe-li--being-stone",
+   "creator_ids": [
+    "jiahe-li",
+    "aven-le-zhou",
+    "martijn-ten-bhomer"
+   ],
+   "title": "Being Stone",
+   "year": 2026,
+   "scope": "core",
+   "relation": "becoming",
+   "field": "river",
+   "sub": "earth",
+   "senses": [
+    "time-scale",
+    "touch",
+    "body"
+   ],
+   "medium": [
+    "vr",
+    "installation"
+   ],
+   "kind": "prototype",
+   "description": "A VR experience in which the participant inhabits the viewpoint of a stone lying in an underwater world, an entity that changes over time but does not act with intention. Participants either handle a real carved stone before entering VR or keep touching it while inside.",
+   "description_zh": "一件 VR 作品：参与者占据一块躺在水下世界里的石头的视角——它会随时间改变，却不带意图地行动。参与者要么先把玩一块真实的雕刻石头再进入 VR，要么在 VR 中一直触摸它。",
+   "idea_en": "Becoming stone means giving up intention: agency is felt as indirect, distributed and noticed only in hindsight, somewhere between human action and mineral endurance.",
+   "idea_zh": "成为石头意味着放弃意图：能动性变得间接、分散，只能事后察觉，处在人的行动与矿物的持久之间。",
+   "method": "A custom underwater VR scene is coupled to a carved natural stone fitted with light, proximity, touch and orientation sensors; experience was measured with a Virtual (Stone) Embodiment Questionnaire and interviews.",
+   "method_zh": "定制的水下 VR 场景与一块雕刻过的天然石头相连，石头装有光线、接近、触摸与姿态传感器；体验通过“虚拟（石头）具身问卷”和访谈来测量。",
+   "keywords": [
+    "stone",
+    "rock",
+    "nonhuman embodiment",
+    "geological time",
+    "tangible interface",
+    "VSEQ",
+    "DIS 2026",
+    "Hao Zhu",
+    "Yian Tang"
+   ],
+   "shown_at": [
+    "ACM DIS 2026"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3802974.3808023",
+    "doi": "10.1145/3802974.3808023",
+    "venue": "DIS 2026 Companion",
+    "title": "Being Stone: Designing Nonhuman Embodiment in VR"
+   },
+   "source_url": "https://doi.org/10.1145/3802974.3808023",
+   "video": {},
+   "images": [],
+   "also": [],
+   "disciplines": [
+    "design",
+    "hci"
+   ]
+  },
   {
    "id": "omar-a-khan--dog-ears",
    "creator_ids": [
@@ -5319,6 +5583,53 @@
    ]
   },
   {
+   "id": "shogo-fukushima--naritan",
+   "creator_ids": [
+    "shogo-fukushima"
+   ],
+   "title": "NariTan",
+   "year": 2024,
+   "scope": "core",
+   "relation": "becoming",
+   "field": "animal",
+   "sub": "multispecies",
+   "senses": [
+    "body"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "paper",
+   "description": "An immersive VR vocabulary-learning system in which the learner embodies a dragon and acts out English words through the dragon's body. A study found fewer words forgotten after one week than with conventional study.",
+   "description_zh": "一个沉浸式 VR 词汇学习系统：学习者化身为一条龙，用龙的身体演示英语单词。研究发现，与常规学习相比，一周后遗忘的单词更少。",
+   "idea_en": "A non-human body as a memory aid: words are learned through the actions of a dragon body the learner has never had.",
+   "idea_zh": "把非人类身体当作记忆的辅助：通过一具学习者从未拥有过的龙之身体的动作来学单词。",
+   "method": "Head-mounted display with a full-body dragon avatar driven by the learner's movements; retention, workload and emotion were compared with traditional study, also varying the number of avatars.",
+   "method_zh": "头显配合由学习者动作驱动的全身龙化身；比较了与传统学习相比的记忆保持、工作负荷与情绪，并改变化身数量进行实验。",
+   "keywords": [
+    "dragon",
+    "non-human avatar",
+    "vocabulary learning",
+    "second language",
+    "embodied learning",
+    "Keigo Sakamoto",
+    "Yugo Nakamura"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.3390/mti8100093",
+    "doi": "10.3390/mti8100093",
+    "venue": "Multimodal Technologies and Interaction 2024",
+    "title": "NariTan: Enhancing Second Language Vocabulary Learning Through Non-Human Avatar Embodiment in Immersive Virtual Reality"
+   },
+   "source_url": "https://doi.org/10.3390/mti8100093",
+   "video": {},
+   "images": [],
+   "also": [],
+   "disciplines": [
+    "hci"
+   ]
+  },
+  {
    "id": "tampere-gamification-group--pine-cone-prowl",
    "creator_ids": [
     "tampere-gamification-group"
@@ -6762,6 +7073,70 @@
    ]
   },
   {
+   "id": "john-desnoyers-stewart--star-stuff",
+   "creator_ids": [
+    "john-desnoyers-stewart"
+   ],
+   "title": "Star-Stuff: a way for the universe to know itself",
+   "year": 2021,
+   "scope": "core",
+   "relation": "becoming",
+   "field": "river",
+   "sub": "planet",
+   "senses": [
+    "body",
+    "collective-sense"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "artwork",
+   "description": "A two-person VR experience in which each immersant's body is redrawn as constellations: stars stream from the heart and orbit the hips as a spiral galaxy that reshapes as they move. The partner can be a co-present friend or a remote stranger.",
+   "description_zh": "一件双人 VR 作品：每位体验者的身体被重新画成星座——恒星从心口涌出，绕着髋部旋转成一个螺旋星系，随动作改变形状。同伴可以是身边的朋友，也可以是远方的陌生人。",
+   "idea_en": "Taking Sagan literally: your body becomes a small galaxy, and moving together is how two people recognise they are made of the same stars.",
+   "idea_zh": "把萨根的话当真：你的身体变成一个小星系，一起移动就是两个人认出彼此由同样星辰构成的方式。",
+   "method": "Headset hand tracking maps the hands to constellations and a generated star field to the torso, with networked multi-user presence; released on Meta Quest via Hoame.",
+   "method_zh": "头显手部追踪把双手映射为星座，躯干周围生成星场，并支持联网多人在场；通过 Hoame 在 Meta Quest 上发布。",
+   "keywords": [
+    "stars",
+    "constellation",
+    "galaxy",
+    "Carl Sagan",
+    "hand tracking",
+    "multi-user",
+    "Meta Quest",
+    "Hoame",
+    "SFU iSpace"
+   ],
+   "shown_at": [
+    "SIGGRAPH 2022 Immersive Pavilion",
+    "FIVARS 2022"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=eRukMyGcVcI",
+    "platform": "youtube",
+    "id": "eRukMyGcVcI",
+    "thumbnail": "https://i.ytimg.com/vi/eRukMyGcVcI/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://history.siggraph.org/wp-content/uploads/2024/04/2022-Immersive-Pavilion-Desnoyers-Stewart_Star-Stuff-A-Way-for-the-Universe-to-Know-Itself.jpg",
+    "https://fivars.net/wp-content/uploads/2022/09/Star-Stuff.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3532834.3536198",
+    "doi": "10.1145/3532834.3536198",
+    "venue": "SIGGRAPH 2022 Immersive Pavilion",
+    "title": "Star-Stuff: a way for the universe to know itself"
+   },
+   "source_url": "http://ispace.iat.sfu.ca/project/star-stuff/",
+   "also": [],
+   "disciplines": [
+    "art",
+    "hci"
+   ]
+  },
+  {
    "id": "polymorf--symbiosis",
    "creator_ids": [
     "polymorf"
@@ -7631,6 +8006,58 @@
    "disciplines": [
     "art",
     "film"
+   ]
+  },
+  {
+   "id": "zoink--ghost-giant",
+   "creator_ids": [
+    "zoink"
+   ],
+   "title": "Ghost Giant",
+   "year": 2019,
+   "scope": "core",
+   "relation": "becoming",
+   "field": "animal",
+   "sub": "multispecies",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "vr",
+    "game"
+   ],
+   "kind": "game",
+   "description": "A VR puzzle game in which the player is a giant ghost, invisible to everyone except a lonely boy named Louis. Looming over a toy-like town, the player lifts roofs, turns houses and moves objects to help him.",
+   "description_zh": "一款 VR 解谜游戏：玩家是一个巨大的幽灵，除了孤独的男孩 Louis 之外谁也看不见他。玩家俯视一座玩具般的小镇，掀开屋顶、转动房子、移动物件来帮助男孩。",
+   "idea_en": "Being a spirit is a matter of scale and invisibility: you can reshape a whole town yet reach only the one person who can see you.",
+   "idea_zh": "成为幽灵关乎尺度与隐形：你能改变整座小镇，却只能触及那唯一看得见你的人。",
+   "method": "Room-scale VR on PlayStation VR (Move controllers) and Oculus Quest, with the world built at miniature scale around the seated or standing player.",
+   "method_zh": "在 PlayStation VR（Move 控制器）和 Oculus Quest 上运行的房间尺度 VR，世界以微缩比例搭建在坐着或站着的玩家周围。",
+   "keywords": [
+    "ghost",
+    "giant",
+    "scale",
+    "PlayStation VR",
+    "Oculus Quest",
+    "Sara Bergmark Elfgren",
+    "Louis"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=W2xNpID-w6s",
+    "platform": "youtube",
+    "id": "W2xNpID-w6s",
+    "thumbnail": "https://i.ytimg.com/vi/W2xNpID-w6s/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/en/d/de/Ghost_giant_cover.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Ghost_Giant",
+   "paper": {},
+   "also": [],
+   "disciplines": [
+    "games"
    ]
   },
   {
@@ -8827,6 +9254,110 @@
    ]
   },
   {
+   "id": "nj-governors-school-engineering--splashsim",
+   "creator_ids": [
+    "nj-governors-school-engineering"
+   ],
+   "title": "SplashSim",
+   "year": 2017,
+   "scope": "core",
+   "relation": "becoming",
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "body",
+    "time-scale"
+   ],
+   "medium": [
+    "vr"
+   ],
+   "kind": "prototype",
+   "description": "A mobile VR application in which the user travels through the water cycle as a single water droplet, passing through evaporation, condensation and precipitation.",
+   "description_zh": "一款手机 VR 应用：用户以一滴水的身份走完水循环，依次经历蒸发、凝结与降水。",
+   "idea_en": "The water cycle told from inside one droplet: changes of state become things that happen to your body.",
+   "idea_zh": "从一滴水内部讲述水循环：物态变化成了发生在你身上的事。",
+   "method": "Smartphone VR headset with gyroscope head tracking and spatial audio; the droplet's journey is a scripted sequence of scenes (likely built in Unity).",
+   "method_zh": "智能手机 VR 头显，借助陀螺仪追踪头部并配有空间音频；水滴的旅程是一组预设场景（很可能用 Unity 制作）。",
+   "keywords": [
+    "water droplet",
+    "water cycle",
+    "evaporation",
+    "condensation",
+    "precipitation",
+    "mobile VR",
+    "education",
+    "Rutgers"
+   ],
+   "shown_at": [
+    "IEEE MIT Undergraduate Research Technology Conference 2017"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/urtc.2017.8284185",
+    "doi": "10.1109/urtc.2017.8284185",
+    "venue": "IEEE MIT URTC 2017",
+    "title": "Using virtual reality for an immersive experience in the water cycle"
+   },
+   "source_url": "https://doi.org/10.1109/urtc.2017.8284185",
+   "video": {},
+   "images": [],
+   "also": [],
+   "disciplines": [
+    "hci"
+   ]
+  },
+  {
+   "id": "shinseungback-kimyonghun--stone",
+   "creator_ids": [
+    "shinseungback-kimyonghun"
+   ],
+   "title": "Stone",
+   "year": 2017,
+   "field": "river",
+   "sub": "earth",
+   "senses": [
+    "touch",
+    "hearing",
+    "time-scale"
+   ],
+   "medium": [
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "Water sensors on a stone on the shore of the volcanic island Ulleungdo recorded the waves; in the gallery a structure of 64 solenoids replays the waves breaking on that stone, and visitors step inside to 'become the stone'.",
+   "description_zh": "在火山岛郁陵岛岸边一块石头上安装水位传感器记录海浪；展厅里 64 个电磁阀组成的结构重现浪打在这块石头上的节奏，观众走进其中“成为石头”。",
+   "idea_en": "Becoming a stone is standing still while the sea arrives, again and again, on your surface.",
+   "idea_zh": "成为石头，就是静立不动，让大海一次又一次拍打在你的表面。",
+   "method": "64 water sensors and 64 solenoids on wooden panels, Arduino, custom software, speakers and projection.",
+   "method_zh": "64 个水传感器与装在木板上的 64 个电磁阀，Arduino、自制软件、扬声器与投影。",
+   "keywords": [
+    "stone",
+    "waves",
+    "Ulleungdo",
+    "solenoids",
+    "sensor data"
+   ],
+   "shown_at": [
+    "Goethe-Institut Shanghai commission 2017"
+   ],
+   "video": {
+    "url": "https://vimeo.com/211470143",
+    "platform": "vimeo",
+    "id": "211470143",
+    "thumbnail": "https://i.vimeocdn.com/video/641729172-af4205f649d40de58f9f9bcf54c4e69d92864a0915ee0fae01d464a4be4ba83a-d?f=webp&region=us",
+    "embeddable": true
+   },
+   "images": [
+    "https://djhznh41oxwef.cloudfront.net/works/stone/ssbkyh_stone_01.png"
+   ],
+   "source_url": "http://ssbkyh.com/works/stone/",
+   "paper": {},
+   "also": [],
+   "relation": "becoming",
+   "disciplines": [
+    "art"
+   ]
+  },
+  {
    "id": "milica-zec--tree",
    "creator_ids": [
     "milica-zec",
@@ -9994,6 +10525,72 @@
    ]
   },
   {
+   "id": "nathalie-delprat--cloud-avatar",
+   "creator_ids": [
+    "nathalie-delprat"
+   ],
+   "title": "Cloud-Avatar (RêvA / Walking Clouds)",
+   "year": 2012,
+   "scope": "core",
+   "relation": "becoming",
+   "field": "river",
+   "sub": "air",
+   "senses": [
+    "body",
+    "vision"
+   ],
+   "medium": [
+    "dome",
+    "installation"
+   ],
+   "kind": "artwork",
+   "description": "In a large immersive projection room the participant's tracked body appears as a cloud that can be switched between cumulus of different densities, stratus and cirrus, and can be blown by wind. Moving changes how the cloud-matter gathers, thins and drifts.",
+   "description_zh": "在一个大型沉浸式投影空间里，参与者被追踪的身体显示为一团云，可在不同密度的积云、层云与卷云之间切换，还会被风吹动。身体的动作改变云的聚集、稀薄与漂移。",
+   "idea_en": "Becoming a cloud is learning a body without edges: your density, not your outline, is what you feel yourself changing.",
+   "idea_zh": "成为一朵云，就是学习一具没有边界的身体：你感到改变的是自己的密度，而不是轮廓。",
+   "method": "Real-time motion capture drives a particle generator that renders the body as cloud types inside LIMSI-CNRS's EVE immersive room (stereo projection, CAVE-like).",
+   "method_zh": "实时动作捕捉驱动粒子生成器，在 LIMSI-CNRS 的 EVE 沉浸空间（立体投影、类似 CAVE）里把身体渲染成不同类型的云。",
+   "keywords": [
+    "cloud",
+    "cumulus",
+    "stratus",
+    "cirrus",
+    "wind",
+    "motion capture",
+    "particles",
+    "LIMSI-CNRS",
+    "EVE",
+    "Augmented Reverie",
+    "Sarah Fdili Alaoui",
+    "Christian Leroux"
+   ],
+   "shown_at": [
+    "Leonardo/Olats workshop 'Water is in the Air', Marseille 2012"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kbU-RUcVcK8",
+    "platform": "youtube",
+    "id": "kbU-RUcVcK8",
+    "thumbnail": "https://i.ytimg.com/vi/kbU-RUcVcK8/maxresdefault.jpg",
+    "embeddable": true
+   },
+   "images": [
+    "https://i.ytimg.com/vi/hwSR_ihy-wI/maxresdefault.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/leon_a_00681",
+    "doi": "10.1162/leon_a_00681",
+    "venue": "Leonardo 2014",
+    "title": "Walking Clouds and Augmented Reverie"
+   },
+   "source_url": "https://www.youtube.com/watch?v=hwSR_ihy-wI",
+   "also": [],
+   "disciplines": [
+    "art",
+    "science"
+   ]
+  },
+  {
    "id": "anatole-lecuyer--flyviz",
    "creator_ids": [
     "anatole-lecuyer"
@@ -10266,6 +10863,68 @@
    "relation": "becoming",
    "disciplines": [
     "design"
+   ]
+  },
+  {
+   "id": "micha-cardenas--becoming-dragon",
+   "creator_ids": [
+    "micha-cardenas"
+   ],
+   "title": "Becoming Dragon",
+   "year": 2008,
+   "scope": "core",
+   "relation": "becoming",
+   "field": "animal",
+   "sub": "multispecies",
+   "senses": [
+    "body",
+    "vision",
+    "hearing"
+   ],
+   "medium": [
+    "vr",
+    "performance"
+   ],
+   "kind": "performance",
+   "description": "A 365-hour mixed-reality performance in which the artist lived as a dragon avatar in Second Life, wearing a head-mounted display and seeing the physical world only through a video feed. Audiences watched a stereoscopic projection and heard her voice processed into a dragon's.",
+   "description_zh": "一场长达 365 小时的混合现实表演：艺术家戴着头显，以龙的化身生活在 Second Life 中，只能通过视频画面看到现实世界。观众观看立体投影，听到她被处理成龙声的嗓音。",
+   "idea_en": "Asks whether a year of 'Second Life Experience' could stand in for the 'Real Life Experience' demanded before gender surgery, and leads to species reassignment: becoming a mythical animal as a way of thinking about transition.",
+   "idea_zh": "追问一年的“第二人生体验”能否替代变性手术前被要求的“真实生活体验”，并通向“物种重置”：把成为神话动物当作思考过渡的方式。",
+   "method": "Head-mounted display with a camera pass-through, a motion capture system mapping the performer's movements to the Second Life dragon, a Pure Data voice patch and stereoscopic projection for the audience.",
+   "method_zh": "带摄像头透视的头显、把表演者动作映射到 Second Life 龙身上的动作捕捉系统、Pure Data 变声程序，以及面向观众的立体投影。",
+   "keywords": [
+    "dragon",
+    "Second Life",
+    "trans",
+    "species reassignment",
+    "motion capture",
+    "head-mounted display",
+    "Pure Data",
+    "durational performance",
+    "Becoming Dragon Redux"
+   ],
+   "shown_at": [
+    "Vector Festival, Montreal 2018 (Becoming Dragon Redux)"
+   ],
+   "video": {
+    "url": "https://vimeo.com/3874238",
+    "platform": "vimeo",
+    "id": "3874238",
+    "thumbnail": "https://i.vimeocdn.com/video/107669208-b79592a4cbfdc6c850c8c29da91794b1f0d02123d8767a79c8c488e7f69d2393-d?f=webp&region=us",
+    "embeddable": true
+   },
+   "paper": {
+    "url": "https://doi.org/10.1117/12.806260",
+    "doi": "10.1117/12.806260",
+    "venue": "SPIE Electronic Imaging 2009",
+    "title": "Becoming Dragon: a mixed reality durational performance in Second Life"
+   },
+   "source_url": "https://michacardenas.sites.ucsc.edu/becoming-dragon/",
+   "images": [],
+   "also": [],
+   "disciplines": [
+    "art",
+    "theory"
    ]
   },
   {

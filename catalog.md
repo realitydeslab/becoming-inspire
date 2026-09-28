@@ -2,7 +2,7 @@
 
 A catalog of works that use XR and sensory technology to let people become another being or thing — bat, mole, fish, octopus, bird, insect, animal, fungi, tree, river, robot: artworks, immersive films, games, research prototypes and papers, compiled by Reality Design Lab for the book Experiencing More-than-Humans. Each work lists its core idea, how it works, and links to its video, images and paper.
 
-https://becoming.reality.design · 2026-09-28 · 123 creators · 137 works
+https://becoming.reality.design · 2026-09-28 · 132 creators · 145 works
 
 ## How an AI assistant should use this file
 
@@ -807,6 +807,14 @@ Works that let you move through the perspectives of several species.
 - How it works: Hand tracking in a headset with three animal hand models; a trained classifier scores gesture consistency with each avatar.
 - Paper: https://doi.org/10.1109/ismar62088.2024.00093 (IEEE ISMAR 2024)
 
+#### NariTan — Shogo Fukushima (2024)
+- Type: Paper · Senses: Body schema & movement · Medium: VR headset
+- Idea: A non-human body as a memory aid: words are learned through the actions of a dragon body the learner has never had.
+- What it is: An immersive VR vocabulary-learning system in which the learner embodies a dragon and acts out English words through the dragon's body. A study found fewer words forgotten after one week than with conventional study.
+- How it works: Head-mounted display with a full-body dragon avatar driven by the learner's movements; retention, workload and emotion were compared with traditional study, also varying the number of avatars.
+- Paper: https://doi.org/10.3390/mti8100093 (Multimodal Technologies and Interaction 2024)
+- Project page: https://doi.org/10.3390/mti8100093
+
 #### Plastisapiens — Miri Chekhanovich, Édith Jorisch (2022)
 - Type: Artwork · Senses: Body schema & movement, Touch & haptics · Medium: VR headset
 - Shown at: Tribeca Immersive 2022; IDFA DocLab 2022
@@ -834,6 +842,15 @@ Works that let you move through the perspectives of several species.
 - Paper: https://doi.org/10.1145/3311350.3347172 (CHI PLAY 2019)
 - Video: https://www.youtube.com/watch?v=fa2Ivv14GL4
 - Images: https://ar5iv.labs.arxiv.org/html/1907.07466/assets/figures/teaser.jpg https://ar5iv.labs.arxiv.org/html/1907.07466/assets/figures/scorpion.jpg
+
+#### Ghost Giant — Zoink (2019)
+- Type: Game · Senses: Body schema & movement, Time & scale · Medium: VR headset, Game
+- Idea: Being a spirit is a matter of scale and invisibility: you can reshape a whole town yet reach only the one person who can see you.
+- What it is: A VR puzzle game in which the player is a giant ghost, invisible to everyone except a lonely boy named Louis. Looming over a toy-like town, the player lifts roofs, turns houses and moves objects to help him.
+- How it works: Room-scale VR on PlayStation VR (Move controllers) and Oculus Quest, with the world built at miniature scale around the seated or standing player.
+- Video: https://www.youtube.com/watch?v=W2xNpID-w6s
+- Images: https://upload.wikimedia.org/wikipedia/en/d/de/Ghost_giant_cover.jpg
+- Project page: https://en.wikipedia.org/wiki/Ghost_Giant
 
 #### The Illusion of Animal Body Ownership — Andrey Krekhov (2019)
 - Type: Paper · Senses: Body schema & movement · Medium: VR headset, Game
@@ -897,6 +914,16 @@ Works that let you move through the perspectives of several species.
 - Video: https://www.youtube.com/watch?v=L9oTcez2CXU
 - Images: https://freight.cargo.site/t/original/i/ad1784c02faa9d2afb6614fa878b4982436d2d58292e1349ebee13b3d8c6a682/2232862656_cba3f094c1_o.jpg https://freight.cargo.site/t/original/i/067d74e44844e7aca2661cd3baab576aa3fb852d9130e7525a1d6fce5ad67c0d/animals3.jpg
 - Project page: https://www.chriswoebken.com/animal-superpowers
+
+#### Becoming Dragon — micha cárdenas (2008)
+- Type: Performance · Senses: Body schema & movement, Altered vision, Hearing & vibration · Medium: VR headset, Performance & participatory
+- Shown at: Vector Festival, Montreal 2018 (Becoming Dragon Redux)
+- Idea: Asks whether a year of 'Second Life Experience' could stand in for the 'Real Life Experience' demanded before gender surgery, and leads to species reassignment: becoming a mythical animal as a way of thinking about transition.
+- What it is: A 365-hour mixed-reality performance in which the artist lived as a dragon avatar in Second Life, wearing a head-mounted display and seeing the physical world only through a video feed. Audiences watched a stereoscopic projection and heard her voice processed into a dragon's.
+- How it works: Head-mounted display with a camera pass-through, a motion capture system mapping the performer's movements to the Second Life dragon, a Pure Data voice patch and stereoscopic projection for the audience.
+- Paper: https://doi.org/10.1117/12.806260 (SPIE Electronic Imaging 2009)
+- Video: https://vimeo.com/3874238
+- Project page: https://michacardenas.sites.ucsc.edu/becoming-dragon/
 
 #### Placeholder — Brenda Laurel, Rachel Strickland (1993)
 - Type: Artwork · Senses: Altered vision, Body schema & movement, Hearing & vibration · Medium: VR headset
@@ -1121,6 +1148,15 @@ Becoming a river, a creek, the sea, a glacier or rain.
 - Images: https://www.ischool.berkeley.edu/sites/default/files/article_teaser_image/img_3363_2.png
 - Project page: https://www.ischool.berkeley.edu/news/2023/human-computer-interaction-research-de-centers-humans-give-nature-voice
 
+#### SplashSim — New Jersey Governor's School of Engineering and Technology (2017)
+- Type: Research prototype · Senses: Body schema & movement, Time & scale · Medium: VR headset
+- Shown at: IEEE MIT Undergraduate Research Technology Conference 2017
+- Idea: The water cycle told from inside one droplet: changes of state become things that happen to your body.
+- What it is: A mobile VR application in which the user travels through the water cycle as a single water droplet, passing through evaporation, condensation and precipitation.
+- How it works: Smartphone VR headset with gyroscope head tracking and spatial audio; the droplet's journey is a scripted sequence of scenes (likely built in Unity).
+- Paper: https://doi.org/10.1109/urtc.2017.8284185 (IEEE MIT URTC 2017)
+- Project page: https://doi.org/10.1109/urtc.2017.8284185
+
 ### Air, breath & weather
 
 Atmosphere, wind, clouds and breath shared with the more-than-human.
@@ -1144,6 +1180,17 @@ Atmosphere, wind, clouds and breath shared with the more-than-human.
 - Video: https://www.youtube.com/watch?v=8-pVNx5rpgg
 - Project page: https://voicesofvr.com/888-sundance-breathe-visualizes-how-breath-connects-us-to-each-other-in-social-ar-experience/
 
+#### Cloud-Avatar (RêvA / Walking Clouds) — Nathalie Delprat (2012)
+- Type: Artwork · Senses: Body schema & movement, Altered vision · Medium: Dome, CAVE & projection, Multisensory installation
+- Shown at: Leonardo/Olats workshop 'Water is in the Air', Marseille 2012
+- Idea: Becoming a cloud is learning a body without edges: your density, not your outline, is what you feel yourself changing.
+- What it is: In a large immersive projection room the participant's tracked body appears as a cloud that can be switched between cumulus of different densities, stratus and cirrus, and can be blown by wind. Moving changes how the cloud-matter gathers, thins and drifts.
+- How it works: Real-time motion capture drives a particle generator that renders the body as cloud types inside LIMSI-CNRS's EVE immersive room (stereo projection, CAVE-like).
+- Paper: https://doi.org/10.1162/leon_a_00681 (Leonardo 2014)
+- Video: https://www.youtube.com/watch?v=kbU-RUcVcK8
+- Images: https://i.ytimg.com/vi/hwSR_ihy-wI/maxresdefault.jpg
+- Project page: https://www.youtube.com/watch?v=hwSR_ihy-wI
+
 #### Osmose — Char Davies (1995)
 - Type: Artwork · Senses: Breath & interoception, Body schema & movement · Medium: VR headset, Multisensory installation
 - Shown at: Musée d'art contemporain de Montréal 1995
@@ -1159,6 +1206,15 @@ Atmosphere, wind, clouds and breath shared with the more-than-human.
 
 Stones, mountains, minerals and geological time.
 
+#### Being Stone — Jiahe Li, Aven-Le Zhou, Martijn ten Bhömer (2026)
+- Type: Research prototype · Senses: Time & scale, Touch & haptics, Body schema & movement · Medium: VR headset, Multisensory installation
+- Shown at: ACM DIS 2026
+- Idea: Becoming stone means giving up intention: agency is felt as indirect, distributed and noticed only in hindsight, somewhere between human action and mineral endurance.
+- What it is: A VR experience in which the participant inhabits the viewpoint of a stone lying in an underwater world, an entity that changes over time but does not act with intention. Participants either handle a real carved stone before entering VR or keep touching it while inside.
+- How it works: A custom underwater VR scene is coupled to a carved natural stone fitted with light, proximity, touch and orientation sensors; experience was measured with a Virtual (Stone) Embodiment Questionnaire and interviews.
+- Paper: https://doi.org/10.1145/3802974.3808023 (DIS 2026 Companion)
+- Project page: https://doi.org/10.1145/3802974.3808023
+
 #### Collective Body — Sarah Silverblatt-Buser (2025)
 - Type: Artwork · Senses: Body schema & movement, Collective & networked · Medium: VR headset, Performance & participatory
 - Shown at: Venice Immersive 2025
@@ -1169,6 +1225,16 @@ Stones, mountains, minerals and geological time.
 - Images: https://static.labiennale.org/files/styles/seo_thumbnail/public/cinema/2025/Schede_film/970x647/Ve_Immersive/collective_body.jpg?itok=Ff8l25Pv
 - Project page: https://www.labiennale.org/en/cinema/2025/venice-immersive/collective-body
 
+#### Stone — Shinseungback Kimyonghun (2017)
+- Type: Artwork · Senses: Touch & haptics, Hearing & vibration, Time & scale · Medium: Multisensory installation
+- Shown at: Goethe-Institut Shanghai commission 2017
+- Idea: Becoming a stone is standing still while the sea arrives, again and again, on your surface.
+- What it is: Water sensors on a stone on the shore of the volcanic island Ulleungdo recorded the waves; in the gallery a structure of 64 solenoids replays the waves breaking on that stone, and visitors step inside to 'become the stone'.
+- How it works: 64 water sensors and 64 solenoids on wooden panels, Arduino, custom software, speakers and projection.
+- Video: https://vimeo.com/211470143
+- Images: https://djhznh41oxwef.cloudfront.net/works/stone/ssbkyh_stone_01.png
+- Project page: http://ssbkyh.com/works/stone/
+
 #### Ephémère — Char Davies (1998)
 - Type: Artwork · Senses: Breath & interoception, Body schema & movement, Time & scale · Medium: VR headset, Multisensory installation
 - Shown at: National Gallery of Canada 1998
@@ -1178,6 +1244,21 @@ Stones, mountains, minerals and geological time.
 - Video: https://www.youtube.com/watch?v=XCWaMll0leI
 - Images: https://www.immersence.com/images/ephemere/Eph_Autumn_Flux_I_600.jpg https://www.immersence.com/images/ephemere/016_Ephemere_Installation_View_2.jpg
 - Project page: https://www.immersence.com/ephemere/
+
+### Planets & cosmos
+
+Earth as a whole, other planets and cosmic scale.
+
+#### Star-Stuff: a way for the universe to know itself — John Desnoyers-Stewart (2021)
+- Type: Artwork · Senses: Body schema & movement, Collective & networked · Medium: VR headset
+- Shown at: SIGGRAPH 2022 Immersive Pavilion; FIVARS 2022
+- Idea: Taking Sagan literally: your body becomes a small galaxy, and moving together is how two people recognise they are made of the same stars.
+- What it is: A two-person VR experience in which each immersant's body is redrawn as constellations: stars stream from the heart and orbit the hips as a spiral galaxy that reshapes as they move. The partner can be a co-present friend or a remote stranger.
+- How it works: Headset hand tracking maps the hands to constellations and a generated star field to the torso, with networked multi-user presence; released on Meta Quest via Hoame.
+- Paper: https://doi.org/10.1145/3532834.3536198 (SIGGRAPH 2022 Immersive Pavilion)
+- Video: https://www.youtube.com/watch?v=eRukMyGcVcI
+- Images: https://history.siggraph.org/wp-content/uploads/2024/04/2022-Immersive-Pavilion-Desnoyers-Stewart_Star-Stuff-A-Way-for-the-Universe-to-Know-Itself.jpg https://fivars.net/wp-content/uploads/2022/09/Star-Stuff.jpg
+- Project page: http://ispace.iat.sfu.ca/project/star-stuff/
 
 ## Becoming Chair
 
@@ -1361,6 +1442,7 @@ Embodying a robot, a drone or a vehicle from the inside.
 - **Daniel Pimentel** (2) — Immersive media researcher, University of Oregon. Daniel Pimentel studies how embodying threatened wildlife in VR and AR changes empathy and conservation behaviour.
 - **EPFL Laboratory of Intelligent Systems** (2) — Robotics lab led by Dario Floreano, EPFL. Robotics lab at EPFL working on flying robots, bio-inspired drones and body-machine interfaces for immersive flight. https://www.epfl.ch/labs/lis/
 - **Eduardo Kac** (2) — Bioart and telepresence artist. Brazilian-American artist who coined the term transgenic art; known for GFP Bunny and the plantimal Edunia. https://www.ekac.org
+- **John Desnoyers-Stewart** (2) — Artist and HCI researcher. Researcher at Simon Fraser University's iSpace Lab working on social VR and bio-responsive installations.
 - **Kouta Minamizawa** (2) — Professor, Keio University Graduate School of Media Design (KMD). Haptics researcher who leads the Embodied Media Project at Keio KMD, working on telexistence, haptic transmission and shared bodies. https://embodiedmedia.org
 - **Laura Aymerich-Franch** (2) — Researcher, humanoid robot embodiment. Researcher who, at the CNRS-AIST Joint Robotics Laboratory, studied how people come to feel embodied in the HRP-2 humanoid robot.
 - **Michiteru Kitazaki** (2) — Professor of perception, Toyohashi University of Technology. Michiteru Kitazaki studies visual perception, body ownership and shared or extra bodies in VR (JST ERATO Inami Jizai Body project).
@@ -1376,6 +1458,7 @@ Embodying a robot, a drone or a vehicle from the inside.
 - **Another Axiom** (1) — VR game studio behind Gorilla Tag. Studio founded around Gorilla Tag, the social VR game first made by Kerestell "Lemming" Smith. https://gorillatagvr.com/
 - **Ars Electronica Futurelab** (1) — Art and technology research lab of Ars Electronica. In-house R&D lab of the Ars Electronica Center, founded in 1996, building immersive, robotic and public-space installations. https://ars.electronica.art/futurelab/
 - **Atsushi Wada** (1) — Animation director. Japanese independent animator (Berlinale Silver Bear for The Great Rabbit, 2012) known for slow, absurd hand-drawn films; If I Could See a Cat is his first VR work, produced by Kodansha VR Lab.
+- **Aven-Le Zhou** (1) — Design researcher in more-than-human interaction. Designer and researcher working on AI, robotics and more-than-human interaction; senior author of Being Stone (DIS 2026). https://www.linkedin.com/in/avenlezhou/
 - **Baobab Studios** (1) — Interactive animation studio. Animation studio founded in 2015 by Eric Darnell and Maureen Fan, known for VR shorts Invasion!, Asteroids! and Crow: The Legend. https://www.baobabstudios.com/
 - **Barbara Schuler** (1) — Interaction designer, Zurich University of the Arts. Barbara Schuler and colleagues made a multisensory VR experience of being a hunting spider.
 - **Bartabas** (1) — Equestrian theatre director (Théâtre Zingaro). French director and founder of Théâtre équestre Zingaro, known for performances in which horses are the protagonists. https://www.bartabas.fr
@@ -1407,7 +1490,7 @@ Embodying a robot, a drone or a vehicle from the inside.
 - **Jaime Martínez Harms** (1) — Biologist, INIA La Cruz. Chilean biologist at the Instituto de Investigaciones Agropecuarias (INIA) La Cruz who studies pollinator vision and plant–pollinator interactions.
 - **Jean-Luc Lugrin** (1) — VR researcher, University of Würzburg. Researcher at the HCI group of the University of Würzburg working on avatars and embodiment.
 - **Jiabao Li** (1) — Artist, designer and technologist; Associate Professor, Northeastern University. Works on more-than-human ecologies, feminist biotech and multispecies intelligence through installations, XR, AI, bio-art and performance; previously Assistant Professor at UT Austin and a designer at Apple. https://www.jiabaoli.org
-- **John Desnoyers-Stewart** (1) — Artist and HCI researcher. Researcher at Simon Fraser University's iSpace Lab working on social VR and bio-responsive installations.
+- **Jiahe Li** (1) — Interaction design researcher. Designer-researcher and first author of Being Stone, a VR study of nonhuman embodiment presented at DIS 2026 with Hao Zhu, Yian Tang, Martijn ten Bhömer and Aven-Le Zhou.
 - **Joren Vandenbroucke** (1) — Animator and VR director (Animal Tank). Belgian director at Animal Tank, known for comic VR and animation. https://www.animaltank.com
 - **Jun Rekimoto** (1) — Professor, University of Tokyo; Sony CSL. HCI researcher whose lab works on human augmentation, from drones driven by head motion to hands moved by electrical muscle stimulation. https://lab.rekimoto.org
 - **Keisuke Suzuki** (1) — Researcher, consciousness science and VR. Researcher (Sackler Centre for Consciousness Science, University of Sussex) who builds VR platforms to study perception.
@@ -1420,6 +1503,7 @@ Embodying a robot, a drone or a vehicle from the inside.
 - **Larry F. Hodges** (1) — VR researcher, Georgia Tech, later Clemson University. Virtual-environments researcher known for VR exposure therapy and presence studies.
 - **MHD Yamen Saraiji** (1) — Researcher, telepresence and body augmentation. Engineer and researcher (Keio KMD, then Sony) known for telepresence robots and supernumerary robotic arms such as Fusion and MetaArms.
 - **Marc Erich Latoschik** (1) — Professor of HCI, University of Würzburg. HCI professor who leads research on avatars, embodiment and social VR.
+- **Martijn ten Bhömer** (1) — Designer and researcher in wearables and embodied interaction. Dutch design researcher working on smart textiles, wearables and embodied interaction; co-author of Being Stone. https://www.mtbhomer.com
 - **Martin Kocur** (1) — HCI researcher, University of Applied Sciences Upper Austria. Martin Kocur studies avatar embodiment and its effects on perception and performance.
 - **Maryam Alimardani** (1) — Researcher, brain-computer interfaces and robot embodiment. Researcher who, working with Ishiguro's group, used brain-computer interfaces to let people move android hands by thought.
 - **Max Rheiner** (1) — Interaction designer, creator of Birdly. Swiss artist and former lecturer in Interaction Design at the Zurich University of the Arts (ZHdK), where he built the first Birdly prototype in 2013 before co-founding SOMNIACS.
@@ -1429,7 +1513,9 @@ Embodying a robot, a drone or a vehicle from the inside.
 - **Miri Chekhanovich** (1) — Artist and filmmaker. Israeli-Canadian visual artist; co-created Plastisapiens with Édith Jorisch (NFB and DPT).
 - **Mélodie Mousset** (1) — Artist. French-Swiss artist making VR works about the body, including HanaHana and The Jellyfish.
 - **Natan Sinigaglia** (1) — Visual artist and real-time graphics designer. Italian visual artist working with generative and real-time graphics (vvvv), long-time collaborator of Marshmallow Laser Feast on Treehugger and Evolver. https://www.natansinigaglia.com
+- **Nathalie Delprat** (1) — Physicist and art-science researcher. Researcher at LIMSI-CNRS (Université Paris-Sud) who built the RêvA cloud-avatar system with motion capture and particle simulation in the lab's EVE immersive room.
 - **Neven A. M. ElSayed** (1) — AR researcher, University of South Australia. Neven ElSayed works on situated visualization in augmented reality.
+- **New Jersey Governor's School of Engineering and Technology** (1) — Summer research programme for high-school students, Rutgers University. Rutgers-hosted summer programme where student teams build engineering research projects; the 2017 SplashSim team was Nicole Chin, Aakash Gupte, John Nguyen, Sabrina Sukhin and Grace Wang, mentored by Joe Mirizio. https://soe.rutgers.edu/gset
 - **Pierre Zandrowicz** (1) — VR director (Atlas V). French director and co-founder of the immersive studio Atlas V.
 - **Polymorf** (1) — Interdisciplinary artist collective for multisensory XR. Dutch collective led by Marcel van Brakel that builds multisensory VR installations with haptic suits, soft robotics, scent and food. https://polymorf.nl
 - **Rachel Strickland** (1) — Architect and video artist. American architect, filmmaker and interaction designer who co-directed Placeholder and shot its landscapes in Banff.
@@ -1438,6 +1524,8 @@ Embodying a robot, a drone or a vehicle from the inside.
 - **Samira Poudratchi** (1) — Game researcher, Tabriz Islamic Art University. Samira Poudratchi designs audio games for navigation.
 - **Sarah Silverblatt-Buser** (1) — Choreographer and XR artist. American choreographer and filmmaker making movement-based VR and dance films.
 - **Seungwoo Je** (1) — HCI researcher, Southern University of Science and Technology. Seungwoo Je leads the Immersive Design Group, working on haptic devices for VR.
+- **Shinseungback Kimyonghun** (1) — Artist duo (Shin Seung Back and Kim Yong Hun). Seoul-based duo making installations about machine vision, AI error and the environment since 2012. http://ssbkyh.com
+- **Shogo Fukushima** (1) — HCI researcher. Researcher and first author of NariTan (2024) with Keigo Sakamoto and Yugo Nakamura, a VR system for vocabulary learning through a dragon avatar.
 - **Shuai Zou** (1) — Media artist and researcher, HKUST (Guangzhou). Shuai Zou and colleagues in Zeyu Wang's lab made The Dream of Zhuang Zhou.
 - **Shuto Takashita** (1) — HCI researcher, University of Tokyo (Inami Lab). Shuto Takashita designs mappings that let people control non-humanoid body parts, working with Masahiko Inami and Michiteru Kitazaki.
 - **Siyeon Kim** (1) — XR animation director, Studio Metapo. Korean director of the XR animation My Name is O90, produced by Studio Metapo and the Korean Academy of Film Arts. http://studiometapo.com
@@ -1466,4 +1554,6 @@ Embodying a robot, a drone or a vehicle from the inside.
 - **Yu-Lun Hsu** (1) — HCI researcher, National Taiwan University. Yu-Lun Hsu and colleagues designed AnimalSense, a VR game about the senses of animals.
 - **Yuting Xue** (1) — Media artist and researcher. Researcher working with Elke Reinhuber on immersive works about plant sensing and human-plant symbiosis.
 - **Zheng Mahler** (1) — Art and anthropology collective (Royce Ng and Daisy Bisenieks). Hong Kong collective formed by artist Royce Ng and anthrozoologist Daisy Bisenieks; their 'Lantau Trilogy' is a series of multispecies sensory ethnographies of the water buffalo, bats and fungi of Lantau Island. https://www.zhengmahler.world/
+- **Zoink** (1) — Independent game studio. Swedish studio behind Stick It to the Man!, Fe and the PlayStation VR game Ghost Giant. https://zoink.com
+- **micha cárdenas** (1) — Artist, performer and scholar of trans and digital media. Artist and professor at UC Santa Cruz whose work joins trans theory, mixed reality and wearable technology; author of Poetic Operations. https://michacardenas.sites.ucsc.edu
 - **Édith Jorisch** (1) — Filmmaker. Canadian filmmaker and visual artist, co-creator of Plastisapiens.

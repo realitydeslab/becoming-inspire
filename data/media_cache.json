@@ -10149,5 +10149,137 @@
   "year": 2025,
   "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
   "url": "https://doi.org/10.1145/3706598.3713713"
+ },
+ "doi:10.1145/3802974.3808023": {
+  "doi": "10.1145/3802974.3808023",
+  "ok": true,
+  "type": "doi",
+  "title": "Being Stone: Designing Nonhuman Embodiment in VR",
+  "year": 2026,
+  "venue": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3802974.3808023"
+ },
+ "video:youtube:kbU-RUcVcK8": {
+  "url": "https://www.youtube.com/watch?v=kbU-RUcVcK8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kbU-RUcVcK8",
+  "title": "Nathalie Delprat -- Walking Clouds and Augmented Reverie",
+  "author": "Leonardo Olats",
+  "thumbnail": "https://i.ytimg.com/vi/kbU-RUcVcK8/hqdefault.jpg"
+ },
+ "img:https://i.ytimg.com/vi/hwSR_ihy-wI/maxresdefault.jpg": {
+  "url": "https://i.ytimg.com/vi/hwSR_ihy-wI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1162/leon_a_00681": {
+  "doi": "10.1162/leon_a_00681",
+  "ok": true,
+  "type": "doi",
+  "title": "Walking Clouds and Augmented Reverie",
+  "year": 2014,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.1162/leon_a_00681"
+ },
+ "video:youtube:eRukMyGcVcI": {
+  "url": "https://www.youtube.com/watch?v=eRukMyGcVcI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "eRukMyGcVcI",
+  "title": "Star-Stuff Teaser",
+  "author": "John Desnoyers-Stewart",
+  "thumbnail": "https://i.ytimg.com/vi/eRukMyGcVcI/hqdefault.jpg"
+ },
+ "img:https://history.siggraph.org/wp-content/uploads/2024/04/2022-Immersive-Pavilion-Desnoyers-Stewart_Star-Stuff-A-Way-for-the-Universe-to-Know-Itself.jpg": {
+  "url": "https://history.siggraph.org/wp-content/uploads/2024/04/2022-Immersive-Pavilion-Desnoyers-Stewart_Star-Stuff-A-Way-for-the-Universe-to-Know-Itself.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://fivars.net/wp-content/uploads/2022/09/Star-Stuff.jpg": {
+  "url": "https://fivars.net/wp-content/uploads/2022/09/Star-Stuff.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3532834.3536198": {
+  "doi": "10.1145/3532834.3536198",
+  "ok": true,
+  "type": "doi",
+  "title": "Star-Stuff: a way for the universe to know itself",
+  "year": 2022,
+  "venue": "ACM SIGGRAPH 2022 Immersive Pavilion",
+  "url": "https://doi.org/10.1145/3532834.3536198"
+ },
+ "doi:10.1109/urtc.2017.8284185": {
+  "doi": "10.1109/urtc.2017.8284185",
+  "ok": true,
+  "type": "doi",
+  "title": "Using virtual reality for an immersive experience in the water cycle",
+  "year": 2017,
+  "venue": "2017 IEEE MIT Undergraduate Research Technology Conference (URTC)",
+  "url": "https://doi.org/10.1109/urtc.2017.8284185"
+ },
+ "video:vimeo:3874238": {
+  "url": "https://vimeo.com/3874238",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "3874238",
+  "embeddable": true,
+  "title": "Becoming Dragon, 3 Minute Documentation",
+  "thumbnail": "https://i.vimeocdn.com/video/107669208-b79592a4cbfdc6c850c8c29da91794b1f0d02123d8767a79c8c488e7f69d2393-d?f=webp&region=us"
+ },
+ "doi:10.1117/12.806260": {
+  "doi": "10.1117/12.806260",
+  "ok": true,
+  "type": "doi",
+  "title": "Becoming Dragon: a mixed reality durational performance in Second Life",
+  "year": 2009,
+  "venue": "SPIE Proceedings",
+  "url": "https://doi.org/10.1117/12.806260"
+ },
+ "video:youtube:W2xNpID-w6s": {
+  "url": "https://www.youtube.com/watch?v=W2xNpID-w6s",
+  "ok": true,
+  "platform": "youtube",
+  "id": "W2xNpID-w6s",
+  "title": "Ghost Giant - Launch Trailer | PS VR",
+  "author": "PlayStation",
+  "thumbnail": "https://i.ytimg.com/vi/W2xNpID-w6s/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/en/d/de/Ghost_giant_cover.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/d/de/Ghost_giant_cover.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.3390/mti8100093": {
+  "doi": "10.3390/mti8100093",
+  "ok": true,
+  "type": "doi",
+  "title": "NariTan: Enhancing Second Language Vocabulary Learning Through Non-Human Avatar Embodiment in Immersive Virtual Reality",
+  "year": 2024,
+  "venue": "Multimodal Technologies and Interaction",
+  "url": "https://doi.org/10.3390/mti8100093"
+ },
+ "ytmax:kbU-RUcVcK8": {
+  "url": "https://i.ytimg.com/vi/kbU-RUcVcK8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:eRukMyGcVcI": {
+  "url": "https://i.ytimg.com/vi/eRukMyGcVcI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:W2xNpID-w6s": {
+  "url": "https://i.ytimg.com/vi/W2xNpID-w6s/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
  }
 }

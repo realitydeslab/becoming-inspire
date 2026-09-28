@@ -9,6 +9,7 @@ anil-seth | Anil Seth | 1 works
 another-axiom | Another Axiom | 1 works
 ars-electronica-futurelab | Ars Electronica Futurelab | 1 works
 atsushi-wada | Atsushi Wada | 1 works
+aven-le-zhou | Aven-Le Zhou | 1 works
 baobab-studios | Baobab Studios | 1 works
 barbara-schuler | Barbara Schuler | 1 works
 bartabas | Bartabas | 1 works
@@ -47,7 +48,8 @@ jaan-aru | Jaan Aru | 1 works
 jaime-martinez-harms | Jaime Martínez Harms | 1 works
 jean-luc-lugrin | Jean-Luc Lugrin | 1 works
 jiabao-li | Jiabao Li | 1 works
-john-desnoyers-stewart | John Desnoyers-Stewart | 1 works
+jiahe-li | Jiahe Li | 1 works
+john-desnoyers-stewart | John Desnoyers-Stewart | 2 works
 joren-vandenbroucke | Joren Vandenbroucke | 1 works
 jun-rekimoto | Jun Rekimoto | 1 works
 keisuke-suzuki | Keisuke Suzuki | 1 works
@@ -62,19 +64,23 @@ larry-f-hodges | Larry F. Hodges | 1 works
 laura-aymerich-franch | Laura Aymerich-Franch | 2 works
 marc-erich-latoschik | Marc Erich Latoschik | 1 works
 marshmallow-laser-feast | Marshmallow Laser Feast | 3 works
+martijn-ten-bhomer | Martijn ten Bhömer | 1 works
 martin-kocur | Martin Kocur | 1 works
 maryam-alimardani | Maryam Alimardani | 1 works
 max-rheiner | Max Rheiner | 1 works
 mel-slater | Mel Slater | 1 works
 melodie-mousset | Mélodie Mousset | 1 works
+micha-cardenas | micha cárdenas | 1 works
 michiteru-kitazaki | Michiteru Kitazaki | 2 works
 mie-egeberg | Mie C. S. Egeberg | 1 works
 milica-zec | Milica Zec | 1 works
 miri-chekhanovich | Miri Chekhanovich | 1 works
 natalia-cabrera | Natalia Cabrera | 2 works
 natan-sinigaglia | Natan Sinigaglia | 1 works
+nathalie-delprat | Nathalie Delprat | 1 works
 neven-elsayed | Neven A. M. ElSayed | 1 works
 new-folder-games | New Folder Games | 3 works
+nj-governors-school-engineering | New Jersey Governor's School of Engineering and Technology | 1 works
 omar-a-khan | Omar A. Khan | 2 works
 pia-spangenberger | Pia Spangenberger | 2 works
 pierre-zandrowicz | Pierre Zandrowicz | 1 works
@@ -88,6 +94,8 @@ samira-poudratchi | Samira Poudratchi | 1 works
 sarah-silverblatt-buser | Sarah Silverblatt-Buser | 1 works
 seungwoo-je | Seungwoo Je | 1 works
 shengdong-zhao | Shengdong Zhao | 2 works
+shinseungback-kimyonghun | Shinseungback Kimyonghun | 1 works
+shogo-fukushima | Shogo Fukushima | 1 works
 shuai-zou | Shuai Zou | 1 works
 shuto-takashita | Shuto Takashita | 1 works
 siyeon-kim | Siyeon Kim | 1 works
@@ -121,3 +129,4 @@ yu-jiang | Yu Jiang | 1 works
 yu-lun-hsu | Yu-Lun Hsu | 1 works
 yuting-xue | Yuting Xue | 1 works
 zheng-mahler | Zheng Mahler | 1 works
+zoink | Zoink | 1 works
