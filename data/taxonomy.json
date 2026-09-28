@@ -28,7 +28,9 @@
      "desc_en": "Darkness, blurred or removed sight, and the ethics of simulating blindness.",
      "desc_zh": "黑暗、模糊或移除的视觉，以及模拟失明的伦理问题。"
     }
-   ]
+   ],
+   "short_en": "Mole",
+   "short_zh": "鼹鼠"
   },
   {
    "id": "bat",
@@ -58,7 +60,9 @@
      "desc_en": "Works about bats and nocturnal animals as beings, beyond their sense.",
      "desc_zh": "把蝙蝠与夜行动物作为生命本身（而不只是感官）来呈现的作品。"
     }
-   ]
+   ],
+   "short_en": "Bat",
+   "short_zh": "蝙蝠"
   },
   {
    "id": "fish",
@@ -95,7 +99,9 @@
      "desc_en": "Amphibians, crustaceans, sea mammals and life at the water's edge.",
      "desc_zh": "两栖动物、甲壳类、海洋哺乳动物与水边的生命。"
     }
-   ]
+   ],
+   "short_en": "Fish",
+   "short_zh": "鱼"
   },
   {
    "id": "octopus",
@@ -125,7 +131,9 @@
      "desc_en": "One body shared by many people, or many bodies moving as one.",
      "desc_zh": "多人共享一个身体，或多个身体如同一体地行动。"
     }
-   ]
+   ],
+   "short_en": "Octopus",
+   "short_zh": "章鱼"
   },
   {
    "id": "bird",
@@ -155,7 +163,9 @@
      "desc_en": "Murmurations, migration routes and moving as a flock.",
      "desc_zh": "椋鸟群飞、迁徙路线与作为鸟群一起移动。"
     }
-   ]
+   ],
+   "short_en": "Bird",
+   "short_zh": "鸟"
   },
   {
    "id": "insect",
@@ -185,7 +195,9 @@
      "desc_en": "Butterflies and metamorphosis, spiders and vibration, flies, mosquitoes and dragonflies.",
      "desc_zh": "蝴蝶与变态、蜘蛛与振动、苍蝇、蚊子与蜻蜓。"
     }
-   ]
+   ],
+   "short_en": "Insect",
+   "short_zh": "昆虫"
   },
   {
    "id": "animal",
@@ -222,7 +234,9 @@
      "desc_en": "Works that let you move through the perspectives of several species.",
      "desc_zh": "让你在多个物种的视角之间穿行的作品。"
     }
-   ]
+   ],
+   "short_en": "Animal",
+   "short_zh": "动物"
   },
   {
    "id": "fungi",
@@ -259,7 +273,9 @@
      "desc_en": "Lichen, holobionts and life as entanglement.",
      "desc_zh": "地衣、共生总体与作为纠缠的生命。"
     }
-   ]
+   ],
+   "short_en": "Fungi",
+   "short_zh": "真菌"
   },
   {
    "id": "tree",
@@ -289,7 +305,9 @@
      "desc_en": "Forests, meadows and whole ecosystems as the one you become.",
      "desc_zh": "把森林、草地与整个生态系统当作你要成为的对象。"
     }
-   ]
+   ],
+   "short_en": "Tree",
+   "short_zh": "树"
   },
   {
    "id": "river",
@@ -326,7 +344,9 @@
      "desc_en": "Earth as a whole, other planets and cosmic scale.",
      "desc_zh": "作为整体的地球、其他行星与宇宙尺度。"
     }
-   ]
+   ],
+   "short_en": "River",
+   "short_zh": "河流"
   },
   {
    "id": "robot",
@@ -363,7 +383,9 @@
      "desc_en": "Devices that add senses humans lack: magnetic north, infrared, seismic or data senses.",
      "desc_zh": "为人增加原本没有的感官的装置：磁北、红外、地震或数据感官。"
     }
-   ]
+   ],
+   "short_en": "Robot",
+   "short_zh": "机器人"
   },
   {
    "id": "foundations",
@@ -407,7 +429,9 @@
      "desc_en": "Design methods, frameworks and toolkits for nonhuman perspective design.",
      "desc_zh": "用于非人类视角设计的方法、框架与工具。"
     }
-   ]
+   ],
+   "short_en": "Foundations",
+   "short_zh": "理论基础"
   }
  ],
  "senses": [

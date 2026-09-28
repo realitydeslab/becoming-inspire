@@ -158,7 +158,7 @@
       [S().stat_papers, DATA.works.filter((w) => w.paper?.url).length], [S().stat_video, DATA.works.filter((w) => w.video?.url).length],
       [S().stat_span, years.length ? `${Math.min(...years)}–${Math.max(...years)}` : "—"],
     ].map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join("");
-    $("#tabs").innerHTML = VIEWS.map((v) => `<button role="tab" class="tab" data-view="${v}">${esc(fieldById[v] ? nm(fieldById[v]) : S()["tab_" + v])}${v === "starred" ? ` <span class="tab__count mono" id="starCount"></span>` : ""}</button>`).join("");
+    $("#tabs").innerHTML = VIEWS.map((v) => `<button role="tab" class="tab" data-view="${v}">${esc(fieldById[v] ? (zh() ? fieldById[v].short_zh : fieldById[v].short_en) || nm(fieldById[v]) : S()["tab_" + v])}${v === "starred" ? ` <span class="tab__count mono" id="starCount"></span>` : ""}</button>`).join("");
     $("#generated").textContent = DATA.generated ? S().updated(DATA.generated) : "";
     $("#empty").textContent = S().empty;
   }
