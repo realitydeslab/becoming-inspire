@@ -122,7 +122,7 @@
 
   /* ---------- cards ---------- */
   const poster = (w) => w.video?.thumbnail || (w.images || [])[0] || "";
-  const paperPh = (w) => `<div class="ph ph--paper"><span class="ph__venue mono">${esc(w.status === "in-development" ? S().in_dev : w.paper?.venue || S().paper_card)}</span><span class="ph__title">${esc(w.title)}</span></div>`;
+  const paperPh = (w) => `<div class="ph ph--paper"><span class="ph__venue mono">${esc(w.paper?.venue || S().paper_card)}</span><span class="ph__title">${esc(w.title)}</span></div>`;
   function thumb(w) {
     const p = poster(w);
     if (p) return `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(p)}" alt="" onerror="this.outerHTML=this.dataset.ph" data-ph="${esc(paperPh(w))}">`;

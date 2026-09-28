@@ -10134,5 +10134,20 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "img:https://www.ischool.berkeley.edu/sites/default/files/article_teaser_image/img_3363_2.png": {
+  "url": "https://www.ischool.berkeley.edu/sites/default/files/article_teaser_image/img_3363_2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "doi:10.1145/3706598.3713713": {
+  "doi": "10.1145/3706598.3713713",
+  "ok": true,
+  "type": "doi",
+  "title": "Being The Creek: Mobile Augmented Reality Experience as an Invitation for Exploring More-Than-Human Perspectives",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3706598.3713713"
  }
 }

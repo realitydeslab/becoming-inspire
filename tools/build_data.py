@@ -279,7 +279,7 @@ def apply_media(w: dict, cache: dict, problems: list) -> bool:
             problems.append({"id": w["id"], "what": "arxiv", "arxiv": p["arxiv"], "error": res.get("error")})
             p.pop("arxiv")
     w["paper"] = p if p.get("url") else {}
-    return bool(w["video"] or w["images"] or w["paper"] or (w.get("status") == "in-development" and w.get("source_url")))
+    return bool(w["video"] or w["images"] or w["paper"])
 
 
 def apply_collections(works: list, known: set, aliases: dict, min_size: int = 1, dropped: frozenset = frozenset()) -> set:

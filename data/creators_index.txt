@@ -14,7 +14,7 @@ barbara-schuler | Barbara Schuler | 1 works
 bartabas | Bartabas | 1 works
 bernhard-riecke | Bernhard E. Riecke | 2 works
 bianca-kennedy | Bianca Kennedy | 1 works
-botao-hu | Botao 'Amber' Hu | 8 works
+botao-hu | Botao 'Amber' Hu | 5 works
 breakpoint-one | Breakpoint One | 1 works
 brenda-laurel | Brenda Laurel | 1 works
 carolina-ramirez-figueroa | Carolina Ramirez-Figueroa | 1 works
@@ -51,6 +51,7 @@ jun-rekimoto | Jun Rekimoto | 1 works
 keisuke-suzuki | Keisuke Suzuki | 1 works
 keita-higuchi | Keita Higuchi | 1 works
 kevin-ponto | Kevin Ponto | 1 works
+kimiko-ryokai | Kimiko Ryokai | 1 works
 konstantina-kilteni | Konstantina Kilteni | 1 works
 kouta-minamizawa | Kouta Minamizawa | 2 works
 lai-guan-yuan | Lai Guan-yuan | 1 works
@@ -78,7 +79,7 @@ polymorf | Polymorf | 1 works
 rachel-mcdonnell | Rachel McDonnell | 4 works
 rachel-strickland | Rachel Strickland | 1 works
 ready-at-dawn | Ready At Dawn | 1 works
-reality-design-lab | Reality Design Lab | 8 works
+reality-design-lab | Reality Design Lab | 5 works
 sarah-silverblatt-buser | Sarah Silverblatt-Buser | 1 works
 seungwoo-je | Seungwoo Je | 1 works
 shengdong-zhao | Shengdong Zhao | 2 works
@@ -98,7 +99,6 @@ tampere-gamification-group | Gamification Group, Tampere University | 1 works
 tangjun-qu | Tangjun Qu | 1 works
 tender-claws | Tender Claws | 1 works
 tosca-teran | Tosca Terán | 1 works
-treta-studios | Treta Studios | 1 works
 ubisoft-montreal | Ubisoft Montreal | 1 works
 visiontrick-media | Visiontrick Media | 1 works
 viviana-alvarez-chomon | Viviana Álvarez Chomón | 1 works
@@ -108,6 +108,7 @@ within | Within | 1 works
 xin-liu | Xin Liu | 1 works
 xinmiao-lan | Xinmiao Lan | 1 works
 yamen-saraiji | MHD Yamen Saraiji | 1 works
+yangyang-yang | Yangyang Yang | 1 works
 yao-xu | Yao Xu | 1 works
 yedan-qian | Yedan Qian | 1 works
 yiou-wang | Yiou Wang | 1 works

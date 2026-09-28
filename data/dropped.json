@@ -1,5 +1,22 @@
 {
  "works": [],
  "media": [],
- "removed_since_last_build": []
+ "removed_since_last_build": [
+  {
+   "id": "reality-design-lab--be-the-creek",
+   "title": "Be the Creek"
+  },
+  {
+   "id": "reality-design-lab--becoming-chairs",
+   "title": "Becoming Chairs"
+  },
+  {
+   "id": "reality-design-lab--making-kin-with-creek-as-fish",
+   "title": "Making Kin with Creek as Fish"
+  },
+  {
+   "id": "treta-studios--be-a-chameleon",
+   "title": "Be A Chameleon"
+  }
+ ]
 }

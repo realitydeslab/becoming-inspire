@@ -130,10 +130,9 @@ def validate(path: Path) -> list[str]:
         if w.get("kind") not in KINDS:
             errs.append(f"{who}: kind must be one of {sorted(KINDS)}")
         paper = w.get("paper") or {}
-        in_dev = w.get("status") == "in-development"  # unreleased work: a text card, but it needs a project link
-        if in_dev and not w.get("source_url"):
-            errs.append(f"{who}: status 'in-development' needs source_url")
-        if not in_dev and not (w.get("video") or w.get("images") or paper.get("url") or paper.get("doi") or paper.get("arxiv")):
+        if w.get("status"):
+            errs.append(f"{who}: only realised, publicly documented works belong here (no 'status' such as in-development)")
+        if not (w.get("video") or w.get("images") or paper.get("url") or paper.get("doi") or paper.get("arxiv")):
             errs.append(f"{who}: needs at least one of video, images, paper")
         if w.get("kind") == "paper" and not (paper.get("url") or paper.get("doi") or paper.get("arxiv")):
             errs.append(f"{who}: kind 'paper' needs paper.url, paper.doi or paper.arxiv")

@@ -2,7 +2,7 @@
 
 A catalog of works that use XR and sensory technology to let people become another being or thing — bat, mole, fish, octopus, bird, insect, animal, fungi, tree, river, robot: artworks, immersive films, games, research prototypes and papers, compiled by Reality Design Lab for the book Experiencing More-than-Humans. Each work lists its core idea, how it works, and links to its video, images and paper.
 
-https://becoming.reality.design · 2026-09-28 · 117 creators · 134 works
+https://becoming.reality.design · 2026-09-28 · 118 creators · 131 works
 
 ## How an AI assistant should use this file
 
@@ -119,13 +119,6 @@ Aquatic life: fish, whales and dolphins, coral, jellyfish and plankton, and the 
 ### Fish
 
 Swimming, schooling and sensing as a fish: lateral line, electroreception, underwater vision.
-
-#### Making Kin with Creek as Fish — Reality Design Lab, Botao 'Amber' Hu (2026)
-- Type: Artwork · Senses: Body schema & movement, Altered vision, Multisensory · Medium: Mixed reality, Wearable & sensory device
-- Idea: Empathy turned from possession (feeling what a fish feels) toward response-ability within a shared, uneven watershed.
-- What it is: An XR work in development that remaps the participant's body to approach current, shelter, sensing and watershed infrastructure through a fish's relation to its creek.
-- How it works: XR body remapping for current, shelter and sensing in a fish–creek relation (details in development).
-- Project page: https://experiencing-mth.github.io
 
 #### Black Wings — Lai Guan-yuan (2024)
 - Type: Artwork · Senses: Body schema & movement, Hearing & vibration, Altered vision · Medium: Mixed reality, Multisensory installation
@@ -722,15 +715,6 @@ Deer, foxes, wolves, elephants, bears, primates and other wild mammals.
 
 Snakes, lizards, frogs, turtles: infrared pits, chameleon eyes, cold blood.
 
-#### Be A Chameleon — Treta Studios (2026)
-- Type: Game · Senses: Body schema & movement, Altered vision · Medium: VR headset, Game
-- Idea: Camouflage as a verb: blending into the background is the chameleon's main action, alongside a tongue used as a limb.
-- What it is: A VR game in which you are a chameleon escaping a pet shop: you swing on your sticky tongue, climb walls and change colour to hide from staff.
-- How it works: Tongue grappling, hand-based climbing and colour matching against surfaces on Meta Quest, with a Steam release planned.
-- Video: https://www.youtube.com/watch?v=x954fIuri1Y
-- Images: https://queststoredb.com/media/26786967120939806_cover_landscape.webp
-- Project page: https://www.meta.com/experiences/be-a-chameleon/26786967120939806/
-
 #### Jurassic Flight (Birdly) — SOMNIACS (2020)
 - Type: Artwork · Senses: Body schema & movement, Altered vision, Touch & haptics · Medium: VR headset, Multisensory installation
 - Idea: The same flapping body can carry an extinct flyer, so embodiment becomes a way to imagine a vanished animal's flight.
@@ -1078,12 +1062,14 @@ Elemental and planetary worlds: rivers, creeks and oceans, ice, air and breath, 
 
 Becoming a river, a creek, the sea, a glacier or rain.
 
-#### Be the Creek — Reality Design Lab, Botao 'Amber' Hu (2026)
-- Type: Artwork · Senses: Body schema & movement, Time & scale, Hearing & vibration · Medium: Mixed reality, Wearable & sensory device
-- Idea: Becoming water is a change of tempo and extent: flow and duration, not a creature's point of view.
-- What it is: An XR work in development in which participants experience flow, duration and relation as a creek rather than as a visitor standing beside one.
-- How it works: Mixed-reality embodiment of flow, duration and relation (details in development).
-- Project page: https://experiencing-mth.github.io
+#### Being The Creek — Yangyang Yang, Kimiko Ryokai (2023)
+- Type: Research prototype · Senses: Body schema & movement, Time & scale, Altered vision · Medium: AR
+- Idea: Becoming a creek is a change of posture and pronoun: lying at water level and saying 'I' for the creek turns a backdrop into a subject with a history.
+- What it is: Participants walk along Strawberry Creek in Berkeley and, at five stops, lie flat beside the water to unlock AR scenes of what the creek has lived through, from Indigenous care and use as an industrial sewer to a speculative future. They narrate what they see in the first person, as the creek.
+- How it works: A location-based mobile AR app on a tablet overlays historical and speculative scenes that only unlock when the participant lies down at each site beside the creek.
+- Paper: https://doi.org/10.1145/3706598.3713713 (CHI 2025)
+- Images: https://www.ischool.berkeley.edu/sites/default/files/article_teaser_image/img_3363_2.png
+- Project page: https://www.ischool.berkeley.edu/news/2023/human-computer-interaction-research-de-centers-humans-give-nature-voice
 
 ### Air, breath & weather
 
@@ -1150,13 +1136,6 @@ Material worlds: becoming a chair, a piece of furniture, a tool or a thing — s
 ### Chairs & furniture
 
 Being a chair, a table, a bed: bearing weight, waiting, being sat on.
-
-#### Becoming Chairs — Reality Design Lab, Botao 'Amber' Hu (2026)
-- Type: Artwork · Senses: Body schema & movement, Time & scale, Touch & haptics · Medium: Mixed reality, Multisensory installation
-- Idea: Affordance estrangement: detach an object from its expected action so that its dependencies, resistances and material history become perceptible — not to feel what a chair feels.
-- What it is: An XR work in development in which participants take the position of an everyday chair: stillness, load, wear and orientation replace the chair's ordinary availability for use.
-- How it works: XR stillness, altered affordances, spatial persistence and restrained interaction interrupt habitual use of the chair (details in development).
-- Project page: https://experiencing-mth.github.io
 
 #### Unconventional Self — Werner van der Zwan, Charl Linssen (2022)
 - Type: Artwork · Senses: Body schema & movement, Altered vision, Touch & haptics · Medium: VR headset, Multisensory installation
@@ -1311,8 +1290,8 @@ Seeing and hearing as neural networks, sensors and algorithms do.
 
 ## Creators
 
-- **Botao 'Amber' Hu** (8) — Designer-researcher; Director of Reality Design Lab; DPhil candidate, University of Oxford. Works across somaesthetic design, mixed reality and more-than-human attunement, and invented the open-source HoloKit headset. Lead author of the monograph Experiencing More-than-Humans and of the portfolio works EchoVision, FungiSync, TentacUs, GravField and City of Sparkles. https://amber.botao.hu
-- **Reality Design Lab** (8) — Independent design research lab for mixed reality, directed by Botao 'Amber' Hu. Makes mixed-reality artworks, open-source toolkits (HoloKit, HoloField, HoloMask, MultipeerConnectivity for Unity) and teaching programmes under the motto 'design new realities'. https://reality.design
+- **Botao 'Amber' Hu** (5) — Designer-researcher; Director of Reality Design Lab; DPhil candidate, University of Oxford. Works across somaesthetic design, mixed reality and more-than-human attunement, and invented the open-source HoloKit headset. Lead author of the monograph Experiencing More-than-Humans and of the portfolio works EchoVision, FungiSync, TentacUs, GravField and City of Sparkles. https://amber.botao.hu
+- **Reality Design Lab** (5) — Independent design research lab for mixed reality, directed by Botao 'Amber' Hu. Makes mixed-reality artworks, open-source toolkits (HoloKit, HoloField, HoloMask, MultipeerConnectivity for Unity) and teaching programmes under the motto 'design new realities'. https://reality.design
 - **SOMNIACS** (5) — Swiss VR simulator company behind Birdly. Zurich company founded in 2015 by Max Rheiner, Thomas Tobler and Fabian Troxler to turn the ZHdK research prototype Birdly into full-body flight simulators for museums and venues. https://www.birdlyvr.com/
 - **Rachel McDonnell** (4) — Professor of Creative Technologies, Trinity College Dublin. Rachel McDonnell leads research on virtual humans, avatars and perception at Trinity College Dublin's graphics group.
 - **Stanford Virtual Human Interaction Lab** (4) — Research lab. Lab directed by Jeremy Bailenson studying the psychology of virtual reality and embodiment. https://vhil.stanford.edu
@@ -1378,6 +1357,7 @@ Seeing and hearing as neural networks, sensors and algorithms do.
 - **Keisuke Suzuki** (1) — Researcher, consciousness science and VR. Researcher (Sackler Centre for Consciousness Science, University of Sussex) who builds VR platforms to study perception.
 - **Keita Higuchi** (1) — HCI researcher. Researcher who, in Jun Rekimoto's lab at the University of Tokyo, built Flying Head, a drone that follows the pilot's head.
 - **Kevin Ponto** (1) — VR researcher, Wisconsin Institute for Discovery, University of Wisconsin–Madison. Kevin Ponto works on virtual environments for science and learning, with David Gagnon's Field Day Lab.
+- **Kimiko Ryokai** (1) — Professor, UC Berkeley School of Information. Professor at the UC Berkeley School of Information and the Berkeley Center for New Media whose research designs tangible and mobile technologies for creativity, learning and noticing. https://www.ischool.berkeley.edu/people/kimiko-ryokai
 - **Konstantina Kilteni** (1) — Neuroscientist, Karolinska Institutet / Donders Institute. Konstantina Kilteni studies body representation and self-touch; with Mel Slater she defined the sense of embodiment in VR.
 - **Lai Guan-yuan** (1) — XR director. Taiwanese director who made the mixed-reality literary documentary Black Wings for Taiwan's Cultural Kuroshio XR programme.
 - **Larry F. Hodges** (1) — VR researcher, Georgia Tech, later Clemson University. Virtual-environments researcher known for VR exposure therapy and presence studies.
@@ -1412,7 +1392,6 @@ Seeing and hearing as neural networks, sensors and algorithms do.
 - **Tender Claws** (1) — Interactive and VR studio. Studio founded by Samantha Gorman and Danny Cannizzaro, known for Virtual Virtual Reality, The Under Presents and Face Jumping. https://tenderclaws.com/
 - **The Swan Collective** (1) — Art collective (Felix Kraus). Collective founded by Felix Kraus making VR and installation art.
 - **Tosca Terán** (1) — Bio-sonification and bioart artist (Nanotopia). Interdisciplinary artist who, as Nanotopia, turns the electrical activity of living mycelium into music and immersive worlds. https://www.toscateran.com
-- **Treta Studios** (1) — VR game studio, India. Indian VR studio that made Be A Chameleon for Meta Quest and Steam.
 - **Ubisoft Montreal** (1) — Game studio of Ubisoft, Montreal. Large Ubisoft studio known for Assassin's Creed and Far Cry; its Fun House team made the early VR title Eagle Flight. https://montreal.ubisoft.com/
 - **Visiontrick Media** (1) — Game studio. Swedish independent studio (director Rui Guerreiro) behind the VR games Pan-Pan and Mare. https://www.visiontrick.com
 - **Viviana Álvarez Chomón** (1) — Designer and media arts researcher. Chilean designer and researcher in media arts who develops science-art VR experiences with biologists.
@@ -1420,6 +1399,7 @@ Seeing and hearing as neural networks, sensors and algorithms do.
 - **Within** (1) — VR studio (Chris Milk & Aaron Koblin). Studio founded by Chris Milk and Aaron Koblin, early producer of cinematic and social VR. https://www.with.in
 - **Xin Liu** (1) — Artist and engineer, co-founder of slow immediate. Artist-engineer and MIT Media Lab alumna whose studio slow immediate (with Gershon Dublon) makes works on perception, the body and the environment. https://slowimmediate.com
 - **Xinmiao Lan** (1) — Communication researcher, University of Amsterdam. Xinmiao Lan studies avatars and the Proteus effect with Zeph van Berlo.
+- **Yangyang Yang** (1) — HCI researcher, UC Berkeley School of Information. PhD researcher at the UC Berkeley School of Information who designs mobile and mixed-reality experiences that invite people to take more-than-human perspectives. https://www.ischool.berkeley.edu/people/yangyang-yang
 - **Yao Xu** (1) — HCI researcher. Yao Xu and colleagues built iStrayPaws, a VR perspective-taking system about stray animals.
 - **Yedan Qian** (1) — Interaction designer. Designer and MIT Media Lab alumna who co-created TreeSense with Xin Liu.
 - **Yiou Wang** (1) — Media artist, founder of Trans Species Collective. Media artist working on trans-species empathy through sound and VR; leads the Trans Species Collective that made BATOPIA with HCI researcher Yujie Wang. https://yiouwang.org/

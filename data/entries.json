@@ -1403,26 +1403,6 @@
    "work_count": 1
   },
   {
-   "id": "treta-studios",
-   "links": {},
-   "connected_to": [],
-   "name": "Treta Studios",
-   "kind": "studio",
-   "role": "VR game studio, India",
-   "role_zh": "VR 游戏工作室，印度",
-   "bio": "Indian VR studio that made Be A Chameleon for Meta Quest and Steam.",
-   "bio_zh": "印度 VR 工作室，为 Meta Quest 和 Steam 开发了 Be A Chameleon。",
-   "why": "Be A Chameleon turns camouflage and a sticky tongue into the player's main verbs.",
-   "why_zh": "Be A Chameleon 把伪装和黏性舌头变成玩家的主要动作。",
-   "disciplines": [
-    "games"
-   ],
-   "discovered_via": "seed",
-   "based": "India",
-   "based_zh": "印度",
-   "work_count": 1
-  },
-  {
    "id": "werner-van-der-zwan",
    "links": {
     "site": "https://ververwant.nl",
@@ -1468,6 +1448,55 @@
    "why_zh": "他把身体所有感与感觉运动反馈的神经科学带进了与 Werner van der Zwan 合作的远程临场椅子。",
    "based_zh": "荷兰",
    "discovered_via": "werner-van-der-zwan",
+   "work_count": 1
+  },
+  {
+   "id": "yangyang-yang",
+   "links": {
+    "site": "https://www.ischool.berkeley.edu/people/yangyang-yang"
+   },
+   "connected_to": [
+    "kimiko-ryokai"
+   ],
+   "name": "Yangyang Yang",
+   "kind": "person",
+   "role": "HCI researcher, UC Berkeley School of Information",
+   "based": "Berkeley, USA",
+   "bio": "PhD researcher at the UC Berkeley School of Information who designs mobile and mixed-reality experiences that invite people to take more-than-human perspectives.",
+   "why": "Being The Creek asks participants to lie beside a creek and speak as the creek, an XR study of becoming a watercourse.",
+   "disciplines": [
+    "hci",
+    "design"
+   ],
+   "role_zh": "人机交互研究者，加州大学伯克利分校信息学院",
+   "bio_zh": "加州大学伯克利分校信息学院博士研究者，设计移动与混合现实体验，邀请人们采取超越人类的视角。",
+   "why_zh": "《Being The Creek》让参与者躺在溪边、以溪流的口吻说话，是关于“成为一条水道”的 XR 研究。",
+   "based_zh": "伯克利，美国",
+   "discovered_via": "seed",
+   "work_count": 1
+  },
+  {
+   "id": "kimiko-ryokai",
+   "links": {
+    "site": "https://www.ischool.berkeley.edu/people/kimiko-ryokai"
+   },
+   "connected_to": [
+    "yangyang-yang"
+   ],
+   "name": "Kimiko Ryokai",
+   "kind": "person",
+   "role": "Professor, UC Berkeley School of Information",
+   "based": "Berkeley, USA",
+   "bio": "Professor at the UC Berkeley School of Information and the Berkeley Center for New Media whose research designs tangible and mobile technologies for creativity, learning and noticing.",
+   "why": "Co-author of Being The Creek, which uses mobile AR to shift participants toward a creek's first-person perspective.",
+   "disciplines": [
+    "hci"
+   ],
+   "role_zh": "加州大学伯克利分校信息学院教授",
+   "bio_zh": "加州大学伯克利分校信息学院与新媒体中心教授，研究面向创造、学习与觉察的实体与移动技术。",
+   "why_zh": "《Being The Creek》的合作者，该作品用移动 AR 把参与者引向溪流的第一人称视角。",
+   "based_zh": "伯克利，美国",
+   "discovered_via": "yangyang-yang",
    "work_count": 1
   },
   {
@@ -3220,7 +3249,7 @@
     "design"
    ],
    "discovered_via": "seed",
-   "work_count": 8
+   "work_count": 5
   },
   {
    "id": "danlin-huang",
@@ -3274,7 +3303,7 @@
     "hci"
    ],
    "discovered_via": "seed",
-   "work_count": 8
+   "work_count": 5
   },
   {
    "id": "jiabao-li",
@@ -3390,154 +3419,6 @@
  ],
  "works": [
   {
-   "id": "treta-studios--be-a-chameleon",
-   "creator_ids": [
-    "treta-studios"
-   ],
-   "title": "Be A Chameleon",
-   "year": 2026,
-   "field": "animal",
-   "sub": "reptile",
-   "senses": [
-    "body",
-    "vision"
-   ],
-   "medium": [
-    "vr",
-    "game"
-   ],
-   "kind": "game",
-   "description": "A VR game in which you are a chameleon escaping a pet shop: you swing on your sticky tongue, climb walls and change colour to hide from staff.",
-   "description_zh": "一款 VR 游戏：你是一只想逃出宠物店的变色龙，用黏黏的舌头荡来荡去、爬墙，并变换颜色躲避店员。",
-   "idea_en": "Camouflage as a verb: blending into the background is the chameleon's main action, alongside a tongue used as a limb.",
-   "idea_zh": "伪装即动作：融入背景是变色龙的主要行为，舌头则被当作一条肢体来用。",
-   "method": "Tongue grappling, hand-based climbing and colour matching against surfaces on Meta Quest, with a Steam release planned.",
-   "method_zh": "在 Meta Quest 上用舌头钩抓、用手攀爬，并与表面进行颜色匹配；计划登陆 Steam。",
-   "keywords": [
-    "chameleon",
-    "camouflage",
-    "tongue",
-    "pet shop",
-    "Meta Quest"
-   ],
-   "video": {
-    "url": "https://www.youtube.com/watch?v=x954fIuri1Y",
-    "platform": "youtube",
-    "id": "x954fIuri1Y",
-    "thumbnail": "https://i.ytimg.com/vi/x954fIuri1Y/hqdefault.jpg",
-    "embeddable": true
-   },
-   "images": [
-    "https://queststoredb.com/media/26786967120939806_cover_landscape.webp"
-   ],
-   "source_url": "https://www.meta.com/experiences/be-a-chameleon/26786967120939806/",
-   "paper": {},
-   "also": [],
-   "relation": "becoming",
-   "disciplines": [
-    "games"
-   ]
-  },
-  {
-   "id": "reality-design-lab--be-the-creek",
-   "creator_ids": [
-    "reality-design-lab",
-    "botao-hu"
-   ],
-   "title": "Be the Creek",
-   "year": 2026,
-   "status": "in-development",
-   "scope": "core",
-   "relation": "becoming",
-   "field": "river",
-   "sub": "water",
-   "senses": [
-    "body",
-    "time-scale",
-    "hearing"
-   ],
-   "medium": [
-    "mr",
-    "wearable"
-   ],
-   "kind": "artwork",
-   "description": "An XR work in development in which participants experience flow, duration and relation as a creek rather than as a visitor standing beside one.",
-   "description_zh": "一件开发中的 XR 作品：参与者以一条溪流的方式体验流动、时长与关系，而不是站在溪边的访客。",
-   "idea_en": "Becoming water is a change of tempo and extent: flow and duration, not a creature's point of view.",
-   "idea_zh": "成为水，是节奏与尺度的改变：是流动与时长，而不是某个生物的视角。",
-   "method": "Mixed-reality embodiment of flow, duration and relation (details in development).",
-   "method_zh": "以混合现实具身呈现流动、时长与关系（细节仍在开发中）。",
-   "keywords": [
-    "creek",
-    "watershed",
-    "flow",
-    "hydrological time",
-    "Experiencing More-than-Humans"
-   ],
-   "source_url": "https://experiencing-mth.github.io",
-   "collections": [
-    "book-portfolio"
-   ],
-   "video": {},
-   "images": [],
-   "paper": {},
-   "also": [],
-   "disciplines": [
-    "design",
-    "hci"
-   ]
-  },
-  {
-   "id": "reality-design-lab--becoming-chairs",
-   "creator_ids": [
-    "reality-design-lab",
-    "botao-hu"
-   ],
-   "title": "Becoming Chairs",
-   "year": 2026,
-   "status": "in-development",
-   "scope": "core",
-   "relation": "becoming",
-   "field": "chair",
-   "sub": "furniture",
-   "senses": [
-    "body",
-    "time-scale",
-    "touch"
-   ],
-   "medium": [
-    "mr",
-    "installation"
-   ],
-   "kind": "artwork",
-   "description": "An XR work in development in which participants take the position of an everyday chair: stillness, load, wear and orientation replace the chair's ordinary availability for use.",
-   "description_zh": "一件开发中的 XR 作品：参与者处在一把日常椅子的位置上，以静止、承重、磨损与朝向，取代椅子平日“随时可用”的状态。",
-   "idea_en": "Affordance estrangement: detach an object from its expected action so that its dependencies, resistances and material history become perceptible — not to feel what a chair feels.",
-   "idea_zh": "可供性陌生化：让物脱离它被期待的用途，使它的依存、阻力与物质历史变得可感知——而不是去感受椅子的感受。",
-   "method": "XR stillness, altered affordances, spatial persistence and restrained interaction interrupt habitual use of the chair (details in development).",
-   "method_zh": "以 XR 中的静止、被改变的可供性、空间持续性与克制的交互，打断人对椅子的习惯性使用（细节仍在开发中）。",
-   "keywords": [
-    "chair",
-    "affordance estrangement",
-    "object-oriented ontology",
-    "vibrant matter",
-    "stillness",
-    "Experiencing More-than-Humans"
-   ],
-   "source_url": "https://experiencing-mth.github.io",
-   "collections": [
-    "book-portfolio"
-   ],
-   "video": {},
-   "images": [],
-   "paper": {},
-   "also": [],
-   "disciplines": [
-    "design",
-    "hci"
-   ]
-  },
-  {
    "id": "omar-a-khan--dog-ears",
    "creator_ids": [
     "omar-a-khan"
@@ -3632,58 +3513,6 @@
    "relation": "becoming",
    "disciplines": [
     "games"
-   ]
-  },
-  {
-   "id": "reality-design-lab--making-kin-with-creek-as-fish",
-   "creator_ids": [
-    "reality-design-lab",
-    "botao-hu"
-   ],
-   "title": "Making Kin with Creek as Fish",
-   "year": 2026,
-   "status": "in-development",
-   "scope": "core",
-   "relation": "becoming",
-   "field": "fish",
-   "sub": "fish",
-   "also": [
-    "river"
-   ],
-   "senses": [
-    "body",
-    "vision",
-    "multisensory"
-   ],
-   "medium": [
-    "mr",
-    "wearable"
-   ],
-   "kind": "artwork",
-   "description": "An XR work in development that remaps the participant's body to approach current, shelter, sensing and watershed infrastructure through a fish's relation to its creek.",
-   "description_zh": "一件开发中的 XR 作品：重新映射参与者的身体，借一条鱼与溪流的关系去接近水流、庇护、感知与流域基础设施。",
-   "idea_en": "Empathy turned from possession (feeling what a fish feels) toward response-ability within a shared, uneven watershed.",
-   "idea_zh": "把共情从“占有”（感受鱼的感受）转向在共享而不均等的流域中的回应能力。",
-   "method": "XR body remapping for current, shelter and sensing in a fish–creek relation (details in development).",
-   "method_zh": "以 XR 身体重映射呈现鱼与溪流关系中的水流、庇护与感知（细节仍在开发中）。",
-   "keywords": [
-    "fish",
-    "creek",
-    "watershed",
-    "body remapping",
-    "multispecies kin",
-    "Experiencing More-than-Humans"
-   ],
-   "source_url": "https://experiencing-mth.github.io",
-   "collections": [
-    "book-portfolio"
-   ],
-   "video": {},
-   "images": [],
-   "paper": {},
-   "disciplines": [
-    "design",
-    "hci"
    ]
   },
   {
@@ -5541,6 +5370,59 @@
    "disciplines": [
     "art",
     "film"
+   ]
+  },
+  {
+   "id": "yangyang-yang--being-the-creek",
+   "creator_ids": [
+    "yangyang-yang",
+    "kimiko-ryokai"
+   ],
+   "title": "Being The Creek",
+   "year": 2023,
+   "scope": "core",
+   "relation": "becoming",
+   "field": "river",
+   "sub": "water",
+   "senses": [
+    "body",
+    "time-scale",
+    "vision"
+   ],
+   "medium": [
+    "ar"
+   ],
+   "kind": "prototype",
+   "description": "Participants walk along Strawberry Creek in Berkeley and, at five stops, lie flat beside the water to unlock AR scenes of what the creek has lived through, from Indigenous care and use as an industrial sewer to a speculative future. They narrate what they see in the first person, as the creek.",
+   "description_zh": "参与者沿伯克利的 Strawberry Creek 行走，在五个地点平躺在水边，解锁 AR 场景，看见这条溪流经历过的历史：从原住民的敬重、工业时期被当作下水道，到一个思辨性的未来。他们以溪流的第一人称讲述眼前所见。",
+   "idea_en": "Becoming a creek is a change of posture and pronoun: lying at water level and saying 'I' for the creek turns a backdrop into a subject with a history.",
+   "idea_zh": "成为溪流，是姿势与人称的改变：贴着水面躺下、以溪流的口吻说“我”，让一处背景变成一个有历史的主体。",
+   "method": "A location-based mobile AR app on a tablet overlays historical and speculative scenes that only unlock when the participant lies down at each site beside the creek.",
+   "method_zh": "平板上的定位式移动 AR 应用叠加历史与思辨场景，只有参与者在溪边各站点躺下时才会解锁。",
+   "keywords": [
+    "Strawberry Creek",
+    "creek",
+    "mobile augmented reality",
+    "first-person narration",
+    "hauntology",
+    "Indigenous perspectives",
+    "CHI 2025"
+   ],
+   "images": [
+    "https://www.ischool.berkeley.edu/sites/default/files/article_teaser_image/img_3363_2.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713713",
+    "doi": "10.1145/3706598.3713713",
+    "venue": "CHI 2025",
+    "title": "Being The Creek: Mobile Augmented Reality Experience as an Invitation for Exploring More-Than-Human Perspectives"
+   },
+   "source_url": "https://www.ischool.berkeley.edu/news/2023/human-computer-interaction-research-de-centers-humans-give-nature-voice",
+   "video": {},
+   "also": [],
+   "disciplines": [
+    "design",
+    "hci"
    ]
   },
   {

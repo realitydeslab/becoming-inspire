@@ -2,7 +2,7 @@
 
 用 XR 与感官技术让人成为另一种存在（蝙蝠、鼹鼠、鱼、章鱼、鸟、昆虫、动物、真菌、树、河流、机器人）的作品目录：艺术作品、沉浸式影片、游戏、研究原型与论文，由 Reality Design Lab 为《Experiencing More-than-Humans》一书整理。每件作品都列出核心想法、实现方式，以及视频、图片和论文链接。
 
-https://becoming.reality.design · 2026-09-28 · 117 位创作者 · 134 件作品
+https://becoming.reality.design · 2026-09-28 · 118 位创作者 · 131 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -119,13 +119,6 @@ https://becoming.reality.design · 2026-09-28 · 117 位创作者 · 134 件作�
 ### 鱼
 
 像鱼一样游动、成群与感知：侧线、电感受、水下视觉。
-
-#### Making Kin with Creek as Fish — Reality Design Lab, Botao 'Amber' Hu (2026)
-- 类型: 艺术作品 · 感官: 身体图式与运动, 改变的视觉, 多感官 · 媒介: 混合现实, 可穿戴与感官装置
-- 核心想法: 把共情从“占有”（感受鱼的感受）转向在共享而不均等的流域中的回应能力。
-- 作品内容: 一件开发中的 XR 作品：重新映射参与者的身体，借一条鱼与溪流的关系去接近水流、庇护、感知与流域基础设施。
-- 实现方式: 以 XR 身体重映射呈现鱼与溪流关系中的水流、庇护与感知（细节仍在开发中）。
-- 项目主页: https://experiencing-mth.github.io
 
 #### Black Wings — Lai Guan-yuan (2024)
 - 类型: 艺术作品 · 感官: 身体图式与运动, 听觉与振动, 改变的视觉 · 媒介: 混合现实, 多感官装置
@@ -722,15 +715,6 @@ https://becoming.reality.design · 2026-09-28 · 117 位创作者 · 134 件作�
 
 蛇、蜥蜴、青蛙、乌龟：红外颊窝、变色龙之眼、冷血。
 
-#### Be A Chameleon — Treta Studios (2026)
-- 类型: 游戏 · 感官: 身体图式与运动, 改变的视觉 · 媒介: VR 头显, 游戏
-- 核心想法: 伪装即动作：融入背景是变色龙的主要行为，舌头则被当作一条肢体来用。
-- 作品内容: 一款 VR 游戏：你是一只想逃出宠物店的变色龙，用黏黏的舌头荡来荡去、爬墙，并变换颜色躲避店员。
-- 实现方式: 在 Meta Quest 上用舌头钩抓、用手攀爬，并与表面进行颜色匹配；计划登陆 Steam。
-- 视频: https://www.youtube.com/watch?v=x954fIuri1Y
-- 图片: https://queststoredb.com/media/26786967120939806_cover_landscape.webp
-- 项目主页: https://www.meta.com/experiences/be-a-chameleon/26786967120939806/
-
 #### Jurassic Flight (Birdly) — SOMNIACS (2020)
 - 类型: 艺术作品 · 感官: 身体图式与运动, 改变的视觉, 触觉 · 媒介: VR 头显, 多感官装置
 - 核心想法: 同样的振臂身体可以承载一种已灭绝的飞行动物，化身成为想象消失动物如何飞行的方式。
@@ -1078,12 +1062,14 @@ https://becoming.reality.design · 2026-09-28 · 117 位创作者 · 134 件作�
 
 成为一条河、一道溪、大海、冰川或雨。
 
-#### Be the Creek — Reality Design Lab, Botao 'Amber' Hu (2026)
-- 类型: 艺术作品 · 感官: 身体图式与运动, 时间与尺度, 听觉与振动 · 媒介: 混合现实, 可穿戴与感官装置
-- 核心想法: 成为水，是节奏与尺度的改变：是流动与时长，而不是某个生物的视角。
-- 作品内容: 一件开发中的 XR 作品：参与者以一条溪流的方式体验流动、时长与关系，而不是站在溪边的访客。
-- 实现方式: 以混合现实具身呈现流动、时长与关系（细节仍在开发中）。
-- 项目主页: https://experiencing-mth.github.io
+#### Being The Creek — Yangyang Yang, Kimiko Ryokai (2023)
+- 类型: 研究原型 · 感官: 身体图式与运动, 时间与尺度, 改变的视觉 · 媒介: 增强现实
+- 核心想法: 成为溪流，是姿势与人称的改变：贴着水面躺下、以溪流的口吻说“我”，让一处背景变成一个有历史的主体。
+- 作品内容: 参与者沿伯克利的 Strawberry Creek 行走，在五个地点平躺在水边，解锁 AR 场景，看见这条溪流经历过的历史：从原住民的敬重、工业时期被当作下水道，到一个思辨性的未来。他们以溪流的第一人称讲述眼前所见。
+- 实现方式: 平板上的定位式移动 AR 应用叠加历史与思辨场景，只有参与者在溪边各站点躺下时才会解锁。
+- 论文: https://doi.org/10.1145/3706598.3713713 (CHI 2025)
+- 图片: https://www.ischool.berkeley.edu/sites/default/files/article_teaser_image/img_3363_2.png
+- 项目主页: https://www.ischool.berkeley.edu/news/2023/human-computer-interaction-research-de-centers-humans-give-nature-voice
 
 ### 空气、呼吸与天气
 
@@ -1150,13 +1136,6 @@ https://becoming.reality.design · 2026-09-28 · 117 位创作者 · 134 件作�
 ### 椅子与家具
 
 成为椅子、桌子、床：承重、等待、被坐。
-
-#### Becoming Chairs — Reality Design Lab, Botao 'Amber' Hu (2026)
-- 类型: 艺术作品 · 感官: 身体图式与运动, 时间与尺度, 触觉 · 媒介: 混合现实, 多感官装置
-- 核心想法: 可供性陌生化：让物脱离它被期待的用途，使它的依存、阻力与物质历史变得可感知——而不是去感受椅子的感受。
-- 作品内容: 一件开发中的 XR 作品：参与者处在一把日常椅子的位置上，以静止、承重、磨损与朝向，取代椅子平日“随时可用”的状态。
-- 实现方式: 以 XR 中的静止、被改变的可供性、空间持续性与克制的交互，打断人对椅子的习惯性使用（细节仍在开发中）。
-- 项目主页: https://experiencing-mth.github.io
 
 #### Unconventional Self — Werner van der Zwan, Charl Linssen (2022)
 - 类型: 艺术作品 · 感官: 身体图式与运动, 改变的视觉, 触觉 · 媒介: VR 头显, 多感官装置
@@ -1311,8 +1290,8 @@ https://becoming.reality.design · 2026-09-28 · 117 位创作者 · 134 件作�
 
 ## 创作者
 
-- **Botao 'Amber' Hu** (8) — 设计研究者；Reality Design Lab 主理人；牛津大学博士候选人. 研究横跨身体美学设计、混合现实与超越人类的感知调谐，发明了开源头显 HoloKit。专著《Experiencing More-than-Humans》的第一作者，主导了 EchoVision、FungiSync、TentacUs、GravField 与 City of Sparkles 等作品。 https://amber.botao.hu
-- **Reality Design Lab** (8) — 由 Botao 'Amber' Hu 主持的混合现实独立设计研究实验室. 以“设计新现实”为宗旨，创作混合现实艺术作品，开发开源工具（HoloKit、HoloField、HoloMask、Unity 版 MultipeerConnectivity），并开展教学项目。 https://reality.design
+- **Botao 'Amber' Hu** (5) — 设计研究者；Reality Design Lab 主理人；牛津大学博士候选人. 研究横跨身体美学设计、混合现实与超越人类的感知调谐，发明了开源头显 HoloKit。专著《Experiencing More-than-Humans》的第一作者，主导了 EchoVision、FungiSync、TentacUs、GravField 与 City of Sparkles 等作品。 https://amber.botao.hu
+- **Reality Design Lab** (5) — 由 Botao 'Amber' Hu 主持的混合现实独立设计研究实验室. 以“设计新现实”为宗旨，创作混合现实艺术作品，开发开源工具（HoloKit、HoloField、HoloMask、Unity 版 MultipeerConnectivity），并开展教学项目。 https://reality.design
 - **SOMNIACS** (5) — 瑞士 VR 飞行模拟器公司，Birdly 的开发者. 2015 年由 Max Rheiner、Thomas Tobler 与 Fabian Troxler 在苏黎世创立，把苏黎世艺术大学的研究原型 Birdly 做成面向博物馆和场馆的全身飞行模拟器。 https://www.birdlyvr.com/
 - **Rachel McDonnell** (4) — 都柏林圣三一学院创意技术教授. Rachel McDonnell 在都柏林圣三一学院图形组领导关于虚拟人、化身与感知的研究。
 - **Stanford Virtual Human Interaction Lab** (4) — 研究实验室. 由 Jeremy Bailenson 领导的实验室，研究虚拟现实与具身的心理学。 https://vhil.stanford.edu
@@ -1378,6 +1357,7 @@ https://becoming.reality.design · 2026-09-28 · 117 位创作者 · 134 件作�
 - **Keisuke Suzuki** (1) — 研究者，意识科学与 VR. 萨塞克斯大学 Sackler 意识科学中心研究者，构建用于研究感知的 VR 平台。
 - **Keita Higuchi** (1) — 人机交互研究者. 在东京大学历本纯一实验室期间制作了 Flying Head——一架跟随操作者头部运动的无人机。
 - **Kevin Ponto** (1) — 虚拟现实研究者，威斯康星大学麦迪逊分校发现研究所. Kevin Ponto 与 David Gagnon 的 Field Day Lab 合作，研究用于科学与学习的虚拟环境。
+- **Kimiko Ryokai** (1) — 加州大学伯克利分校信息学院教授. 加州大学伯克利分校信息学院与新媒体中心教授，研究面向创造、学习与觉察的实体与移动技术。 https://www.ischool.berkeley.edu/people/kimiko-ryokai
 - **Konstantina Kilteni** (1) — 神经科学家，卡罗林斯卡学院 / 唐德斯研究所. Konstantina Kilteni 研究身体表征与自我触碰；她与 Mel Slater 一起定义了 VR 中的“具身感”。
 - **Lai Guan-yuan** (1) — XR 导演. 台湾导演，为台湾“文化黑潮 XR 沉浸式创作”计划制作了混合现实文学纪录作品《黑色的翅膀》。
 - **Larry F. Hodges** (1) — VR 研究者，佐治亚理工学院，后任职克莱姆森大学. 虚拟环境研究者，以 VR 暴露疗法与临场感研究闻名。
@@ -1412,7 +1392,6 @@ https://becoming.reality.design · 2026-09-28 · 117 位创作者 · 134 件作�
 - **Tender Claws** (1) — 交互与 VR 工作室. 由 Samantha Gorman 与 Danny Cannizzaro 创立的工作室，以 Virtual Virtual Reality、The Under Presents 和 Face Jumping 闻名。 https://tenderclaws.com/
 - **The Swan Collective** (1) — 艺术团体（Felix Kraus）. 由 Felix Kraus 创立的 VR 与装置艺术团体。
 - **Tosca Terán** (1) — 生物声音化与生物艺术家（Nanotopia）. 跨学科艺术家，以 Nanotopia 之名把活体菌丝的电活动转化为音乐与沉浸式世界。 https://www.toscateran.com
-- **Treta Studios** (1) — VR 游戏工作室，印度. 印度 VR 工作室，为 Meta Quest 和 Steam 开发了 Be A Chameleon。
 - **Ubisoft Montreal** (1) — 育碧旗下游戏工作室，蒙特利尔. 育碧的大型工作室，以《刺客信条》《孤岛惊魂》闻名；其 Fun House 团队制作了早期 VR 游戏 Eagle Flight。 https://montreal.ubisoft.com/
 - **Visiontrick Media** (1) — 游戏工作室. 瑞典独立工作室（导演 Rui Guerreiro），开发了 VR 游戏《Pan-Pan》与《Mare》。 https://www.visiontrick.com
 - **Viviana Álvarez Chomón** (1) — 设计师与媒体艺术研究者. 智利设计师与媒体艺术研究者，与生物学家合作开发科学艺术类 VR 体验。
@@ -1420,6 +1399,7 @@ https://becoming.reality.design · 2026-09-28 · 117 位创作者 · 134 件作�
 - **Within** (1) — VR 工作室（Chris Milk 与 Aaron Koblin）. 由 Chris Milk 与 Aaron Koblin 创立的工作室，电影化与社交 VR 的早期制作者。 https://www.with.in
 - **Xin Liu** (1) — 艺术家与工程师，slow immediate 工作室联合创始人. 艺术家兼工程师，MIT Media Lab 校友；她与 Gershon Dublon 创办的工作室 slow immediate 关注感知、身体与环境。 https://slowimmediate.com
 - **Xinmiao Lan** (1) — 传播学研究者，阿姆斯特丹大学. Xinmiao Lan 与 Zeph van Berlo 研究化身与普罗透斯效应。
+- **Yangyang Yang** (1) — 人机交互研究者，加州大学伯克利分校信息学院. 加州大学伯克利分校信息学院博士研究者，设计移动与混合现实体验，邀请人们采取超越人类的视角。 https://www.ischool.berkeley.edu/people/yangyang-yang
 - **Yao Xu** (1) — 人机交互研究者. Yao Xu 与同事制作了 iStrayPaws，一个关于流浪动物的 VR 换位体验系统。
 - **Yedan Qian** (1) — 交互设计师. 设计师，MIT Media Lab 校友，与 Xin Liu 共同创作 TreeSense。
 - **Yiou Wang** (1) — 媒体艺术家，Trans Species Collective 创始人. 以声音和 VR 探索跨物种共情的媒体艺术家，领导 Trans Species Collective，与 HCI 研究者 Yujie Wang 合作完成 BATOPIA。 https://yiouwang.org/
