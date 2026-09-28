@@ -254,7 +254,7 @@ def apply_media(w: dict, cache: dict, problems: list) -> bool:
     return bool(w["video"] or w["images"] or w["paper"])
 
 
-def apply_collections(works: list, known: set, aliases: dict, min_size: int = 1) -> set:
+def apply_collections(works: list, known: set, aliases: dict, min_size: int = 1, dropped: frozenset = frozenset()) -> set:
     """Union `collections` from batches with data/collections/<id>.json (a list of work ids).
 
     Aliased ids are rewritten to their canonical id; collections with fewer than `min_size`
@@ -265,7 +265,7 @@ def apply_collections(works: list, known: set, aliases: dict, min_size: int = 1)
         for wid in json.loads(f.read_text()):
             if wid in by_id:
                 by_id[wid].setdefault("collections", []).append(f.stem)
-            else:
+            elif wid not in dropped:  # works dropped on purpose (overrides.drop_works) are not an error
                 logger.warning("collection %s: unknown work %s", f.stem, wid)
     for w in works:
         w["collections"] = [aliases.get(c, c) for c in w.get("collections") or []]
@@ -382,7 +382,7 @@ def main() -> None:
         c.pop("batches", None)
     aliases = ov.get("collection_aliases", {})
     tax["collections"] = [c for c in tax["collections"] if c["id"] not in aliases]
-    kept_cols = apply_collections(kept, {c["id"] for c in tax["collections"]}, aliases, ov.get("min_collection_size", 1))
+    kept_cols = apply_collections(kept, {c["id"] for c in tax["collections"]}, aliases, ov.get("min_collection_size", 1), frozenset(ov.get("drop_works", [])))
     tax["collections"] = [c for c in tax["collections"] if c["id"] in kept_cols]
     allowed_disc = {d[0] for d in tax.get("disciplines", [])}
     disciplines = load_labels(DISCIPLINE, allowed_disc, "discipline")

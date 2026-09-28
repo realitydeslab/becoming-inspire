@@ -5,6 +5,22 @@
  },
  "min_collection_size": 2,
  "merge_creators": {},
- "drop_works": [],
- "patch_works": {}
+ "drop_works": [
+  "adrien-m-claire-b--acqua-alta",
+  "bbc--home-a-vr-spacewalk",
+  "chelanie-beaudin-quintin--bodies-of-water",
+  "felix-and-paul-studios--space-explorers",
+  "laurie-anderson--to-the-moon",
+  "marina-abramovic--rising",
+  "quantic-dream--detroit-become-human"
+ ],
+ "patch_works": {
+  "somniacs--birdly": {
+   "paper": {
+    "doi": "10.1145/2614066.2614101",
+    "venue": "SIGGRAPH 2014 Emerging Technologies"
+   }
+  }
+ },
+ "drop_works_reason": "Curator pass 2026-09-28: human-centred, no becoming / encounter / meaningful counterpoint relation (temp/curator/flags.md)."
 }
