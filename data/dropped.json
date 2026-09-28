@@ -1,14 +1,5 @@
 {
  "works": [],
  "media": [],
- "removed_since_last_build": [
-  {
-   "id": "bernhard-riecke--virtual-transcendent-dream",
-   "title": "Virtual Transcendent Dream"
-  },
-  {
-   "id": "gattai-games--stifled",
-   "title": "Stifled"
-  }
- ]
+ "removed_since_last_build": []
 }
