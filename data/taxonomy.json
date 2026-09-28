@@ -678,5 +678,28 @@
    "desc_zh": "书稿大纲中列为各章艺术或科学对照的外部作品。",
    "url": "https://experiencing-mth.github.io"
   }
+ ],
+ "relations": [
+  [
+   "becoming",
+   "Becoming",
+   "成为",
+   "You become, embody or perceive as the being.",
+   "你成为、化身为这个存在，或以它的方式感知。"
+  ],
+  [
+   "encounter",
+   "Encounter",
+   "相遇",
+   "You meet, sense or care for the being, but stay yourself.",
+   "你与这个存在相遇、感知它或照护它，但仍是你自己。"
+  ],
+  [
+   "counterpoint",
+   "Counterpoint",
+   "对照",
+   "A landmark reference where you stay human, or a work about the being rather than as it.",
+   "你仍是人类的标志性参照作品，或关于这个存在、而非成为它的作品。"
+  ]
  ]
 }

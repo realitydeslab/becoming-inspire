@@ -25,6 +25,7 @@ TAX = json.loads((ROOT / "data" / "taxonomy.json").read_text())
 FIELDS = {f["id"]: {s["id"] for s in f["subs"]} for f in TAX["fields"]}
 SENSES = {o[0] for o in TAX["senses"]}
 MEDIUMS = {m[0] for m in TAX["mediums"]}
+RELATIONS = {r[0] for r in TAX.get("relations", [])}
 DISCIPLINES = {d[0] for d in TAX.get("disciplines", [])}
 KINDS = {k[0] for k in TAX["kinds"]}
 COLLECTIONS = {c["id"] for c in TAX.get("collections", [])} | {
@@ -118,6 +119,8 @@ def validate(path: Path) -> list[str]:
         medium = w.get("medium") or []
         if not 1 <= len(medium) <= 3 or any(m not in MEDIUMS for m in medium):
             errs.append(f"{who}: medium must be 1–3 of {sorted(MEDIUMS)}, got {medium}")
+        if w.get("relation") and w["relation"] not in RELATIONS:
+            errs.append(f"{who}: relation must be one of {sorted(RELATIONS)}")
         if not isinstance(w.get("shown_at", []), list):
             errs.append(f"{who}: shown_at must be a list of strings")
         if any(c not in COLLECTIONS for c in w.get("collections") or []):

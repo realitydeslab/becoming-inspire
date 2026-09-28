@@ -34,6 +34,7 @@ CACHE = ROOT / "data" / "media_cache.json"
 COLLECTIONS = ROOT / "data" / "collections"
 MEDIA = ROOT / "data" / "media"
 ORGS = ROOT / "data" / "orgs"              # organizations & resources (separate category)
+RELATION = ROOT / "data" / "relation"      # curation: { work_id: "becoming" | "encounter" | "counterpoint" }
 DISCIPLINE = ROOT / "data" / "discipline"  # optional curation: { creator_id: [discipline ids] }, wins over batch values
 # categories that moved: old (field, sub) -> new; overrides.patch_works refines the sub
 LEGACY: dict = {}
@@ -253,8 +254,12 @@ def apply_media(w: dict, cache: dict, problems: list) -> bool:
     return bool(w["video"] or w["images"] or w["paper"])
 
 
-def apply_collections(works: list, known: set) -> None:
-    """Union `collections` from batches with data/collections/<id>.json (a list of work ids)."""
+def apply_collections(works: list, known: set, aliases: dict, min_size: int = 1) -> set:
+    """Union `collections` from batches with data/collections/<id>.json (a list of work ids).
+
+    Aliased ids are rewritten to their canonical id; collections with fewer than `min_size`
+    works are dropped (the showing stays on the work's shown_at). Returns the ids kept.
+    """
     by_id = {w["id"]: w for w in works}
     for f in sorted(COLLECTIONS.glob("*.json")) if COLLECTIONS.exists() else []:
         for wid in json.loads(f.read_text()):
@@ -263,11 +268,19 @@ def apply_collections(works: list, known: set) -> None:
             else:
                 logger.warning("collection %s: unknown work %s", f.stem, wid)
     for w in works:
+        w["collections"] = [aliases.get(c, c) for c in w.get("collections") or []]
+    sizes: dict[str, int] = {}
+    for w in works:
+        for c in set(w["collections"]):
+            sizes[c] = sizes.get(c, 0) + 1
+    known = {c for c in known if sizes.get(c, 0) >= min_size}
+    for w in works:
         cs = [c for c in dict.fromkeys(w.get("collections") or []) if c in known]
         if cs:
             w["collections"] = cs
         else:
             w.pop("collections", None)
+    return known
 
 
 def load_orgs(cache: dict, creator_ids: set) -> list:
@@ -367,7 +380,10 @@ def main() -> None:
         c["connected_to"] = [x for x in c["connected_to"] if x in used and x != c["id"]]
         c["work_count"] = sum(c["id"] in w["creator_ids"] for w in kept)
         c.pop("batches", None)
-    apply_collections(kept, {c["id"] for c in tax.get("collections", [])})
+    aliases = ov.get("collection_aliases", {})
+    tax["collections"] = [c for c in tax["collections"] if c["id"] not in aliases]
+    kept_cols = apply_collections(kept, {c["id"] for c in tax["collections"]}, aliases, ov.get("min_collection_size", 1))
+    tax["collections"] = [c for c in tax["collections"] if c["id"] in kept_cols]
     allowed_disc = {d[0] for d in tax.get("disciplines", [])}
     disciplines = load_labels(DISCIPLINE, allowed_disc, "discipline")
     for c in out_creators:
@@ -376,6 +392,13 @@ def main() -> None:
             c["disciplines"] = disciplines[c["id"]] = ds
         else:
             c.pop("disciplines", None)
+    relations = {x[0] for x in tax.get("relations", [])}
+    curated_rel = {}
+    for f in sorted(RELATION.glob("*.json")) if RELATION.exists() else []:
+        curated_rel.update(json.loads(f.read_text()))
+    for w in kept:
+        rel = curated_rel.get(w["id"]) or w.get("relation") or "becoming"
+        w["relation"] = rel if rel in relations else "becoming"
     senses, mediums = {x[0] for x in tax["senses"]}, {x[0] for x in tax["mediums"]}
     for w in kept:
         w["senses"] = [x for x in w.get("senses") or [] if x in senses]

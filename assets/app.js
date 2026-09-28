@@ -10,6 +10,8 @@
   const COLS = TAX.collections || [];
   const APPS = TAX.mediums || [];
   const DISCS = TAX.disciplines || [];
+  const RELS = TAX.relations || [];
+  const relRank = (w) => Math.max(0, RELS.findIndex((r) => r[0] === w.relation));
   const ERAS = [["1999", 0, 1999, "≤1999"], ["2000", 2000, 2009, "2000–09"], ["2010", 2010, 2014, "2010–14"], ["2015", 2015, 2019, "2015–19"], ["2020", 2020, 2030, "2020–26"]];
   const ORGS = DATA.orgs || [];
   const OTYPES = TAX.org_types || [];
@@ -38,10 +40,11 @@
   const kindName = (k) => pair(TAX.kinds, k);
   const appName = (k) => pair(APPS, k);
   const discName = (k) => pair(DISCS, k);
+  const relName = (k) => pair(RELS, k);
   const subOf = (w) => (fieldById[w.field]?.subs || []).find((s) => s.id === w.sub);
   const src = (p) => S().sources[p] || p;
 
-  const state = { view: "atlas", oq: "", otype: "", otheme: "", q: "", apps: new Set(), discs: new Set(), cols: new Set(), fields: new Set(), senses: new Set(), kinds: new Set(), era: "", sort: "new", creator: "", video: false, paper: false, sub: "" };
+  const state = { view: "atlas", oq: "", otype: "", otheme: "", q: "", rels: new Set(), apps: new Set(), discs: new Set(), cols: new Set(), fields: new Set(), senses: new Set(), kinds: new Set(), era: "", sort: "new", creator: "", video: false, paper: false, sub: "" };
   let currentList = [];
   let openIndex = -1;
   let mediaIndex = 0;
@@ -51,7 +54,7 @@
   function readHash() {
     const p = new URLSearchParams(location.hash.slice(1));
     state.view = VIEWS.includes(p.get("view")) ? p.get("view") : "atlas";
-    Object.assign(state, { q: p.get("q") || "", apps: set(p, "a"), discs: set(p, "d"), cols: set(p, "col"), fields: set(p, "f"), senses: set(p, "s"), kinds: set(p, "k"), era: p.get("era") || "",
+    Object.assign(state, { q: p.get("q") || "", rels: set(p, "r"), apps: set(p, "a"), discs: set(p, "d"), cols: set(p, "col"), fields: set(p, "f"), senses: set(p, "s"), kinds: set(p, "k"), era: p.get("era") || "",
       sort: p.get("sort") || "new", creator: p.get("c") || "", video: p.get("v") === "1", paper: p.get("p") === "1", sub: p.get("sub") || "" });
     Object.assign(state, { otype: p.get("ot") || "", otheme: p.get("oth") || "", oq: p.get("oq") || "" });
     return { work: p.get("w") };
@@ -63,6 +66,7 @@
     if (FILTERED.includes(state.view)) {
       if (state.q) p.set("q", state.q);
       if (state.cols.size) p.set("col", [...state.cols].join(","));
+      if (state.rels.size) p.set("r", [...state.rels].join(","));
       if (state.apps.size) p.set("a", [...state.apps].join(","));
       if (state.discs.size) p.set("d", [...state.discs].join(","));
       if (state.fields.size) p.set("f", [...state.fields].join(","));
@@ -94,6 +98,7 @@
     if (state.creator && !w.creator_ids.includes(state.creator)) return false;
     if (state.video && !w.video?.url) return false;
     if (state.paper && !w.paper?.url) return false;
+    if (skip !== "r" && state.rels.size && !state.rels.has(w.relation)) return false;
     if (skip !== "a" && state.apps.size && !(w.medium || []).some((x) => state.apps.has(x))) return false;
     if (skip !== "d" && state.discs.size && !(w.disciplines || []).some((x) => state.discs.has(x))) return false;
     if (skip !== "c" && state.cols.size && !(w.collections || []).some((c) => state.cols.has(c))) return false;
@@ -112,7 +117,7 @@
     if (state.sort === "old") arr.sort((a, b) => (a.year || 9999) - (b.year || 9999));
     else if (state.sort === "creator") arr.sort((a, b) => creatorNames(a)[0].localeCompare(creatorNames(b)[0]) || (a.year || 0) - (b.year || 0));
     else arr.sort((a, b) => (b.year || 0) - (a.year || 0));
-    return arr;
+    return state.sort === "new" || state.sort === "old" ? arr.sort((a, b) => relRank(a) - relRank(b)) : arr;
   }
 
   /* ---------- cards ---------- */
@@ -133,7 +138,7 @@
       <button class="card" data-id="${esc(w.id)}" aria-label="${esc(w.title)} — ${esc(who)}">
         <div class="card__media">${thumb(w)}
           <span class="br br--tl"></span><span class="br br--tr"></span><span class="br br--bl"></span><span class="br br--br"></span>
-          <span class="card__src">${esc(kindName(w.kind))}${marks ? ` · ${marks}` : ""}</span>
+          <span class="card__src">${esc(kindName(w.kind))}${w.relation && w.relation !== "becoming" ? ` · ${esc(relName(w.relation))}` : ""}${marks ? ` · ${marks}` : ""}</span>
           ${w.year ? `<span class="card__year">${w.year}</span>` : ""}
         </div>
         <div class="card__field mono">${esc(nm(fieldById[w.field] || {}))}${subOf(w) ? ` / ${esc(nm(subOf(w)))}` : ""}</div>
@@ -172,6 +177,7 @@
   function renderChips() {
     $("#facetChips").innerHTML =
       chipRow(S().f_field, FIELDS.map((f) => [f.id, nm(f), (w) => inField(w, f.id)]), state.fields, "field", "f") +
+      (RELS.length ? chipRow(S().f_relation, RELS.map(([k]) => [k, relName(k), (w) => w.relation === k]), state.rels, "rel", "r") : "") +
       (APPS.length ? chipRow(S().f_medium, APPS.map(([k]) => [k, appName(k), (w) => (w.medium || []).includes(k)]), state.apps, "app", "a") : "") +
       (DISCS.length ? chipRow(S().f_discipline, DISCS.map(([k]) => [k, discName(k), (w) => (w.disciplines || []).includes(k)]), state.discs, "disc", "d") : "") +
       chipRow(S().f_sense, TAX.senses.map(([k]) => [k, senseName(k), (w) => (w.senses || []).includes(k)]), state.senses, "sense", "o") +
@@ -403,7 +409,7 @@
     const surveyN = survey ? DATA.works.filter((x) => (x.collections || []).includes(survey.id) && x.id !== w.id).length : 0;
     const p = w.paper || {};
     $("#playerInfo").innerHTML = `
-      <div class="meta">${w.year || ""} · ${esc(kindName(w.kind))}</div>
+      <div class="meta">${w.year || ""} · ${esc(kindName(w.kind))}${w.relation && w.relation !== "becoming" ? ` · ${esc(relName(w.relation))}` : ""}</div>
       <h2>${esc(w.title)}</h2>
       <div class="who">${who}</div>
       ${starBtn(w.id, "star-inline mono")}
@@ -480,10 +486,11 @@
     if (d.col) { toggle(state.cols, d.col); return render(); }
     if (d.otype !== undefined) { state.otype = state.otype === d.otype ? "" : d.otype; return render(); }
     if (d.otheme !== undefined) { state.otheme = state.otheme === d.otheme ? "" : d.otheme; return render(); }
+    if (d.rel) { toggle(state.rels, d.rel); return render(); }
     if (d.app) { toggle(state.apps, d.app); return render(); }
     if (d.disc) { toggle(state.discs, d.disc); return render(); }
-    if (d.appGo) { Object.assign(state, { q: "", apps: new Set([d.appGo]), discs: new Set(), cols: new Set(), fields: new Set(), senses: new Set(), kinds: new Set(), era: "", creator: "", video: false, paper: false }); return go("works"); }
-    if (d.colGo) { Object.assign(state, { q: "", apps: new Set(), discs: new Set(), cols: new Set([d.colGo]), fields: new Set(), senses: new Set(), kinds: new Set(), era: "", creator: "", video: false, paper: false }); return go("works"); }
+    if (d.appGo) { Object.assign(state, { q: "", rels: new Set(), apps: new Set([d.appGo]), discs: new Set(), cols: new Set(), fields: new Set(), senses: new Set(), kinds: new Set(), era: "", creator: "", video: false, paper: false }); return go("works"); }
+    if (d.colGo) { Object.assign(state, { q: "", rels: new Set(), apps: new Set(), discs: new Set(), cols: new Set([d.colGo]), fields: new Set(), senses: new Set(), kinds: new Set(), era: "", creator: "", video: false, paper: false }); return go("works"); }
     if (d.kind) { toggle(state.kinds, d.kind); return render(); }
     if (d.era) { state.era = state.era === d.era ? "" : d.era; return render(); }
     if (d.media !== undefined) { mediaIndex = +d.media; return showMedia(worksById[$("#player").dataset.id]); }
@@ -492,7 +499,7 @@
     if ("clearCreator" in d) { state.creator = ""; return render(); }
     if (t.classList.contains("card")) return openWork(d.id);
   });
-  $("#clear").addEventListener("click", () => { Object.assign(state, { q: "", apps: new Set(), discs: new Set(), cols: new Set(), fields: new Set(), senses: new Set(), kinds: new Set(), era: "", creator: "", video: false, paper: false }); render(); });
+  $("#clear").addEventListener("click", () => { Object.assign(state, { q: "", rels: new Set(), apps: new Set(), discs: new Set(), cols: new Set(), fields: new Set(), senses: new Set(), kinds: new Set(), era: "", creator: "", video: false, paper: false }); render(); });
   $("#hasVideo").addEventListener("click", () => { state.video = !state.video; render(); });
   $("#hasPaper").addEventListener("click", () => { state.paper = !state.paper; render(); });
   let qTimer;

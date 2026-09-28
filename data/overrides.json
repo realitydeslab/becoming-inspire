@@ -1,0 +1,10 @@
+{
+ "collection_aliases": {
+  "barbican-our-time-on-earth": "barbican-our-time-on-earth-2022",
+  "tribeca-storyscapes": "tribeca-immersive"
+ },
+ "min_collection_size": 2,
+ "merge_creators": {},
+ "drop_works": [],
+ "patch_works": {}
+}
